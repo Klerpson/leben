@@ -1,13 +1,13 @@
 baseurl: '/lebeninmobiliaria'
 url: ''
-name: ''
-author: Leben
-facebook_url: https://www.facebook.com/lebeninmobiliaria
-instagram_url: https://www.instagram.com/soysebastianrincon/
+name: 'lebeninmobiliaria.com'
+author: LEBEN
 # email: contacto@trabajoescrito.com
+# facebook_url: 
 # twitter_url: https://twitter.com/bloglaterminal
 # linkedin_url: 
 # pinterest_url: https://co.pinterest.com/trabajoescrito/
+# instagram_url: https://www.instagram.com/terminaldetransporte/
 # rss_url:
 
 markdown: kramdown
@@ -30,15 +30,3 @@ collections:
   casas:
     output: true
     permalink: /casas/:path
-  lotes:
-    output: true
-    permalink: /lotes/:path
-  apartamentos:
-    output: true
-    permalink: /apartamentos/:path
-  proyectos:
-    output: true
-    permalink: /proyectos/:path
-  fincas:
-    output: true
-    permalink: /fincas/:path
