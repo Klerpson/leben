@@ -1,7 +1,7 @@
 <?php
     //this is your Email address
     //kinldy update your email here
-    $to = "info@example.com"; 
+    $to = "digitalizaresfacil@gmail.com"; 
     $from = $_POST['email']; 
     //this is the sender's Email address
     //this is firt name
