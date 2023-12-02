@@ -20,6 +20,7 @@
   --color-default: #302B27;
   --color-primary: #DA2B26;
   --color-secondary: #b60600;
+  --color-third: rgb(192, 64, 59);
   --color-base: #302B27;
 }
 
@@ -100,7 +101,7 @@ ul {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 90px 0;
+  padding: 10em 0 90px;
   overflow: hidden;
   background: #222;
   position: relative;
