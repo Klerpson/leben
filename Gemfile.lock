@@ -259,6 +259,7 @@ GEM
       unf_ext
     unf_ext (0.0.9.1-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -267,6 +268,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll
+  wdm (>= 0.1.0)
   webrick
 
 BUNDLED WITH
