@@ -1528,7 +1528,7 @@ section {
   padding: 0 20px 30px 20px;
 }
 
-.team .member h4 {
+.team .member h3 {
   margin-top: 16px;
   margin-bottom: 2px;
   font-size: 20px;
@@ -3291,6 +3291,10 @@ button.btn-get-started:hover {
   font-size: 14px;
   color: #ffffff;
   line-height: 28px;
+}
+
+.footer-text h3{
+  color: var(--color-primary);
 }
 
 .footer-social-icon span {
