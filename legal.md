@@ -1,5 +1,5 @@
 ---
-Layout: page-basic
+Layout: default
 title: Términos y Codiciones de Uso | lebeninmobiliaria.com
 description: Condiciones de uso de la página lebeninmobiliaria.com
 h1: Término y condiciones, privacidad y aspectos legales del uso de lebeninmobiliaria.com
