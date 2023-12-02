@@ -150,6 +150,9 @@
       href="{{site.baseurl}}/assets/stylesheets/styles.css"
       rel="stylesheet"
     />
+    {% if page.url != "/" %}
+  <link href="assets/stylesheets/pages.css" rel="stylesheet">
+      {% endif %}
     <link
       rel="preload"
       as="font"

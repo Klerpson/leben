@@ -10,16 +10,17 @@
 # General
 --------------------------------------------------------------*/
 :root {
-  --font-default: 'Roboto', sans-serif;
-  --font-primary: 'Roboto', sans-serif;
-  --font-secondary: 'Roboto', sans-serif;
-  --font-heading: 'Roboto', sans-serif;
+  --font-default: 'Lato', sans-serif;
+  --font-primary: 'Lato', sans-serif;
+  --font-secondary: 'Josefin Sans', sans-serif;
+  --font-heading: 'Josefin Sans', sans-serif;
 }
 
 :root {
-  --color-default: #222222;
-  --color-primary: #d7570c;
-  --color-secondary: #222222;
+  --color-default: #302B27;
+  --color-primary: #DA2B26;
+  --color-secondary: #b60600;
+  --color-base: #302B27;
 }
 
 :root {
@@ -28,12 +29,12 @@
 
 ::-webkit-scrollbar{
   width: 15px;
-  color:#d7570c;
+  color: var(--color-primary);
   transition: all .4s ease;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #d7570c; 
+  background:  var(--color-primary); 
   width: 15px;
   transition: all .4s ease;
 }
@@ -46,7 +47,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background: #222;
+  background: #2e2e2e;
 }
 
 a {
@@ -61,6 +62,7 @@ a:hover {
 
 p {
   color: #9b9b9b;
+  font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
 }
 
 h1,
@@ -225,7 +227,7 @@ section {
 .breadcrumbs nav ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: var(--color-secondary);
+  color: var(--color-base);
   content: "/";
 }
 
@@ -239,7 +241,7 @@ section {
   right: 15px;
   bottom: -15px;
   z-index: 99999;
-  background: var(--color-secondary);
+  background: var(--color-base);
   width: 44px;
   height: 44px;
   border-radius: 0;
@@ -253,7 +255,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #d7570c;
+  background:  var(--color-primary);
   color: #fff;
 }
 
@@ -415,22 +417,20 @@ section {
 }
 
 .header .logo img {
-  max-height: 36px;
-  min-height: 50px;
-  margin-right: 10px;
-  background: #d7570c;
-  border-radius: 0 17px;
+  max-height: 44px;
+  min-height: 44px;
+  margin-right: 4px;
   padding: 8px;
 }
 
-.header .logo h1 {
+.header .logo span {
   font-size: 30px;
   margin: 0;
   display: flex;
   align-items: center;
   color: #ffffff;
-  font-family: var(--font-default);
-  font-weight: 500;
+  font-family: var(--font-heading);
+  font-weight: 700;
 }
 
 .header .logo h1 span {
@@ -510,7 +510,7 @@ section {
     bottom: 0px;
     left: 0;
     z-index: 0;
-    background-color: #d7570c;
+    background-color:  var(--color-primary);
     visibility: hidden;
     width: 0px;
     transition: all 0.3s ease-in-out 0s;
@@ -540,7 +540,7 @@ section {
     z-index: 99;
     opacity: 0;
     visibility: hidden;
-    background: #d7570c;
+    background:  var(--color-primary);
     box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
     transition: 0.3s;
     border-radius: 0px;
@@ -754,7 +754,7 @@ section {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background: linear-gradient(0deg, #d7570c, #d7570c 786px);
+  background: linear-gradient(0deg,  var(--color-primary),  var(--color-primary) 786px);
   opacity: 9;
   transform: rotate(20deg);
 }
@@ -1507,7 +1507,7 @@ section {
   margin-top: 16px;
   margin-bottom: 2px;
   font-size: 20px;
-  color: #d7570c;
+  color:  var(--color-primary);
 }
 
 .team .member span {
@@ -2108,7 +2108,7 @@ button:focus:not(:focus-visible){
 }
 
 .fill-button {
-  background: var(--color-secondary);
+  background: var(--color-base);
   border: 0;
   padding: 14px 45px;
   color: #fff;
@@ -2118,23 +2118,24 @@ button:focus:not(:focus-visible){
 
 .fill-button:hover{
   color: #fff;
-  background: #d7570c;
+  background:  var(--color-primary);
 }
 
-.hero h2 {
+.hero p {
   font-size: 3rem;
   color: #ffffff;
   font-family: var(--font-default);
 }
 
-.hero h3 {
+.hero h2 {
   color: #ffffff;
 }
 
-.hero p {
+.hero h1 {
   color: #ffffff;
   font-weight: 400;
   margin-bottom: 30px;
+  font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
 }
 
 .btn-get-started {
@@ -2144,20 +2145,20 @@ button:focus:not(:focus-visible){
   letter-spacing: 1px;
   padding: 14px 21px;
   text-align: center;
-  transition: 0.3s;
   color: #ffffff;
   background: var(--color-primary);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
   border: 2px solid var(--color-primary);
   justify-content: space-between;
   align-items: center;
+  transition: all .2s ease-in;
 }
 
 .btn-get-started:hover {
-  border-color: #2a2a2a;
-  background: #2a2a2a;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+  border-color: var(--color-secondary);
+  background: var(--color-secondary);
   color: #fff;
-  border: 2px solid #2a2a2a;
+  border: 2px solid var(--color-secondary);
 }
 
 .btn-watch-video {
@@ -2330,7 +2331,7 @@ button:focus:not(:focus-visible){
 
 .top-icon-box .icon-box:hover {
   background: #222;
-  border: 1px solid #d7570c;
+  border: 1px solid  var(--color-primary);
 }
 
 /*--------------------------------------------------------------
@@ -2401,7 +2402,7 @@ button:focus:not(:focus-visible){
     height: 100%;
     opacity: 0.9;
     z-index: 0;
-    background: #d7570c;
+    background:  var(--color-primary);
 }
 .counter-area ul li{
   color: #ffffff !important;
@@ -2500,7 +2501,7 @@ button:focus:not(:focus-visible){
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: var(--color-secondary);
+  background-color: var(--color-base);
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -2883,12 +2884,12 @@ button:focus:not(:focus-visible){
   border-radius: 0;
   padding: 14px 40px;
   border: 0;
-  background-color: var(--color-secondary);
+  background-color: var(--color-base);
   width: 200px;
 }
 
 .blog .comments .reply-form .btn-primary:hover {
-  background-color: #d7570c;
+  background-color:  var(--color-primary);
 }
 
 /* -------------------------------------------------------------- **
@@ -3198,7 +3199,7 @@ button.btn-get-started:hover {
   bottom: -15px;
   height: 2px;
   width: 50px;
-  background: #d7570c;
+  background:  var(--color-primary);
 }
 
 .footer-widget ul li {

@@ -11,7 +11,7 @@
 --------------------------------------------------------------*/
 .page-hero{
   background: url(../images/cta-bg.jpg) center center;
-  background-color: #d7570c;
+  background-color: #C59849;
   background-size: cover;
   padding: 150px 0px;
   border-radius: 0px;
@@ -33,7 +33,7 @@
   position: absolute;
   bottom: -166px;
   right: 0;
-  background: #d7570c;
+  background: #C59849;
   padding: 10px 0px;
   width: 100%;
   color: #fff;
@@ -89,18 +89,18 @@
 }
 
 .pagination .page:hover {
-  background-color: #d7570c;
+  background-color: #C59849;
   color: #fff;
 }
 
 .pagination .active {
-  background-color: #d7570c;
+  background-color: #C59849;
   color: #fff;
 }
 
 .btn {
-  background-color: #d7570c;
-  border: 1px solid #d7570c;
+  background-color: #C59849;
+  border: 1px solid #C59849;
   height: 40px;
   width: 60px;
   border-radius: 2px;
@@ -111,7 +111,7 @@
 }
 
 .btn:hover {
-  background-color: #d7570c;
+  background-color: #C59849;
 }
 
 .btn--icon {
@@ -280,7 +280,7 @@
   top: 0;
   bottom: 0;
   width: 3px;
-  background-color: var(--color-secondary);
+  background-color: var(--color-base);
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -601,7 +601,7 @@
 .search-form button {
   position: absolute;
   right: 0;
-  background: #d7570c;
+  background: #C59849;
   padding: 16px 20px;
   border: none;
   top: 0px;
@@ -879,7 +879,7 @@
 
 .single-page .blog ul li {
   position: relative;
-  color: #d7570c;
+  color: #C59849;
   margin-bottom: 5px;
   display: flex;
   gap: 10px;
@@ -887,7 +887,7 @@
 
 .single-page ul li {
   position: relative;
-  color: #d7570c;
+  color: #C59849;
   margin-bottom: 5px;
   display: flex;
   gap: 10px;
@@ -895,8 +895,8 @@
   
 
 .btn {
-  background-color: #d7570c;
-  border: 1px solid #d7570c;
+  background-color: #C59849;
+  border: 1px solid #C59849;
   height: 40px;
   border-radius: 2px;
   cursor: pointer;

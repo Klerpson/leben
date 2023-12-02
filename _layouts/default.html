@@ -3,7 +3,9 @@ layout: compress
 ---
 {% include head.html %}
 <body>
+  {% if page.url == "/" %}
   <div id="preloader"></div>
+  {% endif %}
   
   {% include header.html %}
   {{content}}
