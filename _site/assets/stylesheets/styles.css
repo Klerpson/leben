@@ -3414,3 +3414,25 @@ button.btn-get-started:hover {
 .footer-menu li a:hover {
   color: #000000;
 }
+
+.boton-whatsapp {
+  position: fixed;
+  bottom: 8rem;
+  right: 12px;
+  transition: all .2s ease-in-out;
+  z-index: 100;
+}
+
+.boton-whatsapp::before{
+  content: "Escríbenos";
+  font-size: 14px;
+  color: white;
+  background-color: #2eda2e40;
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.boton-whatsapp:hover {
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+  filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
+}
