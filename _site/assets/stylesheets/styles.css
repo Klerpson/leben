@@ -3,6 +3,9 @@
   --font-primary: 'Lato', sans-serif;
   --font-secondary: 'Josefin Sans', sans-serif;
   --font-heading: 'Josefin Sans', sans-serif;
+  --radius: 12px;
+  --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+  0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
 :root {
@@ -32,14 +35,13 @@
 }
 
 ::-webkit-scrollbar-track {
-  background: #dddddd;
+  background: #fefefe;
   width: 15px;
 }
 
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background: #2e2e2e;
 }
 
 a {
@@ -53,7 +55,7 @@ a:hover {
 }
 
 p {
-  color: #9b9b9b;
+  color: var(--color-base);
   font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
 }
 
@@ -92,7 +94,6 @@ ul {
 section {
   padding: 10em 0 90px;
   overflow: hidden;
-  background: #222;
   position: relative;
   z-index: 90;
 }
@@ -100,10 +101,6 @@ section {
 .section {
   padding: 90px 0;
   overflow: hidden;
-}
-
-.bg-grey {
-  background: #2b2b2b;
 }
 
 .sections-bg {
@@ -115,6 +112,10 @@ section {
   background-position: center;
   color: #fff;
   position: relative;
+  background-color: var(--color-default);
+  box-shadow: 0 0 0 100vmax var(--color-default);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
 }
 
 .sections-bg::before {
@@ -164,7 +165,7 @@ section {
 
 .section-header p {
   margin-bottom: 0;
-  color: #9b9b9b;
+  color: var(--color-default);
   width: 60%;
   font-style: italic;
 }
@@ -414,7 +415,7 @@ section {
 }
 
 .header.stikcy-menu {
-  background: #2b2b2b;
+  background: rgba(43, 43, 43, 0.94);
 }
 
 .header .logo img {
@@ -698,7 +699,7 @@ section {
     transition: 0.5s;
     z-index: 9999;
     color: #fff;
-    background: #0d6a92;
+    background: var(--color-primary);
   }
 
   .mobile-nav-hide {
@@ -735,7 +736,7 @@ section {
 --------------------------------------------------------------*/
 .overlay-right {
   position: absolute;
-  right: -6%;
+  right: -16%;
   width: 50%;
   top: -30%;
   bottom: 0;
@@ -1123,7 +1124,7 @@ section {
 }
 
 .content p {
-  color: #9b9b9b;
+  color: var(--color-default);
 }
 
 @-webkit-keyframes pulsate-btn {
@@ -1221,6 +1222,10 @@ section {
 .clients .swiper {
   padding: 10px 0;
   overflow: hidden;
+  background-color: var(--color-base);
+  box-shadow: 0 0 0 100vmax var(--color-base);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
 }
 
 .clients .swiper-slide img {
@@ -1388,7 +1393,7 @@ section {
 }
 
 .testimonials .testimonial-item {
-  border-radius: 2px;
+  border-radius: var(--radius);
   padding: 40px;
   margin: 30px 10px;
   position: relative;
@@ -1415,7 +1420,7 @@ section {
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
-  color: #999;
+  color: #bebebe;
   margin: 0;
 }
 
@@ -1452,7 +1457,7 @@ section {
 .testimonials .testimonial-item p {
   font-style: italic;
   margin: 15px auto 15px auto;
-  color: #9b9b9b;
+  color: #bebebe;
 }
 
 .testimonials .swiper-pagination {
@@ -1586,17 +1591,19 @@ section {
   font-weight: 500;
   margin: 0 10px;
   line-height: 1;
-  transition: all 0.3s ease-in-out;
   padding: 15px 25px;
-  background: #2b2b2b;
+  background: var(--color-primary);
   border-radius: 0;
   margin-bottom: 20px;
   color: #ffffff;
+  border-radius: var(--radius);
+  transition: all 0.2s ease-in;
 }
 
 .portfolio .portfolio-flters li:hover,
 .portfolio .portfolio-flters li.filter-active {
-  color: var(--color-primary);
+  background-color: var(--color-secondary);
+  box-shadow: var(--shadow);
 }
 
 .portfolio .portfolio-flters li:first-child {
@@ -1874,7 +1881,6 @@ section {
 .faq .accordion-item {
   border: 0;
   margin-bottom: 20px;
-  border-radius: 50px;
   background-color: #2b2b2b;
 }
 
@@ -1934,12 +1940,17 @@ button:focus:not(:focus-visible) {
 }
 
 .faq .accordion-body {
-  padding: 50px;
+  padding: 24px;
   border: 0;
   border-radius: 0;
   background: #2b2b2b;
   box-shadow: none;
-  color: #9b9b9b;
+  color: #fefefe;
+}
+
+.faq .accordion-body a{
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 /*--------------------------------------------------------------
@@ -2248,6 +2259,7 @@ button:focus:not(:focus-visible) {
 }
 
 @media (max-width: 767px) {
+
   .hero-main-video {
     height: auto;
     min-height: auto;
@@ -2381,7 +2393,7 @@ button:focus:not(:focus-visible) {
   width: 100%;
   text-align: left;
   display: flex;
-  border-radius: 0;
+  border-radius: var(--radius);
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-end;
@@ -2401,7 +2413,7 @@ button:focus:not(:focus-visible) {
 }
 
 .top-icon-box .icon-box p {
-  color: #9b9b9b;
+  color: #bebebe;
   transition: 0.3s;
 }
 
@@ -3219,6 +3231,15 @@ button.btn-get-started:hover {
   margin-bottom: 0;
 }
 
+.footer-section .contact-info p {
+  color: white;
+}
+
+.footer-section a{
+  text-decoration: underline;
+  text-decoration-thickness: 2.4px;
+}
+
 .footer-cta {
   border-bottom: 1px solid #373636;
 }
@@ -3423,16 +3444,34 @@ button.btn-get-started:hover {
   z-index: 100;
 }
 
-.boton-whatsapp::before{
-  content: "Escríbenos";
-  font-size: 14px;
-  color: white;
-  background-color: #2eda2e40;
-  padding: 8px;
-  border-radius: 8px;
+@media screen and (width >= 800px){
+  .boton-whatsapp::before{
+    content: "Escríbenos";
+    font-size: 14px;
+    color: white;
+    background-color: #2eda2e40;
+    padding: 8px;
+    border-radius: 8px;
+  }
 }
 
 .boton-whatsapp:hover {
   -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
   filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
 }
+
+.entry{
+  padding: 0 0 1em 0;
+  border-radius: var(--radius);
+}
+
+.entry p,
+.entry .title,
+.entry time{
+  padding: 0 1rem;
+}
+
+.pagination .page{
+  color: var(--color-primary) !important;
+}
+
