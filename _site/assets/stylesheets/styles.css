@@ -4,8 +4,7 @@
   --font-secondary: 'Josefin Sans', sans-serif;
   --font-heading: 'Josefin Sans', sans-serif;
   --radius: 0;
-  --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
-  0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
 :root {
@@ -545,7 +544,7 @@ section {
     opacity: 0;
     visibility: hidden;
     background: var(--color-primary);
-    box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+    box-shadow: var(--shadow);
     transition: 0.3s;
     border-radius: 0px;
   }
@@ -747,6 +746,7 @@ section {
   background: linear-gradient(91deg, #282828, #2b2b2b 786px);
   opacity: 9;
   transform: rotate(20deg);
+  box-shadow: var(--shadow);
 }
 
 .overlay-left {
@@ -1000,7 +1000,7 @@ section {
   right: 10%;
   bottom: 0;
   background-color: #fff;
-  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: var(--shadow);
   padding: 20px;
   text-align: center;
 }
@@ -1171,7 +1171,7 @@ section {
   color: #ffffff;
   background: #f1f1f1;
   transition: all 0.3s ease-in-out;
-  box-shadow: 0px 0px 10px 0px rgb(228 228 228 / 50%);
+  box-shadow: var(--shadow);
 }
 
 .bar::before {
@@ -1621,7 +1621,7 @@ section {
 }
 
 .portfolio .portfolio-wrap {
-  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow);
   border-radius: var(--radius);
   height: 100%;
   overflow: hidden;
@@ -1918,7 +1918,7 @@ button:focus:not(:focus-visible) {
 .faq .accordion-button:focus {
   border-color: transparent;
   border: 0px;
-  box-shadow: none;
+  box-shadow: var(--shadow);
 }
 
 .faq .accordion-button .num {
@@ -1931,7 +1931,7 @@ button:focus:not(:focus-visible) {
 .faq .accordion-button:not(.collapsed) {
   color: var(--color-primary);
   border-bottom: 0;
-  box-shadow: none;
+  box-shadow: var(--shadow);
 }
 
 .faq .accordion-button:after {
@@ -1945,7 +1945,7 @@ button:focus:not(:focus-visible) {
   border: 0;
   border-radius: 0;
   background: #2b2b2b;
-  box-shadow: none;
+  box-shadow: var(--shadow);
   color: #fefefe;
 }
 
@@ -1958,7 +1958,7 @@ button:focus:not(:focus-visible) {
 # Recent Blog Posts Section
 --------------------------------------------------------------*/
 .recent-posts article {
-  /* box-shadow: 0 1px 6px rgb(0 0 0 / 10%); */
+  box-shadow: var(--shadow)
   /* background-color: #464946; */
   /* padding: 30px 30px 71px 30px; */
   height: 100%;
@@ -2228,7 +2228,7 @@ button:focus:not(:focus-visible) {
 }
 
 .btn-get-started:hover {
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+  box-shadow: var(--shadow);
   border-color: var(--color-secondary);
   background: var(--color-secondary);
   color: #fff;
@@ -2587,7 +2587,7 @@ button:focus:not(:focus-visible) {
 # Blog Details
 --------------------------------------------------------------*/
 .blog .blog-details {
-  box-shadow: 0 1px 6px rgb(0 0 0 / 10%);
+  box-shadow: var(--shadow);
   padding: 30px;
   border-radius: 10px;
 }
@@ -2767,7 +2767,7 @@ button:focus:not(:focus-visible) {
 --------------------------------------------------------------*/
 .blog .sidebar {
   padding: 30px;
-  box-shadow: 0 1px 6px rgb(0 0 0 / 10%);
+  box-shadow: var(--shadow);
   border-radius: 10px;
 }
 
@@ -2981,7 +2981,7 @@ button:focus:not(:focus-visible) {
 .blog .comments .reply-form {
   margin-top: 30px;
   padding: 30px;
-  box-shadow: 0 0 16px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow);
   border-radius: 10px;
 }
 
@@ -3060,7 +3060,7 @@ button:focus:not(:focus-visible) {
   background: var(--color-primary);
   padding: 25px 20px;
   border-radius: 0;
-  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.05), 0 5px 15px rgba(0, 0, 0, 0.03);
+  box-shadow: var(--shadow);
   margin-bottom: 50px;
 }
 
@@ -3143,7 +3143,7 @@ button.btn-get-started {
   transition: 0.3s;
   color: #ffffff;
   background: var(--color-primary);
-  box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
+  box-shadow: var(--shadow);
   border: 2px solid var(--color-primary);
 }
 
