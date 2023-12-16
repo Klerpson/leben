@@ -425,7 +425,7 @@ section {
 }
 
 .header .logo span {
-  font-size: 30px;
+  font-size: clamp(1.25rem, 1.107rem + 0.71vw, 1.75rem);
   margin: 0;
   display: flex;
   align-items: center;
