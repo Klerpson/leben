@@ -2558,6 +2558,10 @@ button:focus:not(:focus-visible) {
   line-height: 33px;
 }
 
+.counter-container ul li:has(a) {
+  margin-top: 1em;
+}
+
 .counter-container .icon {
   width: 100%;
 }
@@ -3437,6 +3441,22 @@ button.btn-get-started:hover {
   color: #000000;
 }
 
+.boton-white{
+  display: flex;
+  text-align: center;
+  width: min(100%, 200px);
+  margin: 3em 0;
+  padding: 12px 20px;
+  background-color: white;
+  color: var(--color-secondary);
+  transition: all .2s ease-out;
+}
+
+.boton-white:hover{
+  transform: scale(1.15);
+  box-shadow: var(--shadow);
+}
+
 .boton-whatsapp {
   position: fixed;
   bottom: 8rem;
@@ -3476,4 +3496,3 @@ button.btn-get-started:hover {
 .pagination .page{
   color: var(--color-primary) !important;
 }
-
