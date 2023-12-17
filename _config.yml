@@ -30,6 +30,6 @@ compress_html:
     startings: []
 
 collections:
-  casas:
+  ventas:
     output: true
-    permalink: /casas/:path
+    permalink: /ventas/:path

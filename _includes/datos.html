@@ -4,10 +4,10 @@
     <div class="row">
       <div class="col-lg-6 col-md-12">
         <div class="counter-container" data-aos="fade-left" data-aos-delay="75">
-              {% if page.url == "/venta-de-casas" %}
-                          <h2 class="datos-h2">Aprovecha esta propiedad en ganga en Fusagasugá</h2>
-                          {% endif %}
-              <div class="icon"><img src="assets/images/{{include.img}}" alt=""></div>
+              {% if page.url == "/ventas" %}
+              <h2 class="datos-h2">Aprovecha esta propiedad en ganga en Fusagasugá</h2>
+              {% endif %}
+              <div class="icon"><img src="{{site.baseurl}}/assets/images/{{include.img}}" alt="Casas Fusagasugá Colombia" loading="lazy"></div>
             </div>
           </div>
           <div class="col-lg-6 col-md-12">
@@ -22,7 +22,7 @@
                 <li><i class="bi bi-link-45deg"></i> {{include.li5}}</li>
                 <li><i class="bi bi-link-45deg"></i> {{include.li6}}</li>
                 <li><i class="bi bi-link-45deg"></i> {{include.li7}}</li>
-                {% if page.url == "/venta-de-casas" %}
+                {% if page.url == "/ventas" %}
                 <li><a href="#" class="boton-white">↪ Mira la propiedad</a></li>
                 {% endif %}
               </ul>

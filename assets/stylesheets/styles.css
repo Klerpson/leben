@@ -1620,6 +1620,10 @@ section {
   }
 }
 
+.portfolio .portfolio-container{
+  min-height: 100%;
+}
+
 .portfolio .portfolio-wrap {
   box-shadow: var(--shadow);
   border-radius: var(--radius);
