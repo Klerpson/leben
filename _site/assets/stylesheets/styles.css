@@ -11,8 +11,9 @@
   --color-default: #302B27;
   --color-primary: #DA2B26;
   --color-secondary: #b60600;
-  --color-third: rgb(192, 64, 59);
+  --color-third: #c0403b;
   --color-base: #302B27;
+  --color-gris: #dddddd;
   --blanco: #fdfdfd;
 }
 
@@ -3508,7 +3509,6 @@ button.btn-get-started:hover {
 .hero-venta {
   width: min(100%, 1440px);
   margin-inline: auto;
-  padding-top: 4em;
   display: grid;
   gap: 1em;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 400px), 1fr));
@@ -3525,7 +3525,7 @@ button.btn-get-started:hover {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 0 2em;
+  padding: 2em;
 }
 
 .hero-venta div:first-child * {
@@ -3546,7 +3546,7 @@ button.btn-get-started:hover {
 
 .hero-venta div:last-child span {
   position: absolute;
-  top: 25dvh;
+  top: 28dvh;
   right: 0;
   z-index: 10;
   background: rgba(19, 4, 4, 0.4);
@@ -3561,12 +3561,26 @@ button.btn-get-started:hover {
 .venta-body {
   width: 100%;
   background-color: var(--blanco);
-  padding: 4em 1em;
+  padding: 0 1em 4em;
+  display: grid;
+  place-items: center;
+  gap: 1em;
+}
+
+.venta-body h2{
+  width: 100%;
+  background-color: var(--color-primary);
+  box-shadow: 0 0 0 100vmax var(--color-primary);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
+  color: white;
+  padding: 16px 0;
+  text-align: center;
 }
 
 .image-gallery {
   margin-inline: auto;
-  width: min(calc(100% - 16px), 1440px);
+  width: min(calc(100% - 16px), 1320px);
   overflow: auto;
 }
 
@@ -3594,4 +3608,44 @@ button.btn-get-started:hover {
 .image-gallery li a img {
   width: 100%;
   display: block;
+}
+
+.venta-caracteristicas{
+  background-color: var(--blanco);
+  box-shadow: 0 0 0 100vmax var(--blanco);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
+  width: min(calc(100% - 16px), 1320px);
+  margin-inline: auto;
+}
+
+.venta-caracteristicas h2{
+  margin-bottom: 2em;
+  font-weight: bolder;
+}
+
+.venta-caracteristicas ul{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.venta-caracteristicas ul li{
+  flex: 1 0 400px;
+  max-width 100%;
+  font-size: 1.5em;
+  padding: 12px 20px;
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+}
+
+.venta-caracteristicas ul li:nth-child(even){
+  background: rgb(48,43,39);
+  background: linear-gradient(172deg, rgba(48,43,39,1) 25%, rgba(218,43,38,1) 78%);
+  color: white
+}
+
+.venta-caracteristicas ul li:nth-child(odd){
+  border: 1.2px solid var(--color-gris);
 }

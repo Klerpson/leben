@@ -3,7 +3,6 @@ layout: compress
 ---
 {% include head.html %}
 <body style="background-color: var(--color-default);">
-  {% include header.html %}
 <!--Portfolio Section -->
 <div class="hero-venta">
   <div>
@@ -17,11 +16,24 @@ layout: compress
   </div>
 
 </div>
+
+<!-- About Us Section -->
+<section class="venta-caracteristicas">
+  <h2>{{page.intro}}</h2>
+  <ul>
+    {% for items in page.caracteristicas %}
+    {% for item in items %}
+    <li><img src="{{site.baseurl}}/assets/images/icons/{{item[1]}}" alt="{{page.title}} {{item[0]}}"> {{item[0]|capitalize}}</li>
+    {% endfor %}
+    {% endfor %}
+  </ul>
+</section><!-- End About Us Section -->
+
 <main class="venta-body">
+  
+  <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
   {{content}}
 </main>
-
-{% include footer.html %}
 
   <a href="{{site.whatsapp}}" class="boton-whatsapp">
     <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
