@@ -7,5 +7,7 @@ clase: casas
 img: "finca-fusagasuga-chinauta-01.webp"
 alt: Finca para la venta en Fusagasugá Chinauta 
 cta: Compra la finca Chinauta
+precio: "202'000.000"
+propiedad: chinauta
 ---
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Natus enim dolore inventore quas cum. Eos perferendis excepturi beatae facilis, corrupti incidunt harum consequuntur dolorum veniam, assumenda doloremque modi atque commodi!
+{% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}

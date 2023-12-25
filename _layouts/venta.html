@@ -1,4 +1,49 @@
 ---
-layout: default
+layout: compress
 ---
-{{content}}
+{% include head.html %}
+<body style="background-color: var(--color-default);">
+  {% include header.html %}
+<!--Portfolio Section -->
+<div class="hero-venta">
+  <div>
+    <h1>{{page.h1}}</h1>
+    <p>{{page.description}}</p>
+    <a href="{{site.baseurl}}/contacto" class="btn-get-started" data-aos="fade-up" data-aos-delay="50">Escribe a un asesor de Leben</a>
+  </div>
+  <div>
+    <span>{{page.precio}} negociables</span>
+    <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="">
+  </div>
+
+</div>
+<main class="venta-body">
+  {{content}}
+</main>
+
+{% include footer.html %}
+
+  <a href="{{site.whatsapp}}" class="boton-whatsapp">
+    <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
+  </a>
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/javascripts/jquery.min.js"></script>
+  <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/aos/aos.js"></script>
+  <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/javascripts/plugins.js"></script>
+  <script src="/assets/javascripts/validator.min.js"></script>
+  <script src="/assets/javascripts/contactform.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/assets/javascripts/main.js"></script>
+
+</body>
+
+</html>
