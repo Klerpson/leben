@@ -3,6 +3,22 @@ layout: compress
 ---
 {% include head.html %}
 <body style="background-color: var(--color-default);">
+  <header id="header" class="header d-flex align-items-center">
+    <div class="container container-xl d-flex align-items-center justify-content-between">
+      <p class="logo d-flex align-items-center">
+        <span class="logo"><img src="{{site.baseurl}}/assets/images/logo-mini.webp" width="48" height="48" alt="Logo LEBEN inmobiliaria">LEBEN Inmobiliaria</span>
+      </p>
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a href="{{site.whatsapp}}">Escríbenos por WhatsApp</a></li>
+        </ul>
+      </nav><!-- .navbar -->
+  
+      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
+      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+  
+    </div>
+  </header><!-- End Header -->
 <!--Portfolio Section -->
 <div class="hero-venta">
   <div>
