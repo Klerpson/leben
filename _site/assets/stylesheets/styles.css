@@ -55,7 +55,11 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5{
+h1,
+h2,
+h3,
+h4,
+h5 {
   line-height: 1.24;
 }
 
@@ -792,8 +796,8 @@ section {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background: rgb(254,254,254);
-background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%);
+  background: rgb(254, 254, 254);
+  background: linear-gradient(172deg, rgba(254, 254, 254, 1) 25%, rgba(182, 6, 0, 1) 78%);
   opacity: 9;
   transform: rotate(20deg);
 }
@@ -1269,12 +1273,7 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
 --------------------------------------------------------------*/
 
 .clients .swiper {
-  padding: 10px 0;
   overflow: hidden;
-  background-color: var(--color-base);
-  box-shadow: 0 0 0 100vmax var(--color-base);
-  -webkit-clip-path: inset(0 -100vmax);
-  clip-path: inset(0 -100vmax);
 }
 
 .clients .swiper-slide img {
@@ -1328,7 +1327,7 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
   margin: 1em auto;
 }
 
-.call-to-action .section-header-book{
+.call-to-action .section-header-book {
   width: min(100%, 720px);
   margin-inline: auto;
 }
@@ -1440,7 +1439,7 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
-.testimonials .intro{
+.testimonials .intro {
   color: white;
 }
 
@@ -1683,6 +1682,8 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
 .portfolio .portfolio-wrap {
   box-shadow: var(--shadow);
   border-radius: var(--radius);
+  height: -webkit-min-content;
+  height: -moz-min-content;
   height: min-content;
   overflow: hidden;
   transition: 0.3s;
@@ -1695,7 +1696,7 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
   position: relative;
   z-index: 1;
   width: min(100%, 460px);
-  height: min-content;
+  height: 240px;
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
@@ -3552,12 +3553,13 @@ button.btn-get-started:hover {
   color: var(--color-primary) !important;
 }
 
-.datos-h2{
+.datos-h2 {
   margin: 2em 0;
 }
 
 /********* PÁGINA DE VENTA *********/
-.hero-venta, .asesor {
+.hero-venta,
+.asesor {
   width: 100%;
   margin-inline: auto;
   display: grid;
@@ -3587,8 +3589,7 @@ button.btn-get-started:hover {
   margin: 1em 0;
 }
 
-.hero-venta div:first-child p
-{
+.hero-venta div:first-child p {
   color: white;
 }
 
@@ -3600,7 +3601,8 @@ button.btn-get-started:hover {
 .hero-venta div:last-child img,
 .asesor div:last-child {
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
+  max-width: 100%;
 }
 
 .hero-venta div:last-child span {
@@ -3630,7 +3632,7 @@ button.btn-get-started:hover {
   gap: 1em;
 }
 
-.venta-body > h2{
+.venta-body>h2 {
   width: 100%;
   background-color: var(--color-primary);
   box-shadow: 0 0 0 100vmax var(--color-primary);
@@ -3673,7 +3675,7 @@ button.btn-get-started:hover {
   display: block;
 }
 
-.venta-caracteristicas{
+.venta-caracteristicas {
   background-color: var(--blanco);
   box-shadow: 0 0 0 100vmax var(--blanco);
   -webkit-clip-path: inset(0 -100vmax);
@@ -3683,19 +3685,19 @@ button.btn-get-started:hover {
   padding: 4em 2em;
 }
 
-.venta-caracteristicas h2{
+.venta-caracteristicas h2 {
   margin-bottom: 2em;
   font-weight: bolder;
 }
 
-.venta-caracteristicas ul{
+.venta-caracteristicas ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
 
-.venta-caracteristicas ul li{
+.venta-caracteristicas ul li {
   flex: 1 0 auto;
   max-width: 100%;
   font-size: 1.5em;
@@ -3708,15 +3710,16 @@ button.btn-get-started:hover {
   transition: all .2s ease-out;
 }
 
-.venta-caracteristicas ul li:hover{
+.venta-caracteristicas ul li:hover {
   transform: scale(1.05);
 }
 
-.venta-caracteristicas ul li:nth-child(even){
+.venta-caracteristicas ul li:nth-child(even) {
   background: var(--color-secondary);
   color: white
 }
-.venta-caracteristicas ul li:nth-child(odd){
+
+.venta-caracteristicas ul li:nth-child(odd) {
   box-sizing: border-box;
   background-color: white;
 }
