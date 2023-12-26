@@ -30,8 +30,6 @@ caracteristicas:
 ---
 {% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}
 
-{% include testimonios.html %}
-
 {% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
 
 ## Bienvenido al Paraíso en Chinauta

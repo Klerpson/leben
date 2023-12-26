@@ -46,14 +46,10 @@ layout: compress
 </section><!-- End About Us Section -->
 
 <main class="venta-body">
-  
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
-  <div class="venta-texto">
-    {{content}}
-    {% include testimonios.html %}
-  </div>
+  {{content}}
 </main>
-
+  {% include testimonios.html %}
 <section id="counter" class="counter-area section-padding fadeInLeft wow" data-wow-delay="1s">
   <div class="container">
     <div class="row">
@@ -79,7 +75,6 @@ layout: compress
       </div>
   </div>
 </section>
-
 
   <a href="{{site.whatsapp}}" class="boton-whatsapp">
     <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">

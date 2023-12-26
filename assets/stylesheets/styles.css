@@ -1440,6 +1440,10 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
 /*--------------------------------------------------------------
 # Testimonials Section
 --------------------------------------------------------------*/
+.testimonials .intro{
+  color: white;
+}
+
 .testimonials .testimonial-wrap {
   padding-left: 10px;
 }
@@ -3610,8 +3614,12 @@ button.btn-get-started:hover {
 }
 
 .venta-body {
-  width: 100%;
+  margin-inline: auto;
+  width: min(100%, 1320px);
   background-color: var(--blanco);
+  box-shadow: 0 0 0 100vmax var(--blanco);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
   padding: 0 1em 4em;
   display: grid;
   place-items: center;
@@ -3631,8 +3639,8 @@ button.btn-get-started:hover {
 
 .image-gallery {
   margin-inline: auto;
-  width: min(calc(100% - 16px), 1320px);
   overflow: auto;
+  max-width: 100%;
 }
 
 .image-gallery li {
@@ -3707,18 +3715,4 @@ button.btn-get-started:hover {
 .venta-caracteristicas ul li:nth-child(odd){
   box-sizing: border-box;
   background-color: white;
-}
-
-.venta-texto{
-  margin-inline: auto;
-  width: min(calc(100% - 16px), 1320px);
-}
-
-.venta-texto h2{
-  margin: 1em 0;
-  font-weight: 700;
-}
-
-.asesor div:first-child p {
-  margin: 1em 0;
 }
