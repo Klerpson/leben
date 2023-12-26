@@ -1,19 +1,8 @@
-/* 
-  Template    : PrimeProperty - Real Estate Multipurpose Website Template
-  Author      : ZRTHEMES
-  Version     : 1.0
-  Author URI  : https://www.templatemonster.com/authors/zrthemes/
-  */
-
-
-/*--------------------------------------------------------------
-# Single Page
---------------------------------------------------------------*/
 .page-hero{
   background: url(../images/cta-bg.jpg) center center;
   background-color: #C59849;
   background-size: cover;
-  padding: 150px 0px;
+  padding: 150px 16px;
   border-radius: 0px;
   overflow: hidden;
   background-repeat: no-repeat;
@@ -108,10 +97,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: all .2s ease-out;
 }
 
 .btn:hover {
   background-color: #C59849;
+transform: scale(1.05);
 }
 
 .btn--icon {

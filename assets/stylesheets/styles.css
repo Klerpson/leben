@@ -55,18 +55,39 @@ a:hover {
   text-decoration: none;
 }
 
-p {
-  color: var(--color-base);
-  font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
+h1, h2, h3, h4, h5{
+  line-height: 1.24;
 }
 
-h1,
-h2,
-h3,
-h4,
+h1 {
+  font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+  margin: 0;
+}
+
+h2 {
+  font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
+  text-align: center;
+  font-weight: bolder;
+}
+
+h3 {
+  font-size: clamp(1.4rem, 1.233rem + 0.84vw, 1.86rem);
+}
+
+h4 {
+  font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+}
+
 h5,
-h6 {
-  font-family: var(--font-default);
+p,
+li {
+  word-wrap: break-word;
+  font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
+  margin-bottom: 1em;
+}
+
+pre {
+  font-family: monospace, monospace;
 }
 
 dl,
@@ -1287,7 +1308,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  padding: 150px 60px;
+  padding: 150px 0;
 }
 
 .call-to-action h2 {
@@ -1299,14 +1320,17 @@ section {
   color: #fff;
   margin-bottom: 20px;
   font-weight: 600;
-  font-size: 60px;
 }
 
 .call-to-action p {
   color: #fff;
   margin-bottom: 20px;
-  width: 60%;
-  margin: 0 auto;
+  margin: 1em auto;
+}
+
+.call-to-action .section-header-book{
+  width: min(100%, 720px);
+  margin-inline: auto;
 }
 
 .call-to-action .play-btn {
@@ -1655,7 +1679,7 @@ section {
 .portfolio .portfolio-wrap {
   box-shadow: var(--shadow);
   border-radius: var(--radius);
-  height: 260px;
+  height: min-content;
   overflow: hidden;
   transition: 0.3s;
   position: relative;
@@ -1666,6 +1690,7 @@ section {
   transition: 0.3s;
   position: relative;
   z-index: 1;
+  width: min(100%, 460px);
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
@@ -1908,13 +1933,13 @@ section {
 
 .faq .content p {
   font-size: 15px;
-  color: #6c757d;
+  color: white;
 }
 
 .faq .accordion-item {
   border: 0;
   margin-bottom: 20px;
-  background-color: #2b2b2b;
+  background-color: #3a2121;
 }
 
 .faq .accordion-item:last-child {
@@ -1934,7 +1959,7 @@ section {
 
 .faq .accordion-button {
   padding: 20px 50px 20px 20px;
-  color: var(--color-primary);
+  color: var(--color-gris);
   text-align: left;
   border-radius: 0;
   background: #2b2b2b;
@@ -2117,13 +2142,16 @@ button:focus:not(:focus-visible) {
   min-height: 100vh;
   background: #fff;
   z-index: 0;
-  padding: 200px 0 100px 0;
+  padding: 200px 0 100px;
   height: auto;
 }
 
-.hero .circle {
+.hero .title {
   color: #ffffff;
   font-weight: 800;
+  font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+  margin: 0;
+  line-height: 1;
 }
 
 .hero-main-video {
@@ -2538,6 +2566,7 @@ button:focus:not(:focus-visible) {
 /* -------------------------------------------------------------- 
  * Counter Section Style
  -------------------------------------------------------------- */
+
 .counter-area {
   background: url('../images/hero-bg.jpg');
   background-size: cover;
@@ -2571,7 +2600,7 @@ button:focus:not(:focus-visible) {
   flex-direction: column;
   justify-content: center;
   text-align: left;
-  margin: 30px 50px;
+  gap: 2em;
 }
 
 .counter-container i {
@@ -3256,13 +3285,9 @@ button.btn-get-started:hover {
   margin-bottom: 10px;
 }
 
-.footer-section .contact-info h6 {
-  color: #ffffff;
-}
-
-.footer-section .contact-info h6,
-.footer-section .contact-info p {
-  margin-bottom: 0;
+.footer-section .contact-info h4 {
+  color: var(--color-primary);
+  font-weight: bolder;
 }
 
 .footer-section .contact-info p {
@@ -3271,7 +3296,8 @@ button.btn-get-started:hover {
 
 .footer-section a {
   text-decoration: underline;
-  text-decoration-thickness: 2.4px;
+  text-decoration-thickness: 2px;
+  color: white;
 }
 
 .footer-cta {
@@ -3312,7 +3338,6 @@ button.btn-get-started:hover {
   position: absolute;
   top: 0;
   left: 0;
-  height: 330px;
   background-size: cover;
   background-position: 100% 100%;
 }
@@ -3326,19 +3351,11 @@ button.btn-get-started:hover {
   max-width: 200px;
 }
 
-.footer-logo h1 {
-  color: white;
-}
-
 .footer-text p {
   margin-bottom: 14px;
   font-size: 14px;
   color: #ffffff;
   line-height: 28px;
-}
-
-.footer-text h3 {
-  color: var(--color-primary);
 }
 
 .footer-social-icon span {
@@ -3387,7 +3404,7 @@ button.btn-get-started:hover {
 }
 
 .footer-widget ul li {
-  display: inline-block;
+  display: block;
   float: left;
   width: 50%;
   margin-bottom: 12px;
@@ -3472,8 +3489,9 @@ button.btn-get-started:hover {
 
 .boton-white {
   display: flex;
+  justify-content: center;
   text-align: center;
-  width: min(100%, 200px);
+  width: min(100%, 280px);
   margin: 3em 0;
   padding: 12px 20px;
   background-color: white;
