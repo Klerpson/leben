@@ -8,7 +8,7 @@ layout: compress
   <div>
     <h1>{{page.h1}}</h1>
     <p>{{page.description}}</p>
-    <a href="{{site.baseurl}}/contacto" class="btn-get-started" data-aos="fade-up" data-aos-delay="50">Escribe a un asesor de Leben</a>
+    <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started" data-aos="fade-up" data-aos-delay="50">Escribe al asesor de Leben</a>
   </div>
   <div>
     <span>{{page.precio}} negociables</span>
@@ -32,8 +32,38 @@ layout: compress
 <main class="venta-body">
   
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
-  {{content}}
+  <div class="venta-texto">
+    {{content}}
+    {% include testimonios.html %}
+  </div>
 </main>
+
+<section id="counter" class="counter-area section-padding fadeInLeft wow" data-wow-delay="1s">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 col-md-12">
+        <div class="counter-container" data-aos="fade-left" data-aos-delay="75">
+          <div class="icon"><img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="Casas y fincas en venta Fusagasugá Colombia" loading="lazy"></div>
+          <h2 class="datos-h2">Aprovecha la oferta de esta propiedad en Fusagasugá</h2>
+        </div>
+      </div>
+      <div class="col-lg-6 col-md-12">
+            <div class="counter-container" data-aos="fade-right" data-aos-delay="100">
+              <h3>{{page.h1}} ¿Qué esperas?</h3>
+              <ul>
+                {% for items in page.caracteristicas %}
+                {% for item in items %}
+                <li>✓ {{item[0]|capitalize}}</li>
+                {% endfor %}
+                {% endfor %}
+                <li><a href="#" class="boton-white">Contacta a un asesor</a></li>
+              </ul>
+            </div>
+          </div>
+      </div>
+  </div>
+</section>
+
 
   <a href="{{site.whatsapp}}" class="boton-whatsapp">
     <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">

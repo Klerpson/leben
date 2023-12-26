@@ -77,6 +77,30 @@ ul {
   list-style: none;
 }
 
+blockquote {
+  display: block;
+  border-width: 2px 0;
+  border-style: solid;
+  border-color: #eee;
+  padding: 1.5em 0 0.5em;
+  margin: 1.5em 0;
+  position: relative;
+}
+
+blockquote:before {
+  content: '\201C';
+  position: absolute;
+  top: 0em;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  width: 3rem;
+  height: 2rem;
+  font: 6em/1.08em 'PT Sans', sans-serif;
+  color: #666;
+  text-align: center;
+}
+
 .text-right {
   text-align: right !important;
 }
@@ -1966,11 +1990,8 @@ button:focus:not(:focus-visible) {
 # Recent Blog Posts Section
 --------------------------------------------------------------*/
 .recent-posts article {
-  box-shadow: var(--shadow)
-    /* background-color: #464946; */
-    /* padding: 30px 30px 71px 30px; */
-    height: 100%;
-  /* border-radius: 50px; */
+  box-shadow: var(--shadow);
+  height: 100%;
   overflow: hidden;
   text-align: left;
   justify-content: center;
@@ -3505,8 +3526,12 @@ button.btn-get-started:hover {
   color: var(--color-primary) !important;
 }
 
+.datos-h2{
+  margin: 2em 0;
+}
+
 /********* PÁGINA DE VENTA *********/
-.hero-venta {
+.hero-venta, .asesor {
   width: min(100%, 1440px);
   margin-inline: auto;
   display: grid;
@@ -3517,31 +3542,38 @@ button.btn-get-started:hover {
   color: white;
 }
 
-.hero-venta div {
+.hero-venta div,
+.asesor div {
   max-width: 100%;
 }
 
-.hero-venta div:first-child {
+.hero-venta div:first-child,
+.asesor div:first-child {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   padding: 2em;
 }
 
-.hero-venta div:first-child * {
+.hero-venta div:first-child *,
+.asesor div:first-child * {
   margin: 1em 0;
 }
 
-.hero-venta div:first-child p {
+.hero-venta div:first-child p
+{
   color: white;
 }
 
-.hero-venta div:last-child {
+.hero-venta div:last-child,
+.asesor div:last-child {
   position: relative;
 }
 
-.hero-venta div:last-child img {
-  object-fit: cover;
+.hero-venta div:last-child img,
+.asesor div:last-child {
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 
 .hero-venta div:last-child span {
@@ -3567,7 +3599,7 @@ button.btn-get-started:hover {
   gap: 1em;
 }
 
-.venta-body h2{
+.venta-body > h2{
   width: 100%;
   background-color: var(--color-primary);
   box-shadow: 0 0 0 100vmax var(--color-primary);
@@ -3617,6 +3649,7 @@ button.btn-get-started:hover {
   clip-path: inset(0 -100vmax);
   width: min(calc(100% - 16px), 1320px);
   margin-inline: auto;
+  padding: 4em 2em;
 }
 
 .venta-caracteristicas h2{
@@ -3628,24 +3661,45 @@ button.btn-get-started:hover {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .venta-caracteristicas ul li{
-  flex: 1 0 400px;
-  max-width 100%;
+  flex: 1 0 auto;
+  max-width: 100%;
   font-size: 1.5em;
   padding: 12px 20px;
   display: flex;
   gap: 1em;
   flex-wrap: wrap;
+  align-items: center;
+  box-shadow: var(--shadow);
+  transition: all .2s ease-out;
+}
+
+.venta-caracteristicas ul li:hover{
+  transform: scale(1.05);
 }
 
 .venta-caracteristicas ul li:nth-child(even){
-  background: rgb(48,43,39);
-  background: linear-gradient(172deg, rgba(48,43,39,1) 25%, rgba(218,43,38,1) 78%);
+  background: var(--color-secondary);
   color: white
 }
-
 .venta-caracteristicas ul li:nth-child(odd){
-  border: 1.2px solid var(--color-gris);
+  box-sizing: border-box;
+  background-color: white;
+}
+
+.venta-texto{
+  margin-inline: auto;
+  width: min(calc(100% - 16px), 1320px);
+}
+
+.venta-texto h2{
+  margin: 1em 0;
+  font-weight: 700;
+}
+
+.asesor div:first-child p {
+  margin: 1em 0;
 }
