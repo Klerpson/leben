@@ -1691,6 +1691,7 @@ background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%
   position: relative;
   z-index: 1;
   width: min(100%, 460px);
+  height: min-content;
 }
 
 .portfolio .portfolio-wrap:hover .portfolio-info {
