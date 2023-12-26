@@ -3,15 +3,15 @@ layout: compress
 ---
 {% include head.html %}
 <body style="background-color: var(--color-default);">
-<div class="hero-venta">
+<div class="hero-venta sections-bg">
   <div>
     <h1>{{page.h1}}</h1>
     <p>{{page.description}}</p>
-    <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started" data-aos="fade-up" data-aos-delay="50">Escribe al asesor de Leben</a>
+    <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Escribe al asesor de Leben</a>
   </div>
   <div>
     <span>{{page.precio}} negociables</span>
-    <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="">
+    <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="{{page.alt}}">
   </div>
 
 </div>
@@ -22,7 +22,7 @@ layout: compress
   <ul>
     {% for items in page.caracteristicas %}
     {% for item in items %}
-    <li><img src="{{site.baseurl}}/assets/images/icons/{{item[1]}}" alt="{{page.title}} {{item[0]}}"> {{item[0]|capitalize}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/{{item[1]}}" alt="{{page.title}} {{item[0]}}" loading="lazy"> {{item[0]|capitalize}}</li>
     {% endfor %}
     {% endfor %}
   </ul>
@@ -33,17 +33,17 @@ layout: compress
   {{content}}
 </main>
   {% include testimonios.html %}
-<section id="counter" class="counter-area section-padding fadeInLeft wow" data-wow-delay="1s">
+<section id="counter" class="counter-area section-padding">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-12">
-        <div class="counter-container" data-aos="fade-left" data-aos-delay="75">
+        <div class="counter-container">
           <div class="icon"><img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="Casas y fincas en venta Fusagasugá Colombia" loading="lazy"></div>
           <h2 class="datos-h2">Aprovecha la oferta de esta propiedad en Fusagasugá</h2>
         </div>
       </div>
       <div class="col-lg-6 col-md-12">
-            <div class="counter-container" data-aos="fade-right" data-aos-delay="100">
+            <div class="counter-container">
               <h3>{{page.h1}} ¿Qué esperas?</h3>
               <ul>
                 {% for items in page.caracteristicas %}
