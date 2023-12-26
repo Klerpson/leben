@@ -792,10 +792,10 @@ section {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background: linear-gradient(91deg, #282828, #2b2b2b 786px);
+  background: rgb(254,254,254);
+background: linear-gradient(172deg, rgba(254,254,254,1) 25%, rgba(182,6,0,1) 78%);
   opacity: 9;
   transform: rotate(20deg);
-  box-shadow: var(--shadow);
 }
 
 .overlay-left {
