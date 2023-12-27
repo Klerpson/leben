@@ -3106,6 +3106,11 @@ button:focus:not(:focus-visible) {
 /* -------------------------------------------------------------- **
   Contact
  -------------------------------------------------------------- **/
+.contact-section div h3{
+  text-align: center;
+  margin-bottom: 1em;
+}
+
 .contact-section .contact-form-3 form .form-control {
   font-size: 15px;
   width: 100%;
@@ -3274,6 +3279,25 @@ button.btn-get-started:hover {
 
 .hidden {
   display: none;
+}
+
+.contacto{
+  padding: 4em 0;
+  margin: 2em 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  width: 100%;
+  justify-content: center;
+  background-color: var(--blanco);
+  box-shadow: 0 0 0 100vmax var(--blanco);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
+}
+
+.contacto h3{
+  width: 100%;
+  color: var(--color-base);
 }
 
 /*--------------------------------------------------------------
