@@ -1,0 +1,27 @@
+# config.yml
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: 'assets/images'
+public_folder: 'assets/images'
+collections:
+  - name: 'venta'
+    label: 'Venta'
+    folder: '/ventas'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'venta' }
+      - { label: 'Meta Título', name: 'title', widget: 'string' }
+      - { label: 'Meta descripción', name: 'description', widget: 'string' }
+      - { label: 'Título para la propiedad', name: 'h1', widget: 'string' }
+      - { label: 'Categoría en plural', name: 'clase', widget: 'string' }
+      - { label: 'Imagen principal mínimo 1024px y formato WEBP', name: 'img', widget: 'image' }
+      - { label: 'Texto breve que describe la imagen', name: 'alt', widget: 'string' }
+      - { label: 'Texto breve para llamado a la acción', name: 'cta', widget: 'string' }
+      - { label: 'Precio con puntos de miles y coma de millón', name: 'precio', widget: 'string' }
+      - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'string' }
+      - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
