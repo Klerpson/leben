@@ -25,3 +25,5 @@ collections:
       - { label: 'Precio con puntos de miles y coma de millón', name: 'precio', widget: 'string' }
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'string' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
+      - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
+
