@@ -26,4 +26,16 @@ collections:
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'string' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
       - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
-
+      - label: "Testimonials"
+        name: "testimonials"
+        widget: "list"
+        summary: '{{fields.quote}} - {{fields.author.name}}'
+        fields:
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - label: Author
+            name: author
+            widget: object
+            fields:
+              - {label: Name, name: name, widget: string, default: "Emmet"}
+              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+      
