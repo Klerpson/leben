@@ -25,7 +25,6 @@ collections:
       - { label: 'Precio con puntos de miles y coma de millón', name: 'precio', widget: 'string' }
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'number' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
-      - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
       - label: "Características de la propiedad"
         name: "testimonials"
         widget: "list"
@@ -40,4 +39,4 @@ collections:
           - {label: Garage, name: garage, widget: string}
           - {label: Servicios, name: servicios, widget: string}
           - {label: Adicional, name: cancha, widget: string}
-      
+      - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
