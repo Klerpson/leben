@@ -26,16 +26,18 @@ collections:
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'string' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
       - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
-      - label: "Descripciones detalladas de la propiedad"
-        name: "caracteristicas"
+      - label: "Características de la propiedad"
+        name: "testimonials"
         widget: "list"
+        summary: '{{fields.area}} - {{fields.author.name}}'
         fields:
-          - {label: Area total, name: area.webp, widget: string}
-          - {label: Habitaciones, name: habitacion.webp, widget: string}
-          - {label: Sala, name: sala.webp, widget: string}
-          - {label: Comedor, name: comedor.webp, widget: string}
-          - {label: Cocina, name: cocina.webp, widget: string}
-          - {label: Baños, name: bano.webp, widget: string}
-          - {label: Garage, name: garage.webp, widget: string}
-          - {label: Servicios, name: servicios.webp, widget: string}
-          - {label: Adicional, name: cancha.webp, widget: string}
+          - {label: Area total, name: area, widget: string}
+          - {label: Habitaciones, name: habitacion, widget: string}
+          - {label: Sala, name: sala, widget: string}
+          - {label: Comedor, name: comedor, widget: string}
+          - {label: Cocina, name: cocina, widget: string}
+          - {label: Baños, name: bano, widget: string}
+          - {label: Garage, name: garage, widget: string}
+          - {label: Servicios, name: servicios, widget: string}
+          - {label: Adicional, name: cancha, widget: string}
+      

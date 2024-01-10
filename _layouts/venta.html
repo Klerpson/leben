@@ -22,7 +22,7 @@ layout: compress
   <ul>
     {% for items in page.caracteristicas %}
     {% for item in items %}
-    <li><img src="{{site.baseurl}}/assets/images/icons/{{item[0]}}" alt="{{page.title}} {{item[1]}}" loading="lazy"> {{item[1]|capitalize}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/{{item[0]}}.webp" alt="{{page.title}} {{item[1]}}" loading="lazy"> {{item[1]|capitalize}}</li>
     {% endfor %}
     {% endfor %}
   </ul>
