@@ -14,6 +14,7 @@ collections:
       preview: false
     fields:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'venta' }
+      - { label: 'url', name: 'permalink', widget: 'string' }
       - { label: 'Meta Título', name: 'title', widget: 'string' }
       - { label: 'Meta descripción', name: 'description', widget: 'string' }
       - { label: 'Título para la propiedad', name: 'h1', widget: 'string' }

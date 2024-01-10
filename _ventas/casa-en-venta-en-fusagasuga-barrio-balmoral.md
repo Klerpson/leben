@@ -44,7 +44,7 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
 ---
-# Venta de finca en Fusagasugá Cundinamarca, Colombia
+## Venta de finca en Fusagasugá Cundinamarca, Colombia
 
 ¿Está pensando en comprar una finca en Fusagasugá Cundinamarca, Colombia? ¡Pues está en el lugar adecuado! No hay mejor momento que éste para invertir en agricultura en Colombia. Con la promoción por parte del gobierno colombiano del desarrollo agrícola y la ubicación estratégica del país en América Latina, éste es el momento perfecto para adquirir **haciendas, casas de campo y fincas**. Fusagasugá, Cundinamarca, es un entorno ideal para este tipo de inversión, ya que ofrece un clima y una ubicación geográfica ideales.  
 
