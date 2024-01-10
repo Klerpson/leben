@@ -77,6 +77,8 @@ caracteristicas:
 
 {% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14593.304789970565!2d-74.38661893249997!3d4.311397072277674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sco!4v1704912212582!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 ## Bienvenido al Paraíso en Chinauta
 
 Descubre la oportunidad de adquirir tu propio refugio de lujo en la hermosa Chinauta. Esta espectacular casa quinta, valorada en **$1.200.000.000**, se encuentra estratégicamente ubicada en el sector del peaje, ofreciéndote no solo una propiedad, sino un estilo de vida exclusivo.
