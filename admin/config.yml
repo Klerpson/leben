@@ -2,7 +2,8 @@ backend:
   name: git-gateway
   branch: main
 publish_mode: editorial_workflow
-media_folder: 'assets/images/portfolio'
+media_folder: 'images/assets/portfolio'
+public_folder: 'portfolio'
 collections:
   - name: 'venta'
     label: 'Venta'

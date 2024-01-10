@@ -14,7 +14,7 @@ propiedad: 144
 intro: Hermosa finca de producción en uno de los sectores de más alta
   valorización en San Bernardo
 area: 12192 metros de terreno
-habitacion: "5"
+habitacion: "5 habitaciones"
 sala: Espaciosa e iluminada
 comedor: Espacio abierto a la sala
 cocina: Iluminada con 1 mesón
@@ -56,22 +56,6 @@ galleryImages:
   - images/finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
   - images/finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
   - images/finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
-caracteristicas:
-  - area: 300 metros construidos en un terreno de 1.400 metros
-  - habitacion: 7 habitaciones
-  - bano: 8 baños
-  - cocina: Cocina
-  - comedor: Comedor
-  - sala: Sala grande
-  - garaje: 6 Garajes
-  - piscina: Piscina
-  - servicios: Agua, luz y gas
-  - bbq: Zona BBQ
-  - lavado: Zona de lavado
-  - cancha: Cancha
-  - campo: Zona verde
-  - capilla: Capilla propia
-  - parking: Parqueadero visitantes
 ---
 {% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
 
