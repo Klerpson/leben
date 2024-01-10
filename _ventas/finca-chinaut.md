@@ -11,21 +11,21 @@ alt: Finca para la venta en Fusagasugá Chinauta
 precio: 1.200'000.000
 propiedad: chinauta
 caracteristicas:
-  - 7 habitaciones: habitacion.webp
-  - Sala grande: sala.webp
-  - 8 baños: bano.webp
-  - Cocina: cocina.webp
-  - Comedor: comedor.webp
-  - 300 metros construidos en un terreno de 1.400 metros: area.webp
-  - Piscina: piscina.webp
-  - "Agua, luz y gas": servicios.webp
-  - zona BBQ: bbq.webp
-  - 6 Garajes: garaje.webp
-  - Zona de lavado: lavado.webp
-  - Cancha: cancha.webp
-  - Zona verde: campo.webp
-  - capilla propia: capilla.webp
-  - Parqueadero visitantes: parking.webp
+  - area.webp: 300 metros construidos en un terreno de 1.400 metros
+  - habitacion.webp: 7 habitaciones
+  - bano.webp: 8 baños
+  - cocina.webp: Cocina
+  - comedor.webp: Comedor
+  - sala.webp: Sala grande
+  - garaje.webp: 6 Garajes
+  - piscina.webp: Piscina
+  - servicios.webp: Agua, luz y gas
+  - bbq.webp: Zona BBQ
+  - lavado.webp: Zona de lavado
+  - cancha.webp: Cancha
+  - campo.webp: Zona verde
+  - capilla.webp: Capilla propia
+  - parking.webp: Parqueadero visitantes
 cta: Compra la finca Chinauta
 intro: Hermosa casa quinta en Chinauta, ubicada en el sector del peaje
 testimonials:
