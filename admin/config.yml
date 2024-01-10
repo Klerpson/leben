@@ -8,7 +8,7 @@ public_folder: 'images'
 collections:
   - name: 'venta'
     label: 'Venta'
-    folder: '_ventas/'
+    folder: '_ventas'
     create: true
     slug: '{{slug}}'
     editor:
