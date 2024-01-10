@@ -1,15 +1,13 @@
 ---
 layout: venta
 title: "Finca en venta en Fusagasugá: Chinauta | LEBEN Inmobiliaria"
-description: Hermosa y relajante finca o quinta a la venta en la ciudad de
-  Fusagasugá. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
-  ¡Escríbenos!
+description: Hermosa y relajante finca o quinta a la venta en la ciudad de Fusagasugá. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
 h1: Finca a la venta en Fusagasugá - Chinauta
 clase: casas
 img: finca-fusagasuga-chinauta-01.webp
 alt: Finca para la venta en Fusagasugá Chinauta
 precio: 1.200'000.000
-propiedad: chinauta
+propiedad: 202
 caracteristicas:
   - area: 300 metros construidos en un terreno de 1.400 metros
   - habitacion: 7 habitaciones
@@ -28,11 +26,6 @@ caracteristicas:
   - parking: Parqueadero visitantes
 cta: Compra la finca Chinauta
 intro: Hermosa casa quinta en Chinauta, ubicada en el sector del peaje
-testimonials:
-  - quote: Everything is awesome!
-    author:
-      name: Emmet prueba
-      avatar: images/-logo-dark.svg
 ---
 {% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}
 
