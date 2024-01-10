@@ -28,6 +28,7 @@ collections:
       - label: "Características de la propiedad"
         name: "caracteristicas"
         widget: "list"
+        summary: '{{fields.adicional}}'
         fields:
           - {label: Area total, name: area, widget: string}
           - {label: Habitaciones, name: habitacion, widget: string}
@@ -37,6 +38,10 @@ collections:
           - {label: Baños, name: bano, widget: string}
           - {label: Garage, name: garage, widget: string}
           - {label: Servicios, name: servicios, widget: string}
+          - {label: Adicional, name: adicional, widget: string}
+          fields:
+          - {label: Adicional, name: adicional, widget: string}
+
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
