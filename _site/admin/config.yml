@@ -18,7 +18,10 @@ collections:
       - { label: 'Meta Título', name: 'title', widget: 'string' }
       - { label: 'Meta descripción', name: 'description', widget: 'string' }
       - { label: 'Título para la propiedad', name: 'h1', widget: 'string' }
-      - { label: 'Categoría en plural', name: 'clase', widget: 'string' }
+      - label: "Categoría"
+        name: "clase"
+        widget: "select"
+        options: ["apartamentos", "apartaestudios", "casas", "fincas", "quintas"]
       - { label: 'Imagen principal mínimo 1024px y formato WEBP', name: 'img', widget: 'image' }
       - { label: 'Texto breve que describe la imagen', name: 'alt', widget: 'string' }
       - { label: 'Texto breve para llamado a la acción', name: 'cta', widget: 'string' }
