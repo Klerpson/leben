@@ -3,7 +3,7 @@ backend:
   branch: main
 publish_mode: editorial_workflow
 media_folder: 'images/assets/portfolio'
-public_folder: 'portfolio'
+public_folder: '/'
 collections:
   - name: 'venta'
     label: 'Venta'
