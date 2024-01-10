@@ -26,7 +26,7 @@ caracteristicas:
   - Zona verde: campo.webp
   - capilla propia: capilla.webp
   - Parqueadero visitantes: parking.webp
-
+testimonials:
 ---
 {% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}
 
