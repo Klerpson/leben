@@ -31,7 +31,7 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-06.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-07.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-08.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-09.jpg
+  - /casa-en-venta-balmoral-fusagasuga-023.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-010.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-011.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-012.jpg
