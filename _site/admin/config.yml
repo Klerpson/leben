@@ -26,9 +26,8 @@ collections:
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'number' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
       - label: "Características de la propiedad"
-        name: "testimonials"
+        name: "caracteristicas"
         widget: "list"
-        summary: '{{fields.area}} - {{fields.author.name}}'
         fields:
           - {label: Area total, name: area, widget: string}
           - {label: Habitaciones, name: habitacion, widget: string}
@@ -38,5 +37,7 @@ collections:
           - {label: Baños, name: bano, widget: string}
           - {label: Garage, name: garage, widget: string}
           - {label: Servicios, name: servicios, widget: string}
-          - {label: Adicional, name: cancha, widget: string}
-      - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
+      - label: "Características adicionales"
+        name: "adicionales"
+        widget: "list"
+        default: ["Adicional"]
