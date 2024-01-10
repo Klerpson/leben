@@ -1,13 +1,33 @@
 ---
 layout: venta
-title: "Finca en venta en Fusagasugá: Chinauta | LEBEN Inmobiliaria"
-description: Hermosa y relajante finca o quinta a la venta en la ciudad de Fusagasugá. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
-h1: Finca a la venta en Fusagasugá - Chinauta
-clase: casas
-img: finca-fusagasuga-chinauta-01.webp
-alt: Finca para la venta en Fusagasugá Chinauta
-precio: 1.200'000.000
-propiedad: 202
+title: "Finca en venta en Fusagasugá: Adolfo San Bernardo | LEBEN Inmobiliaria"
+description: Hermosa finca de producción en uno de los sectores de más alta
+  valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta
+  oferta. ¡Escríbenos!
+h1: "Finca a la venta en Adolfo San Bernardo, Fusagasugá "
+clase: fincas
+img: images/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
+alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
+cta: Compra tu finca
+precio: 530'000.000
+propiedad: 144
+intro: Hermosa finca de producción en uno de los sectores de más alta
+  valorización en San Bernardo
+area: 12192 metros de terreno
+habitacion: "5"
+sala: Espaciosa e iluminada
+comedor: Espacio abierto a la sala
+cocina: Iluminada con 1 mesón
+bano: "3"
+garage: 1 en espacio abierto para 4 carros
+servicios: Agua, luz y gas
+adicional:
+  - 435 matas de durazno
+  - Zona de lavado
+  - A 25 minutos de la zona urbana
+galleryImages:
+  - images/finca-en-adolfo-san-bernardo-fusagasugá-01.jpg
+  - images/finca-en-adolfo-san-bernardo-fusagasugá-02.jpg
 caracteristicas:
   - area: 300 metros construidos en un terreno de 1.400 metros
   - habitacion: 7 habitaciones
@@ -24,8 +44,6 @@ caracteristicas:
   - campo: Zona verde
   - capilla: Capilla propia
   - parking: Parqueadero visitantes
-cta: Compra la finca Chinauta
-intro: Hermosa casa quinta en Chinauta, ubicada en el sector del peaje
 ---
 {% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}
 
