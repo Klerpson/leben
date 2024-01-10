@@ -26,15 +26,16 @@ collections:
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'string' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
       - { label: 'Descripción o contenido', name: 'body', widget: 'markdown' }
-      - label: "Testimonials"
-        name: "testimonials"
+      - label: "Descripciones detalladas de la propiedad"
+        name: "caracteristicas"
         widget: "list"
-        summary: '{{fields.quote}} - {{fields.author.name}}'
         fields:
-          - label: Author
-            name: author
-            widget: object
-            fields:
-              - {label: Name, name: name, widget: string, default: "Emmet"}
-              - {label: Avatar, name: avatar, widget: image }
-      
+          - {label: Area total, name: area.webp, widget: string}
+          - {label: Habitaciones, name: habitacion.webp, widget: string}
+          - {label: Sala, name: sala.webp, widget: string}
+          - {label: Comedor, name: comedor.webp, widget: string}
+          - {label: Cocina, name: cocina.webp, widget: string}
+          - {label: Baños, name: bano.webp, widget: string}
+          - {label: Garage, name: garage.webp, widget: string}
+          - {label: Servicios, name: servicios.webp, widget: string}
+          - {label: Adicional, name: cancha.webp, widget: string}
