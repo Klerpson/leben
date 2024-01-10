@@ -25,26 +25,17 @@ collections:
       - { label: 'Precio con puntos de miles y coma de millón', name: 'precio', widget: 'string' }
       - { label: 'Nombre de la propiedad en minúscula', name: 'propiedad', widget: 'number' }
       - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
-      - label: "Características de la propiedad"
-        name: "caracteristicas"
-        widget: "list"
-        summary: '{{fields.adicional}}'
-        fields:
-          - {label: Area total, name: area, widget: string}
-          - {label: Habitaciones, name: habitacion, widget: string}
-          - {label: Sala, name: sala, widget: string}
-          - {label: Comedor, name: comedor, widget: string}
-          - {label: Cocina, name: cocina, widget: string}
-          - {label: Baños, name: bano, widget: string}
-          - {label: Garage, name: garage, widget: string}
-          - {label: Servicios, name: servicios, widget: string}
-          - {label: Adicional, name: adicional, widget: string}
+      - {label: Area total, name: area, widget: string}
+      - {label: Habitaciones, name: habitacion, widget: string}
+      - {label: Sala, name: sala, widget: string}
+      - {label: Comedor, name: comedor, widget: string}
+      - {label: Cocina, name: cocina, widget: string}
+      - {label: Baños, name: bano, widget: string}
+      - {label: Garage, name: garage, widget: string}
+      - {label: Servicios, name: servicios, widget: string}
+      - {label: "Características adicionales", name: "adicional", widget: "string", allow_add: true}
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
-        default: ["news"]
