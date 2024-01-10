@@ -39,7 +39,6 @@ collections:
           - {label: Garage, name: garage, widget: string}
           - {label: Servicios, name: servicios, widget: string}
           - {label: Adicional, name: adicional, widget: string}
-          field: {label: Adicional, name: adicional, widget: string}
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
