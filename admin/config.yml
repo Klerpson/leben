@@ -37,5 +37,5 @@ collections:
             widget: object
             fields:
               - {label: Name, name: name, widget: string, default: "Emmet"}
-              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+              - {label: Avatar, name: avatar, widget: image }
       
