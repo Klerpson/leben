@@ -45,7 +45,7 @@ collections:
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
       - { label: 'Body', name: 'body', widget: 'markdown' }
-- name: 'blog'
+  - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
     create: true
