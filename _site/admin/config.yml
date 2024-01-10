@@ -33,7 +33,7 @@ collections:
       - {label: Baños, name: bano, widget: string}
       - {label: Garage, name: garage, widget: string}
       - {label: Servicios, name: servicios, widget: string}
-      - {label: "Características adicionales", name: "adicional", widget: "string", allow_add: true}
+      - {label: "Características adicionales", name: "adicional", widget: "list", allow_add: true}
       - label: "Gallery"
         name: "galleryImages"
         widget: "list"
