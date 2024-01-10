@@ -37,7 +37,8 @@ collections:
           - {label: Baños, name: bano, widget: string}
           - {label: Garage, name: garage, widget: string}
           - {label: Servicios, name: servicios, widget: string}
-      - label: "Características adicionales"
-        name: "adicionales"
+      - label: "Gallery"
+        name: "galleryImages"
         widget: "list"
-        default: ["Adicional"]
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
