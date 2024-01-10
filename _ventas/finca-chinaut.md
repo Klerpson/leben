@@ -6,7 +6,7 @@ description: Hermosa finca de producción en uno de los sectores de más alta
   oferta. ¡Escríbenos!
 h1: "Finca a la venta en Adolfo San Bernardo, Fusagasugá "
 clase: fincas
-img: images/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
+img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
 alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
 cta: Compra tu finca
 precio: 530'000.000
@@ -73,11 +73,7 @@ caracteristicas:
   - capilla: Capilla propia
   - parking: Parqueadero visitantes
 ---
-{% include image-gallery.html folder="/assets/images/portfolio/chinauta/" %}
-
 {% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14593.304789970565!2d-74.38661893249997!3d4.311397072277674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sco!4v1704912212582!5m2!1ses-419!2sco" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Bienvenido al Paraíso en Chinauta
 
