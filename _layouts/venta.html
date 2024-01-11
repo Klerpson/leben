@@ -20,15 +20,27 @@ layout: compress
 <section class="venta-caracteristicas">
   <h2>{{page.intro}}</h2>
   <ul>
-    <li><img src="{{site.baseurl}}/assets/images/icons/habitacion.webp" alt="Logo de habitaciones de una casa en venta en Fusagasugá" loading="lazy"> {{page.habitacion}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/area.svg" alt="Logo del área de una casa en venta en Fusagasugá" loading="lazy"> {{page.area}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/habitacion.svg" alt="Logo de habitaciones de una casa en venta en Fusagasugá" loading="lazy"> {{page.habitacion}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/sala.svg" alt="Logo de una sala de una casa en venta en Fusagasugá" loading="lazy"> {{page.sala}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/comedor.svg" alt="Logo de un comedor de una casa en venta en Fusagasugá" loading="lazy"> {{page.comedor}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/cocina.svg" alt="Logo de una cocina de una casa en venta en Fusagasugá" loading="lazy"> {{page.cocina}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/bano.svg" alt="Logo de un baño de una casa en venta en Fusagasugá" loading="lazy"> {{page.bano}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/garaje.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy"> {{page.garaje}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/servicios.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy"> {{page.servicios}}</li>
+    {% for item in page.adicional %}
+    <li><img src="{{site.baseurl}}/assets/images/icons/property.svg" alt="Logo de los servicios de una casa en venta en Fusagasugá" loading="lazy"> {{item}}</li>
+    {% endfor %}
   </ul>
 </section><!-- End About Us Section -->
 
 <main class="venta-body">
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
+  {% include image-gallery.html %} 
+
   {{content}}
 </main>
-  {% include testimonios.html %}
+{% include testimonios.html %}
 <section id="counter" class="counter-area section-padding">
   <div class="container">
     <div class="row">
@@ -42,10 +54,15 @@ layout: compress
             <div class="counter-container">
               <h3>{{page.h1}} ¿Qué esperas?</h3>
               <ul>
-                {% for items in page.caracteristicas %}
-                {% for item in items %}
-                <li>✓ {{item[0]|capitalize}}</li>
-                {% endfor %}
+                <li>✓ {{page.habitacion}}</li>
+                <li>✓ {{page.sala}}</li>
+                <li>✓ {{page.comedor}}</li>
+                <li>✓ {{page.cocina}}</li>
+                <li>✓ {{page.bano}}</li>
+                <li>✓ {{page.garaje}}</li>
+                <li>✓ {{page.servicios}}</li>
+                {% for item in page.adicional %}
+                <li>✓ {{item}}</li>
                 {% endfor %}
                 <li><a href="#" class="boton-white">Contacta a un asesor</a></li>
               </ul>
@@ -75,7 +92,6 @@ layout: compress
 
   <!-- Template Main JS File -->
   <script src="/assets/javascripts/main.js"></script>
-
 </body>
 
 </html>

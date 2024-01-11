@@ -26,36 +26,36 @@ adicional:
   - Zona de lavado
   - A 25 minutos de la zona urbana
 galleryImages:
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-01.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-02.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-03.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-04.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-05.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-06.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-07.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-08.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-09.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-010.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-011.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-012.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-013.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-014.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-015.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-016.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-017.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-019.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-020.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-021.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-022.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-023.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-024.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-025.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-026.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-027.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
-  - images/finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-01.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-02.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-03.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-04.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-05.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-06.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-07.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-08.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-09.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-010.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-011.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-012.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-013.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-014.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-015.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-016.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-017.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-019.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-020.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-021.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-022.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-023.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-024.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-025.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-026.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-027.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
+  - finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
 ---
 {% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
 

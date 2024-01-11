@@ -1,24 +1,24 @@
 ---
 layout: venta
-permalink: casa-venta-fusagasuga-balmoral
+permalink: ventas/casa-venta-fusagasuga-balmoral
 title: Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria
 description: Hermosa casa en venta en Fusagasugá. Contacta con LEBEN
   Inmobiliaria y aprovecha esta ganga. ¡Escríbenos!
 h1: Casa en venta en Fusagasugá, barrio Balmoral
 clase: casas
-img: /casa-en-venta-balmoral-fusagasuga-023.jpg
+img: casa-en-venta-balmoral-fusagasuga-023.jpg
 alt: Balcón de Casa en Fusagasugá
 cta: Compra tu casa en Fusagasugá
 precio: 520'000.000
 propiedad: 103
 intro: Casa moderna en sector plano de Fusagasugá
 area: Pendiente
-habitacion: "3"
-sala: Amplia
-comedor: Abierto
+habitacion: "3 habitaciones amplias"
+sala: Sala amplia e iluminada
+comedor: Comedor abierto
 cocina: Con barra y muebles de mesón y flotantes
-bano: "4"
-garage: Para 2 carros
+bano: "4 baños amplios y completos"
+garaje: Para 2 carros
 servicios: Agua, luz y gas
 adicional:
   - "Zona de lavado "
@@ -31,7 +31,6 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-06.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-07.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-08.jpg
-  - /casa-en-venta-balmoral-fusagasuga-023.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-010.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-011.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-012.jpg
@@ -45,6 +44,8 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
 ---
+{% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
+
 ## Venta de finca en Fusagasugá Cundinamarca, Colombia
 
 ¿Está pensando en comprar una finca en Fusagasugá Cundinamarca, Colombia? ¡Pues está en el lugar adecuado! No hay mejor momento que éste para invertir en agricultura en Colombia. Con la promoción por parte del gobierno colombiano del desarrollo agrícola y la ubicación estratégica del país en América Latina, éste es el momento perfecto para adquirir **haciendas, casas de campo y fincas**. Fusagasugá, Cundinamarca, es un entorno ideal para este tipo de inversión, ya que ofrece un clima y una ubicación geográfica ideales.  
