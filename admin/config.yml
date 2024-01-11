@@ -46,7 +46,7 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
-      - { label: "Aparece en inicio", name: "home", widget: "boolean", default: true}
+      - { label: "Aparece en inicio", name: "home", widget: "boolean", default: false}
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog'
     label: 'Blog'
