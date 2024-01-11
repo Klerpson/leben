@@ -11,14 +11,15 @@ alt: Balcón de Casa en Fusagasugá
 cta: Compra tu casa en Fusagasugá
 precio: 520'000.000
 propiedad: 103
-intro: Casa moderna en sector plano de Fusagasugá
 area: Pendiente
-habitacion: "3 habitaciones amplias"
 sala: Sala amplia e iluminada
 comedor: Comedor abierto
-cocina: Con barra y muebles de mesón y flotantes
-bano: "4 baños amplios y completos"
+bano: 4 baños amplios y completos
 garaje: Para 2 carros
+intro: Casa moderna en sector plano de Fusagasugá
+habitacion: 3 habitaciones amplias
+cocina: Con barra y muebles de mesón y flotantes
+garage: Parqueadero para 2 carros
 servicios: Agua, luz y gas
 adicional:
   - "Zona de lavado "
