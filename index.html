@@ -135,105 +135,16 @@ parent: portafolio
             <p>Estas son las personas que son parte del equipo de profesionales. Invierte en tus propiedad raíz de Fusagasugá con el respaldo de estas grandes personas.</p>
           </div>
         </div>
-
         <div class="row gy-4">
-          <div class="col-xl-3 col-md-6 d-flex">
+          {% for miembro in site.data.team %}
+          <div class="col-xl-4 col-md-6 d-flex">
             <div class="member">
-              <img src="assets/images/team/team-1.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Alejandro Hurtado</h3>
-              <span>Fundador de Leben Inmobiliaria</span>
+              <img src="assets/images/team/{{miembro.img}}" class="img-fluid" loading="lazy" alt="{{miembro.alt}}">
+              <h3>{{miembro.nombre}}</h3>
+              <span>{{miembro.trabajo}}</span>
             </div>
           </div><!-- End Team Member -->
-
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="200">
-            <div class="member">
-              <img src="assets/images/team/team-2.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Sebastián Rincón</h3>
-              <span>Gerente de Marketing Digital y Cofundador</span>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="75">
-            <div class="member">
-              <img src="assets/images/team/team-3.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Dayana Moreno</h3>
-              <span>Ejecutiva de Ventas</span>
-            </div>
-          </div><!-- End Team Member -->
-
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <img src="assets/images/team/team-4.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Daniel Pérez</h3>
-              <span>Diseñador Gráfico</span>
-            </div>
-          </div><!-- End Team Member -->
-          
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <img src="assets/images/team/team-1.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Paula Torres</h3>
-              <span>Content Manager</span>
-            </div>
-          </div><!-- End Team Member -->
-          
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <img src="assets/images/team/team-2.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Karol Enciso</h3>
-              <span>Community Manager</span>
-            </div>
-          </div><!-- End Team Member -->
-          
-          <div class="col-xl-3 col-md-6 d-flex" data-aos="fade-up" data-aos-delay="400">
-            <div class="member">
-              <img src="assets/images/team/team-4.jpg" class="img-fluid" loading="lazy" alt="Asesor de LEBEN Inmobiliaria Fusagasugá">
-              <div class="social">
-                <a href=""><i class="bi bi-twitter"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-              </div>
-              <h3>Charles Hoeper</h3>
-              <span>Cofundador y Fotógrafo Inmobiliario</span>
-            </div>
-          </div><!-- End Team Member -->
+          {% endfor %}
         </div>
       </div>
     </section><!-- End Our Team Section -->
