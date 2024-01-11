@@ -2606,6 +2606,7 @@ button:focus:not(:focus-visible) {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   text-align: left;
   gap: 2em;
 }
@@ -2652,6 +2653,11 @@ button:focus:not(:focus-visible) {
   body {
     flex-direction: column;
   }
+}
+
+.counter-area .container .row{
+  align-items: center;
+
 }
 
 /*--------------------------------------------------------------
