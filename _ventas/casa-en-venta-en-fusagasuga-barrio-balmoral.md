@@ -16,11 +16,10 @@ area: Pendiente
 sala: Sala amplia e iluminada
 comedor: Comedor abierto
 bano: 4 baños amplios y completos
-garaje: Para 2 carros
+garaje: Garaje para 2 carros
 intro: Casa moderna en sector plano de Fusagasugá
 habitacion: 3 habitaciones amplias
 cocina: Con barra y muebles de mesón y flotantes
-garage: Parqueadero para 2 carros
 servicios: Agua, luz y gas
 adicional:
   - "Zona de lavado "

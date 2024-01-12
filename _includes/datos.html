@@ -7,6 +7,9 @@
               {% if page.url == "/ventas" %}
               <h2 class="datos-h2">Aprovecha esta propiedad en ganga en Fusagasugá</h2>
               {% endif %}
+              {% if page.url == "/arriendo" %}
+              <h2 class="datos-h2">Aprovecha esta propiedad en ganga en Fusagasugá</h2>
+              {% endif %}
               <div class="icon"><img src="{{site.baseurl}}/assets/images/{{include.img}}" alt="Casas Fusagasugá Colombia" loading="lazy"></div>
             </div>
           </div>
@@ -23,7 +26,10 @@
                 <li><i class="bi bi-link-45deg"></i> {{include.li6}}</li>
                 <li><i class="bi bi-link-45deg"></i> {{include.li7}}</li>
                 {% if page.url == "/ventas" %}
-                <li><a href="#" class="boton-white">↪ Mira la propiedad</a></li>
+                <li><a href="{{site.baseurl}}{{include.url}}" class="boton-white">↪ Mira la propiedad</a></li>
+                {% endif %}
+                {% if page.url == "/arriendo" %}
+                <li><a href="{{site.baseurl}}{{include.url}}" class="boton-white">↪ Mira la propiedad</a></li>
                 {% endif %}
               </ul>
             </div>
