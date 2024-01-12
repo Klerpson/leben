@@ -47,9 +47,18 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
-      - { label: 'Nombre del asesor encargado', name: 'asesor', widget: 'string' }
-      - { label: 'Número de celular del asesor', name: 'contacto', widget: 'number' }
-      - { label: 'Foto del asesor de mínimo 800px y formato WEBP', name: 'foto-asesor', widget: 'image' }
+      - label: "Nombre del asesor(a)"
+        name: "asesor"
+        widget: "select"
+        options: ["Alejandro Hurtado", "Sebastián Rincón", "Dayana Moreno", "Daniel Pérez"]
+      - label: 'Número de celular del asesor'
+        name: 'contacto'
+        widget: "select"
+        options: ["3102155237", "3224736189", "3208647256", "300000000"]
+      - label: 'Foto del asesor de mínimo 800px y formato WEBP'
+        name: 'foto-asesor'
+        widget: "select"
+        options: ["alejandro-hurtado-leben.webp", "sebastian-rincon-leben.webp", "dayana-moreno-leben.webp", "daniel-perez-leben.webp"]
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'arriendo'
     label: 'Arriendo'
