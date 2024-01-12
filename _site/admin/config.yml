@@ -23,10 +23,52 @@ collections:
         name: "clase"
         widget: "select"
         options: ["Apartamentos", "Apartaestudios", "Casas", "Fincas", "Quintas"]
-      - label: "Tipo de transacción comercial"
-        name: "category"
+      - { label: 'Imagen principal mínimo 1024px y formato WEBP', name: 'img', widget: 'image' }
+      - { label: 'Texto breve que describe la imagen', name: 'alt', widget: 'string' }
+      - { label: 'Texto breve para llamado a la acción', name: 'cta', widget: 'string' }
+      - { label: 'Precio con puntos de miles y coma de millón', name: 'precio', widget: 'string' }
+      - { label: 'Propiedad número', name: 'propiedad', widget: 'number' }
+      - { label: 'Subtítulo breve para presentar la propiedad', name: 'intro', widget: 'string' }
+      - {label: Area total, name: area, widget: string}
+      - {label: Habitaciones, name: habitacion, widget: string}
+      - {label: Sala, name: sala, widget: string}
+      - {label: Comedor, name: comedor, widget: string}
+      - {label: Cocina, name: cocina, widget: string}
+      - {label: Baños, name: bano, widget: string}
+      - {label: Garage, name: garage, widget: string}
+      - {label: Servicios, name: servicios, widget: string}
+      - label: "Características adicionales"
+        name: "adicional"
+        widget: "list"
+        allow_add: true
+        field: {label: Descripción, name: característica, widget: string}
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        summary: '{{fields.image}}'
+        field: {label: Image, name: image, widget: image}
+      - { label: 'Nombre del asesor encargado', name: 'asesor', widget: 'string' }
+      - { label: 'Número de celular del asesor', name: 'contacto', widget: 'number' }
+      - { label: 'Foto del asesor de mínimo 800px y formato WEBP', name: 'foto-asesor', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'arriendo'
+    label: 'Arriendo'
+    folder: '_arriendo'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: "Aparece en inicio", name: "home", widget: "string", default: "No"}
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'venta' }
+      - { label: 'url', name: 'permalink', widget: 'string' }
+      - { label: 'Meta Título', name: 'title', widget: 'string' }
+      - { label: 'Meta descripción', name: 'description', widget: 'string' }
+      - { label: 'Título para la propiedad', name: 'h1', widget: 'string' }
+      - label: "Tipo de propiedad"
+        name: "clase"
         widget: "select"
-        options: ["Venta", "Arriendo", "Administración", "Proyectos"]
+        options: ["Apartamentos", "Apartaestudios", "Casas", "Fincas", "Quintas"]
       - { label: 'Imagen principal mínimo 1024px y formato WEBP', name: 'img', widget: 'image' }
       - { label: 'Texto breve que describe la imagen', name: 'alt', widget: 'string' }
       - { label: 'Texto breve para llamado a la acción', name: 'cta', widget: 'string' }
