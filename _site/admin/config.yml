@@ -51,6 +51,8 @@ collections:
         widget: "list"
         summary: '{{fields.image}}'
         field: {label: Image, name: image, widget: image}
+      - { label: 'Nombre del asesor encargado', name: 'asesor', widget: 'string' }
+      - { label: 'Número de celular del asesor', name: 'contacto', widget: 'number' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog'
     label: 'Blog'
