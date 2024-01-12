@@ -37,7 +37,7 @@ layout: compress
 <main class="venta-body">
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
   {% include image-gallery.html %} 
-  {% include asesor.html nombre=page.asesor contacto="3160520942" %}
+  {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
   {{content}}
 </main>
 {% include testimonios.html %}

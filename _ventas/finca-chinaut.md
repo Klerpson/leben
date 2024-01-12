@@ -56,9 +56,10 @@ galleryImages:
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
+asesor: Dayana Moreno
+contacto: 3208647256
+foto-asesor: dayana-moreno-leben.webp
 ---
-{% include asesor.html nombre="Sebastián Rincón" contacto="3160520942" %}
-
 ## Bienvenido al Paraíso en Chinauta
 
 Descubre la oportunidad de adquirir tu propio refugio de lujo en la hermosa Chinauta. Esta espectacular casa quinta, valorada en **$1.200.000.000**, se encuentra estratégicamente ubicada en el sector del peaje, ofreciéndote no solo una propiedad, sino un estilo de vida exclusivo.

@@ -1423,6 +1423,10 @@ section {
   border: 2px solid var(--color-primary);
 }
 
+.call-to-action div img{
+  width: min(100%, 600px);
+}
+
 @keyframes pulsate-btn {
   0% {
     transform: scale(0.6, 0.6);
