@@ -2638,7 +2638,6 @@ button:focus:not(:focus-visible) {
 .counter-container .icon {
   width: 100%;
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 
 .counter-container .icon img {

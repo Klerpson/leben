@@ -1025,7 +1025,7 @@ section {
   align-items: center;
   justify-content: center;
   height: 200px;
-  background: rgb(215 87 12 / 85%);
+  background: #DA2B2682;
   color: #fff;
   top: 14px;
   z-index: 2;
@@ -2638,7 +2638,6 @@ button:focus:not(:focus-visible) {
 .counter-container .icon {
   width: 100%;
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 
 .counter-container .icon img {
