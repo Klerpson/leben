@@ -9,24 +9,26 @@
       <a href="{{site.baseurl}}/blog" class="btn-get-started" data-aos="fade-up" data-aos-delay="50"><i class="bi bi-chevron-double-right"></i></a>
     </div>
     <div class="row gy-4">
+      {% for article in site.posts %}
       <div class="col-lg-4">
         <article class="entry">
           <div class="post-img">
-            <img src="assets/images/blog/blog-1.jpg" alt="Artículo" class="img-fluid" loading="lazy">
+            <img src="{{site.baseurl}}/assets/images/blog/{{article.hero}}" alt="{{article.alt}}" class="img-fluid" loading="lazy">
           </div>
-          <p class="post-category">Comprar casa</p>
+          <p class="post-category">{{article.category}}</p>
           <h2 class="title">
-            <a href="blog-details.html">¿Qué requisitos legales hay que cumplir para comprar apartemento en Fusagasugá?</a>
+            <a href="{{article.url}}">{{article.h1}}</a>
           </h2>
           <div class="d-flex align-items-center">
             <div class="post-meta">
               <p class="post-date">
-                <time datetime="2023-02-01">Feb 1, 2023</time>
+                <time datetime="{{article.date}}">{{article.date | date: "%d-%m-%Y" }}</time>
               </p>
             </div>
           </div>
         </article>
       </div><!-- End post list item -->
+      {% endfor %}
 
       <div class="col-lg-4">
         <article class="entry">

@@ -10,7 +10,8 @@
   background-position: center;
 }
 
-.page-hero h1{
+.page-hero h1,
+.page-hero h2{
   color: #fff;
 }
 
@@ -364,9 +365,7 @@ transform: scale(1.05);
 }
 
 .blog .post-author {
-  padding: 20px;
   margin-top: 30px;
-  box-shadow: 0 1px 6px rgb(158 158 158 / 10%);
   border-radius: 0;
 }
 
@@ -378,7 +377,7 @@ transform: scale(1.05);
 .blog .post-author h4 {
   font-weight: 600;
   font-size: 22px;
-  margin-bottom: 0px;
+  margin: 1em 0;
   padding: 0;
   color: var(--color-primary);
 }
@@ -395,7 +394,24 @@ transform: scale(1.05);
 .blog .post-author p {
   font-style: italic;
   color: rgba(108, 117, 125, 0.8);
-  margin-bottom: 0;
+  margin-bottom: 1em;
+}
+
+.blog .post-author .btn-white,
+.counter-area .btn-white{
+  border: 1.2px solid white;
+  color: white;
+  font-weight: 700;
+  padding: 12px 20px;
+  margin: 2em 0 0;
+  transition: all .4s ease-in-out;
+}
+
+.blog .post-author .btn-white:hover,
+.counter-area .btn-white:hover{
+  background-color: white;
+  color: var(--color-base);
+  box-shadow: 0 2px 8px rgba(255, 255, 255, 0.8);
 }
 
 /*--------------------------------------------------------------
@@ -412,9 +428,9 @@ transform: scale(1.05);
 
 .sidebar-item .sidebar-title {
   font-size: 20px;
-  margin-top: 15px;
+  margin-top: 2em;
   padding: 0;
-  color: var(--color-default);
+  color: white;
 }
 
 .post-item{
@@ -423,7 +439,7 @@ transform: scale(1.05);
 }
 
 .sidebar .sidebar-item+.sidebar-item {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 
 .sidebar .search-form form {

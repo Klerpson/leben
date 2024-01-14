@@ -8,12 +8,6 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/blog-details</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
         <loc>http://localhost:4000/blog</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -44,12 +38,6 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/project-details</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
         <loc>http://localhost:4000/servicios</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -67,6 +55,12 @@
         <priority>1.0</priority>
        </url>
   
+  
+      <url>
+        <loc>http://localhost:4000/blog/requisito-legales-para-comprar-casa-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
   
   

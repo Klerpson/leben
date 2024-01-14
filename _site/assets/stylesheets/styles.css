@@ -216,6 +216,7 @@ section {
 .section-header p {
   margin-bottom: 0;
   color: var(--color-default);
+  width: 60%;
   font-style: italic;
 }
 
@@ -842,7 +843,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -857,7 +858,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -872,7 +873,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -887,7 +888,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -902,7 +903,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -917,7 +918,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -932,7 +933,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -947,7 +948,7 @@ section {
   content: '';
   position: absolute;
   width: 50px;
-  top: -32px;
+  top: -53px;
   height: 50px;
   z-index: -1;
   display: block;
@@ -1024,7 +1025,7 @@ section {
   align-items: center;
   justify-content: center;
   height: 200px;
-  background: #DA2B2682;
+  background: rgb(215 87 12 / 85%);
   color: #fff;
   top: 14px;
   z-index: 2;
