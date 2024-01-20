@@ -1,25 +1,25 @@
 ---
+home: "true"
 layout: venta
 permalink: ventas/casa-venta-fusagasuga-balmoral
 title: Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria
 description: Hermosa casa en venta en Fusagasugá. Contacta con LEBEN
   Inmobiliaria y aprovecha esta ganga. ¡Escríbenos!
 h1: Casa en venta en Fusagasugá, barrio Balmoral
-category: venta
-clase: casas
+clase: Casas
 img: casa-en-venta-balmoral-fusagasuga-023.jpg
 alt: Balcón de Casa en Fusagasugá
 cta: Compra tu casa en Fusagasugá
 precio: 520'000.000
 propiedad: 103
+intro: Casa moderna en sector plano de Fusagasugá
 area: Pendiente
+habitacion: 3 habitaciones amplias
 sala: Sala amplia e iluminada
 comedor: Comedor abierto
+cocina: Cocina con barra y muebles de mesón y flotantes
 bano: 4 baños amplios y completos
 garaje: Garaje para 2 carros
-intro: Casa moderna en sector plano de Fusagasugá
-habitacion: 3 habitaciones amplias
-cocina: Cocina con barra y muebles de mesón y flotantes
 servicios: Agua, luz y gas
 adicional:
   - Zona de lavado
@@ -45,8 +45,9 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
 asesor: Dayana Moreno
-contacto: 3208647256
+contacto: "3208647256"
 foto-asesor: dayana-moreno-leben.webp
+category: venta
 ---
 ¿Alguna vez has soñado con un lugar que no solo sea una casa, sino un verdadero hogar? Te presentamos esta joya en el corazón de Fusagasugá, Cundinamarca, donde cada rincón ha sido diseñado pensando en tu comodidad y felicidad.
 
