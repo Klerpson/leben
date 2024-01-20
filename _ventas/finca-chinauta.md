@@ -1,5 +1,5 @@
 ---
-home: "si"
+permalink: ventas/finca-venta-chinauta-fusagasuga
 layout: venta
 title: "Finca en venta en Fusagasugá: Adolfo San Bernardo"
 description: Hermosa finca de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!

@@ -1,5 +1,4 @@
 ---
-home: "si"
 layout: venta
 permalink: ventas/casa-venta-fusagasuga-balmoral
 title: Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria
@@ -8,7 +7,7 @@ description: Hermosa casa en venta en Fusagasugá. Contacta con LEBEN
 h1: Casa en venta en Fusagasugá, barrio Balmoral
 clase: Casas
 img: casa-en-venta-balmoral-fusagasuga-023.jpg
-alt: Balcón de Casa en Fusagasugá
+alt: Balcón de casa en venta en Fusagasugá
 cta: Compra tu casa en Fusagasugá
 precio: 520'000.000
 propiedad: 103

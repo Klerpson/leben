@@ -13,7 +13,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Aparece en inicio", name: "home", widget: "string", default: "No"}
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'venta' }
       - { label: 'url', name: 'permalink', widget: 'string' }
       - { label: 'Meta Título', name: 'title', widget: 'string' }
@@ -68,7 +67,6 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: "Aparece en inicio", name: "home", widget: "string", default: "No"}
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'venta' }
       - { label: 'url', name: 'permalink', widget: 'string' }
       - { label: 'Meta Título', name: 'title', widget: 'string' }
