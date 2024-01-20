@@ -3686,7 +3686,6 @@ button.btn-get-started:hover {
   box-shadow: 0 0 0 100vmax var(--blanco);
   -webkit-clip-path: inset(0 -100vmax);
   clip-path: inset(0 -100vmax);
-  padding: 0 1em 4em;
   display: grid;
   gap: 1em;
 }

@@ -35,12 +35,12 @@ layout: compress
 </section><!-- End About Us Section -->
 
 <main class="venta-body">
-  <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
-  {% include image-gallery.html %} 
   {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
   {{content}}
+  <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
+  {% include image-gallery.html %} 
+  {% include testimonios.html %}
 </main>
-{% include testimonios.html %}
 <section id="counter" class="counter-area section-padding">
   <div class="container">
     <div class="row">
