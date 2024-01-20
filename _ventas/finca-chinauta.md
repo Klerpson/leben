@@ -1,9 +1,7 @@
 ---
 layout: venta
 title: "Finca en venta en Fusagasugá: Adolfo San Bernardo"
-description: Hermosa finca de producción en uno de los sectores de más alta
-  valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta
-  oferta. ¡Escríbenos!
+description: Hermosa finca de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
 h1: "Finca a la venta en Adolfo San Bernardo, Fusagasugá "
 clase: fincas
 img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg

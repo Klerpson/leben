@@ -54,7 +54,7 @@ collections:
       - label: 'Número de celular del asesor'
         name: 'contacto'
         widget: "select"
-        options: ["3102155237", "3224736189", "3208647256", "300000000"]
+        options: ["3102155237", "3224736189", "3208647256", "3208647256"]
       - label: 'Foto del asesor de mínimo 800px y formato WEBP'
         name: 'foto-asesor'
         widget: "select"
