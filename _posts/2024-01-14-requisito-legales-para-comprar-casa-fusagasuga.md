@@ -8,7 +8,7 @@ alt: Foto de apartamento en Fusagasugá
 category: Compra
 excerpt: Fusagasugá es una hermosa ciudad en crecimiento. ¿Sabes qué debes tener listo para comprar casa allí? Nosotros te decimos
 autor: Sebastián Rincón
-foto: blog-author-5.jpg
+foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
