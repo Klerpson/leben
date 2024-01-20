@@ -13,12 +13,12 @@ propiedad: 144
 intro: Hermosa finca de producción en uno de los sectores de más alta
   valorización en San Bernardo
 area: 12192 metros de terreno
-habitacion: "5 habitaciones amplias"
+habitacion: 5 habitaciones amplias
 sala: Sala espaciosa e iluminada
 comedor: Comedor en espacio abierto a la sala
 cocina: Cocina iluminada con 1 mesón
-bano: "3 baños amplios"
-garage: Garage en espacio abierto para 4 carros
+bano: 3 baños amplios
+garaje: Parqueadero en espacio abierto para 4 carros
 servicios: Agua, luz y gas
 adicional:
   - 435 matas de durazno
