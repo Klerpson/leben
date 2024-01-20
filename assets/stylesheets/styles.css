@@ -1307,7 +1307,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action {
-  padding: 150px 0;
+  padding: 3em 0;
 }
 
 .call-to-action h2 {
@@ -3664,7 +3664,6 @@ button.btn-get-started:hover {
   clip-path: inset(0 -100vmax);
   padding: 0 1em 4em;
   display: grid;
-  place-items: center;
   gap: 1em;
 }
 
