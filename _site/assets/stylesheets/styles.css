@@ -987,13 +987,17 @@ section {
   width: 100px;
 }
 
+.icon-box img{
+  width: min(100%, 58px);
+}
+
 .service-number {
   position: absolute;
   right: 11px;
-  font-size: 11rem;
-  color: #242424;
+  font-size: 7rem;
+  color: var(--color-gris);
   font-family: var(--font-default);
-  top: -53px;
+  top: -12px;
 }
 
 .img-overlay-left {
