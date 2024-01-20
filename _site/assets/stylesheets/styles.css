@@ -3292,22 +3292,20 @@ button.btn-get-started:hover {
 }
 
 .contacto{
-  padding: 4em 0;
+  padding: 4em clamp(16px, calc(100% - 90vw), 20vw);
   margin: 2em 0;
   display: flex;
   flex-wrap: wrap;
   gap: 2em;
-  width: 100%;
   justify-content: center;
-  background-color: var(--blanco);
   box-shadow: 0 0 0 100vmax var(--blanco);
   -webkit-clip-path: inset(0 -100vmax);
   clip-path: inset(0 -100vmax);
+  min-height: 70vh;
 }
 
 .contacto h3{
   width: 100%;
-  color: var(--color-base);
 }
 
 /*--------------------------------------------------------------
