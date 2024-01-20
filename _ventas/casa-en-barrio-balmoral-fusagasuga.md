@@ -45,7 +45,7 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
 asesor: Dayana Moreno
-contacto: 3208647256
+contacto: "3208647256"
 foto-asesor: dayana-moreno-leben.webp
 category: venta
 ---
