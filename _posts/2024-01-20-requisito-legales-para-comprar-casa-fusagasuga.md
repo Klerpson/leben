@@ -20,7 +20,7 @@ Recientemente ha atraído a varios compradores potenciales interesados en adquir
 
 ## Documentos previos a la compra de una casa en Fusagasugá
 
-Antes de comprar una vivienda en Fusagasugá, debes tener listada la documentación adecuada. Esto incluye:
+Antes de [comprar una vivienda en Fusagasugá]({{'ventas'|relative_url}}), debes tener listada la documentación adecuada. Esto incluye:
 
 * Documento nacional de identidad o cédula
 * Comprobante de residencia y un certificado de solvencia, que emite una entidad financiera
@@ -54,4 +54,4 @@ Antes de iniciar el proceso de compra de un apartamento, es importante:
 2. Tener los fondos apropiados
 3. Contratar a un abogado experto que verifique el estado legal de la propiedad
 
-Una vez cumplidos todos los requisitos legales, podrás disfrutar de la belleza y la cultura de Fusagasugá desde la comodidad de tu propia casa o apartamento.
+Una vez cumplidos todos los requisitos legales, podrás [disfrutar de la belleza y la cultura de Fusagasugá](% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %) desde la comodidad de tu propia casa o apartamento.

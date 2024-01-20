@@ -9,64 +9,68 @@
       <a href="{{site.baseurl}}/blog" class="btn-get-started" data-aos="fade-up" data-aos-delay="50"><i class="bi bi-chevron-double-right"></i></a>
     </div>
     <div class="row gy-4">
-      {% for article in site.posts %}
-      <div class="col-lg-4">
-        <article class="entry">
-          <div class="post-img">
-            <img src="{{site.baseurl}}/assets/images/blog/{{article.hero}}" alt="{{article.alt}}" class="img-fluid" loading="lazy">
+
+    <div class="col-lg-4">
+      {% assign post1 = site.posts[0] %}
+      <article class="entry">
+        <div class="post-img">
+          <img src="assets/images/blog/{{post1.hero}}" alt="{{post1.alt}}" class="img-fluid" loading="lazy">
+        </div>
+        <p class="post-category">{{post1.category}}</p>
+        <h2 class="title">
+          <a href="{{site.baseurl}}{{post1.url}}">{{post1.h1}}</a>
+        </h2>
+        <div class="d-flex align-items-center">
+          <div class="post-meta">
+            <p class="post-date">
+              <time datetime="{{post1.date |  date: '%d-%m-%Y' }}">{{post1.date | date: "%d-%m-%Y" }}</time>
+            </p>
           </div>
-          <p class="post-category">{{article.category}}</p>
-          <h2 class="title">
-            <a href="{{article.url}}">{{article.h1}}</a>
-          </h2>
-          <div class="d-flex align-items-center">
-            <div class="post-meta">
-              <p class="post-date">
-                <time datetime="{{article.date}}">{{article.date | date: "%d-%m-%Y" }}</time>
-              </p>
-            </div>
-          </div>
-        </article>
-      </div><!-- End post list item -->
-      {% endfor %}
+        </div>
+      </article>
+    </div><!-- End post list item -->
 
       <div class="col-lg-4">
+        {% assign post2 = site.posts[1] %}
         <article class="entry">
           <div class="post-img">
-            <img src="assets/images/blog/blog-2.jpg" alt="Artículo" class="img-fluid" loading="lazy">
+            <img src="assets/images/blog/{{post2.hero}}" alt="{{post2.alt}}" class="img-fluid" loading="lazy">
           </div>
-          <p class="post-category">Fusagasugá</p>
+          <p class="post-category">{{post2.category}}</p>
           <h2 class="title">
-            <a href="blog-details.html">Los mejores barrios para vivir en Fusagasugá</a>
+            <a href="{{site.baseurl}}{{post2.url}}">{{post2.h1}}</a>
           </h2>
           <div class="d-flex align-items-center">
             <div class="post-meta">
               <p class="post-date">
-                <time datetime="2023-05-05">Mayo 5, 2023</time>
+                <time datetime="{{post2.date |  date: '%d-%m-%Y' }}">{{post2.date | date: "%d-%m-%Y" }}</time>
               </p>
             </div>
           </div>
         </article>
       </div><!-- End post list item -->
 
+
       <div class="col-lg-4">
+        {% assign post3 = site.posts[2] %}
         <article class="entry">
           <div class="post-img">
-            <img src="assets/images/blog/blog-3.jpg" alt="Artículo" class="img-fluid" loading="lazy">
+            <img src="assets/images/blog/{{post3.hero}}" alt="{{post3.alt}}" class="img-fluid" loading="lazy">
           </div>
-          <p class="post-category">Arriendos</p>
+          <p class="post-category">{{post3.category}}</p>
           <h2 class="title">
-            <a href="blog-details.html">La lista de la semana de las casas en arriendo en Fusagasugá</a>
+            <a href="{{site.baseurl}}{{post3.url}}">{{post3.h1}}</a>
           </h2>
           <div class="d-flex align-items-center">
             <div class="post-meta">
               <p class="post-date">
-                <time datetime="2023-11-22">Nov 22, 2023</time>
+                <time datetime="{{post3.date |  date: '%d-%m-%Y' }}">{{post3.date | date: "%d-%m-%Y" }}</time>
               </p>
             </div>
           </div>
         </article>
       </div><!-- End post list item -->
+    </div>
 
     </div><!-- End recent posts list -->
 
