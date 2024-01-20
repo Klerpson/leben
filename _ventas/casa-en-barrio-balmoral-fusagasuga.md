@@ -1,5 +1,5 @@
 ---
-home: "true"
+home: "si"
 layout: venta
 permalink: ventas/casa-venta-fusagasuga-balmoral
 title: Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria
