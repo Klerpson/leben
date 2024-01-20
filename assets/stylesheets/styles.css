@@ -3555,8 +3555,8 @@ button.btn-get-started:hover {
   right: 12px;
   transition: all .2s ease-in-out;
   z-index: 100;
-  -webkit-animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s 8 alternate-reverse backwards;
-	        animation: slide-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s 8 alternate-reverse backwards;
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.5s 6 alternate-reverse both;
+	        animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) 0.5s 6 alternate-reverse both;
 }
 
 @media screen and (width >=800px) {
@@ -3576,24 +3576,24 @@ button.btn-get-started:hover {
   filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, .7));
 }
 
-@-webkit-keyframes slide-top {
+@-webkit-keyframes scale-up-center {
   0% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
   }
   100% {
-    -webkit-transform: translateY(-100px);
-            transform: translateY(-100px);
+    -webkit-transform: scale(1);
+            transform: scale(1);
   }
 }
-@keyframes slide-top {
+@keyframes scale-up-center {
   0% {
-    -webkit-transform: translateY(0);
-            transform: translateY(0);
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
   }
   100% {
-    -webkit-transform: translateY(-100px);
-            transform: translateY(-100px);
+    -webkit-transform: scale(1);
+            transform: scale(1);
   }
 }
 
