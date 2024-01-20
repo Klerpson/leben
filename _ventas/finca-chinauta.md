@@ -12,12 +12,12 @@ propiedad: 144
 intro: Hermosa finca de producción en uno de los sectores de más alta
   valorización en San Bernardo
 area: 12192 metros de terreno
-habitacion: "5 habitaciones"
-sala: Espaciosa e iluminada
-comedor: Espacio abierto a la sala
-cocina: Iluminada con 1 mesón
-bano: "3"
-garage: 1 en espacio abierto para 4 carros
+habitacion: "5 habitaciones amplias"
+sala: Sala espaciosa e iluminada
+comedor: Comedor en espacio abierto a la sala
+cocina: Cocina iluminada con 1 mesón
+bano: "3 baños amplios"
+garage: Garage en espacio abierto para 4 carros
 servicios: Agua, luz y gas
 adicional:
   - 435 matas de durazno
@@ -58,22 +58,30 @@ asesor: Dayana Moreno
 contacto: 3208647256
 foto-asesor: dayana-moreno-leben.webp
 ---
-## Bienvenido al Paraíso en Chinauta
+## 🌄 **¡Tu Refugio de Paz y Naturaleza en San Bernardo!** 🌄
 
-Descubre la oportunidad de adquirir tu propio refugio de lujo en la hermosa Chinauta. Esta espectacular casa quinta, valorada en **$1.200.000.000**, se encuentra estratégicamente ubicada en el sector del peaje, ofreciéndote no solo una propiedad, sino un estilo de vida exclusivo.
+¿Has imaginado alguna vez vivir rodeado de la serenidad de la naturaleza, con todas las comodidades modernas a tu alcance? Te presentamos esta magnífica finca en San Bernardo, un oasis de tranquilidad y belleza a solo 25 minutos de la zona urbana.
 
-Imagina despertar cada mañana en una residencia con **7 habitaciones y 8 baños**, proporcionando el espacio perfecto para tu familia y amigos. Con una sala acogedora y una cocina equipada, este hogar se convierte en el escenario ideal para crear invaluables recuerdos. Con **6 garajes** a tu disposición, disfrutarás de comodidad y seguridad para todos tus vehículos.
+🌳 **Espacio y Libertad:** Extendiéndose sobre **12,192 metros de terreno**, esta finca ofrece un vasto espacio para vivir, soñar y explorar. Imagina pasear por tu propiedad, rodeado de **435 matas de durazno**, respirando aire puro y disfrutando de la paz del campo.
 
-La propiedad se erige sobre **300 metros construidos** en un generoso terreno de **1.400 metros**, ofreciendo un equilibrio perfecto entre el lujo interior y la espléndida zona verde exterior. Imagina relajarte en tu propia piscina, disfrutar de momentos de esparcimiento en la cancha o simplemente deleitarte con la paz de la capilla privada. Este oasis también cuenta con un área de lavado, suministro constante de agua, energía eléctrica y gas, brindándote todas las comodidades que mereces.
+🏡 **Hogar Dulce Hogar:** La finca cuenta con **5 habitaciones acogedoras**, ideales para una gran familia o para recibir a tus invitados. La **sala espaciosa e iluminada** y el **comedor en espacio abierto** crean un ambiente perfecto para la convivencia y el entretenimiento, mientras que la **cocina iluminada con mesón** es ideal para preparar deliciosas comidas caseras.
 
->Esta no es solo una casa, es un rincón donde tus sueños toman forma. ¡No pierdas la oportunidad de transformar tu vida y asegurar tu pedacito de paraíso en Chinauta!
+🛁 **Confort en Cada Rincón:** Los **3 baños cómodos y amplios** ofrecen un espacio de relajación y privacidad, esencial en tu día a día.
 
-## Invierte en tu felicidad y tranquilidad
+🚗 **Estacionamiento y Más:** El **garaje en espacio abierto para 4 carros** asegura que siempre haya espacio para tus vehículos y los de tus visitas.
 
-¿Te has preguntado alguna vez cómo sería vivir en un lugar que lo tiene todo? Con esta casa quinta en Chinauta, tus anhelos de bienestar y serenidad están a punto de hacerse realidad.
+💧 **Servicios Esenciales:** Con acceso a **agua, luz y gas**, esta finca combina la belleza de la vida rural con las comodidades modernas.
 
-Con **parqueadero para visitantes** y una zona de BBQ, este hogar se convierte en el escenario perfecto para recibir a tus seres queridos y crear memorias inolvidables. La propiedad no solo te ofrece un lugar para vivir, sino una experiencia de vida completa. ¿Imaginas los fines de semana disfrutando de asados con amigos y familiares en tu propia zona de BBQ, seguidos de un chapuzón en la piscina?
+🧺 **Facilidades Prácticas:** La **zona de lavado** añade esa conveniencia necesaria para la vida cotidiana, haciendo que las tareas del hogar sean más fáciles y agradables.
 
->Además, la proximidad a una capilla propia agrega un toque especial de paz y espiritualidad a tu nuevo hogar. La seguridad de **6 garajes** garantiza que siempre tendrás espacio para tus vehículos y los de tus invitados.
+---
 
-Invertir en esta propiedad no solo significa adquirir un bien raíz; significa asegurar tu felicidad y tranquilidad a largo plazo. Con todas las comodidades que necesitas y un entorno natural envidiable, esta casa en Chinauta es la inversión que no solo añadirá valor a tu patrimonio, sino que también te brindará la calidad de vida que mereces. ¡Bienvenido al hogar de tus sueños!
+🌟 **¡Una Oportunidad Única en San Bernardo!** 🌟
+
+Esta finca no es solo una propiedad, es un estilo de vida. Un lugar donde puedes desconectar del bullicio de la ciudad y reconectar con la naturaleza. Pero recuerda, **oportunidades como esta en San Bernardo, cerca de Fusagasugá, son raras y muy buscadas**.
+
+⏰ **¡No Esperes Más!** Esta joya de la naturaleza está esperando por ti. [Contáctanos hoy](https://wa.me/57{{page.contacto}}) y empieza a vivir el sueño de tener tu propia finca.
+
+---
+
+**Tu Paraíso Personal Te Espera. ¡Bienvenido a Tu Nueva Vida en San Bernardo!** 🍑🏞️
