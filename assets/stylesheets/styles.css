@@ -2843,6 +2843,14 @@ button:focus:not(:focus-visible) {
   margin-bottom: 0;
 }
 
+#breadcrumbs{
+  padding-top: 1em;
+}
+
+#breadcrumbs span{
+  color: white;
+}
+
 /*--------------------------------------------------------------
 # Blog Sidebar
 --------------------------------------------------------------*/
