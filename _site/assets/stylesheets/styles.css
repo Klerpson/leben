@@ -3540,7 +3540,7 @@ button.btn-get-started:hover {
   display: flex;
   justify-content: center;
   text-align: center;
-  width: min(100%, 280px);
+  width: min(100%, 320px);
   margin: 3em 0;
   padding: 12px 20px;
   background-color: white;
