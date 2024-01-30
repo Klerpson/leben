@@ -2325,9 +2325,11 @@ button:focus:not(:focus-visible) {
   color: #ffffff;
   background: var(--color-primary);
   border: 2px solid var(--color-primary);
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   transition: all .2s ease-in;
+  width: min(100%, 320px);
+  margin: 0 auto;
 }
 
 .btn-get-started:hover {

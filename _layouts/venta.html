@@ -14,7 +14,7 @@ layout: compress
   <div>
     <h1>{{page.h1}}</h1>
     <p>{{page.description}}</p>
-    <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Consigue más información</a>
+    <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
   </div>
   <div>
     <span>{{page.precio}} negociables</span>
@@ -44,8 +44,10 @@ layout: compress
 <main class="venta-body">
   {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
   {{content}}
+  
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
   {% include image-gallery.html %} 
+  <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
   {% include testimonios.html %}
 </main>
 <section id="counter" class="counter-area section-padding">
