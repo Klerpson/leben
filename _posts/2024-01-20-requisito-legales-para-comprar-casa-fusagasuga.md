@@ -50,8 +50,8 @@ Es importante tener en cuenta que todos estos requisitos legales serán aún má
 
 Antes de iniciar el proceso de compra de un apartamento, es importante:
 
-1. Que tengas toda la documentación necesaria
-2. Tener los fondos apropiados
-3. Contratar a un abogado experto que verifique el estado legal de la propiedad
+1. Que tengas toda la **documentación necesaria**
+2. Tener los **fondos** apropiados
+3. **Contratar a un abogado experto** que verifique el estado legal de la propiedad
 
 Una vez cumplidos todos los requisitos legales, podrás [disfrutar de la belleza y la cultura de Fusagasugá](% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %) desde la comodidad de tu propia casa o apartamento.
