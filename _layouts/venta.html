@@ -4,14 +4,15 @@ layout: compress
 {% include head.html %}
 <body style="background-color: var(--color-default);">
   <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
   j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-KNQTBJNT');</script>
+})(window,document,'script','dataLayer','GTM-KNQTBJNT');</script>
   <!-- End Google Tag Manager -->
-<div class="hero-venta sections-bg">
-  <div>
+  {% include header.html %}
+  <div class="hero-venta sections-bg">
+    <div>
     <h1>{{page.h1}}</h1>
     <p>{{page.description}}</p>
     <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
@@ -88,6 +89,7 @@ layout: compress
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
 
+      {% include footer.html %}
   <!-- Vendor JS Files -->
   <script src="/assets/javascripts/jquery.min.js"></script>
   <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>

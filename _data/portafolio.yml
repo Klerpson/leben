@@ -23,3 +23,8 @@
   url: "ventas/casa-nueva-en-venta-fusagasuga"
   cta: "Casa para estrenar en Fusagasugá"
   clase: "Venta"
+- img: "1009/casa-bonet-fusagasuga-1.webp"
+  alt: "Casa en venta Bonet Fusagasuga"
+  url: "ventas/casa-bonet-fusagasuga"
+  cta: "Sé el propietario de esta casa en Fusagasugá"
+  clase: "Venta"
