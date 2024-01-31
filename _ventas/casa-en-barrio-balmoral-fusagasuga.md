@@ -43,9 +43,9 @@ galleryImages:
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-021.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
   - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
-asesor: Dayana Moreno
-contacto: "3208647256"
-foto-asesor: dayana-moreno-leben.webp
+asesor: Sebastián Rincón
+contacto: 3102155237
+foto-asesor: sebastian-rincon-leben.webp
 category: venta
 ---
 ¿Alguna vez has soñado con un lugar que no solo sea una casa, sino un verdadero hogar? Te presentamos esta joya en el corazón de Fusagasugá, Cundinamarca, donde cada rincón ha sido diseñado pensando en tu comodidad y felicidad.
