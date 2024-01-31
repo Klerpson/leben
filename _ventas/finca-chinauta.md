@@ -55,9 +55,9 @@ galleryImages:
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
-asesor: Dayana Moreno
-contacto: 3208647256
-foto-asesor: dayana-moreno-leben.webp
+asesor: Sebastián Rincón
+contacto: 3102155237
+foto-asesor: sebastian-rincon-leben.webp
 ---
 ## 🌄 **¡Tu Refugio de Paz y Naturaleza en San Bernardo!** 🌄
 

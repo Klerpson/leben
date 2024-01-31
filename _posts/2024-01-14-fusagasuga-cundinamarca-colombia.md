@@ -35,7 +35,9 @@ Su proximidad a Bogotá, a solo unos 60 kilómetros, **la convierte en un destin
 
 ### Breve Historia de Fusagasugá
 
-La historia de Fusagasugá se remonta a tiempos precolombinos, siendo originalmente habitada por los indígenas Sutagaos. Con la llegada de los españoles, la ciudad comenzó a tomar forma, mezclando la rica herencia indígena con influencias europeas. A lo largo de los años, Fusagasugá ha crecido y se ha desarrollado, convirtiéndose en un importante centro urbano y cultural en la región.
+La historia de Fusagasugá se remonta a tiempos precolombinos, siendo originalmente habitada por los indígenas Sutagaos. Con la llegada de los españoles, la ciudad comenzó a tomar forma, mezclando la rica herencia indígena con influencias europeas.
+
+A lo largo de los años, Fusagasugá ha crecido y se ha desarrollado, convirtiéndose en un importante centro urbano y cultural en la región.
 
 ## Cultura y Tradiciones en Fusagasugá
 

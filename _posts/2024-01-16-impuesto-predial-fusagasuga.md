@@ -26,7 +26,7 @@ Pagar el impuesto predial en Fusagasugá, Cundinamarca, Colombia, puede hacerse 
 
 ## Formas de pagar el impuesto predial en Fusagasugá
 
-Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca](% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial. Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaciones fiscales.
+Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial. Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaciones fiscales.
 
 [Al acceder al sitio web](https://haciendafusagasuga.gov.co/){:rel="nofollow noopener noreferrer" target="_blank"}, las personas pueden diligenciar todos los pasos para finalmente hacer clic en la opción "Realizar pago" para iniciar el proceso de pago, garantizando un método fácil de usar y accesible para cumplir con sus responsabilidades fiscales.
 
@@ -60,7 +60,7 @@ Al asistir personalmente a **la oficina del Municipio situada en la Calle. 6 n.�
 
 ## Requisitos para pagar el impuesto predial en Fusagasugá
 
-Cuando se paga el impuesto predial, los propietarios deben asegurarse de cumplir los criterios y aportar [la documentación necesaria según lo estipulado por el Municipio de Fusagasugá](% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %).
+Cuando se paga el impuesto predial, los propietarios deben asegurarse de cumplir los criterios y aportar [la documentación necesaria según lo estipulado por el Municipio de Fusagasugá]({% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %}).
 
 Es esencial que los propietarios cumplan los requisitos de pago especificados y aporten la documentación e información pertinente para completar con éxito el proceso de pago del impuesto predial.
 
