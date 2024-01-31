@@ -24,25 +24,34 @@ adicional:
   - Transporte público cerca
   - Colegios, parque y comercio cerca
 galleryImages:
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-1.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-2.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-3.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-5.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-6.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-7.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-9.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-11.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-12.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-13.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-14.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-15.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-16.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-17.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-18.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-19.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-20.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-21.webp
-  - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-22.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-1.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-2.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-3.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-4.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-5.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-6.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-7.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-8.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-9.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-10.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-11.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-12.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-13.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-14.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-15.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-16.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-17.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-18.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-19.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-20.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-21.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-22.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-23.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-24.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-25.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-26.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-27.webp
+  - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-28.webp
 asesor: Alejandro Hurtado
 contacto: 3102155237
 foto-asesor: alejandro-hurtado-leben.webp
