@@ -106,6 +106,12 @@
        </url>
   
       <url>
+        <loc>http://localhost:4000/ventas/casa-campestre-venta-moniquira</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/ventas/casa-venta-fusagasuga-balmoral</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
