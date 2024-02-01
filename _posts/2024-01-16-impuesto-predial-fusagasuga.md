@@ -52,7 +52,7 @@ Una vez que los propietarios crean sus cuentas de usuario y descargan sus factur
 
 A través de esta interfaz de pago en línea específica, las personas pueden liquidar con seguridad y rapidez sus obligaciones fiscales.
 
-## Pago del impuesto predial en las oficinas del Municipio de Fusagasugá Cundinamarca
+## Pago en las oficinas del Municipio de Fusagasugá Impuesto Predial
 
 Los propietarios de inmuebles en Fusagasugá también tienen la oportunidad de visitar el Municipio en persona para realizar el pago del impuesto predial.
 
