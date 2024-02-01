@@ -19,7 +19,7 @@ Pagar el impuesto predial en Fusagasugá, Cundinamarca, Colombia, puede hacerse 
 ## Sobre el impuesto predial de Fusagasugá te contamos lo siguiente
 
 - [Cómo paga el impuesto predial en Fusagasugá en línea](#formas-de-pagar-el-impuesto-predial-en-fusagasugá)
-- [Cómo paga el impuesto predial en Fusagasugá en la oficina gubernamental](#pago-del-impuesto-predial-en-las-oficinas-del-municipio-de-fusagasugá-cundinamarca)
+- [Cómo paga el impuesto predial en Fusagasugá en la oficina gubernamental](#pago-en-la-alcaldía-de-fusagasugá-impuesto-predial)
 - [Requisitos para el pago del impuesto predial](#requisitos-para-pagar-el-impuesto-predial-en-fusagasugá)
 
 -----
