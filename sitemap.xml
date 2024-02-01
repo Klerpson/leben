@@ -17,7 +17,7 @@ layout: null
         <priority>1.0</priority>
        </url>
   {% endfor %}
-  {% for ciudad in site.ciudades %}
+  {% for ciudad in site.ventas %}
       <url>
         <loc>{{ site.url }}{{ ciudad.url | replace: 'index.html', '' }}</loc>
         <changefreq>monthly</changefreq>

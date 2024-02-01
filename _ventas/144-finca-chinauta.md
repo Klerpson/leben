@@ -21,8 +21,8 @@ bano: 3 baños amplios
 garaje: Parqueadero en espacio abierto para 4 carros
 servicios: Agua, luz y gas
 adicional:
-  - 435 matas de durazno
   - Zona de lavado
+  - 435 matas de durazno
   - A 25 minutos de la zona urbana
 galleryImages:
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-01.jpg

@@ -32,12 +32,6 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/ofertas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
         <loc>http://localhost:4000/servicios</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -74,6 +68,48 @@
         <priority>1.0</priority>
        </url>
   
+  
+      <url>
+        <loc>http://localhost:4000/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-en-la-palma-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-nueva-en-venta-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-bonet-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-negocio-oportunidad-vergel-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-venta-fusagasuga-balmoral</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/finca-venta-chinauta-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
   
   
 </urlset>

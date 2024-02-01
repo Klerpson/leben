@@ -26,11 +26,9 @@ adicional:
 galleryImages:
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-1.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-2.webp
-  - /assets/images/portfolio/1009/casa-bonet-fusagasuga-3.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-4.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-5.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-6.webp
-  - /assets/images/portfolio/1009/casa-bonet-fusagasuga-7.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-8.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-9.webp
   - /assets/images/portfolio/1009/casa-bonet-fusagasuga-10.webp
