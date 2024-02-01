@@ -46,7 +46,7 @@ Como parte de los servicios en línea que ofrece el municipio de Fusagasugá, lo
 
 Este recurso digital permite a los individuos acceder y gestionar eficazmente su documentación tributaria.
 
-### Paga el impuesto predial de Fusagasugá en línea
+### Pagar y descargar el impuesto predial de Fusagasugá en línea
 
 Una vez que los propietarios crean sus cuentas de usuario y descargan sus facturas respectivas, pueden **proceder a la sección de pago en línea en el sitio web oficial del municipio de Fusagasugá**.
 
