@@ -74,6 +74,8 @@ h2 {
   font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
   text-align: center;
   font-weight: bolder;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 h3 {
@@ -3909,4 +3911,8 @@ button.btn-get-started:hover {
     cursor: pointer;
     color:#fff;
     font-size: 25px;
+}
+
+.flow>*+*:not(h1) {
+  margin-top: 1.2em;
 }

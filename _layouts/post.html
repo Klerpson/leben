@@ -6,7 +6,7 @@ layout: default
     <div class="container position-relative">
       <div class="row gy-5" data-aos="fade-in">
         <div class="col-lg-12  order-lg-1 d-flex flex-column align-items-left justify-content-start text-left caption">
-          <h2>{{page.h1}}</h2>
+          <h1>{{page.h1}}</h1>
           <p>{{page.excerpt}}</p>
         </div>
       </div>
@@ -26,7 +26,7 @@ layout: default
   <!-- End Hero Section -->
   <main id="main" class="single-page">
       <section class="blog">
-        <div class="container" data-aos="fade-up">
+        <div class="container">
           <div class="row">
             <div class="col-lg-8">
               <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" style="width: 100%; margin-bottom: 2em;">
@@ -36,7 +36,7 @@ layout: default
               <div class="blog-sidbar">
               <div class="post-author d-grid">
                 <div class="author-image">
-                  <img src="{{site.baseurl}}/assets/images/team/{{page.foto}}" class="flex-shrink-0" alt="">
+                  <img src="{{site.baseurl}}/assets/images/team/{{page.foto}}" class="flex-shrink-0" alt="Asesor de Leben {{page.autor}}">
                 </div>
                 <div>
                   <h4>{{page.autor}}</h4>
@@ -59,7 +59,7 @@ layout: default
               <div class="sidebar-item recent-posts">
                 <h3 class="sidebar-title">Recent Posts</h3>
                 <div class="mt-3">
-                  {% for post in site.posts offset:1 limit:5 %}
+                  {% for post in site.posts limit:5 %}
                   <div class="post-item mt-3">
                     <img src="{{site.baseurl}}/assets/images/blog/{{post.hero}}" alt="{{post.alt}}">
                     <div>
@@ -76,10 +76,10 @@ layout: default
         </div>
       </section>
   </main><!-- End #main -->
-  <section id="counter" class="counter-area section-padding fadeInLeft wow" data-wow-delay=".5s">
+  <section id="counter" class="counter-area section-padding" >
     <div class="container">
       <div class="row">
-        <div class="counter-container" data-aos="fade-left" data-aos-delay="75">
+        <div class="counter-container">
           <h2>¿Te gustaría asesorarte para conseguir casa en Fusagasugá?</h2>
           <p>Contacta con el autor o autora de este artículo. Nuestros asesores expertos te ayudarán a encontrar la casa que suple tus necesidades y en el precio que necesitas.</p>
           <a href="{{site.whatsapp}}" class="btn-white">Contacta con {{page.autor}}</a>

@@ -10,13 +10,15 @@
   background-position: center;
 }
 
-.page-hero h1,
 .page-hero h2{
   color: #fff;
 }
 
+.page-hero h1,
 .page-hero p{
   color: #fff;
+  max-width: 880px;
+  margin-bottom: 1em;
 }
 
 .breadcrumb{

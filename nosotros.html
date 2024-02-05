@@ -11,7 +11,31 @@ h1: LEBEN es la agencia inmobiliaria de confianza de Fusagasugá
 
     {% include nosotros.html %}
     
+    
     {% include datos.html img="fotos-alucibas-a-fusagasuga.webp" data="1000" h2="Superamos los 1000 propietarios felices" li1="Más de 1000 negocios exitosos" li2="Variedad propiedades vendidas y en administración" li3="Todos los datos de tu interés disponibles" li4="Asesoría de expertos en todos los procesos" li5="Acompañamiento legal y comercial" li6="Comunicación constantes hasta cumplir totalmente" li7="Soporte 5/8" %}
+
+    <!-- Our Team Section -->
+    <section id="team" class="team section">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <h2>El equipo de agentes inmobiliarios expertos en LEBEN Fusagasugá</h2>
+            <p>Estas son las personas que son parte del equipo de profesionales. Invierte en tus propiedad raíz de Fusagasugá con el respaldo de estas grandes personas.</p>
+          </div>
+        </div>
+        <div class="row gy-4">
+          {% for miembro in site.data.team %}
+          <div class="col-xl-4 col-md-6 d-flex">
+            <div class="member">
+              <img src="assets/images/team/{{miembro.img}}" class="img-fluid" loading="lazy" alt="{{miembro.alt}}">
+              <h3>{{miembro.nombre}}</h3>
+              <span>{{miembro.trabajo}}</span>
+            </div>
+          </div><!-- End Team Member -->
+          {% endfor %}
+        </div>
+      </div>
+    </section><!-- End Our Team Section -->
     
     {% include testimonios.html %}
     {% include faq.html %}
