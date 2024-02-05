@@ -63,7 +63,7 @@ Los proyectos de vivienda y conjuntos de apartamentos en Fusagasugá no solo ofr
 
 ### Comprar un Lote: Lo que Debes Saber
 
-*Adquirir un lote en Fusagasugá es una oportunidad de oro para construir* la casa de tus sueños desde cero. Aquí te contamos qué consideraciones debes tener en cuenta, desde la ubicación hasta la normativa local.
+*Adquirir un lote en Fusagasugá es una oportunidad de oro para construir* la casa de tus sueños desde cero. [Aquí te contamos qué consideraciones debes tener en cuenta]({% post_url 2024-02-05-consejos-para-comprar-lote-fusagasuga %}), desde la ubicación hasta las ventajas de comprar en la localidad.
 
 ### Fincas en Venta: Una Opción para la Tranquilidad
 
