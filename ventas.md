@@ -77,11 +77,11 @@ Desde Leben Inmobiliaria te damos los mejores consejos para encontrar lotes econ
 
 ### Pasos para la Compra de Casa, Apartamento o Lote
 
-Desde la búsqueda inicial hasta la firma del contrato, te guiamos a través de cada paso del proceso de compra de tu nueva vivienda en Fusagasugá, asegurando una transacción segura y satisfactoria.
+Desde la búsqueda inicial hasta la firma del contrato, te guiamos a través de cada paso del proceso de compra de tu nueva vivienda en Fusagasugá, [asegurando una transacción segura y satisfactoria]({% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %}).
 
 ### Aspectos Legales y Financieros a Considerar
 
-Comprar una propiedad implica varios aspectos legales y financieros. Aquí, desglosamos los más importantes, incluyendo impuestos, financiamiento y cómo asegurarte de que tu inversión esté protegida.
+Comprar una propiedad implica varios aspectos legales y financieros. Aquí, desglosamos los más importantes, [incluyendo impuestos]({% post_url 2024-01-16-impuesto-predial-fusagasuga %}), financiamiento y cómo asegurarte de que tu inversión esté protegida.
 
 ### Consejos para Comprar en Remate
 
