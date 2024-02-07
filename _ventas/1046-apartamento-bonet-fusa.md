@@ -1,5 +1,5 @@
 ---
-permalink: ventas/apartamento-bonet-fusagasugá
+permalink: ventas/apartamento-bonet-fusagasuga
 layout: venta
 title: Acogedora Propiedad en Fusagasugá con Todas las Comodidades
 description: Vive la vida que mereces en este hermoso apartamento en Fusagasugá. ¡Haz clic y agenda una visita ahora mismo!
