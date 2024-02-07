@@ -3725,7 +3725,7 @@ button.btn-get-started:hover {
 
 .hero-venta div:last-child span {
   position: absolute;
-  top: 28dvh;
+  bottom: 10dvh;
   right: 0;
   z-index: 10;
   background: rgba(19, 4, 4, 0.4);

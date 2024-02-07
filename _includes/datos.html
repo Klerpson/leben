@@ -14,8 +14,10 @@
             </div>
           </div>
           <div class="col-lg-6 col-md-12">
-            <div class="counter-container" data-aos="fade-right" data-aos-delay="100">
+            <div class="counter-container" data-aos="fade-right" data-aos-delay="50">
+              {% if page.url != "/ventas" and page.url != "/arriendo" %}
               <div class="counter" data-target="{{include.data}}"></div>
+              {% endif %}
               <h3>{{include.h2}}</h3>
               <ul>
                 <li><i class="bi bi-link-45deg"></i> {{include.li1}}</li>
