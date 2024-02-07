@@ -55,7 +55,7 @@ galleryImages:
   - /assets/images/portfolio/1050/casa-sector-indio-fusa-27.webp
   - /assets/images/portfolio/1050/casa-sector-indio-fusa-28.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 ## Descubre el Encanto de Vivir en Fusagasugá: Tu Hogar Ideal en el Conjunto El Indio Te Espera

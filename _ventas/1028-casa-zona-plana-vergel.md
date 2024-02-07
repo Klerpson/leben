@@ -66,7 +66,7 @@ galleryImages:
   - /assets/images/portfolio/1028/casa-zona-plana-vergel-41.webp
   - /assets/images/portfolio/1028/casa-zona-plana-vergel-42.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 ## ¿Por qué Comprar esta Casa en el Vergel de Fusagasugá?

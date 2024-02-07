@@ -41,7 +41,7 @@ galleryImages:
   - /assets/images/portfolio/1052/casa-norte-centro-fusa-13.webp
   - /assets/images/portfolio/1052/casa-norte-centro-fusa-14.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 ## Descubre la Joya de Fusagasugá: Una Casa con Espacio para Soñar y Crecer

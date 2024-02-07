@@ -41,7 +41,7 @@ galleryImages:
   - /assets/images/portfolio/1039/apartamento-cerca-centro-fusagasuga-14.webp
   - /assets/images/portfolio/1039/apartamento-cerca-centro-fusagasuga-15.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 ## Tu Nuevo Apartamento te Espera en Fusagasugá: Confort, Ubicación y Precio Inmejorable

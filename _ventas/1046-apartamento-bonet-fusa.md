@@ -40,7 +40,7 @@ galleryImages:
   - /assets/images/portfolio/1046/apartamento-bonet-fusa-13.webp
   - /assets/images/portfolio/1046/apartamento-bonet-fusa-14.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 ## Tu Futuro Hogar en Fusagasugá Te Espera: Apartamento en Bonet

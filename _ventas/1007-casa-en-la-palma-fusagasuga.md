@@ -57,7 +57,7 @@ galleryImages:
   - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-27.webp
   - /assets/images/portfolio/1007/casa-venta-palma-fusagasuga-28.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 Bienvenidos a una oportunidad única de vivir en una de las residencias más exclusivas de Fusagasugá. Esta propiedad no es solo una casa, sino un **refugio de lujo y confort en uno de los conjuntos residenciales más completos de la ciudad**.

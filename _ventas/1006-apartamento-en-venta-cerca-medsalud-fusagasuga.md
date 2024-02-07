@@ -45,7 +45,7 @@ galleryImages:
   - /assets/images/portfolio/1006/apartamento-fusagasuga-moises-15.webp
   - /assets/images/portfolio/1006/apartamento-fusagasuga-moises-16.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 Bienvenido a la oportunidad única de vivir en Fusagasugá, la joya de Cundinamarca. Aquí, exploraremos un apartamento exclusivo que no solo ofrece comodidad y lujo, sino también una **inversión inteligente en una zona de creciente valorización**.

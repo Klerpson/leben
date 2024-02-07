@@ -39,7 +39,7 @@ galleryImages:
   - /assets/images/portfolio/1022/casa-campestre-moniquira-11.webp
   - /assets/images/portfolio/1022/casa-campestre-moniquira-12.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 Descubre el encanto de vivir rodeado de la **tranquilidad y belleza natural que solo Moniquirá, Boyacá**, puede ofrecerte.

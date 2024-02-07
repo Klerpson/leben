@@ -44,7 +44,7 @@ galleryImages:
   - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-21.webp
   - /assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-22.webp
 asesor: Alejandro Hurtado
-contacto: 3102155237
+contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
 ---
 Esta hermosa casa de Fusagasugá está para estrenar. Ubicada en el exclusivo sector de El Mirador, representa la combinación perfecta de lujo, confort y estilo.
