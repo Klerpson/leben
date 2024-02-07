@@ -172,7 +172,13 @@
        </url>
   
       <url>
-        <loc>http://localhost:4000/ventas/apartamento-fusacatan-fusagasugá</loc>
+        <loc>http://localhost:4000/ventas/apartamento-fusacatan-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-sector-indio-fusagasuga</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
