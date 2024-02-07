@@ -7,7 +7,7 @@ h1: Experimenta el confort sin igual en este apartamento de Fusagasugá
 clase: apartamentos
 img: 1046/apartamento-bonet-fusa-11.webp
 alt: Casa en el sector del Bonet - Fusagasugá
-cta:  tu nuevo hogar en Fusagasugá hoy mismo! ¡Haz clic y reserva tu visita ya! 
+cta: Tu nuevo hogar en Fusagasugá hoy mismo
 precio: 200'000.000
 propiedad: 1046
 intro: ¡Bienvenido a tu futuro hogar en Fusagasugá! Esta es tu oportunidad en el deseado sector del Bonet
