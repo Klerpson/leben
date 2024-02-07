@@ -12,10 +12,10 @@ precio: 554'000.000
 propiedad: 1052
 intro: "Descubre una oportunidad única de inversión en Fusagasugá con esta espaciosa casa en venta. ¡Haz realidad tu proyecto ahora mismo!"
 area: 239 metros construidos en un terreno de 457 metros
-habitacion: 8 habitaciones
+habitacion: 8 habitaciones de casona
 sala: Sala-comedor
 comedor: Sala-Comedor
-cocina: Cocina
+cocina: Cocina antigua
 bano: 6 baños
 garaje: Parqueadero para 1 vehículo
 servicios: Agua, luz y gas
