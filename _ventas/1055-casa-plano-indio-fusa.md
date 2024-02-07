@@ -1,13 +1,13 @@
 ---
-permalink: ventas/casa-sector-indio-fusagasugá
+permalink: ventas/casa-sector-indio-fusagasuga
 layout: venta
-title: "Explora esta Casa de 5 Habitaciones en Fusagasugá: Todo lo que Necesitas para una Vida Confortable"
-description: Encuentra la casa de tus sueños en Fusagasugá y comienza una nueva vida llena de comodidades y tranquilidad. ¡No pierdas más tiempo, agenda tu visita hoy mismo y haz realidad tu sueño de tener tu propio hogar!
-h1: Vive con confort y estilo en esta casa en Fusagasugá. Con espacios amplios y modernos, esta propiedad te ofrece el hogar perfecto para ti y tu familia.
-clase: casa
+title: "Explora esta Casa de 5 Habitaciones en Fusagasugá"
+description: Encuentra la casa de tus sueños en Fusagasugá y comienza una nueva vida llena de comodidades y tranquilidad. ¡Agenda tu visita hoy mismo!
+h1: Vive con confort y estilo en esta casa en Fusagasugá
+clase: casas
 img: 1055/casa-plano-indio-fusa-13.webp
 alt: Casa en el sector de Indio - Fusagasugá
-cta: Disfruta de la tranquilidad y seguridad. ¡Haz clic para más información!
+cta: Disfruta de la tranquilidad y seguridad en Fusa
 precio: 400'000.000
 propiedad: 1055
 intro: Descubre la casa perfecta en Fusagasugá:amplios espacios, comodidades modernas y una ubicación privilegiada te esperan.
@@ -20,11 +20,10 @@ bano: 4 baños con acabados de lujo
 garaje: Parqueadero para 1 vehículo 
 servicios: Agua, luz y gas 
 adicional:
-  - Piscina
-  - Zona verde
-  - Cancha
-  - Vigilancia
+  - Piscina, cancha y zona verde del conjunto
+  - Vigilancia 24/7
   - Parqueadero para visitantes
+  - Transporte, colegios, parque y comercio cercano
 galleryImages:
   - /assets/images/portfolio/1055/casa-plano-indio-fusa-1.webp
   - /assets/images/portfolio/1055/casa-plano-indio-fusa-2.webp
@@ -57,13 +56,9 @@ galleryImages:
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
-
-
 ---
 
 # **Explora esta Casa de 5 Habitaciones en Fusagasugá: Todo lo que Necesitas para una Vida Confortable**
-
----
 
 ## **Conoce la Casa en Fusagasugá: Detalles y Características**
 
