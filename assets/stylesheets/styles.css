@@ -187,7 +187,7 @@ table th {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 10em 0 90px;
+  padding: 6em 0 90px;
   overflow: hidden;
   position: relative;
   z-index: 90;
@@ -2701,6 +2701,10 @@ button:focus:not(:focus-visible) {
   width: 100%;
 }
 
+.datos-h2{
+  text-align: left;
+}
+
 .counter {
   font-size: 122px;
   line-height: 100px;
@@ -2712,15 +2716,15 @@ button:focus:not(:focus-visible) {
   margin-top: 0px;
 }
 
+#counter .container .row{
+  align-items: center;
+  gap: 1.5em;
+}
+
 @media (max-width: 580px) {
   body {
     flex-direction: column;
   }
-}
-
-.counter-area .container .row{
-  align-items: center;
-
 }
 
 /*--------------------------------------------------------------
@@ -3674,10 +3678,6 @@ button.btn-get-started:hover {
 
 .pagination .page {
   color: var(--color-primary) !important;
-}
-
-.datos-h2 {
-  margin: 2em 0;
 }
 
 /********* PÁGINA DE VENTA *********/
