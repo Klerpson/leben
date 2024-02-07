@@ -4,7 +4,7 @@ layout: venta
 title: "Vive Lujo y Comodidad: Casa en el sector del Indio Fusagasugá"
 description: Vive en el lujo y la comodidad de Fusagasugá con esta propiedad en el sector del Indio. Con piscina, zonas verdes y seguridad las 24 horas. ¡Programa tu visita hoy mismo!
 h1: Lujo y comodidad en la casa en venta del sector del Indio Fusagasugá 
-clase: casa
+clase: casas
 img: 1036/casa-conjunto-secto-indio-30.webp
 alt: Venta de Casa en Fusagasugá
 cta: Consigue una Vida de Confort

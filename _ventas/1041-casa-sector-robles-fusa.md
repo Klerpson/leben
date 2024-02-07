@@ -4,7 +4,7 @@ layout: venta
 title: "Casa en Oferta en Fusagasugá: Un Espacio Familiar Perfecto"
 description: ¿Listo para mudarte a Fusagasugá? Esta casa te espera en el sector de Robles. ¡Haz clic y descubre tu nuevo hogar!
 h1: Explora esta encantadora casa en Fusagasugá ¡Conócela ahora!
-clase: casa
+clase: casas
 img: 1041/casa-sector-robles-fusa-7.webp
 alt: Casa en Barrio Robles - Fusagasugá
 cta: Consigue tu nuevo hogar en Fusagasugá hoy mismo

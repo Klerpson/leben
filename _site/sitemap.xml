@@ -148,6 +148,36 @@
        </url>
   
       <url>
+        <loc>http://localhost:4000/ventas/casa-conjunto-sector-indio</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/apartamento-cerca-centro-fusagasuga</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/casa-sector-robles-fusa</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/apartamento-bonet-fusagasugá</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
+        <loc>http://localhost:4000/ventas/apartamento-fusacatan-fusagasugá</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+      <url>
         <loc>http://localhost:4000/ventas/finca-venta-chinauta-fusagasuga</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>

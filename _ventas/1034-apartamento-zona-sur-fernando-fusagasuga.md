@@ -4,7 +4,7 @@ layout: venta
 title: "¡Tu apartamento de 3 habitaciones! En San Fernando Fusagasugá"
 description: Descubre la vida tranquila y conveniente que te espera en Fusagasugá con este apartamento en San Fernando. Disponible ahora. ¡Ven a conocerlo!
 h1: "Encuentra tu apartamento ideal en la zona sur de Fusagasugá"
-clase: apartamento
+clase: apartamentos
 img: 1034/apartamento-zona-sur-fernando-2.webp
 alt: Venta de Apartamento en Fusagasugá
 cta: Conoce tu apartamento ideal ahora mismo

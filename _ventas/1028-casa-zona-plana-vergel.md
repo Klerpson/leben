@@ -4,7 +4,7 @@ layout: venta
 title: "Descubre esta Casa en Fusagasugá: ¡Tu Futuro Comienza Aquí!"
 description: ¿Quieres vivir en Fusagasugá? Esta casa te ofrece todo lo que necesitas. ¡Haz clic para conocer más detalles y dar el primer paso hacia tu nuevo hogar!
 h1: "¡Descubre tu Casa de Ensueño en El Vergel Fusagasugá!"
-clase: casa
+clase: casas
 img: 1028/casa-zona-plana-vergel-8.webp
 alt: Venta de casa en Fusagasugá
 cta: "Casa en Fusagasugá: Confort y Tranquilidad en un Solo Lugar"
