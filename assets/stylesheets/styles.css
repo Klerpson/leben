@@ -2679,7 +2679,7 @@ button:focus:not(:focus-visible) {
   text-align: left;
 }
 
-.counter-container ul li {
+.counter-container ul li:not(:last-child) {
   line-height: 33px;
 }
 

@@ -17,6 +17,8 @@
 
 .page-hero p{
   color: #fff;
+  max-width: 840px;
+  margin: 1em 0 2em;
 }
 
 .breadcrumb{
