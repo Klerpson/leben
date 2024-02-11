@@ -1,7 +1,7 @@
 ---
 layout: ventas
 title: Compra y venta de casas en Fusagasugá y sus alrededores
-description: La compra y venta de casas en Fusagasugá es nuestra mayor especialidad. ¿Necesitas comprar una casa? ¿O vas a vender la tuya? Leben Inmobiliaria te asesora.
+description: Ofrecerte casas en venta en Fusagasugá es nuestra mayor especialidad. ¿Necesitas comprar una casa? ¿O vas a vender la tuya? Leben Inmobiliaria te asesora
 h1: Venta de casas en Fusagasugá con LEBEN inmobiliaria
 ---
 ## ¿Por qué Fusagasugá es tu próximo destino para vivir?
