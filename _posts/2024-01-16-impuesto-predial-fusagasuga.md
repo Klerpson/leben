@@ -26,7 +26,7 @@ Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}}) d
 
 -----
 
-## Formas de pagar el impuesto predial en Fusagasugá
+## Formas de pagar el impuesto predial en Fusagasugá este {{ "now" | date:"%Y"}}
 
 Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial.
 
