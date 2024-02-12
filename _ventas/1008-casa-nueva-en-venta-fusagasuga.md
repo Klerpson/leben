@@ -51,7 +51,7 @@ Esta hermosa casa de Fusagasugá está para estrenar. Ubicada en el exclusivo se
 
 Con un *valor de 💵$ 280.000.000, esta propiedad es una joya en el mercado inmobiliario de Fusagasugá,* ofreciendo no solo un hogar, sino un estilo de vida.
 
-## Introducción a la Propiedad
+## Introducción a la Propiedad del Mirador de la Colina en Fusagasugá
 
 ### Ubicación Privilegiada en El Mirador
 
