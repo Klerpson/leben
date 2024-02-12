@@ -1534,6 +1534,28 @@ table th {
   transform: scale(1.1);
 }
 
+.portfolio .portfolio-wrap a{
+  position: relative;
+}
+
+.portfolio .portfolio-wrap h4{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 8px 12px;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: var(--color-primary);
+  text-align: center;
+  z-index: 20;
+  transition: all .2s ease-out;
+  font-weight: 700;
+}
+
+.portfolio .portfolio-wrap:hover h4{
+  display: none;
+}
+
 /*--------------------------------------------------------------
 # Portfolio Details Section
 --------------------------------------------------------------*/

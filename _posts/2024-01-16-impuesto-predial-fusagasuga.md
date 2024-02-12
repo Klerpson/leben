@@ -12,7 +12,9 @@ foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
-Pagar el impuesto predial en Fusagasugá, Cundinamarca, Colombia, puede hacerse fácilmente a través de métodos en línea o en persona. Siga estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
+Pagar el impuesto predial en Fusagasugá, Cundinamarca, Colombia, puede hacerse fácilmente a través de métodos en línea o en persona.
+
+Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}}) debes seguir estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
 
 -----
 
