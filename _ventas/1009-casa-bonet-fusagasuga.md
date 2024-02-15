@@ -48,7 +48,7 @@ Esta hermosa y espaciosa casa, ubicada en el tranquilo sector de Bonet, represen
 
 Con un valor de 💵$ 280.000.000 y 220 metros construidos, esta propiedad es una joya en el mercado inmobiliario de Fusagasugá, ofreciendo no solo un hogar, sino un estilo de vida.
 
-## Introducción a la Propiedad en Bonet Fusagasugá
+## Introducción a la Propiedad en el parque Bonet Fusagasugá
 
 ### Características Destacadas de la Residencia
 

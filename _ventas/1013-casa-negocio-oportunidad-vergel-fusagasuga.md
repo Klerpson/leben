@@ -57,7 +57,7 @@ Descubra una oportunidad única de inversión en Fusagasugá, una de las ciudade
 
 Esta propiedad comercial, *ubicada en el dinámico sector de El Vergel*, ofrece una **combinación perfecta de espacio residencial y potencial comercial**, ideal para aquellos que buscan diversificar sus inversiones y aprovechar el creciente mercado inmobiliario de la región.
 
-## Casa Comercial en Venta: El Vergel, Fusagasugá 
+## Casa Comercial en Venta: El Vergel Fusagasugá 
 
 ### Ubicación Estratégica en El Vergel
 
