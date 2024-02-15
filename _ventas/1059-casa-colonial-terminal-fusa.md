@@ -3,14 +3,14 @@ permalink: ventas/casa-colonial-terminal-fusa
 layout: venta
 title: "Fusagasugá Colonial: Casa Tranquila y Conveniente en Venta"
 description: Explora la comodidad y encanto colonial en Fusagasugá. Casa cerca del terminal, ideal para tu familia. ¡Haz clic y descubre tu próximo hogar!
-h1: Asegura tu inversión en Fusagasugá con esta casa colonial. ¡Conoce la combinación perfecta de tradición y comodidad!
+h1: Asegura tu inversión en Fusagasugá con esta casa colonial. ¡Un sueño de tradición y comodidad!
 clase: casas
 img: 1059/casa-colonial-terminal-fusa-13.webp
 alt: Casa cerca del Terminal - Fusagasugá
 cta: Descubre tu hogar colonial en Fusagasugá. ¡Haz clic y comienza una nueva vida hoy!
 precio: 330'000.000
 propiedad: 1059
-intro: Bienvenido a un lugar donde la historia y la modernidad se fusionan en una encantadora casa colonial.
+intro: Bienvenido a un lugar donde la historia de Fusa y la modernidad se fusionan en una encantadora casa colonial
 area: 180 metros construidos
 habitacion: 3 habitaciones con acabados coloniales
 sala: Sala con vista panorámica
