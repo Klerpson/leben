@@ -3,7 +3,7 @@ layout: post
 title: "Fusagasugá: Descubre el Encanto de Cundinamarca en Colombia"
 description: "Atrévete a explorar Fusagasugá: un lugar donde la aventura y la tradición se encuentran. Haz clic para comenzar tu viaje a Cundinamarca."
 h1: "Fusagasugá: tradición, historia y belleza en un solo lugar"
-hero: fusagasuga.avif
+hero: fusagasuga.webp
 alt: Foto de Fusagasugá Cundinamarca
 category: Notas
 excerpt: Fusagasugá te invita a vivir experiencias inolvidables. Descubre su rica historia y vibrante cultura. ¡Haz clic para saber más!

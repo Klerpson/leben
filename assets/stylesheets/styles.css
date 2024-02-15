@@ -3004,7 +3004,7 @@ button.btn-get-started:hover {
 --------------------------------------------------------------*/
 .footer-section {
   position: relative;
-  background: url(../images/cta-bg.jpg) center center;
+  background: url(../images/cta-bg.webp) center center;
   background-size: cover;
   border-radius: 0px;
   overflow: hidden;
