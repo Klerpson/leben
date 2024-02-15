@@ -43,12 +43,12 @@ layout: compress
 </section><!-- End About Us Section -->
 
 <main class="venta-body">
-  {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
-  {{content}}
-  
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
   {% include image-gallery.html %} 
   <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
+  {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
+  {{content}}
+  
   {% include testimonios.html %}
 </main>
 <section id="counter" class="counter-area section-padding">
