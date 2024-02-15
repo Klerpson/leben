@@ -2345,7 +2345,6 @@ button:focus:not(:focus-visible) {
 
 #counter .container .row{
   align-items: center;
-  gap: 1.5em;
 }
 
 /*--------------------------------------------------------------
