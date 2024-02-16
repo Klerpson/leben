@@ -61,7 +61,7 @@ layout: default
                 <div class="mt-3">
                   {% for post in site.posts limit:5 %}
                   <div class="post-item mt-3">
-                    <img src="{{site.baseurl}}/assets/images/blog/{{post.hero}}" alt="{{post.alt}}">
+                    <img src="{{site.baseurl}}/assets/images/blog/{{post.hero}}" alt="{{post.alt}}" loading="lazy">
                     <div>
                       <h4><a href="{{post.url}}">{{post.h1}}</a></h4>
                     </div>
