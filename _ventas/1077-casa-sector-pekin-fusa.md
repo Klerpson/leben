@@ -5,7 +5,7 @@ title: "Casa Seminueva en Fusagasugá: Encanto y Comodidad"
 description: Vive en comodidad y seguridad en Fusagasugá con esta casa seminueva en venta. ¡Aprovecha esta oportunidad y encuentra tu hogar ideal!
 h1: ¡Haz de Fusagasugá tu Nuevo Hogar! Casa Seminueva en Sector Privilegiado!
 clase: casas
-img: 1077/casa-sector-pekin-fusa-21.webp
+img: 1077/casa-sector-pekin-21.webp
 alt: Casa en sector de Pekin - Fusagasugá
 cta: ¡Descubre tu hogar ideal hoy mismo!
 precio: 240'000.000
