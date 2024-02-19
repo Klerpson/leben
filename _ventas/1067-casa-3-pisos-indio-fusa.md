@@ -90,13 +90,13 @@ El exterior de la propiedad es un verdadero santuario de paz:
 * **La piscina**, elemento central del jardín, ofrece un escape refrescante y momentos de alegría familiar.
 * **La cancha deportiva** propia añade un toque de actividad y entretenimiento, permitiendo disfrutar de deportes favoritos sin necesidad de desplazamientos.
 
-### Beneficios de Invertir en esta Joya
+## Beneficios de Invertir en esta Joya
 
 Adquirir esta casa en Fusagasugá no solo es una decisión acertada en términos de valorización a futuro, sino también una apuesta segura por un estilo de vida de lujo y confort.
 
 Con su **ubicación estratégica y sus incomparables servicios e infraestructuras**, el sector del Indio se consolida como una de las áreas más deseables para residir. **La tranquilidad, seguridad y exclusividad** son sellos distintivos de esta magnífica propiedad.
 
-### Testimonios de Satisfacción
+### La Gente del Sector Siempre Expresa su Satisfacción
 
 Los afortunados residentes de esta casa destacan sin reservas la calidad de vida que proporciona. Desde sus amplias estancias hasta los idílicos espacios al aire libre, cada detalle ha sido diseñado pensando en el máximo bienestar y disfrute.
 
@@ -108,7 +108,7 @@ Si deseas hacer tuya esta propiedad en Fusagasugá, [nuestro asesor inmobiliario
 
 **Nos comprometemos a brindarte una experiencia de compra fluida y gratificante**, desde la primera visita hasta la firma final. Esta es tu oportunidad de asegurar un legado de lujo en uno de los rincones más exclusivos de Fusagasugá.
 
-### Fusagasugá te Invita a Vivir en Grande
+## Fusagasugá te Invita a Vivir en Grande
 
 En definitiva, esta propiedad de estreno es la elección indiscutible para quienes valoran el lujo, la comodidad y la exclusividad.
 

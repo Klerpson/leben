@@ -50,7 +50,7 @@ category: venta
 ---
 ¿Alguna vez has soñado con un lugar que no solo sea una casa, sino un verdadero hogar? Te presentamos esta joya en el corazón de Fusagasugá, Cundinamarca, donde cada rincón ha sido diseñado pensando en tu comodidad y felicidad.
 
-## 🌟 **¡Descubre Tu Nuevo Hogar en Fusagasugá!** 🌟
+## 🌟 ¡Descubre Tu Nuevo Hogar en Fusagasugá! 🌟
 
 🏡 **Espacios Que Inspiran Vida:** Imagina despertar cada mañana en una de las **3 habitaciones amplias**, bañadas por la luz del sol, creando un ambiente cálido y acogedor. La **sala amplia e iluminada** es el lugar perfecto para crear recuerdos inolvidables con tu familia y amigos, mientras que el **comedor abierto** invita a compartir momentos especiales alrededor de la mesa.
 
@@ -66,11 +66,11 @@ category: venta
 
 ---
 
-🔥 **¡Actúa Rápido! Esta Oportunidad Única No Durará Mucho!** 🔥
+## 🔥 ¡Actúa Rápido! Esta Oportunidad Única No Durará Mucho! 🔥
 
 Esta casa es más que un espacio, es un sueño hecho realidad. Pero no esperes demasiado, [propiedades como esta en Fusagasugá son altamente buscadas]({{site.baseurl}}) y no permanecen en el mercado por mucho tiempo.
 
-📞 [Contáctanos hoy mismo](https://wa.me/57{{page.contacto}}) y da el primer paso hacia el hogar de tus sueños.
+📞 [Contáctanos hoy mismo](#asesor) y da el primer paso hacia el hogar de tus sueños.
 
 ---
 
