@@ -7,15 +7,26 @@ img="portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" h2="Vive el L
 <!--Portfolio Section -->
 <section id="portfolio" class="portfolio">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
+    <div>
+      {% if page.url == "/ventas" %}
       <div>
         <h2>Compra la casa de tus sueños en Fusagasugá</h2>
-        <p>
+        <p class="propiedades">
           Estas son las ofertas de
           <strong>casas, fincas y apartamentos en Fusagasugá</strong>. Haz clic
           en el que más te guste:
         </p>
       </div>
+      {% endif %}
+      {% if page.url == "/arriendo" %}
+      <div>
+        <h2>Arrienda la casa o el apartamento de tus sueños en Fusagasugá</h2>
+        <p class="propiedades">
+          Estas son las ofertas de <strong>casas, apartamentos o fincas que están en arriendo en la ciudad de Fusagasugá</strong>. Haz clic
+          en el que más te guste:
+        </p>
+      </div>
+      {% endif %}
     </div>
     <div
       class="portfolio-isotope"
@@ -35,22 +46,23 @@ img="portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" h2="Vive el L
         <!-- End Portfolio Filters -->
       </div>
       <div class="row gy-4 portfolio-container">
+        {% if page.url == "/ventas" %}
         {% for data in site.ventas %}
         <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
           <div class="portfolio-wrap" data-aos="fade-up" data-aos-delay="20">
             <a
-              href="{{site.baseurl}}{{data.url}}"
-              data-gallery="portfolio-gallery-app"
-              class="glightbox"
-              title="Inmobiliaria LEBEN Fusagasugá"
-              ><img
-                src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}"
-                class="img-fluid"
-                alt="{{data.alt}}"
-                loading="lazy"
+            href="{{site.baseurl}}{{data.url}}"
+            data-gallery="portfolio-gallery-app"
+            class="glightbox"
+            title="Inmobiliaria LEBEN Fusagasugá"
+            ><img
+            src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}"
+            class="img-fluid"
+            alt="{{data.alt}}"
+            loading="lazy"
             />
             <h4>{{data.title}}</h4>
-            </a>
+          </a>
             <div class="portfolio-info">
               <h3>
                 <a
@@ -74,6 +86,48 @@ img="portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" h2="Vive el L
         </div>
         <!-- End Portfolio Item -->
         {% endfor %}
+        {% endif %}
+        {% if page.url == "/arriendo" %}
+        {% for data in site.arriendo %}
+        <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
+          <div class="portfolio-wrap" data-aos="fade-up" data-aos-delay="20">
+            <a
+            href="{{site.baseurl}}{{data.url}}"
+            data-gallery="portfolio-gallery-app"
+            class="glightbox"
+            title="Inmobiliaria LEBEN Fusagasugá"
+            ><img
+            src="{{site.baseurl}}/assets/images/arriendo/{{data.img}}"
+            class="img-fluid"
+            alt="{{data.alt}}"
+            loading="lazy"
+            />
+            <h4>{{data.title}}</h4>
+          </a>
+            <div class="portfolio-info">
+              <h3>
+                <a
+                  href="{{site.baseurl}}{{data.url}}"
+                  title="Oferta de LEBEN Inmobiliaria"
+                  >{{data.cta}}</a
+                >
+              </h3>
+              <div class="project-deatils-aside">
+                <div class="project-btn">
+                  <a
+                    href="{{site.baseurl}}{{data.url}}"
+                    class="fill-btn"
+                    title="Casas y apartamentos de Fusagasugá"
+                    >Ver más detalles</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Portfolio Item -->
+        {% endfor %}
+        {% endif %}
       </div>
       <!-- End Portfolio Container -->
     </div>

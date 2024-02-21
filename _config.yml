@@ -28,6 +28,9 @@ collections:
   ventas:
     output: true
     permalink: /ventas/:path
+  arriendo:
+    output: true
+    permalink: /arriendo/:path
   posts:
     output: true
     permalink: /blog/:slug

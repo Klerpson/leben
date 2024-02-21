@@ -29,6 +29,7 @@ h2 {
 
 h4 {
   font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+  font-weight: bolder;
 }
 
 h5{
@@ -1554,6 +1555,13 @@ table th {
 
 .portfolio .portfolio-wrap:hover h4{
   display: none;
+}
+
+.propiedades{
+  padding: 2em 0;
+  text-align: center;
+  max-width: 800px;
+  margin-inline: auto;
 }
 
 /*--------------------------------------------------------------
