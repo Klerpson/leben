@@ -6,8 +6,8 @@ description: Arrienda un apartamento en Fusagasugá, en el tranquilo sector de S
 h1: "Encuentra Apartamento en Arriendo en San Jorge, Fusagasugá"
 clase: apartamentos
 img: 003/apartamento-03-san-jorge-04.webp
-alt: Apartamento alquiler Fusagasuga
-cta: ¿Buscas apartamento en arriendo en Fusagasugá?
+alt: Arriendo apartamento San Jorge Fusagasuga
+cta: Arrienda apartamento en Fusagasugá
 precio: 1'500.000
 propiedad: 002
 intro: Arrienda apartamento en Fusagasugá. Con 3 habitaciones en espacios amoblados, en San Jorge
