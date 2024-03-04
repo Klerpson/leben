@@ -44,7 +44,7 @@ Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaci
 6. **Activar y Verificar la Cuenta**: Complete el proceso de verificación de cuenta según las instrucciones proporcionadas por el sitio web.
 7. **Acceder a Servicios en Línea**: Una vez creada y verificada la cuenta, utilice los servicios en línea para la tramitación de pagos y facturas.
 
-### Descarga de facturas
+### Descarga de facturas del impuesto y de Reteica
 
 Como parte de los servicios en línea que ofrece el municipio de Fusagasugá, los propietarios tienen la comodidad de descargar sus facturas del impuesto predial, de industria y comercio y de Reteica a través del sitio web oficial.
 
@@ -66,7 +66,7 @@ Al asistir personalmente a **la oficina del Municipio situada en la Calle. 6 n.�
 
 Cuando se paga el impuesto predial, los propietarios deben asegurarse de cumplir los criterios y aportar [la documentación necesaria según lo estipulado por el Municipio de Fusagasugá]({% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %}).
 
-Es esencial que los propietarios cumplan los requisitos de pago especificados y aporten la documentación e información pertinente para completar con éxito el proceso de pago del impuesto predial.
+Es esencial que los propietarios cumplan los requisitos de pago especificados y aporten la documentación e información pertinente para **completar con éxito el proceso de pago del impuesto predial**.
 
 ### Cuadro Comparativo: Inscripción como Propietario vs. Poseedor u Ocupante en el Municipio de Fusagasugá
 
