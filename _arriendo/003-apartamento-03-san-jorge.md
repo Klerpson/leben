@@ -32,14 +32,14 @@ galleryImages:
   - /assets/images/arriendo/003/apartamento-03-san-jorge-07.webp
   - /assets/images/arriendo/003/apartamento-03-san-jorge-08.webp
   - /assets/images/arriendo/003/apartamento-03-san-jorge-09.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-010.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-011.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-012.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-013.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-014.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-015.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-016.webp
-  - /assets/images/arriendo/003/apartamento-03-san-jorge-017.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-10.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-11.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-12.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-13.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-14.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-15.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-16.webp
+  - /assets/images/arriendo/003/apartamento-03-san-jorge-17.webp
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
