@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 04 Mar 2024 08:48:50 -0500</pubDate>
-    <lastBuildDate>Mon, 04 Mar 2024 08:48:50 -0500</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2024 08:52:34 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2024 08:52:34 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -322,7 +322,7 @@
 
 &lt;h2 id=&quot;el-estilo-de-vida-en-fusagasugá&quot;&gt;El Estilo de Vida en Fusagasugá&lt;/h2&gt;
 
-&lt;p&gt;Fusagasugá no solo atrae a turistas, sino también a aquellos que buscan un lugar para vivir. Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.&lt;/p&gt;
+&lt;p&gt;Fusagasugá no solo atrae a turistas, sino también a &lt;a href=&quot;/ventas&quot; title=&quot;Casas en venta Fusa&quot;&gt;aquellos que buscan un lugar para vivir&lt;/a&gt;. Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.&lt;/p&gt;
 
 &lt;h3 id=&quot;educación-y-servicios&quot;&gt;Educación y Servicios&lt;/h3&gt;
 

@@ -69,7 +69,7 @@ Para los amantes de la aventura, Fusagasugá ofrece actividades como senderismo,
 
 ## El Estilo de Vida en Fusagasugá
 
-Fusagasugá no solo atrae a turistas, sino también a aquellos que buscan un lugar para vivir. Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.
+Fusagasugá no solo atrae a turistas, sino también a [aquellos que buscan un lugar para vivir]({{'ventas'|relative_url}} "Casas en venta Fusa"). Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.
 
 ### Educación y Servicios
 
