@@ -22,8 +22,8 @@ Recientemente ha atraído a varios compradores potenciales interesados en adquir
 
 Antes de [comprar una vivienda en Fusagasugá]({{'ventas'|relative_url}}), debes tener listada la documentación adecuada. Esto incluye:
 
-* Documento nacional de identidad o cédula
-* Comprobante de residencia y un certificado de solvencia, que emite una entidad financiera
+* Documento nacional de identidad o **cédula**
+* **Comprobante de residencia** y un certificado de solvencia, que emite una entidad financiera
 * Una carta de solicitud dirigida al vendedor.
 
 Si vas a comprar la propiedad al contado, también necesitarás tener listos los fondos para la compra.
@@ -36,7 +36,7 @@ Deberás [pagar los impuestos sobre la renta del vendedor](https://www.rcnradio.
   
 Además, debes estar preparado para **que un notario público esté presente** para registrar legalmente la propiedad a tu nombre. Al inscribir la propiedad, *también hay gastos adicionales asociados*.
 
-## Otros requisitos legales
+## Otros requisitos legales para comprar casa en Fusa
 
 Además, de acuerdo con la legislación colombiana, necesitarás que [un abogado verifique]({{'contacto'|relative_url}}) que la propiedad está **libre de gravámenes, cargas u otros problemas legales**.
 
