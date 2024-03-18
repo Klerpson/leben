@@ -5,7 +5,7 @@ description: Aprende a pagar el impuesto predial en Fusagasugá fácilmente. ¡H
 h1: "Fusagasugá: tu impuesto predial en línea o presencial"
 hero: propiedades-fusagasuga.webp
 alt: Iglesia emblemática en Fusagasugá
-category: Notas
+category: Impuestos
 excerpt: Paga tu impuesto predial en Fusagasugá de forma segura y rápida. ¡Entra ahora y conoce todos los detalles!
 autor: Sebastián Rincón
 foto: sebastian-rincon-leben.webp
