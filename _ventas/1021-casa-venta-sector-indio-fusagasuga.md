@@ -1,9 +1,9 @@
 ---
 permalink: ventas/casa-venta-sector-indio-fusagasuga
 layout: venta
-title: "Tu Hogar Ideal en Fusagasugá: Ascensor Panorámico y Más"
+title: "Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad"
 description: ¿Buscas casa en Fusagasugá? Descubre esta propiedad de lujo con amenidades únicas. ¡Agenda tu visita hoy! Contacta con LEBEN inmobiliaria para comprarla
-h1: "Vive el Lujo y Confort en Fusagasugá: Tu Próximo Hogar con Ascensor Panorámico y Amenidades Exclusivas"
+h1: "Vive el Lujo y Confort en Fusagasugá: Tu Próximo Hogar con Amenidades Exclusivas"
 clase: casas
 img: 1021/casa-venta-sector-el-indio-fusagasuga-10.webp
 alt: "Casa de Lujo en Fusagasugá a la venta"
@@ -22,7 +22,6 @@ servicios: Agua, luz y gas
 adicional:
   - Zona de lavado
   - Transporte público y colegios cerca
-  - Ascensor panorámico
   - Chancha en el conjunto
   - Zona verde del conjunto
   - Piscina del conjunto
@@ -119,10 +118,6 @@ Ambos espacios reflejan el compromiso de esta casa con la comodidad y el estilo,
 ## Amenidades Únicas en el Sector El Indio de Fusagasugá
 
 Este hogar va más allá de ser simplemente un lugar para vivir; ofrece un estilo de vida enriquecedor, con amenidades que garantizan bienestar y diversión para toda la familia.
-
-### Ascensor panorámico: una vista sin igual
-
-Uno de los aspectos más destacados de esta propiedad es su ascensor panorámico. No solo añade un toque de modernidad y lujo, sino que también permite **disfrutar de vistas impresionantes de Fusagasugá**, convirtiendo cada desplazamiento dentro de la casa en una experiencia única.
 
 ### Exteriores y áreas comunes: piscina, zona verde, y cancha
 

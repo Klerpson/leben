@@ -1,0 +1,68 @@
+---
+layout: compress
+---
+{% include head.html %}
+<body>
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KNQTBJNT');</script>
+  <!-- End Google Tag Manager -->
+  <header class="hero-venta">
+    <div>
+      <h1>{{page.h1}}</h1>
+      <p>{{page.description}}</p>
+      <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
+    </div>
+  </header>
+
+</div>
+
+<!-- About Us Section -->
+<section class="venta-caracteristicas">
+  <h2>{{page.intro}}</h2>
+  <ul>
+    <li><img src="{{site.baseurl}}/assets/images/icons/area.svg" alt="Logo del área de una casa en venta en Fusagasugá" loading="lazy"> {{page.area}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/habitacion.svg" alt="Logo de habitaciones de una casa en venta en Fusagasugá" loading="lazy"> {{page.habitacion}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/sala.svg" alt="Logo de una sala de una casa en venta en Fusagasugá" loading="lazy"> {{page.sala}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/comedor.svg" alt="Logo de un comedor de una casa en venta en Fusagasugá" loading="lazy"> {{page.comedor}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/cocina.svg" alt="Logo de una cocina de una casa en venta en Fusagasugá" loading="lazy"> {{page.cocina}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/bano.svg" alt="Logo de un baño de una casa en venta en Fusagasugá" loading="lazy"> {{page.bano}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/garaje.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy"> {{page.garaje}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/servicios.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy"> {{page.servicios}}</li>
+    {% for item in page.adicional %}
+    <li><img src="{{site.baseurl}}/assets/images/icons/property.svg" alt="Logo de los servicios de una casa en venta en Fusagasugá" loading="lazy"> {{item}}</li>
+    {% endfor %}
+  </ul>
+</section><!-- End About Us Section -->
+
+<main class="venta-body">
+  {% include testimonios.html %}
+</main>
+
+
+  <a href="{{site.whatsapp}}" class="boton-whatsapp">
+    <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
+  </a>
+
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="/assets/javascripts/jquery.min.js"></script>
+  <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/assets/vendor/aos/aos.js"></script>
+  <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/assets/javascripts/plugins.js"></script>
+  <script src="/assets/javascripts/validator.min.js"></script>
+  <script src="/assets/javascripts/contactform.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/assets/javascripts/main.js"></script>
+</body>
+
+</html>
