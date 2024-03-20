@@ -27,12 +27,7 @@
               <li><i class="bi bi-link-45deg"></i> {{include.li5}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li6}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li7}}</li>
-              {% if page.url == "/ventas" %}
-              <li><a href="{{site.baseurl}}{{include.url}}" class="boton-white">↪ Mira la propiedad</a></li>
-              {% endif %}
-              {% if page.url == "/arriendo" %}
-              <li><a href="{{site.baseurl}}{{include.url}}" class="boton-white">↪ Mira la propiedad</a></li>
-              {% endif %}
+              <li><a href="{{include.url|relative_url}}" class="boton-white">↪ Mira la propiedad</a></li>
             </ul>
           </div>
         </div>
