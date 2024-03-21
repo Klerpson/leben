@@ -3273,7 +3273,7 @@ button.btn-get-started:hover {
   padding: 0 0 1em 0;
   border-radius: var(--radius);
   border: 2.4px solid var(--color-base);
-  border-radius: 4px;
+  border-radius: 8px;
 }
 
 .entry p,
