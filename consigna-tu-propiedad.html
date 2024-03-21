@@ -74,6 +74,82 @@ landing: true
 
 {% include testimonios.html %}
 
+<!-- Recent Blog Posts Section -->
+<section id="recent-posts" class="recent-posts">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <h2>Así nos encargamos de administrar tus inversiones inmobiliarias</h2>
+        <p>En nuestro blog te ofrecemos más información sobre los servicios ofrecidos por nuestra agencia inmobiliaria, así como una lista de propiedades disponibles en Fusagasugá y las ventajas de asesorarte con nosotros.</p>
+      </div>
+      <a href="{{site.whatsapp}}" class="btn-get-started" style="max-width: max-content;">Recibe más información</a>
+    </div>
+    <div class="row gy-4">
+
+    <div class="col-lg-4">
+      {% assign post1 = site.posts[0] %}
+      <article class="entry">
+        <div class="post-img">
+          <img src="assets/images/blog/{{post1.hero}}" alt="{{post1.alt}}" class="img-fluid" loading="lazy">
+        </div>
+        <p class="post-category">{{post1.category}}</p>
+        <h2 class="title">
+          <a href="{{site.baseurl}}{{post1.url}}">{{post1.h1}}</a>
+        </h2>
+        <div class="d-flex align-items-center">
+          <div class="post-meta">
+            <p class="post-date">
+              <time datetime="{{post1.date |  date: '%Y-%m-%d' }}">{{post1.date | date: "%Y-%m-%d" }}</time>
+            </p>
+          </div>
+        </div>
+      </article>
+    </div><!-- End post list item -->
+
+      <div class="col-lg-4">
+        {% assign post2 = site.posts[1] %}
+        <article class="entry">
+          <div class="post-img">
+            <img src="assets/images/blog/{{post2.hero}}" alt="{{post2.alt}}" class="img-fluid" loading="lazy">
+          </div>
+          <p class="post-category">{{post2.category}}</p>
+          <h2 class="title">
+            <a href="{{site.baseurl}}{{post2.url}}">{{post2.h1}}</a>
+          </h2>
+          <div class="d-flex align-items-center">
+            <div class="post-meta">
+              <p class="post-date">
+                <time datetime="{{post2.date |  date: '%Y-%m-%d' }}">{{post2.date | date: "%Y-%m-%d" }}</time>
+              </p>
+            </div>
+          </div>
+        </article>
+      </div><!-- End post list item -->
+
+
+      <div class="col-lg-4">
+        {% assign post3 = site.posts[2] %}
+        <article class="entry">
+          <div class="post-img">
+            <img src="assets/images/blog/{{post3.hero}}" alt="{{post3.alt}}" class="img-fluid" loading="lazy">
+          </div>
+          <p class="post-category">{{post3.category}}</p>
+          <h2 class="title">
+            <a href="{{site.baseurl}}{{post3.url}}">{{post3.h1}}</a>
+          </h2>
+          <div class="d-flex align-items-center">
+            <div class="post-meta">
+              <p class="post-date">
+                <time datetime="{{post3.date |  date: '%Y-%m-%d' }}">{{post3.date | date: "%Y-%m-%d" }}</time>
+              </p>
+            </div>
+          </div>
+        </article>
+      </div><!-- End post list item -->
+    </div>
+  </div>
+</section><!-- End Recent Blog Posts Section -->
+
 
   <a href="{{site.whatsapp}}" class="boton-whatsapp">
     <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp">
