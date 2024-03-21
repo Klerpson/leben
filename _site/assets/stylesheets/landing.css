@@ -1,0 +1,38 @@
+.header_landing{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+}
+
+.header_landing div{
+  display: grid;
+  align-content: center;
+  gap: 1em;
+  flex: 1 0 400px;
+  max-width: 100%;
+  padding: 2em 0;
+}
+
+.header_landing div li{
+  list-style: none;
+}
+
+.header_landing li span{
+  color: var(--color-third);
+  font-size: 1.3em;
+  font-weight: 900;
+}
+
+.header_landing img{
+  width: min(100%, 600px);
+  filter: drop-shadow(-2px 2px 15px rgba(0, 0, 0, 0.7));
+}
+
+@media screen and (min-width: 1200px) {
+  
+  .header_landing img{
+    width: min(100%, 720px);
+  }
+  
+}
