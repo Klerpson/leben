@@ -6,7 +6,7 @@
         <h2>Conoce más sobre los proyectos de vivienda y finca raíz de Fusagasugá</h2>
         <p>En nuestro blog te ofrecemos más información sobre los servicios ofrecidos por nuestra agencia inmobiliaria, así como una lista de propiedades disponibles en Fusagasugá y las ventajas de asesorarte con nosotros.</p>
       </div>
-      <a href="{{site.baseurl}}/blog" class="btn-get-started" data-aos="fade-up" data-aos-delay="50"><i class="bi bi-chevron-double-right"></i></a>
+      <a href="{{'blog'|relative_url}}" class="btn-get-started" data-aos="fade-up" data-aos-delay="50"><i class="bi bi-chevron-double-right"></i></a>
     </div>
     <div class="row gy-4">
 
@@ -18,7 +18,7 @@
         </div>
         <p class="post-category">{{post1.category}}</p>
         <h2 class="title">
-          <a href="{{site.baseurl}}{{post1.url}}">{{post1.h1}}</a>
+          <a href="{{post1.url|relative_url}}">{{post1.h1}}</a>
         </h2>
         <div class="d-flex align-items-center">
           <div class="post-meta">
@@ -38,7 +38,7 @@
           </div>
           <p class="post-category">{{post2.category}}</p>
           <h2 class="title">
-            <a href="{{site.baseurl}}{{post2.url}}">{{post2.h1}}</a>
+            <a href="{{post2.url|relative_url}}">{{post2.h1}}</a>
           </h2>
           <div class="d-flex align-items-center">
             <div class="post-meta">
@@ -59,7 +59,7 @@
           </div>
           <p class="post-category">{{post3.category}}</p>
           <h2 class="title">
-            <a href="{{site.baseurl}}{{post3.url}}">{{post3.h1}}</a>
+            <a href="{{post3.url|relative_url}}">{{post3.h1}}</a>
           </h2>
           <div class="d-flex align-items-center">
             <div class="post-meta">

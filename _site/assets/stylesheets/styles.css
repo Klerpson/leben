@@ -1861,7 +1861,7 @@ button:focus:not(:focus-visible) {
 }
 
 .recent-posts .title a:hover {
-  color: var(--color-secondary);
+  color: #ffffff;
 }
 
 .recent-posts .post-author-img {
@@ -1877,6 +1877,7 @@ button:focus:not(:focus-visible) {
 
 .recent-posts .post-date {
   font-size: 14px;
+  color: #f1f1f1;
   margin-bottom: 0;
 }
 
@@ -3272,8 +3273,7 @@ button.btn-get-started:hover {
 .entry {
   padding: 0 0 1em 0;
   border-radius: var(--radius);
-  border: 2.4px solid var(--color-base);
-  border-radius: 8px;
+  background-color: var(--color-base);
 }
 
 .entry p,
