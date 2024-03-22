@@ -1877,7 +1877,6 @@ button:focus:not(:focus-visible) {
 
 .recent-posts .post-date {
   font-size: 14px;
-  color: #f1f1f1;
   margin-bottom: 0;
 }
 
@@ -3273,12 +3272,10 @@ button.btn-get-started:hover {
 .entry {
   padding: 0 0 1em 0;
   border-radius: var(--radius);
-  background-color: var(--color-base);
 }
 
 .entry p,
-.entry .title,
-.entry time {
+.entry .title{
   padding: 0 1rem;
 }
 
