@@ -34,7 +34,7 @@ Para los compradores, los principales gastos notariales en 2024 incluyen:
 - Honorarios notariales y copias
 - IVA
 
-## Gastos notariales para el vendedor de una casa en Colombia
+## Gastos notariales para la venta de un inmueble en Colombia
 
 Por su parte, los vendedores deben asumir:
 
@@ -49,7 +49,7 @@ Por su parte, los vendedores deben asumir:
 
 Otros trámites relacionados son el certificado de tradición y libertad, que detalla la historia del inmueble, y los impuestos de beneficencia, registro y anotación que se pagan en la Oficina de Registro de Instrumentos Públicos.
 
-## Factores que influyen en los gastos notariales
+## Factores que influyen en los gastos de escrituración de este año
 
 Además del valor del inmueble y si eres comprador o vendedor, existen otros factores que pueden impactar el monto final de los gastos notariales:
 

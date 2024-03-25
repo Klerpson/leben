@@ -3272,6 +3272,7 @@ button.btn-get-started:hover {
 .entry {
   padding: 0 0 1em 0;
   border-radius: var(--radius);
+  
 }
 
 .entry p,
