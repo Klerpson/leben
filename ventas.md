@@ -16,7 +16,7 @@ Encuentra **acogedoras casas en venta económicas o lujosos apartamentos en los 
 
 Si prefieres un estilo de vida más relajado y cerca de la naturaleza, **las fincas y quintas en venta en las afueras de Fusagasugá son la opción perfecta para ti**.
 
-Consigue las más hermosas **casas campestres de toda Cundinamarca**, decoradas con amplios terrenos y entornos naturales impresionantes. Estas propiedades ofrecen la oportunidad de disfrutar de actividades al aire libre y de un estilo de vida más tranquilo y sereno.
+Consigue las más hermosas **casas campestres en venta de toda Cundinamarca**, decoradas con amplios terrenos y entornos naturales impresionantes. Estas propiedades ofrecen la oportunidad de disfrutar de actividades al aire libre y de un estilo de vida más tranquilo y sereno.
 
 Y a quién no le ha gustado la idea de disfrutar de la tranquilidad del campo sin estar lejos de las zonas urbanas. *Fusagasugá es la zona perfecta* para llevar este estilo de vida.
 

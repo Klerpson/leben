@@ -26,6 +26,12 @@ Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}}) d
 
 -----
 
+## ¿Qué es el impuesto predial?
+
+El impuesto predial **es un tributo que se cobra a los propietarios de bienes inmuebles**, ya sean urbanos o rurales.
+
+Este impuesto se calcula sobre el valor catastral de la propiedad y su principal objetivo es financiar los gastos del gobierno local para brindar servicios básicos y desarrollar proyectos que mejoren la calidad de vida de los habitantes.
+
 ## Formas de pagar el impuesto predial en Fusagasugá este {{ "now" | date:"%Y"}}
 
 Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial.
