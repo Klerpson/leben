@@ -6,7 +6,7 @@ h1: Venta de casas, apartamentos, quintas y fincas en Fusagasugá con LEBEN inmo
 ---
 ## Consigue Casas y Apartamentos en Venta en Fusagasugá: Opciones Inmobiliarias para Todos los Gustos
 
-### Viviendas Urbanas en Venta: Casas y Apartamentos en Fusagasugá
+### Proyectos de Viviendas Urbanas en Venta: Casas y Apartamentos en Fusagasugá
 
 **En Fusagasugá, encontrar la casa o apartamento de tus sueños es posible** gracias a la variedad de opciones disponibles en distintos barrios y conjuntos cerrados de la ciudad.
 
