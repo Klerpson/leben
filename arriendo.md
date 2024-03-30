@@ -30,7 +30,9 @@ Optar por una casa en arriendo aquí significa disfrutar de espacios amplios, ja
 
 ### Apartamentos en Arriendo en Fusagasugá
 
-Los apartamentos son una excelente opción **para jóvenes profesionales, estudiantes o familias pequeñas**. Ofrecen la comodidad de estar cerca de centros comerciales, universidades y servicios, con el beneficio adicional de seguridad y facilidades de mantenimiento.
+Los apartamentos son una excelente opción **para jóvenes profesionales, estudiantes o familias pequeñas**. Y tu gusto en 
+
+Ofrecen la comodidad de estar cerca de centros comerciales, universidades y servicios, con el beneficio adicional de seguridad y facilidades de mantenimiento.
 
 #### Opciones en Balmoral y Santa Anita
 
