@@ -28,6 +28,8 @@ Con ubicaciones tanto en el área urbana como en las zonas rurales circundantes,
 
 Con precios competitivos y una oferta de casas, apartamentos, quintas y fincas tan diversa, **el mercado inmobiliario de Fusagasugá se posiciona como una excelente oportunidad de inversión** en Colombia.
 
+Por ejemplo, en Fusagasugá aún puedes llegar a negociar *ventas de casas de 60 u 80 millones*. Pero, como en todo el mercado nacional, l*o más común es encontrar valores de más de 100 millones*.
+
 Si ahora estás buscando un lugar que sea para tu residencia permanente, vacaciones o por simple inversión, Fusagasugá ofrece una variedad de opciones que atraen a compradores nacionales e internacionales. **Escribe a nuestro asesor experto para recibir más información** y tomar la mejor decisión de inversión inmobiliaria.
 
 {% include asesor.html nombre="Alejandro Hurtado" foto="alejandro-hurtado-leben.webp" %}
