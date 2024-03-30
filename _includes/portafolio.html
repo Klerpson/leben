@@ -21,13 +21,15 @@
         {% for data in myData %}
         <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
           <div class="portfolio-wrap" data-aos="fade-up" data-aos-delay="20">
-            <a href="{{site.baseurl}}/assets/images/portfolio/{{data.url}}" data-gallery="portfolio-gallery-app" class="glightbox" title="Inmobiliaria LEBEN Fusagasugá"><img src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
+            <a href="{{data.url|relative_url}}" data-gallery="portfolio-gallery-app" class="glightbox" title="Inmobiliaria LEBEN Fusagasugá"><img src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
             <h4>{{data.cta}}</h4>
             </a>
             <div class="portfolio-info">
-              <h3><a href="{{site.baseurl}}/{{data.url}}" title="Oferta de LEBEN Inmobiliaria">{{data.cta}}</a></h3>
+              <a href="{{data.url|relative_url}}" title="Oferta de LEBEN Inmobiliaria">
+                <h3>{{data.cta}}</h3>
+              </a>
               <div class="project-deatils-aside">
-                <div class="project-btn"><a href="{{site.baseurl}}/{{data.url}}" class="fill-btn" title="Casas y apartamentos de Fusagasugá">Ver más detalles</a></div>
+                <div class="project-btn"><a href="{{data.url|relative_url}}" class="fill-btn" title="Casas y apartamentos de Fusagasugá">Ver más detalles</a></div>
             </div>
             </div>
           </div>
