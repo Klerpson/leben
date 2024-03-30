@@ -1861,7 +1861,7 @@ button:focus:not(:focus-visible) {
 }
 
 .recent-posts .title a:hover {
-  color: #ffffff;
+  color: var(--color-secondary);
 }
 
 .recent-posts .post-author-img {
