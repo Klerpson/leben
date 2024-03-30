@@ -90,7 +90,7 @@ Las proyecciones indican que esta tendencia continuará, **[haciendo de Fusagasu
 
 ### Uso de OLX y Otros Portales Inmobiliarios
 
-Plataformas como OLX, Metrocuadrado, Finca Raíz, y Trovit son recursos valiosos para encontrar opciones de arriendo en Fusagasugá. Estos sitios ofrecen una amplia gama de propiedades, permitiendo a los usuarios filtrar por tipo, ubicación y rango de precio.
+Plataformas como *OLX, Metrocuadrado, Finca Raíz, y Trovit* son recursos valiosos para encontrar opciones de arriendo en Fusagasugá. Estos sitios ofrecen una amplia gama de propiedades, permitiendo a los usuarios filtrar por tipo, ubicación y rango de precio.
 
 Pero con **LEBEN Inmobiliaria tendrás una asesoría personalizada y la garantía de evitar estafas en línea**. Asegúrate de arrendar una casa en Fusagasugá con la tranquilidad que te ofrece nuestra asesoría.
 

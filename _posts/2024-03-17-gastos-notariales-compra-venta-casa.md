@@ -12,7 +12,7 @@ foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
-Al [adquirir una propiedad raíz en Colombia]({{'ventas'|relative_url}}), ya sea nueva o usada, es fundamental conocer los gastos notariales que implica la transacción de venta o compra. Estos costos legales son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
+Al [adquirir una propiedad raíz en Colombia]({{'ventas'|relative_url}}), ya sea nueva o usada, es fundamental conocer los gastos notariales que implica la transacción de venta o compra. Estos costos notariales en Colombia son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
 
 -----
 
