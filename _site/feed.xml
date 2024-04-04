@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Mar 2024 23:59:17 -0500</pubDate>
-    <lastBuildDate>Fri, 29 Mar 2024 23:59:17 -0500</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2024 07:14:52 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2024 07:14:52 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -408,6 +408,25 @@
 &lt;p&gt;Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaciones fiscales buscando la página de la alcaldía o del reteica Fusagasugá.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://haciendafusagasuga.gov.co/&quot; title=&quot;impuesto predial fusagasuga&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Al acceder al sitio web&lt;/a&gt;, las personas pueden diligenciar todos los pasos para finalmente hacer clic en la opción “Realizar pago” para iniciar el proceso de pago, garantizando un método fácil de usar y accesible para cumplir con sus responsabilidades fiscales.&lt;/p&gt;
+
+&lt;p&gt;&lt;!-- Call To Action Section --&gt;&lt;/p&gt;
+&lt;section id=&quot;call-to-action&quot; class=&quot;call-to-action sections-bg&quot;&gt;
+  &lt;div class=&quot;container&quot; data-aos=&quot;zoom-out&quot;&gt;
+    &lt;div&gt;
+      &lt;h2&gt;Conoce el próximo proyecto de vivienda en Fusagasugá&lt;/h2&gt;
+      &lt;p&gt;Vive en el entorno más tranquilo de la ciudad&lt;/p&gt;
+      &lt;h3&gt;Bosques de Palo Verde&lt;/h3&gt;
+      &lt;p&gt;No te pierdas esta gran oportunidad de hacer la compra más importante de tu vida: la de tu casa!&lt;/p&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Vive en un lugar muy acogedor y sereno&lt;/li&gt;
+        &lt;li&gt;Consigue una casa con espacios amplios para tu familia&lt;/li&gt;
+        &lt;li&gt;Valoriza inmediatamente tu inversión&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+    &lt;a class=&quot;cta-btn&quot; href=&quot;https://api.whatsapp.com/send?phone=+573224736189&amp;amp;text=Hola!%20Estaba%20en%20la%20p%C3%A1gina%20web%20de%20LEBEN.%20Por%20favor,%20env%C3%ADame%20m%C3%A1s%20info%20sobre...&quot;&gt;Escríbenos para más info&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- End Call To Action Section --&gt;
 
 &lt;h3 id=&quot;pasos-para-crear-una-cuenta-de-usuario-en-el-sitio-web-del-municipio-de-fusagasugá&quot;&gt;Pasos para Crear una Cuenta de Usuario en el Sitio Web del Municipio de Fusagasugá&lt;/h3&gt;
 

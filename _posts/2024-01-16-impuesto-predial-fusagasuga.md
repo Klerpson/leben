@@ -40,6 +40,8 @@ Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaci
 
 [Al acceder al sitio web](https://haciendafusagasuga.gov.co/ "impuesto predial fusagasuga"){:rel="nofollow noopener noreferrer" target="_blank"}, las personas pueden diligenciar todos los pasos para finalmente hacer clic en la opción "Realizar pago" para iniciar el proceso de pago, garantizando un método fácil de usar y accesible para cumplir con sus responsabilidades fiscales.
 
+{% include cta.html %}
+
 ### Pasos para Crear una Cuenta de Usuario en el Sitio Web del Municipio de Fusagasugá
 
 1. **Acceder al Sitio Web Oficial**: Visite el sitio web oficial del municipio de Fusagasugá.
