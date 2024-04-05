@@ -580,8 +580,9 @@ transform: scale(1.05);
 # Blog Sidebar
 --------------------------------------------------------------*/
 .blog-sidbar{
-  background: #2b2b2b;
+  border: 1.6px solid #2b2b2b;
   padding: 20px;
+  box-shadow: var(--shadow);
 }
 .blog .sidebar {
   padding: 30px;

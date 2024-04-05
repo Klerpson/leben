@@ -1109,6 +1109,10 @@ table th {
 --------------------------------------------------------------*/
 .call-to-action {
   padding: 3em 0;
+  margin-bottom: 2em;
+  background-color: var(--color-base);
+  box-shadow: 0 0 0 100vmax var(--color-base);
+  clip-path: inset(0 -100vmax);
 }
 
 .call-to-action h2 {
@@ -1126,6 +1130,16 @@ table th {
   color: #fff;
   margin-bottom: 20px;
   margin: 1em auto;
+}
+
+.call-to-action ol li{
+  list-style: decimal;
+  color: white;
+}
+
+.call-to-action ol li::marker{
+  color: var(--color-secondary);
+  font-size: 1.5em;
 }
 
 .call-to-action .section-header-book {
@@ -2315,11 +2329,11 @@ button:focus:not(:focus-visible) {
 }
 
 .counter-container ul li {
+  list-style: none;
   line-height: 33px;
 }
 
 .counter-container ul li:last-child{
-  list-style: none;
   margin: 0;
 }
 

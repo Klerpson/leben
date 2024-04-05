@@ -17,6 +17,7 @@
           <div class="counter-container" data-aos="fade-right" data-aos-delay="50">
             {% if page.url != "/ventas" and page.url != "/arriendo" %}
             <div class="counter" data-target="{{include.data}}"></div>
+            <h4>Precio de valorización hasta el día de hoy</h4>
             {% endif %}
             <h3>{{include.h2}}</h3>
             <ul>
@@ -27,7 +28,7 @@
               <li><i class="bi bi-link-45deg"></i> {{include.li5}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li6}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li7}}</li>
-              <li><a href="{{include.url|relative_url}}" class="boton-white">↪ Mira la propiedad</a></li>
+              <li><a href="{{include.url|relative_url}}" class="boton-white">Conoce la propiedad</a></li>
             </ul>
           </div>
         </div>

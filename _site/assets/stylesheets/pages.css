@@ -385,11 +385,13 @@ transform: scale(1.05);
 }
 
 .blog .post-author .social-links a {
+  color: var(--color-primary);
   margin-right: 5px;
 }
 
 .blog .post-author p {
   font-style: italic;
+  color: rgba(108, 117, 125, 0.8);
   margin-bottom: 1em;
 }
 

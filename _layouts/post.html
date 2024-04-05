@@ -60,6 +60,7 @@ layout: default
                 <h3 class="sidebar-title">Recent Posts</h3>
                 <div class="mt-3">
                   {% for post in site.posts limit:5 %}
+                  <hr>
                   <div class="post-item mt-3">
                     <img src="{{site.baseurl}}/assets/images/blog/{{post.hero}}" alt="{{post.alt}}" loading="lazy">
                     <div>
@@ -76,7 +77,7 @@ layout: default
         </div>
       </section>
   </main><!-- End #main -->
-  <section id="counter" class="counter-area section-padding" >
+  <!-- <section id="counter" class="counter-area section-padding" >
     <div class="container">
       <div class="row">
         <div class="counter-container">
@@ -86,4 +87,5 @@ layout: default
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
+{% include datos.html data="650" img="portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" h2="Vive el Lujo y Confort en Fusagasugá: Tu Próximo Hogar con Amenidades Exclusivas" li1="Valor $ 650'000.000" li2="Sala como muy pocas hoy en día y con luz natural" li3="5 baños con amplios, amplios y con lujos y mueblería" li4="Cocina grande, con muebles y mesón auxiliar" li5="5 modernas habitaciones de lujo y para meter lo que desees" li6="Transporte público y colegios cerca. Todo a la mano" li7="Uno de los mejores vecindarios de Fusagasugá" url="ventas/casa-venta-sector-indio-fusagasuga" %}
