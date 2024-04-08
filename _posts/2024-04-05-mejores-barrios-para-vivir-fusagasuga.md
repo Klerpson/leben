@@ -3,7 +3,7 @@ layout: post
 title: "¿Cuáles son los mejores barrios de Fusagasugá para vivir?"
 description: Realiza el pago del impuesto predial en Fusagasugá de manera sencilla y segura con SINFA. Sigue nuestro paso a paso. Aprovecha los beneficios
 h1: "Los mejores barrios de Fusagasugá para vivir o comprar casa"
-hero: sinfa-fusagasuga.webp
+hero: barrios-de-fusagasuga.webp
 alt: Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá
 category: Vivienda
 excerpt: No te pierdas nuestra guía completa sobre el uso de SINFA para el impuesto predial en Fusagasugá. Aprende sobre plazos, descuentos, opciones de pago y más. ¡Cumple con tu deber ciudadano!
