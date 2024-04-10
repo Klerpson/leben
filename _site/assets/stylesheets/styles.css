@@ -1501,6 +1501,11 @@ table th {
 
 .portfolio-wrap a img{
   box-shadow: var(--shadow);
+  transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.portfolio-wrap a:hover img{
+  transform: scale(1.05);
 }
 
 /*--------------------------------------------------------------
@@ -2118,8 +2123,46 @@ button:focus:not(:focus-visible) {
 }
 
 /*--------------------------------------------------------------
+# Banner de noticias
+--------------------------------------------------------------*/
+
+.carousel_container{
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  background-color: var(--color-default);
+}
+
+.carousel{
+  white-space: nowrap;
+}
+
+.carousel .carousel_texto{
+  display: flex;
+  gap: 2em;
+  padding: 80px 0 40px;
+}
+
+.carousel .carousel_texto p{
+  font-size: 1.4em;
+  color: white;
+  font-weight: bolder;
+  margin: 0;
+  animation: banner 15s infinite linear;
+}
+
+@keyframes banner {
+  from{
+    transform: translateX(95%);
+  }
+  to{
+    transform: translateX(-95%);
+  }
+}
+/*--------------------------------------------------------------
 # Blog Details
 --------------------------------------------------------------*/
+
 .blog .blog-details {
   box-shadow: var(--shadow);
   padding: 30px;
