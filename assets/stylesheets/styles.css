@@ -1490,268 +1490,18 @@ table th {
 
 @media (max-width: 575px) {
   .portfolio .portfolio-flters li {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 
-.portfolio .portfolio-container {
-  min-height: 100%;
+.portfolio-wrap a h4{
+  padding: 12px 0;
+  border-bottom: solid 1.6px var(--color-base);
 }
 
-.portfolio .portfolio-wrap {
+.portfolio-wrap a img{
   box-shadow: var(--shadow);
-  border-radius: var(--radius);
-  height: -webkit-min-content;
-  height: -moz-min-content;
-  height: min-content;
-  overflow: hidden;
-  transition: 0.3s;
-  position: relative;
 }
-
-.portfolio .portfolio-wrap img {
-  border-radius: var(--radius);
-  transition: 0.3s;
-  position: relative;
-  z-index: 1;
-  width: min(100%, 460px);
-  height: 240px;
-  -o-object-fit: cover;
-     object-fit: cover;
-}
-
-.portfolio .portfolio-wrap:hover .portfolio-info {
-  display: flex;
-  transition: 0.3s;
-  border-radius: 0;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  flex-direction: column;
-}
-
-.portfolio .portfolio-wrap .portfolio-info {
-  transition: 0.3s;
-}
-
-.portfolio .portfolio-wrap .portfolio-info h3 a {
-  transition: 0.3s;
-}
-
-.portfolio .portfolio-wrap .portfolio-info h3 a:hover {
-  color: #ffffff;
-}
-
-.portfolio .portfolio-wrap .portfolio-info p {
-  color: #6c757d;
-  font-size: 14px;
-  margin-bottom: 0;
-  padding-right: 50px;
-}
-
-.portfolio .portfolio-wrap:hover img {
-  transform: scale(1.1);
-}
-
-.portfolio .portfolio-wrap a{
-  position: relative;
-}
-
-.portfolio .portfolio-wrap h4{
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  padding: 8px 12px;
-  background-color: rgba(255, 255, 255, 0.8);
-  color: var(--color-primary);
-  text-align: center;
-  z-index: 20;
-  transition: all .2s ease-out;
-  font-weight: 700;
-}
-
-.portfolio .portfolio-wrap:hover h4{
-  display: none;
-}
-
-.propiedades{
-  padding: 2em 0;
-  text-align: center;
-  max-width: 800px;
-  margin-inline: auto;
-}
-
-/*--------------------------------------------------------------
-# Portfolio Details Section
---------------------------------------------------------------*/
-.portfolio-details .portfolio-details-slider img {
-  width: 100%;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: rgba(255, 255, 255, 0.7);
-  opacity: 1;
-}
-
-.portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: var(--color-primary);
-}
-
-.portfolio-details .swiper-button-prev,
-.portfolio-details .swiper-button-next {
-  width: 48px;
-  height: 48px;
-}
-
-.portfolio-details .swiper-button-prev:after,
-.portfolio-details .swiper-button-next:after {
-  color: rgba(255, 255, 255, 0.8);
-  background-color: rgba(0, 0, 0, 0.2);
-  font-size: 24px;
-  border-radius: 50%;
-  width: 48px;
-  height: 48px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: 0.3s;
-}
-
-.portfolio-details .swiper-button-prev:hover:after,
-.portfolio-details .swiper-button-next:hover:after {
-  background-color: rgba(0, 0, 0, 0.6);
-}
-
-@media (max-width: 575px) {
-
-  .portfolio-details .swiper-button-prev,
-  .portfolio-details .swiper-button-next {
-    display: none;
-  }
-}
-
-.portfolio-details .portfolio-info h3 {
-  font-size: 22px;
-  font-weight: 700;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
-  position: relative;
-}
-
-.portfolio-details .portfolio-info h3:after {
-  content: "";
-  position: absolute;
-  display: block;
-  width: 50px;
-  height: 3px;
-  background: #10bab9;
-  left: 0;
-  bottom: 0;
-}
-
-.portfolio-details .portfolio-info ul {
-  list-style: none;
-  padding: 0;
-  font-size: 15px;
-}
-
-.portfolio-details .portfolio-info ul li {
-  display: flex;
-  flex-direction: column;
-  padding-bottom: 15px;
-  font-size: 16px;
-}
-
-.portfolio-details .portfolio-info ul strong {
-  text-transform: uppercase;
-  font-weight: 400;
-  color: #9c9c9c;
-  font-size: 12px;
-}
-
-.portfolio-details .portfolio-info .btn-visit {
-  padding: 8px 40px;
-  background: #eb4680;
-  color: #fff;
-  border-radius: 2px;
-  transition: 0.3s;
-}
-
-.portfolio-details .portfolio-info .btn-visit:hover {
-  background: #eb4680;
-}
-
-.portfolio-details .portfolio-description h2 {
-  font-size: 26px;
-  font-weight: 700;
-  margin-bottom: 20px;
-  margin-top: 20px;
-}
-
-.portfolio-details .portfolio-description p {
-  padding: 0;
-}
-
-.project-deatils-aside .testimonial-item {
-  padding: 30px 30px 0 30px;
-  position: relative;
-  background: white;
-  height: 100%;
-  margin-bottom: 50px;
-}
-
-.project-deatils-aside .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 2px;
-  border: 6px solid #fff;
-  float: left;
-  margin: 0 10px 0 0;
-}
-
-.project-deatils-aside .testimonial-item h3 {
-  font-size: 18px;
-  font-weight: bold;
-  margin: 15px 0 5px 0;
-  padding-top: 20px;
-}
-
-.project-deatils-aside .testimonial-item h4 {
-  font-size: 14px;
-  color: #6c757d;
-  margin: 0;
-}
-
-.project-deatils-aside .testimonial-item .quote-icon-left,
-.project-deatils-aside .testimonial-item .quote-icon-right {
-  color: #10bab9;
-  font-size: 26px;
-  line-height: 0;
-}
-
-.project-deatils-aside .testimonial-item .quote-icon-left {
-  display: inline-block;
-  left: -5px;
-  position: relative;
-}
-
-.project-deatils-aside .testimonial-item .quote-icon-right {
-  display: inline-block;
-  right: -5px;
-  position: relative;
-  top: 10px;
-  transform: scale(-1, -1);
-}
-
-.project-deatils-aside .testimonial-item p {
-  font-style: italic;
-  margin: 0 0 15px 0 0 0;
-  padding: 0;
-}
-
-
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions Section
@@ -1773,9 +1523,7 @@ table th {
 }
 
 .faq .accordion-item {
-  border: 0;
   margin-bottom: 20px;
-  background-color: #3a2121;
 }
 
 .faq .accordion-item:last-child {
@@ -1791,10 +1539,10 @@ table th {
 
 .faq .accordion-button {
   padding: 20px 50px 20px 20px;
-  color: var(--color-gris);
+  color: var(--color-primary);
   text-align: left;
   border-radius: 0;
-  background: #2b2b2b;
+  box-shadow: var(--shadow);
   transition: all 0.3s ease-in-out;
   outline: none;
   border-color: transparent;

@@ -20,9 +20,10 @@
         
         {% for data in myData %}
         <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
-          <div class="portfolio-wrap" data-aos="fade-up" data-aos-delay="20">
-            <a href="{{data.url|relative_url}}" data-gallery="portfolio-gallery-app" class="glightbox" title="Inmobiliaria LEBEN Fusagasugá"><img src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
-            <h4>{{data.cta}}</h4>
+          <div class="portfolio-wrap">
+            <a href="{{data.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">
+              <img src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
+              <h4>{{data.cta}}</h4>
             </a>
             <div class="portfolio-info">
               <a href="{{data.url|relative_url}}" title="Oferta de LEBEN Inmobiliaria">
