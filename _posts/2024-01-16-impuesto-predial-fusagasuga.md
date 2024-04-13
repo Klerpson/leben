@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Pago Impuesto Predial Fusagasugá: Guía Fácil y Rápida"
+title: "Pago Impuesto Predial Fusagasugá: "
 description: Aprende a pagar el impuesto predial en Fusagasugá fácilmente. ¡Haz clic para una guía paso a paso y evita complicaciones!
-h1: "Fusagasugá: tu impuesto predial en línea o presencial"
+h1: "Fusagasugá: Paga tu impuesto predial en línea o presencial"
 hero: propiedades-fusagasuga.webp
-alt: Iglesia emblemática en Fusagasugá
+alt: Foto en Fusagasugá donde pagar el impuesto predial
 category: Impuestos
 excerpt: Paga tu impuesto predial en Fusagasugá de forma segura y rápida. ¡Entra ahora y conoce todos los detalles!
 autor: Sebastián Rincón
@@ -14,31 +14,32 @@ instagram: https://instagram.com/sebastianrincon
 ---
 Pagar el impuesto predial en Fusagasugá, Cundinamarca, Colombia, puede hacerse fácilmente a través de métodos en línea o en persona.
 
-Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}}) debes seguir estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
+Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}} "Venta de Casas Fusa") debes seguir estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
 
 -----
 
-## Sobre el impuesto predial de Fusagasugá te contamos lo siguiente
+## Sobre el pago del impuesto predial en Fusagasugá te contamos lo siguiente
 
 - [Cómo paga el impuesto predial en Fusagasugá en línea](#formas-de-pagar-el-impuesto-predial-en-fusagasugá)
 - [Cómo paga el impuesto predial en Fusagasugá en la oficina gubernamental](#pago-en-la-alcaldía-de-fusagasugá-impuesto-predial)
+- [Descarga el impuesto predial en la página de la alcaldía de Fusa](#tutorial-cómo-descargar-yo-pagar-el-impuesto-predial-en-fusagasugá)
 - [Requisitos para el pago del impuesto predial](#requisitos-para-pagar-el-impuesto-predial-en-fusagasugá)
 
 -----
 
-## ¿Qué es el impuesto predial?
+## ¿Para qué es el pago del impuesto predial en Fusagasugá?
 
 El impuesto predial **es un tributo que se cobra a los propietarios de bienes inmuebles**, ya sean urbanos o rurales.
 
-Este impuesto se calcula sobre el valor catastral de la propiedad y su principal objetivo es financiar los gastos del gobierno local para brindar servicios básicos y desarrollar proyectos que mejoren la calidad de vida de los habitantes.
+Este impuesto se calcula sobre el valor catastral de la propiedad y su principal objetivo es financiar los gastos del gobierno de Fusagasugá para brindar servicios básicos y desarrollar proyectos que mejoren la calidad de vida de los habitantes.
 
 ## Formas de pagar el impuesto predial en Fusagasugá este {{ "now" | date:"%Y"}}
 
-Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial.
+Para mayor comodidad de los residentes, el [Municipio de Fusagasugá en Cundinamarca]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %} "Conoce Fusagasugá"), Colombia, ofrece una plataforma en línea fácil y eficaz para el pago del impuesto predial.
 
 Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaciones fiscales buscando la página de la alcaldía o del reteica Fusagasugá.
 
-[Al acceder al sitio web](https://haciendafusagasuga.gov.co/ "impuesto predial fusagasuga"){:rel="nofollow noopener noreferrer" target="_blank"}, las personas pueden diligenciar todos los pasos para finalmente hacer clic en la opción "Realizar pago" para iniciar el proceso de pago, garantizando un método fácil de usar y accesible para cumplir con sus responsabilidades fiscales.
+[Al acceder al sitio web](https://haciendafusagasuga.gov.co/ "Página para pagar impuesto predial fusagasuga"){:rel="nofollow noopener noreferrer" target="_blank"}, las personas pueden diligenciar todos los pasos para finalmente hacer clic en la opción "Realizar pago" para iniciar el proceso de pago, garantizando un método fácil de usar y accesible para cumplir con sus responsabilidades fiscales.
 
 ### Pasos para Crear una Cuenta de Usuario en el Sitio Web del Municipio de Fusagasugá
 
@@ -52,19 +53,70 @@ Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaci
 
 {% include cta.html %}
 
-### Descarga de facturas del impuesto y de Reteica
+### Descarga de facturas del impuesto predial y de Reteica
 
-Como parte de los servicios en línea que ofrece el municipio de Fusagasugá, los propietarios tienen la comodidad de descargar sus facturas del impuesto predial, de industria y comercio y de Reteica a través del sitio web oficial.
+Como parte de los servicios en línea que ofrece el municipio de Fusagasugá, los propietarios tienen la comodidad de **descargar sus facturas del impuesto predial, de industria y comercio y de Reteica** a través del sitio web oficial.
 
 Este recurso digital permite a los individuos acceder y gestionar eficazmente su documentación tributaria.
 
-### Pagar y descargar el impuesto predial de Fusagasugá en línea
+## ¿Cómo descargar el impuesto predial de Fusagasugá?
 
-Una vez que los propietarios crean sus cuentas de usuario y descargan sus facturas respectivas, pueden **proceder a la sección de pago en línea en el sitio web oficial del municipio de Fusagasugá**.
+Aquí tienes un tutorial con las instrucciones para descargar el documento de tu impuesto predial en la página oficial de la alcaldía de Fusagasugá:
 
-A través de esta interfaz de pago en línea específica, las personas pueden liquidar con seguridad y rapidez sus obligaciones fiscales.
+### Tutorial: Cómo descargar y/o pagar el Impuesto Predial en Fusagasugá
 
-## Pago en la alcaldía de Fusagasugá Impuesto Predial
+-----
+
+#### 1. Ingresa a la página web del Municipio de Fusagasugá
+
+Visita el sitio web oficial del Municipio de Fusagasugá: https://www.fusagasuga.gov.co
+
+#### 2. Accede al Portal Tributario
+
+En el banner principal, haz clic en: "Agilice sus trámites – Ingrese a su Portal Tributario"
+
+#### 3. Regístrate con tus datos personales
+
+1. Haz clic en la opción "Regístrate Aquí".
+2. Completa los campos solicitados.
+   > **Nota:** No olvides aceptar los términos y condiciones.
+
+#### 4. Inicia sesión nuevamente en la página oficial de la alcaldía
+
+1. Vuelve a la página principal [www.fusagasuga-cundinamarca.gov.co](https://haciendafusagasuga.gov.co/){:rel="nofollow noopener noreferrer" target="_blank"} e inicia sesión con los datos registrados.
+2. Actualiza tus datos en la opción "Editar Información".
+   > **Importante:** Ingresa un número telefónico vigente, ya que a este número se te enviará un código de confirmación.
+
+#### 5. Registra tus predios
+
+1. Una vez registrada tu información personal, haz clic en tu correo electrónico en la parte superior derecha.
+2. Selecciona la opción "Registrar Cédulas Catastrales".
+3. Ingresa el Código Catastral de tu predio.
+4. Haz clic en "Registrar código".
+   > **Nota:** Puedes registrar todos los predios que poseas.
+
+#### 6. Accede a la opción de Impuesto Predial Fusagasugá por cédula
+
+1. Vuelve al inicio y haz clic en la opción "Impuesto Predial".
+2. Visualizarás los predios que tienes inscritos.
+
+#### 7. Realiza el pago o descarga el recibo del impuesto predial en Fusa
+
+1. Tienes la opción de efectuar el pago en línea a través de PSE o descargar el recibo para pago en bancos.
+2. Puedes consultar las vigencias disponibles.
+
+#### 8. Consulta información adicional
+
+1. En la opción "Más Información", podrás visualizar la deuda de las vigencias anteriores año a año.
+   > **Nota:** Te permite descargar y pagar las vigencias más recientes. A medida que te pongas al día, se habilitarán las vigencias más antiguas.
+
+2. Aquí también puedes consultar el historial de pagos y/o los acuerdos de pago suscritos.
+
+¡Listo! Ahora tienes un tutorial completo y fácil de seguir para descargar y/o pagar tu Impuesto Predial en el Municipio de Fusagasugá.
+
+-----
+
+## Pago en la oficina de la alcaldía de Fusagasugá Impuesto Predial
 
 Los propietarios de inmuebles en Fusagasugá también tienen la oportunidad de visitar el Municipio en persona para realizar el pago del impuesto predial.
 
