@@ -1918,7 +1918,7 @@ button:focus:not(:focus-visible) {
  -------------------------------------------------------------- */
 
 .counter-area {
-  background: url("../images/hero-bg.jpg");
+  background: url("../images/hero-bg.webp");
   background-size: cover;
   border-radius: 0px;
   overflow: hidden;
