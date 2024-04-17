@@ -28,70 +28,35 @@ layout: default
       </div>
       {% endif %}
     </div>
-    <div
-      class="portfolio-isotope"
-      data-portfolio-filter="*"
-      data-portfolio-layout="masonry"
-      data-portfolio-sort="original-order"
-    >
-      <div>
-        <ul class="portfolio-flters">
-          <li data-filter="*" class="filter-active">Todos</li>
-          <li data-filter=".casas">Casas</li>
-          <li data-filter=".apartamentos">Apartamentos</li>
-          <li data-filter=".apartaestudios">Apartaestudios</li>
-          <li data-filter=".fincas">Fincas</li>
-          <li data-filter=".quintas">Quintas</li>
-        </ul>
-        <!-- End Portfolio Filters -->
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
+      <button data-name="casas">Casas</button>
+      <button data-name="apartamentos">Apartamentos</button>
+      <button data-name="apartaestudios">Apartaestudios</button>
+      <button data-name="fincas">Fincas</button>
+      <button data-name="quintas">Quintas</button>
+    </div>
+    <div class="posts">
+      {% if page.url == "/ventas" %}
+      {% for item in site.ventas %}
+      <div class="post" data-name="{{ item.clase }}">
+        <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">
+          <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy">
+          <h3>{{item.h1}}</h3>
+        </a>
       </div>
-      <div class="row gy-4 portfolio-container">
-        {% if page.url == "/ventas" %}
-        {% for data in site.ventas %}
-        <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
-          <div class="portfolio-wrap">
-            <a href="{{site.baseurl}}{{data.url}}" title="Inmobiliaria LEBEN Fusagasugá" ><img src="{{site.baseurl}}/assets/images/portfolio/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
-            <h4>{{data.title}}</h4>
-          </a>
-            <div class="portfolio-info">
-              <h3>
-                <a href="{{site.baseurl}}{{data.url}}" title="Oferta de LEBEN Inmobiliaria">{{data.cta}}</a>
-              </h3>
-              <div class="project-deatils-aside">
-                <div class="project-btn">
-                  <a href="{{site.baseurl}}{{data.url}}" class="fill-btn" title="Casas y apartamentos de Fusagasugá">Ver más detalles</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- End Portfolio Item -->
-        {% endfor %}
-        {% endif %}
-        {% if page.url == "/arriendo" %}
-        {% for data in site.arriendo %}
-        <div class="col-xl-4 col-md-6 portfolio-item {{data.clase}}">
-          <div class="portfolio-wrap">
-            <a href="{{site.baseurl}}{{data.url}}" title="Inmobiliaria LEBEN Fusagasugá" ><img src="{{site.baseurl}}/assets/images/arriendo/{{data.img}}" class="img-fluid" alt="{{data.alt}}" loading="lazy">
-            <h4>{{data.title}}</h4>
-          </a>
-            <div class="portfolio-info">
-              <h3>
-                <a href="{{site.baseurl}}{{data.url}}" title="Oferta de LEBEN Inmobiliaria">{{data.cta}}</a>
-              </h3>
-              <div class="project-deatils-aside">
-                <div class="project-btn">
-                  <a href="{{site.baseurl}}{{data.url}}" class="fill-btn" title="Casas y apartamentos de Fusagasugá">Ver más detalles</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- End Portfolio Item -->
-        {% endfor %}
-        {% endif %}
+      {% endfor %}
+      {% endif %}
+      {% if page.url == "/arriendo" %}
+      {% for item in site.arriendo %}
+      <div class="post" data-name="{{ item.clase }}">
+        <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">
+          <img src="{{site.baseurl}}/assets/images/arriendo/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy">
+          <h3>{{item.h1}}</h3>
+        </a>
       </div>
-      <!-- End Portfolio Container -->
+      {% endfor %}
+      {% endif %}
     </div>
   </div>
 </section>

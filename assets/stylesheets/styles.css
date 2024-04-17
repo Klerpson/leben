@@ -1428,15 +1428,14 @@ table th {
   padding: 0;
   font-size: 18px;
   font-weight: 500;
-  margin: 0 10px;
   line-height: 1;
   padding: 15px 25px;
   background: var(--color-primary);
   border-radius: 0;
-  margin-bottom: 20px;
   color: #ffffff;
   border-radius: var(--radius);
   transition: all 0.2s ease-in;
+  margin: 0;
 }
 
 .portfolio .portfolio-flters li:hover,
@@ -1445,18 +1444,15 @@ table th {
   box-shadow: var(--shadow);
 }
 
-.portfolio .portfolio-flters li:first-child {
-  margin-left: 0;
-}
-
-.portfolio .portfolio-flters li:last-child {
-  margin-right: 0;
-}
-
 @media (max-width: 575px) {
   .portfolio .portfolio-flters li {
     font-size: 16px;
   }
+}
+
+.portfolio-container {
+  display: flex;
+  gap: 40px;
 }
 
 .portfolio-wrap a h4 {
@@ -3300,4 +3296,74 @@ button.btn-get-started:hover {
 
 .flow > * + *:not(h1) {
   margin-top: 1.2em;
+}
+
+.blog-tags{
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 4em auto 2em;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-tags button{
+  padding: 8px 20px;
+  border: none;
+  border-radius: var(--radius);
+  background-color: var(--color-primary);
+  font-weight: bolder;
+  font-family: var(--fuenteTexto);
+  font-size: 1rem;
+  transition: all .15s ease-out;
+  color: white;
+}
+
+.blog-tags button.active{
+  background-color: white;
+  color: var(--color-secondary);
+  box-shadow: var(--shadow);
+  border: solid 2px var(--color-secondary);
+}
+
+.blog-tags button:hover{
+  transform: scale(1.05);
+  box-shadow: var(--shadow);
+}
+
+.post a{
+  position: relative;
+}
+
+.post img{
+  transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  width: min(100%, 400px);
+  height: 240px;
+  object-fit: cover;
+}
+
+.post a:hover img,
+.post a:hover h3{
+  transform: scale(1.025);
+  font-weight: 700;
+  box-shadow: var(--shadow);
+}
+
+.post a h3{
+  position: relative;
+  background-color: white;
+  font-size: 1.2em;
+  padding: 8px;
+  text-align: center;
+  transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.post.hide{
+  display: none;
+}
+
+.posts{
+  display: grid;
+  gap: 32px;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
 }
