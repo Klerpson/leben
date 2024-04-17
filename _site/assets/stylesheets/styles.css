@@ -2028,7 +2028,7 @@ button:focus:not(:focus-visible) {
 }
 
 .counter-container h3 {
-  margin: 0;
+  margin-top: 1em;
 }
 
 .counter-container i {
