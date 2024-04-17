@@ -3120,7 +3120,7 @@ button.btn-get-started:hover {
 
 .venta-body {
   margin-inline: auto;
-  width: min(100%, 1320px);
+  width: min(calc(100% - 16px), 1320px);
   background-color: var(--blanco);
   box-shadow: 0 0 0 100vmax var(--blanco);
   -webkit-clip-path: inset(0 -100vmax);
@@ -3137,7 +3137,6 @@ button.btn-get-started:hover {
   clip-path: inset(0 -100vmax);
   color: white;
   padding: 16px 0;
-  text-align: center;
 }
 
 .image-gallery {
@@ -3179,7 +3178,7 @@ button.btn-get-started:hover {
   clip-path: inset(0 -100vmax);
   width: min(calc(100% - 16px), 1320px);
   margin-inline: auto;
-  padding: 4em 2em;
+  padding: 4em 0;
 }
 
 .venta-caracteristicas h2 {
@@ -3192,6 +3191,7 @@ button.btn-get-started:hover {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  gap: 20px;
 }
 
 .venta-caracteristicas ul li {
@@ -3205,6 +3205,7 @@ button.btn-get-started:hover {
   align-items: center;
   box-shadow: var(--shadow);
   transition: all 0.2s ease-out;
+  margin: 0;
 }
 
 .venta-caracteristicas ul li:hover {
