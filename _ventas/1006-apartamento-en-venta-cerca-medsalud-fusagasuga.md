@@ -104,6 +104,6 @@ Con un precio de **$420.000.000**, este apartamento es una inversión inteligent
 
 Te guiaremos en cada paso del proceso de compra, asegurando una experiencia sin complicaciones.
 
-Este [apartamento en Fusagasugá]({{'ventas'|relative_url}}) es una oportunidad única para vivir en un lugar de ensueño o realizar una inversión inteligente.
+Este [apartamento en venta en Fusagasugá]({{'ventas'|relative_url}} "Venta casas Fusa") es una oportunidad única para vivir en un lugar de ensueño o realizar una inversión inteligente.
 
 [Contáctanos para conocer más](#asesor) y dar el primer paso hacia tu nuevo hogar.
