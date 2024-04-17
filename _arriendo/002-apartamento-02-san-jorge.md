@@ -32,12 +32,12 @@ galleryImages:
   - /assets/images/arriendo/002/apartamento-02-san-jorge-07.webp
   - /assets/images/arriendo/002/apartamento-02-san-jorge-08.webp
   - /assets/images/arriendo/002/apartamento-02-san-jorge-09.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-010.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-011.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-012.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-013.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-014.webp
-  - /assets/images/arriendo/002/apartamento-02-san-jorge-015.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-10.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-11.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-12.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-13.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-14.webp
+  - /assets/images/arriendo/002/apartamento-02-san-jorge-15.webp
 asesor: Alejandro Hurtado
 contacto: 3160520942
 foto-asesor: alejandro-hurtado-leben.webp
