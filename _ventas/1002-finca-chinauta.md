@@ -1,9 +1,9 @@
 ---
 permalink: ventas/finca-venta-chinauta-fusagasuga
 layout: venta
-title: "Finca en venta en Fusagasugá: Adolfo San Bernardo"
+title: "Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora"
 description: Hermosa finca de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
-h1: "Finca a la venta en Adolfo San Bernardo, Fusagasugá "
+h1: "Finca a la venta en San Bernardo, Fusagasugá Cundinamarca"
 clase: fincas
 img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
 alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
@@ -59,7 +59,7 @@ asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
 ---
-## 🌄 **¡Tu Refugio de Paz y Naturaleza en San Bernardo!** 🌄
+## Compra tu Rinca: Refugio de Paz y Naturaleza en San Bernardo Fusa
 
 ¿Has imaginado alguna vez vivir rodeado de la serenidad de la naturaleza, con todas las comodidades modernas a tu alcance? Te presentamos esta magnífica finca en San Bernardo, un oasis de tranquilidad y belleza a solo 25 minutos de la zona urbana.
 
@@ -77,7 +77,7 @@ foto-asesor: sebastian-rincon-leben.webp
 
 ---
 
-🌟 **¡Una Oportunidad Única en San Bernardo!** 🌟
+## Una Oportunidad Única de conseguir una finca en San Bernardo Fusa
 
 Esta finca no es solo una propiedad, es un estilo de vida. Un lugar donde puedes desconectar del bullicio de la ciudad y reconectar con la naturaleza. Pero recuerda, **oportunidades como esta en San Bernardo, cerca de Fusagasugá, son raras y muy buscadas**.
 

@@ -594,7 +594,7 @@ table th {
 .faq .section-header,
 .team .section-header,
 .contact-section .section-header,
-.portfolio .section-header,
+.section-header,
 .recent-posts.section-header,
 .testimonials .section-header {
   position: relative;
@@ -670,21 +670,6 @@ table th {
   display: block;
   transition: all 0.5s ease-in-out 0s;
   background-image: url(../images/icons/contact-section.svg);
-  background-size: contain;
-  opacity: 9;
-  background-repeat: no-repeat;
-}
-
-.portfolio .section-header::before {
-  content: "";
-  position: absolute;
-  width: 50px;
-  top: -53px;
-  height: 50px;
-  z-index: -1;
-  display: block;
-  transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/project-section.svg);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -1410,63 +1395,6 @@ table th {
 .team .member .social i {
   font-size: 14px;
   margin: 0 2px;
-}
-
-/*--------------------------------------------------------------
-# Portfolio Section
---------------------------------------------------------------*/
-.portfolio .portfolio-flters {
-  padding: 0 0 40px 0;
-  margin: 0 auto;
-  list-style: none;
-  text-align: center;
-}
-
-.portfolio .portfolio-flters li {
-  cursor: pointer;
-  display: inline-block;
-  padding: 0;
-  font-size: 18px;
-  font-weight: 500;
-  line-height: 1;
-  padding: 15px 25px;
-  background: var(--color-primary);
-  border-radius: 0;
-  color: #ffffff;
-  border-radius: var(--radius);
-  transition: all 0.2s ease-in;
-  margin: 0;
-}
-
-.portfolio .portfolio-flters li:hover,
-.portfolio .portfolio-flters li.filter-active {
-  background-color: var(--color-secondary);
-  box-shadow: var(--shadow);
-}
-
-@media (max-width: 575px) {
-  .portfolio .portfolio-flters li {
-    font-size: 16px;
-  }
-}
-
-.portfolio-container {
-  display: flex;
-  gap: 40px;
-}
-
-.portfolio-wrap a h4 {
-  padding: 12px 0;
-  border-bottom: solid 1.6px var(--color-base);
-}
-
-.portfolio-wrap a img {
-  box-shadow: var(--shadow);
-  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-
-.portfolio-wrap a:hover img {
-  transform: scale(1.05);
 }
 
 /*--------------------------------------------------------------
