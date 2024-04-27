@@ -885,7 +885,6 @@ transform: scale(1.05);
 
 .single-page .blog ul li {
   position: relative;
-  color: #C59849;
   margin-bottom: 5px;
   display: flex;
   gap: 10px;
@@ -893,7 +892,6 @@ transform: scale(1.05);
 
 .single-page ul li {
   position: relative;
-  color: #C59849;
   margin-bottom: 5px;
   display: flex;
   gap: 10px;
