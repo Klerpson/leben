@@ -45,11 +45,8 @@ schema:
   </section>
   <!-- End Hero Section -->  
   
-
   {% include portafolio.html %}
   {% include nosotros.html %}
-
-
 
   <!-- Services Section -->
   <section id="services" class="services">
@@ -171,7 +168,16 @@ schema:
     {% include faq.html %}
     {% include entradas.html %}
 
-
+<!-- Script pointing to search-script.js -->
+<script src="{{site.baseurl}}/js/search-script.js"></script>
+<!-- Buscador -->
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{site.baseurl}}/search.json'
+  })
+</script>
     
 
 
