@@ -6,11 +6,15 @@
       <p>Para ti y tu familia que están en busca de su hogar ideal, Fusagasugá, Colombia, presenta una variedad de oportunidades. La oferta de casas espaciosas y modernas en barrios bien establecidos. También las clásicas viviendas encantadoras y tradicionales en entornos serenos.</p>
       <p>Estos son ejemplos de <strong>casas, fincas, quintas, apartaestudios, y apartamentos que ahora nuestros clientes disfrutan en Fusagasugá.</strong> ¿Te gustaría encontrar el tuyo? ¡Escógelo!</p>
     </div>
+  
+    {% include search.html %}
+
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
       <button data-name="ventas">Ventas</button>
       <button data-name="arriendos">Arriendos</button>
     </div>
+
     <div class="posts">
     {% for item in site.data.portafolio %}
       <div class="post" data-name="{{ item.clase }}">

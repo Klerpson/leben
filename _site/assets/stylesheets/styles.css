@@ -3280,7 +3280,6 @@ button.btn-get-started:hover {
 .post a h3{
   position: relative;
   background-color: white;
-  font-size: 1.2em;
   padding: 8px;
   text-align: center;
   transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
@@ -3294,4 +3293,42 @@ button.btn-get-started:hover {
   display: grid;
   gap: 32px;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 400px), 1fr));
+}
+
+/* ESTILOS DEL BUSCADOR */
+
+#search-container {
+  position: relative;
+  margin-inline: auto;
+  width: min(100%, 800px);
+  display: flex;
+  flex-direction: column;
+}
+
+#search-container > h3{
+  color: var(--color-base);
+  text-align: center;
+}
+
+#search-container input {
+  padding: 0.9rem;
+  margin: 1em;
+  border: none;
+  border-bottom: 2px solid var(--color-primary);
+  box-shadow: var(--shadow);
+}
+
+#results-container{
+  padding: 1em;
+  transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-bottom: 2px solid var(--color-default);
+}
+
+#results-container div a {
+  font-family: var(--fuenteTitulo);
+  color: var(--color-primary);
+}
+#results-container div h3{
+  margin: 1.5rem 0;
+  font-size: 16px;
 }
