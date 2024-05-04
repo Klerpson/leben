@@ -60,6 +60,88 @@ galleryImages:
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
+schema: '"@context": "https://schema.org/",
+  "@type": "RentalProperty",
+  "name": "Casa en arriendo en Fusagasugá, Sector El Indio",
+  "description": "Hermosa casa en arriendo ubicada en el tranquilo sector El Indio de Fusagasugá. Cuenta con 3 habitaciones, 2 baños, sala, comedor y cocina integral. Perfecta para familias.",
+  "image": [
+    "https://ejemplo.com/casa-arriendo-fusagasuga-1.jpg",
+    "https://ejemplo.com/casa-arriendo-fusagasuga-2.jpg",
+    "https://ejemplo.com/casa-arriendo-fusagasuga-3.jpg"
+  ],
+  "video": [
+    "https://ejemplo.com/recorrido-virtual-casa-fusagasuga.mp4"
+  ],
+  "numberOfRooms": 3,
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "value": 120,
+    "unitText": "METRO CUADRADO"
+  },
+  "amenityFeature": [
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Patio"
+    },
+    {
+      "@type": "LocationFeatureSpecification",
+      "name": "Estacionamiento"
+    }
+  ],
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Calle 5 # 12-34, Sector El Indio",
+      "addressLocality": "Fusagasugá",
+      "addressRegion": "Cundinamarca",
+      "postalCode": "253811",
+      "addressCountry": "Colombia"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 4.3456,
+      "longitude": -74.3678
+    }
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": 800000,
+    "priceCurrency": "COP",
+    "validFrom": "2024-05-01"
+  },
+  "landlord": {
+    "@type": "Organization",
+    "name": "Leben Inmobiliaria",
+    "telephone": "+57 1234567",
+    "email": "info@lebeninmobiliaria.com"
+  },
+  "petsAllowed": true,
+  "smokingAllowed": false,
+  "leaseLength": {
+    "@type": "QuantitativeValue",
+    "value": 12,
+    "unitText": "MESES"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": "Juan Pérez",
+      "datePublished": "2023-11-01",
+      "reviewBody": "Excelente casa, muy bien ubicada y cómoda. Recomendada para familias.",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": 5,
+        "bestRating": 5
+      }
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.7,
+    "reviewCount": 15,
+    "bestRating": 5
+  }'
 ---
 ## Ventajas de arrendar una casa en Fusagasugá
 

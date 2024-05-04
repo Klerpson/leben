@@ -14,7 +14,9 @@ instagram: https://instagram.com/sebastianrincon
 ---
 Fusagasugá, un municipio vibrante y lleno de vida, se erige como un destino imperdible en el corazón de Cundinamarca, Colombia.
 
-Este artículo te llevará a través de sus calles, su historia, cultura, y te mostrará por qué Fusagasugá es un lugar que debes visitar y explorar. Prepárate para descubrir porqué este fascinante municipio es una de las mejores opciones de Colombia para [comprar tu casa]({{'ventas'|relative_url}} "Compra casa Fusagasuga") y vivir aquí.
+Este artículo te llevará a través de sus calles, su historia, cultura, y te mostrará por qué Fusagasugá es un lugar que debes visitar y explorar.
+
+Prepárate para descubrir porqué este fascinante municipio es una de las mejores opciones de Colombia para [comprar tu casa]({{'ventas'|relative_url}} "Compra casa Fusagasuga") y vivir aquí.
 
 -----
 
