@@ -170,7 +170,7 @@
     {% when "venta" %}
     <!-- SCHEMA POR CADA PROPIEDAD EN VENTA Y DESPUÉS DEL CÓDIGO %ELSE% PARA LAS PROPIEDADES EN ARRIENDO  -->
       <script type="application/ld+json">
-        {% if page.url contains "/ventas" %}
+        {% if page.url contains "/ventas" and != "/ventas" %}
         {
           "@context": "https://schema.org/",
           "@type": "SingleFamilyResidence",
