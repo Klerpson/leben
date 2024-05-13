@@ -408,6 +408,10 @@ table th {
   letter-spacing: 0.3px;
 }
 
+.navbar li{
+  margin: 0;
+}
+
 .header.stikcy-menu .navbar li {
   color: var(--color-primary);
 }
@@ -470,11 +474,11 @@ table th {
   .navbar {
     transition: 0.3s;
   }
-
+  
   .navbar ul {
     transition: 0.3s;
   }
-
+  
   .navbar a:focus {
     display: flex;
     align-items: center;
@@ -487,7 +491,7 @@ table th {
     white-space: nowrap;
     transition: 0.3s;
   }
-
+  
   .navbar a:hover,
   .navbar .active,
   .navbar .active:focus,
@@ -503,7 +507,7 @@ table th {
     margin: 15px;
     color: #fff;
   }
-
+  
   .navbar .getstarted:hover,
   .navbar .getstarted:focus:hover {
     color: #fff;
@@ -514,7 +518,7 @@ table th {
     cursor: pointer;
     transition: 0.5s;
   }
-
+  
   .mobile-nav-hide {
     cursor: pointer;
     transition: 0.5s;
@@ -555,9 +559,9 @@ table th {
     172deg,
     rgba(254, 254, 254, 1) 25%,
     rgba(182, 6, 0, 1) 78%
-  );
-  opacity: 9;
-  transform: rotate(20deg);
+    );
+    opacity: 9;
+    transform: rotate(20deg);
 }
 
 .overlay-left {
