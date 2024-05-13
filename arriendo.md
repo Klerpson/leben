@@ -1,7 +1,7 @@
 ---
 layout: ventas
-title: Arrienda tu casa o apartamento en Fusagasugá | LEBEN Inmobiliaria
-description: Arrendar casa o apartamento en Fusagasugá puede ser difícil 😥. Por eso, Leben Inmobiliaria te facilita encontrar el hogar perfecto para arrendar 🤩
+title: Casas, apartamentos y fincas en arriendo en Fusagasugá | LEBEN
+description: Encuentra casa, apartamento o finca en arriendo en Fusagasugá. Leben Inmobiliaria te facilita la búsqueda de un lugar perfecto, tranquilo y económico🤩
 h1: Consigue casas y apartamentos en arriendo en Fusagasugá con LEBEN inmobiliaria
 ---
 ## Encuentra Casas en Arriendo en Fusagasugá para Todos los Gustos y Necesidades
