@@ -3282,6 +3282,8 @@ button.btn-get-started:hover {
 }
 
 .post a h3{
+  width: min(100%, 400px);
+  border: solid 2px #eee;
   position: relative;
   background-color: white;
   padding: 8px;
