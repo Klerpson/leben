@@ -8,7 +8,7 @@ clase: casas
 img: 1052/casa-norte-centro-fusa-14.webp
 alt: Casa en el sector norte cerca al centro - Fusagasugá
 cta: Convierte esta casa en Fusagasugá en tu propiedad
-precio: 554'000.000
+precio: "554.000.000"
 propiedad: 1052
 intro: "Descubre una oportunidad única de inversión en Fusagasugá con esta espaciosa casa en venta. ¡Haz realidad tu proyecto ahora mismo!"
 area: 239 metros construidos en un terreno de 457 metros

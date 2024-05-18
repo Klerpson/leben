@@ -8,7 +8,7 @@ clase: apartamentos
 img: 1039/apartamento-cerca-centro-fusagasuga-3.webp
 alt: Venta de Apartamento Centro Fusagasugá
 cta: Apartamento en Fusagasugá a tu Medida
-precio: 200'000.000
+precio: "200.000.000"
 propiedad: 1039
 intro: "Consigue Tu Nuevo Espacio en Fusagasugá: Apartamento con Todas las Comodidades"
 area: 55 metros construidos

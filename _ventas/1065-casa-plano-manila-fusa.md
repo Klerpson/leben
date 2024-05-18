@@ -8,7 +8,7 @@ clase: casas
 img: 1065/casa-plano-manila-fusa-30.webp
 alt: Casa en Manila - Fusagasugá
 cta: Agenda una visita y encuentra la casa de tus sueños en Fusagasugá
-precio: 420'000.000
+precio: "420.000.000"
 propiedad: 1065
 intro: Consigue tu próximo hogar en Fusagasugá, Cundinamarca. En el sector de Manila, una propiedad espera por ti. ¡Explora sus encantos aquí!
 area: Pendiente

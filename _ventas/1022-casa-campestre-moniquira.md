@@ -8,7 +8,7 @@ clase: quintas
 img: 1022/casa-campestre-moniquira-10.webp
 alt: "Casa quinta en Moniquirá a la venta"
 cta: Casa quinta en Moniquirá a la venta
-precio: 500'000.000
+precio: "500.000.000"
 propiedad: 1022
 intro: "Inversión Segura en Fusagasugá: Casa con Alta Valorización "
 area: 90 metros construidos en un terreno de 130 metros

@@ -8,7 +8,7 @@ clase: casas
 img: 1009/casa-bonet-fusagasuga-1.webp
 alt: Venta de casa en Bonet Fusagasugá
 cta: Mira tu próxima casa en Fusagasugá
-precio: 280'000.000
+precio: "280.000.000"
 propiedad: 1009
 intro: Hogar Moderno y Espacioso en Fusagasugá - 4 Habitaciones
 area: 220 metros construidos

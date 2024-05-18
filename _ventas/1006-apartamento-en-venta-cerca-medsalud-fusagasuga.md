@@ -8,7 +8,7 @@ clase: apartamentos
 img: 1006/apartamento-fusagasuga-moises-3.webp
 alt: Venta apartamento conjunto de Fusagasugá
 cta: Conoce el apartamento
-precio: 420'000.000
+precio: "420.000.000"
 propiedad: 1006
 intro: Invierta en tu futuro con un apartamento en Fusagasugá.
 area: 114  metros construidos

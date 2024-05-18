@@ -8,7 +8,7 @@ clase: casas
 img: 1074/casa-sector-batallon-580-fusa-3.webp
 alt: Casa cerca al Batallon - Fusagasugá
 cta: Descubre tu hogar ideal en Fusagasugá. ¡Haz clic y empieza tu nueva vida hoy mismo!
-precio: 580'000.000
+precio: "580.000.000"
 propiedad: 1074
 intro: Bienvenido a la búsqueda de tu hogar perfecto en Fusagasugá. Descubre una propiedad única en el sector del Batallón que ofrece lujo, comodidad y una ubicación privilegiada. ¡Comienza tu búsqueda ahora!
 area: 190 metros construidos 

@@ -8,7 +8,7 @@ clase: casas
 img: 1075/casa-tierragrata-fusa-18.webp
 alt: Casa en conjunto TierraGrata - Fusagasugá
 cta: Descubre tu hogar ideal en Fusagasugá. ¡Haz clic ya!
-precio: 1.100'000.000
+precio: "1.100.000.000"
 propiedad: 1075
 intro: Descubre una exclusiva casa en Fusagasugá que combina lujo, comodidad y entretenimiento en Tierragrata Residencial.
 area: 250 metros construidos 

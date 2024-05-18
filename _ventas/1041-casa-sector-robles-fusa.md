@@ -8,7 +8,7 @@ clase: casas
 img: 1041/casa-sector-robles-fusa-7.webp
 alt: Casa en Barrio Robles - Fusagasugá
 cta: Consigue tu nuevo hogar en Fusagasugá hoy mismo
-precio: 220'000.000
+precio: "220.000.000"
 propiedad: 1041
 intro: ¿Sueñas con vivir en Fusagasugá? Esta casa en venta en el exclusivo barrio de Robles es tu oportunidad. Descubre la serenidad y comodidad que te ofrece.
 area: 130 metros construidos

@@ -8,7 +8,7 @@ clase: casas
 img: 1050/casa-sector-indio-fusa-13.webp
 alt: Casa en el sector de Indio - Fusagasugá
 cta: Disfruta de la tranquilidad y seguridad. ¡Haz clic!
-precio: 560'000.000
+precio: "560.000.000"
 propiedad: 1050
 intro: Descubre una propiedad excepcional en el sector del Indio, donde el lujo y la tranquilidad se encuentran. 
 area: 240 metros construidos

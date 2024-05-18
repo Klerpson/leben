@@ -8,7 +8,7 @@ clase: casas
 img: 1062/casa-centro-comercial-avenida-fusa-13.webp
 alt: Casa cerca del Centro Comercial La Avenida - Fusagasugá
 cta: Descubre tu nuevo hogar hoy mismo. Haz clic para más información.
-precio: 260'000.000
+precio: "260.000.000"
 propiedad: 1062
 intro: "Bienvenido a esta oportunidad única: una propiedad en Fusagasugá, cerca del centro comercial La Avenida. Descubre las comodidades de este hogar ideal para ti."
 area: 180 metros construidos

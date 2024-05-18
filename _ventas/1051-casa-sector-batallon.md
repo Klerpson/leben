@@ -8,7 +8,7 @@ clase: casas
 img: 1051/casa-sector-batallon-fusa-1.webp
 alt: Casa en el sector del Batallón Fusagasugá
 cta: Haz clic para conocer mas detalles
-precio: 400'000.000
+precio: "400.000.000"
 propiedad: 1051
 intro: Exclusiva propiedad ubicada en uno de los sectores más codiciados de Fusagasugá Cundinamarca.
 area: 170 metros construidos

@@ -8,7 +8,7 @@ clase: fincas
 img: 1066/finca-cultivo-tierra-castro-18.webp
 alt: Finca en vereda Tierra de Castro- Fusagasugá
 cta: Aprovecha la oportunidad de comprar finca en Fusagasugá
-precio: 420'000.000
+precio: "420.000.000"
 propiedad: 1066
 intro: "Hazte a una vida serena y llena de oportunidades en Fusagasugá. Conoce esta finca en la vereda Tierra de Castro, donde la naturaleza y el cultivo se fusionan para ofrecerte una experiencia única."
 area: 5.7 Hectáreas 

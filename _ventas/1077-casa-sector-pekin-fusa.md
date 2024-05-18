@@ -8,7 +8,7 @@ clase: casas
 img: 1077/casa-sector-pekin-21.webp
 alt: Casa en sector de Pekin - Fusagasugá
 cta: ¡Descubre tu hogar ideal hoy mismo!
-precio: 240'000.000
+precio: "240.000.000"
 propiedad: 1077
 intro: "Descubre una casa seminueva en Fusagasugá que combina encanto, comodidad y ubicación privilegiada para tu nueva vida."
 area: 86.64 metros construidos 

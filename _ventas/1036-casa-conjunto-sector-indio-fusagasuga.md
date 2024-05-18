@@ -8,7 +8,7 @@ clase: casas
 img: 1036/casa-conjunto-secto-indio-30.webp
 alt: Venta de Casa en Fusagasugá
 cta: Consigue una Vida de Confort
-precio: 550'000.000
+precio: "550.000.000"
 propiedad: 1036
 intro: Bienvenido al mundo del lujo en Fusagasugá. Disfruta de esta espectacular casa en el exclusivo sector del Indio.
 area: 225 metros construidos

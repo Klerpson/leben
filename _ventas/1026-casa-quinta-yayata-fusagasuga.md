@@ -8,7 +8,7 @@ clase: quintas
 img: 1026/casa-quinta-yayata-fusagasuga-2.webp
 alt: Venta de casa quinta en Yayatá Fusagasugá
 cta: Conoce esta hermosa quinta
-precio: 1.200'000.000
+precio: "1.200.000.000"
 propiedad: 1026
 intro: Casa Quinta en Yayatá con Vistas Inigualables
 area: 196 metros construidos en un terreno de 3.200 metros

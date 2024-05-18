@@ -8,7 +8,7 @@ clase: apartamentos
 img: 1049/apartamento-fusacatan-fusa-1.webp
 alt: Casa en el sector de Fusacatán - Fusagasugá
 cta: ¡Haz clic para tu nuevo hogar en Fusagasugá!
-precio: 200'000.000
+precio: "200.000.000"
 propiedad: 1049
 intro: Mira los detalles este encantador apartamento en Fusagasugá y encuentra tu nuevo hogar en Fusacatán.
 area: 90 metros construidos

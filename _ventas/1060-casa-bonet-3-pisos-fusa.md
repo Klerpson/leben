@@ -8,7 +8,7 @@ clase: casas
 img: 1060/casa-bonet-3-pisos-fusa-3.webp
 alt: Casa en sector Bonet - Fusagasugá
 cta: ¡Haz realidad tu sueño de tener un hogar perfecto en Fusagasugá!
-precio: 300'000.000
+precio: "300.000.000"
 propiedad: 1060
 intro: ¿Cómo sería tu hogar ideal en Fusagasugá? Una casa amplia y acogedora te espera para brindarte confort y tranquilidad
 area: 180 metros construidos

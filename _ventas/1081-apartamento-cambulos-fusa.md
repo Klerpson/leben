@@ -8,7 +8,7 @@ clase: apartamentos
 img: 1081/apartamentos-cambulos-fusa-5.webp
 alt: Casa en sector de Cambulos - Fusagasugá
 cta: ¡Descubre tu hogar ideal hoy mismo!
-precio: 330'000.000
+precio: "330.000.000"
 propiedad: 1081
 intro: Bienvenido a tu nuevo hogar en Fusagasugá. Descubre un apartamento amplio y lleno de comodidades tropicales.
 area: 103 metros construidos 
