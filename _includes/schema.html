@@ -355,7 +355,7 @@
 
  date: "%Y-%m-%d"}}",
     "dateModified": "{{page.date| date: "%Y-%m-%d"}}",
-    "articleBody": "{{page.content}}",
+    "articleBody": "{{ page.content | strip_html }}",
     "articleSection": "{{page.category}}",
     "hasPart": [
       {
