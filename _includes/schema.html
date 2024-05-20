@@ -217,20 +217,7 @@
         "name": "{{site.name}}",
         "telephone": "+57 {{page.contacto}}",
         "email": "{{site.email}}"
-      },
-      "review": [
-        {
-          "@type": "Review",
-          "author": "{{page.asesor}}",
-          "datePublished": "{{page.date| date: '%Y-%m-%d'}}",
-          "reviewBody": "{{page.intro}}",
-          "reviewRating": {
-            "@type": "Rating",
-            "ratingValue": "5",
-            "bestRating": "5"
-          }
-        }
-      ]
+      }
     }
     {% else %}
     {
@@ -306,20 +293,7 @@
       "@type": "QuantitativeValue",
       "value": "12",
       "unitText": "MESES"
-    },
-    "review": [
-      {
-        "@type": "Review",
-        "author": "{{page.asesor}}",
-        "datePublished": "{{page.date| date: '%Y-%m-%d'}}",
-        "reviewBody": "{{page.intro}}",
-        "reviewRating": {
-          "@type": "Rating",
-          "ratingValue": "5",
-          "bestRating": "5"
-        }
-      }
-    ]
+    }
   }
   {% endif %}
 </script>
