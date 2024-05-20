@@ -7,7 +7,7 @@ description: ¡Explora este amplio apartamento en Fusagasugá y vive la experien
 h1: Descubre una oportunidad única de vivienda con este apartamento en Fusagasuga.
 clase: apartamentos
 img: 1081/apartamentos-cambulos-fusa-5.webp
-alt: Casa en sector de Cambulos - Fusagasugá
+alt: Casa en sector de Cámbulos - Fusagasugá
 cta: ¡Descubre tu hogar ideal hoy mismo!
 precio: "330.000.000"
 propiedad: 1081
