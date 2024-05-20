@@ -32,7 +32,7 @@
           "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
           "offers": {
             "@type": "Offer",
-            "price": {{item.precio}},
+            "price": "{{item.precio}}",
             "priceCurrency": "COP"
           }
         }
@@ -73,7 +73,7 @@
           "@id": "{{site.url}}{{post.url}}"
         },
         "headline": "{{post.title}}",
-        "datePublished": "{{post.date | date: "%Y-%m-%d"}}",
+        "datePublished": "{{post.date | date: '%Y-%m-%d'}}",
         "author": {
           "@type": "Person",
           "name": "{{post.autor}}"
@@ -121,7 +121,7 @@
       {% for item in site.ventas limit: 3 %}
       {
         "@type": "ListItem",
-        "position": {{forloop.index}},
+        "position": "{{forloop.index}}",
         "item": {
           "@type": "SingleFamilyResidence",
           "name": "{{item.title}}",
@@ -129,7 +129,7 @@
           "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
           "offers": {
             "@type": "Offer",
-            "price": {{item.precio}},
+            "price": "{{item.precio}}",
             "priceCurrency": "COP"
           }
         }
@@ -161,12 +161,12 @@
         "@type": "Brand",
         "name": "{{site.author}}"
       },
-      "numberOfRooms": 5,
-      "numberOfBedrooms": {{page.habitacion | truncatewords: 1, ""}},
-      "numberOfBathroomsTotal": {{page.bano | truncatewords: 1, ""}},
+      "numberOfRooms": "5",
+      "numberOfBedrooms": "{{page.habitacion | truncatewords: 1, ''}}",
+      "numberOfBathroomsTotal": "{{page.bano | truncatewords: 1, ''}}",
       "floorSize": {
         "@type": "QuantitativeValue",
-        "value": {{page.area | truncatewords: 1, ""}},
+        "value": "{{page.area | truncatewords: 1, ''}}",
         "unitText": "METRO CUADRADO"
       },
       "amenityFeature": [
@@ -208,7 +208,7 @@
     },
       "offers": {
         "@type": "Offer",
-        "price": {{page.precio}},
+        "price": "{{page.precio}}",
         "priceCurrency": "COP",
         "availability": "{{site.url}}{{page.url|relative_url}}"
       },
@@ -222,12 +222,12 @@
         {
           "@type": "Review",
           "author": "{{page.asesor}}",
-          "datePublished": "{{page.date| date: "%Y-%m-%d"}}",
+          "datePublished": "{{page.date| date: '%Y-%m-%d'}}",
           "reviewBody": "{{page.intro}}",
           "reviewRating": {
             "@type": "Rating",
-            "ratingValue": 5,
-            "bestRating": 5
+            "ratingValue": "5",
+            "bestRating": "5"
           }
         }
       ]
@@ -245,10 +245,10 @@
       "{{site.url}}/assets/images/portfolio/{{page.img}}"
     ],
 
-    "numberOfRooms": {{page.habitacion | truncatewords: 1, ""}},
+    "numberOfRooms": "{{page.habitacion | truncatewords: 1, ''}}",
     "floorSize": {
       "@type": "QuantitativeValue",
-      "value": {{page.area | truncatewords: 1, ""}},
+      "value": "{{page.area | truncatewords: 1, ''}}",
       "unitText": "METRO CUADRADO"
     },
     "amenityFeature": [
@@ -290,7 +290,7 @@
     },
     "offers": {
       "@type": "Offer",
-      "price": {{page.precio}},
+      "price": "{{page.precio}}",
       "priceCurrency": "COP",
       "validFrom": "{{page.date | date: '%Y-%m-%d'}}"
     },
@@ -304,19 +304,19 @@
     "smokingAllowed": false,
     "leaseLength": {
       "@type": "QuantitativeValue",
-      "value": 12,
+      "value": "12",
       "unitText": "MESES"
     },
     "review": [
       {
         "@type": "Review",
         "author": "{{page.asesor}}",
-        "datePublished": "{{page.date| date: "%Y-%m-%d"}}",
+        "datePublished": "{{page.date| date: '%Y-%m-%d'}}",
         "reviewBody": "{{page.intro}}",
         "reviewRating": {
           "@type": "Rating",
-          "ratingValue": 5,
-          "bestRating": 5
+          "ratingValue": "5",
+          "bestRating": "5"
         }
       }
     ]
@@ -351,10 +351,8 @@
         "url": "https://lebeninmobiliaria.com/assets/images/logo.webp"
       }
     },
-    "datePublished": "{{page.date|
-
- date: "%Y-%m-%d"}}",
-    "dateModified": "{{page.date| date: "%Y-%m-%d"}}",
+    "datePublished": "{{page.date | date: '%Y-%m-%d'}}",
+    "dateModified": "{{page.date | date: '%Y-%m-%d'}}",
     "articleBody": "{{ page.content | strip_html }}",
     "articleSection": "{{page.category}}",
     "hasPart": [
