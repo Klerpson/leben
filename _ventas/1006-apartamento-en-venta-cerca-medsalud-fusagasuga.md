@@ -1,6 +1,7 @@
 ---
-permalink: ventas/apartamento-en-venta-cerca-medsalud-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/apartamento-en-venta-cerca-medsalud-fusagasuga
 title: "Exclusivo Apartamento en Fusagasugá - Lujo y Plusvalía Garantizada"
 description: Encuentre lujo y comodidad en Fusagasugá. Apartamentos con diseño moderno y excelente ubicación. !Comienza tu proceso para conseguirlo con LEBEN!
 h1: "Viva en Fusagasugá: Apartamento de Ensueño en Zona Premium"

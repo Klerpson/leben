@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-batallon-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-batallon-480-fusa
 title: Explora esta encantadora propiedad en Fusagasugá cerca al Batallón
 description: ¿Quieres vivir en Fusagasugá? Esta casa en venta es tu oportunidad. Con todas las comodidades y amenidades que necesitas, ¡no esperes más para comenzar tu nueva vida aquí!
 h1: Conoce esta propiedad a la venta cerca al Batallón de Fusagasugá

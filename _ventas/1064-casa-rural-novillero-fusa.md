@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-rural-novillero-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-rural-novillero-fusa
 title: "Invierte en calidad de vida: Casa en Fusagasugá te espera"
 description: Experimenta la vida serena en Fusagasugá con esta casa rural. Descubre el equilibrio perfecto entre confort y naturaleza. ¡Haz clic para conocer más!
 h1: Vive sin estrés en Fusagasugá con esta casa rural lista para habitar

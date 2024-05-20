@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-plano-manila-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-plano-manila-fusa
 title: ¡Vive en el Paraíso! Casa en Venta en Fusagasugá, Cundinamarca
 description: Vive rodeado de comodidades en Fusagasugá. Esta casa en venta en el sector de Manila es ideal para ti y tu familia. ¡No esperes más para empezar una nueva vida!
 h1: "Tu casa de ensueño en Manila, Fusagasugá: ¡Tu Nuevo Hogar te Espera!"

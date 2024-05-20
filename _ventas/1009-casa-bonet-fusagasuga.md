@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-bonet-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-bonet-fusagasuga
 title: "Casa de Ensueño en Bonet, Fusagasugá - 220m² de Puro Lujo"
 description: Su futuro hogar en Fusagasugá le espera. 4 habitaciones, diseño moderno. ¡Clic para ver y comenzar una nueva vida!
 h1: "Residencia Espaciosa y Elegante en Bonet, Fusagasugá: Un Hogar Ideal"

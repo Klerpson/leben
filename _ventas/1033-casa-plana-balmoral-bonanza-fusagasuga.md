@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-plana-balmoral-bonanza
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-plana-balmoral-bonanza
 title:  "Encuentra Tu Hogar Ideal en Fusagasugá: Casa Espaciosa en Sector Tranquilo"
 description: Tu próximo hogar te espera en Fusagasugá. Casa de 3 habitaciones disponible ahora. ¡No esperes más para vivir la vida que deseas!.
 h1: "Compra tu casa espaciosa en sector tranquilo de Fusagasugá"

@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-batallon-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-batallon-fusagasuga
 title: "Tropical Oasis: Encanto y Comodidad en Fusagasugá, Cundinamarca"
 description: Descubre esta casa de lujo en Fusagasugá, con amplios espacios, zonas verdes y piscina. ¡Haz de este hogar tu refugio de tranquilidad hoy mismo!
 h1: Encuentra tu hogar perfecto en Fusagasugá cerca al batallón

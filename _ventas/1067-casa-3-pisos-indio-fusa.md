@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-3-pisos-indio-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-3-pisos-indio-fusa
 title: Vivienda de Lujo en Fusagasugá | ¡Haz Realidad tu Sueño!
 description: Vive la experiencia del lujo en Fusagasugá con esta propiedad única. ¡No pierdas la oportunidad de invertir en tu futuro! ¡Haz clic para más detalles!
 h1: "Hogar de Ensueño en Fusagasugá: Confort en el sector del Indio"

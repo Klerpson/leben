@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-nueva-en-venta-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-nueva-en-venta-fusagasuga
 title: "Casa en El Mirador de la Colina Fusagasugá ¡Visítela Hoy!"
 description: Explore esta lujosa casa en El Mirador de la Colina en Fusagasugá. Diseño moderno, comodidades excepcionales. ¡Haga clic para más detalles!
 h1: "Estrene Elegante Residencia en El Mirador de la Colina Fusagasugá"

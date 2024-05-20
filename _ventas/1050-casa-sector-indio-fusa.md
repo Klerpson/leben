@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-indio-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-indio-fusagasuga
 title: "Lujo en Esta Espectacular Propiedad en Fusagasugá"
 description: Adquiere el lujo y la comodidad con esta casa en Fusagasugá. ¡No pierdas la oportunidad de vivir en un ambiente de tranquilidad y seguridad!
 h1: Hazte con esta propiedad y comienza una nueva vida distinta en Fusagasugá

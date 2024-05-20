@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-batallon-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-batallon-fusa
 title: "Toda la comodidad y tranquilidad en esta hermosa casa en Fusagasugá: ¡Descúbrela!"
 description: Explora esta hermosa casa en Fusagasugá y descubre todo lo que tiene para ofrecer. ¡Haz realidad tus sueños de tener un hogar en este maravilloso lugar! Haz clic ahora.
 h1: ¡Explora esta Hermosa Casa en Fusagasugá y Haz Realidad tus Sueños!

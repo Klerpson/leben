@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-colonial-terminal-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-colonial-terminal-fusa
 title: "Casa con estilo en Fusagasugá: Ubicación cerca de La Avenida"
 description: Comodidad y estilo te esperan en esta propiedad en Fusagasugá, cerca de La Avenida 🛣️. ¡Haz clic para hacerla tuya hoy mismo!
 h1: Casa con ubicación única cerca de La Avenida Fusagasugá

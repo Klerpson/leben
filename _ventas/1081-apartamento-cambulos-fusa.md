@@ -1,6 +1,7 @@
 ---
-permalink: ventas/apartamento-cambulos-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/apartamento-cambulos-fusagasuga
 title: Un Hogar Espacioso con Amenidades de Primera
 description: ¡Explora este amplio apartamento en Fusagasugá y vive la experiencia tropical que siempre has deseado! ¡Haz clic y descubre más!
 h1: Descubre una oportunidad única de vivienda con este apartamento en Fusagasuga.

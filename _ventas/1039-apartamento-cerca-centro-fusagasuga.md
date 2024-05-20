@@ -1,6 +1,7 @@
 ---
-permalink: ventas/apartamento-cerca-centro-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/apartamento-cerca-centro-fusagasuga
 title: "Comodidad y Conveniencia: Acogedor Apartamento en Fusagasugá"
 description: ¿Buscas un apartamento en Fusagasugá? Este te ofrece todo lo que necesitas. ¡No pierdas la oportunidad de vivir en el lugar perfecto para ti!
 h1: "Apartamento en Fusagasugá: Un Espacio para Vivir Plenamente"

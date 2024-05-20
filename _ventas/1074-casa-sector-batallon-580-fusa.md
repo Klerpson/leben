@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-batallon-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-batallon-580-fusa
 title: "Casa de Ensueño en Fusagasugá: Elegancia y Comodidad en el Sector del Batallón"
 description: Enamórate de esta casa en Fusagasugá y haz realidad tu sueño de hogar. Espacios luminosos, servicios exclusivos y ubicación privilegiada te esperan. ¡Haz clic para más detalles!
 h1: "Elegancia y Comodidad: Tu Casa de Ensueño en Fusagasugá te Espera"

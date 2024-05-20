@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-seminueva-palmar-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-seminueva-palmar-fusa
 title: "Encantadora casa seminueva en Palmar de Manila: tu próximo hogar en Fusagasugá"
 description: Vive la vida que siempre has soñado en Fusagasugá. Esta casa en Palmar de Manila ofrece todo lo que necesitas para una vida plena y cómoda. ¡No pierdas la oportunidad, contáctanos ahora y hazla tuya!
 h1: ¡Explora esta casa seminueva en Palmar de Manila, Fusagasugá!

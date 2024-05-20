@@ -1,6 +1,7 @@
 ---
-permalink: arriendo/apartamento-san-jorge-fusagasuga
 layout: venta
+permalink: arriendo/apartamento-san-jorge-fusagasuga
+date: 2024-05-02
 title: "Arriendo de casa Fusagasugá: conjunto cerrado en San Jorge"
 description: ¿Buscas arriendo en Fusagasugá? Este apartamento en San Jorge ofrece espacio, comodidad y todos los servicios. ¡Ve los detalles! | LEBEN
 h1: "Encuentra Tu Espacio Ideal: Apartamento en Arriendo en San Jorge, Fusagasugá"

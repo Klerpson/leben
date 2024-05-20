@@ -1,6 +1,7 @@
 ---
-permalink: ventas/apartamento-zona-sur-san-fernando-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/apartamento-zona-sur-san-fernando-fusagasuga
 title: "¡Tu apartamento de 3 habitaciones! En San Fernando Fusagasugá"
 description: Descubre la vida tranquila y conveniente que te espera en Fusagasugá con este apartamento en San Fernando. Disponible ahora. ¡Ven a conocerlo!
 h1: "Encuentra tu apartamento ideal en la zona sur de Fusagasugá"

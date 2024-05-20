@@ -1,6 +1,7 @@
 ---
-permalink: arriendo/segundo-apartamento-san-jorge-fusagasuga
 layout: venta
+permalink: arriendo/segundo-apartamento-san-jorge-fusagasuga
+date: 2024-05-02
 title: "Apartamento en arriendo en Fusagasugá San Jorge"
 description: ¿Necesitas un apartamento en arriendo en Fusagasugá? En San Jorge te ofrecen apartamento con espacio, comodidad y todos los servicios | LEBEN
 h1: "Encuentra Apartamento en Arriendo en San Jorge, Fusagasugá"

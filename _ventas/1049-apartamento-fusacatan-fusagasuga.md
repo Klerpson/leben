@@ -1,6 +1,7 @@
 ---
-permalink: ventas/apartamento-fusacatan-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/apartamento-fusacatan-fusagasuga
 title: "Acogedor Apartamento en Propiedad Horizontal en Fusagasugá"
 description: ¿Buscando un lugar acogedor en Fusagasugá? Haz realidad tu sueño de vivir en este encantador lugar en el sector Fusacatán. ¡Contáctanos hoy mismo!
 h1: "Conoce este encantador apartamento en Fusagasugá: Espacio, Comodidad y Cercania"

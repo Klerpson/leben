@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-norte-centro-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-norte-centro-fusagasuga
 title: "Oportunidad de inversión: Amplia casa en Fusagasugá"
 description: ¿Buscas invertir en bienes raíces? Esta propiedad en Fusagasugá ofrece espacio, potencial y rentabilidad. ¡Visítala ahora!
 h1: Amplia casa en Fusagasugá con 8 habitaciones y terreno para proyecto

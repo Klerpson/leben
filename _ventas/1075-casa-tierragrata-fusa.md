@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-tierragrata-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-tierragrata-fusa
 title: "Exclusiva Residencia en Fusagasugá: Comodidad y Entretenimiento"
 description: Confort, seguridad y diversión te esperan en esta casa en Fusagasugá. ¡No pierdas la oportunidad de vivir en Tierragrata!
 h1: Encuentra tu Hogar Ideal en Fusagasugá | Residencia en Tierragrata

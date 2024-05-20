@@ -1,6 +1,7 @@
 ---
-permalink: ventas/finca-venta-chinauta-fusagasuga
 layout: venta
+date: 2024-05-02
+permalink: ventas/finca-venta-chinauta-fusagasuga
 title: "Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora"
 description: Hermosa finca de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
 h1: "Finca a la venta en San Bernardo, Fusagasugá Cundinamarca"

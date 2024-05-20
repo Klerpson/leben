@@ -1,6 +1,7 @@
 ---
-permalink: ventas/casa-sector-pekin-fusa
 layout: venta
+date: 2024-05-02
+permalink: ventas/casa-sector-pekin-fusa
 title: "Casa Seminueva en Fusagasugá: Encanto y Comodidad"
 description: Vive en comodidad y seguridad en Fusagasugá con esta casa seminueva en venta. ¡Aprovecha esta oportunidad y encuentra tu hogar ideal!
 h1: ¡Haz de Fusagasugá tu Nuevo Hogar! Casa Seminueva en Sector Privilegiado!

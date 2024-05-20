@@ -1,6 +1,7 @@
 ---
-permalink: arriendo/arrienda-apartamento-san-jorge-fusagasuga
 layout: venta
+permalink: arriendo/arrienda-apartamento-san-jorge-fusagasuga
+date: 2024-05-02
 title: "Arrienda este apartamento de San Jorge en Fusagasugá"
 description: Arrienda un apartamento en Fusagasugá, en el tranquilo sector de San Jorge. Espacioso, con muebles modernos y todos los servicios | LEBEN
 h1: "Encuentra Apartamento en Arriendo en San Jorge, Fusagasugá"
