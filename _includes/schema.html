@@ -49,50 +49,108 @@
   {
     "@context": "https://schema.org",
     "@type": "Blog",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{site.url}}/blog"
-    },
-    "headline": "El blog inmobiliario de Fusagasugá con la asesoría de LEBEN",
-    "description": "Toma decisiones de compra y arriendo de casas y apartamentos en Fusagasugá con la información de primera mano que te brinda LEBEN inmobiliaria",
-    "image": "https://lebeninmobiliaria.com/assets/images/casas-en-fusagasuga.webp",
+    "name": "Blog de LEBEN Inmobiliaria",
+    "description": "Blog sobre inversiones inmobiliarias en Fusagasugá. Aprende sobre compra, venta, alquiler y más.",
+    "url": "https://lebeninmobiliaria.com/blog",
     "publisher": {
       "@type": "Organization",
-      "name": "Leben Inmobiliaria",
+      "name": "LEBEN Inmobiliaria",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://lebeninmobiliaria.com/assets/images/logo.webp"
+        "url": "URL_de_logo"
       }
     },
     "blogPost": [
-      {% for post in site.posts limit: 5 %}
       {
         "@type": "BlogPosting",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "{{site.url}}{{post.url}}"
-        },
-        "headline": "{{post.title}}",
-        "datePublished": "{{post.date | date: '%Y-%m-%d'}}",
+        "headline": "Comprar casa para alquilar en Colombia ¿Será buena idea?",
+        "image": "URL_de_imagen_blog1",
         "author": {
           "@type": "Person",
-          "name": "{{post.autor}}"
+          "name": "LEBEN Inmobiliaria"
         },
         "publisher": {
           "@type": "Organization",
-          "name": "Leben Inmobiliaria",
+          "name": "LEBEN Inmobiliaria",
           "logo": {
             "@type": "ImageObject",
-            "url": "https://lebeninmobiliaria.com/assets/images/logo.webp"
+            "url": "URL_de_logo"
           }
         },
-        "description": "{{post.description}}",
-        "image": "https://lebeninmobiliaria.com/assets/images/blog/{{post.hero}}"
-      }{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
+        "datePublished": "2024-04-26",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://lebeninmobiliaria.com/blog/comprar-casa-para-alquilar"
+        }
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Es el mejor momento para invertir en finca raíz en Fusagasugá",
+        "image": "URL_de_imagen_blog2",
+        "author": {
+          "@type": "Person",
+          "name": "LEBEN Inmobiliaria"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "LEBEN Inmobiliaria",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "URL_de_logo"
+          }
+        },
+        "datePublished": "2024-04-19",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://lebeninmobiliaria.com/blog/invertir-finca-raiz"
+        }
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "Los mejores barrios de Fusagasugá para vivir o comprar casa",
+        "image": "URL_de_imagen_blog3",
+        "author": {
+          "@type": "Person",
+          "name": "LEBEN Inmobiliaria"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "LEBEN Inmobiliaria",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "URL_de_logo"
+          }
+        },
+        "datePublished": "2024-04-05",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "@id": "https://lebeninmobiliaria.com/blog/mejores-barrios-fusagasuga"
+        }
+      }
     ]
   }
-</script>
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "https://lebeninmobiliaria.com"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Blog",
+        "item": "https://lebeninmobiliaria.com/blog"
+      }
+    ]
+  }
+  </script>
 {% endif %}
 
 {% if page.url == "/ventas" %}
