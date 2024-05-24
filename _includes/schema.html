@@ -340,9 +340,5 @@
 </script>
 {% else %}
 <!-- SCHEMA PARA EL RESTO DE LAS PÁGINAS DEL SITIO -->
-<script type="application/ld+json">
-  {
-  {{page.schema}}
-  }
-</script>
+{{page.schema}}
 {% endcase %}
