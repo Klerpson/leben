@@ -886,15 +886,11 @@ transform: scale(1.05);
 .single-page .blog ul li {
   position: relative;
   margin-bottom: 5px;
-  display: flex;
-  gap: 10px;
 }
 
 .single-page ul li {
   position: relative;
   margin-bottom: 5px;
-  display: flex;
-  gap: 10px;
 }
   
 
