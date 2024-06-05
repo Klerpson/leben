@@ -3211,3 +3211,9 @@ button.btn-get-started:hover {
   font-weight: 900;
   font-size:clamp(1.4rem,1.233rem + 0.84vw,1.86rem)
 }
+
+#weather-info {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}

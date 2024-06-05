@@ -81,7 +81,7 @@
   {
     "title": "👉 Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad",
     "url": "/ventas/casa-venta-sector-indio-fusagasuga",
-    "precio": 650000000,
+    "precio": 690000000,
     "tipoInmueble": "En Venta"
   } ,
   
@@ -288,6 +288,13 @@
     "tipoInmueble": "En Venta"
   } 
   ,
+  
+  {
+    "title": "👉 Clima en Fusagasugá: en tiempo real y sus beneficios",
+    "url": "/blog/clima-fusagasuga",
+    "precio": 0,
+    "tipoInmueble": "Publicación"
+  } ,
   
   {
     "title": "👉 Cine en Fusagasugá: alternativas de entretenimiento",
