@@ -1923,10 +1923,6 @@ button:focus:not(:focus-visible) {
 .counter-container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: left;
-  gap: 2em;
 }
 
 .counter-container h3 {
@@ -1961,6 +1957,7 @@ button:focus:not(:focus-visible) {
 
 .counter-container .icon img {
   width: 100%;
+  border-radius: 16px;
 }
 
 .datos-h2 {

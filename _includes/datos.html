@@ -14,9 +14,10 @@
           </div>
         </div>
         <div class="col-lg-5 col-md-12">
-          <div class="counter-container" data-aos="fade-right" data-aos-delay="50">
-            {% if page.url != "/ventas" and page.url != "/arriendo" %}
+          <div class="counter-container flow" >
+            {% if page.url == "/ventas" or page.url == "/arriendo" %}
             <div class="counter" data-target="{{include.data}}"></div>
+            <span>millones</span>
             {% else %}
             <div class="counter">+de 40 casas en venta en Fusagasugá</div>
             {% endif %}
