@@ -52,63 +52,6 @@ layout: compress
     </script>
 {% endif %}
 {% if page.url contains "/clima-fusagasuga" %}
-<script>
-  // Función para obtener la ubicación del usuario
-  function getLocation() {
-    if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(getWeather, showError);
-    } else {
-      document.getElementById("weather-info").innerHTML = "Su navegador no soporta la Geolocalización.";
-    }
-  }
-
-  // Función para manejar errores de ubicación
-  function showError(error) {
-    let message;
-    switch (error.code) {
-      case error.PERMISSION_DENIED:
-        message = "Permiso de ubicación denegado.";
-        break;
-      case error.POSITION_UNAVAILABLE:
-        message = "Información de ubicación no disponible.";
-        break;
-      case error.TIMEOUT:
-        message = "Tiempo de espera agotado para obtener la ubicación.";
-        break;
-      case error.UNKNOWN_ERROR:
-        message = "Error desconocido.";
-        break;
-    }
-    document.getElementById("weather-info").innerHTML = message;
-  }
-
-  // Función para obtener los datos del clima
-  function getWeather(position) {
-    const lat = position.coords.latitude;
-    const lon = position.coords.longitude;
-
-    // URL del servicio meteorológico NOAA
-    const url = `https://forecast.weather.gov/MapClick.php?lat=${lat}&lon=${lon}&FcstType=json`;
-
-    fetch(url)
-      .then(response => response.json())
-      .then(data => {
-        const weatherInfo = `
-          <h2>${data.currentobsText}</h2>
-          <p>Temperatura: ${data.currentobsValue} °${data.currentobsUnits}</p>
-          <p>${data.forecast}</p>
-        `;
-        document.getElementById("weather-info").innerHTML = weatherInfo;
-      })
-      .catch(error => {
-        document.getElementById("weather-info").innerHTML = "Error al obtener los datos del clima.";
-        console.error("Error:", error);
-      });
-  }
-
-  // Llamar a la función getLocation() para iniciar la aplicación
-  getLocation();
-</script>
 {% endif %}
   {% if page.url == "/" %}
   

@@ -3212,8 +3212,28 @@ button.btn-get-started:hover {
   font-size:clamp(1.4rem,1.233rem + 0.84vw,1.86rem)
 }
 
-#weather-info {
-  font-size: 24px;
-  font-weight: bold;
+.container-clima {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+}
+
+
+#weatherInfo {
   margin-top: 20px;
+  font-size: 1.2em;
 }

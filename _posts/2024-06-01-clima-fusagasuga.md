@@ -3,7 +3,8 @@ layout: post
 title: "Clima en Fusagasugá: en tiempo real y sus beneficios"
 description: "Mira el clima de hoy en Fusagasugá. También lee porque su clima es tan agradable y todas las ventajas que tiene para quienes buscan vivir aquí"
 h1: "Clima en Fusagasugá: el clima perfecto para el día a día"
-hero: cine-fusagasuga.webp
+hero: clima-fusagasuga.webp
+jpg: clima-fusagasuga.jpg
 alt: Foto una sala de cine
 category: Notas
 excerpt: "Aquí te explicamos porqué el clima de Fusagasugá es perfecto. Léelo."
