@@ -9,7 +9,7 @@ clase: casas
 img: 1076/casa-seminueva-palmar-fusa-13.webp
 alt: Casa en Palmar de Manila - Fusagasugá
 cta: ¡Descubre tu hogar ideal hoy mismo!
-precio: "500.000.000"
+precio: 500000000
 propiedad: 1076
 intro: Encuentra tu hogar perfecto en Fusagasugá con esta encantadora residencia seminueva en Palmar de Manila. ¡Descubre más ahora mismo!
 area: 145.5 metros construidos 

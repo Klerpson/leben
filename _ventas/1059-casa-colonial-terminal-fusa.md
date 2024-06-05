@@ -9,7 +9,7 @@ clase: casas
 img: 1059/casa-colonial-terminal-fusa-13.webp
 alt: Casa cerca del Terminal - Fusagasugá
 cta: Descubre tu hogar colonial en Fusagasugá. ¡Haz clic y comienza una nueva vida hoy!
-precio: "330.000.000"
+precio: 330000000
 propiedad: 1059
 intro: Bienvenido a un lugar donde la historia de Fusa y la modernidad se fusionan en una encantadora casa colonial
 area: 180 metros construidos

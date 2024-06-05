@@ -9,7 +9,7 @@ clase: casas
 img: 1028/casa-zona-plana-vergel-8.webp
 alt: Venta de casa en Fusagasugá
 cta: "Casa en Fusagasugá: Confort y Tranquilidad en un Solo Lugar"
-precio: "335.000.000"
+precio: 335000000
 propiedad: 1028
 intro: Casa con hermosos acabados en El Vergel Fusagasugá
 area: 130 metros construidos

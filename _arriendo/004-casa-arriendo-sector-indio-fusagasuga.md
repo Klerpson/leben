@@ -9,7 +9,7 @@ clase: casas
 img: 1021/casa-venta-sector-el-indio-fusagasuga-10.webp
 alt: "Casa de Lujo en Fusagasugá a la venta"
 cta: Conoce esta hermosa casa Fusagasugá
-precio: "3.500.000"
+precio: 3500000
 propiedad: 1021
 intro: "La mejor casa para alquilar en Fusagasugá"
 area: 250 metros construidos

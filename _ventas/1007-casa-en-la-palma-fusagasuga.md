@@ -9,7 +9,7 @@ clase: casas
 img: 1007/casa-venta-palma-fusagasuga-27.webp
 alt: Venta de casa en conjunto de Fusagasugá
 cta: Mira la casa en venta
-precio: "165.000.000"
+precio: 165000000
 propiedad: 1007
 intro: Hermosa casa en uno de los conjuntos más completos de Fusagasugá
 area: 110 metros construidos

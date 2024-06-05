@@ -9,7 +9,7 @@ clase: casas
 img: 1008/casa-luis-tejar-fusagasuga-22.webp
 alt: Venta de casa en conjunto de Fusagasugá
 cta: Mira la casa en venta
-precio: "280.000.000"
+precio: 280000000
 propiedad: 1008
 intro: Estrene una casa moderna y elegante en Fusagasugá
 area: 150 metros construidos

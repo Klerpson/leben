@@ -9,7 +9,7 @@ clase: casas
 img: 1013/casa-venta-vergel-fusagasuga-9.webp
 alt: Venta de casa en El Vergel Fusagasugá
 cta: Mira tu próxima casa en Fusagasugá
-precio: "600.000.000"
+precio: 600000000
 propiedad: 1013
 intro: Residencia y Comercio en Fusagasugá - Inversión Estratégica
 area: 255 metros construidos

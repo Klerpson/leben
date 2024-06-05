@@ -9,7 +9,7 @@ clase: casas
 img: 1067/casa-3-pisos-indio-fusa-25.webp
 alt: Casa en el sector Indio - Fusagasugá
 cta: "Descubre tu hogar ideal hoy: ¡Contáctanos para más detalles!"
-precio: "1.130.000.000"
+precio: 1130000000
 propiedad: 1067
 intro: "Una casa de lujo y confort en Fusagasugá! Mira sus espacios excepcionales y haz de este hogar tu refugio perfecto. Contáctanos hoy para más detalles."
 area: pendiente

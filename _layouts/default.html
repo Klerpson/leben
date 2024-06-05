@@ -50,6 +50,17 @@ layout: compress
     filterButtons.forEach(button => button.addEventListener("click", filter));
     </script>
 
+<script src="{{site.baseurl}}/js/search-script.js"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        SimpleJekyllSearch({
+          searchInput: document.getElementById('search-input'),
+          resultsContainer: document.getElementById('results-container'),
+          json: '{{site.baseurl}}/search.json'
+        });
+      });
+    </script>
+  
 </body>
 
 </html>

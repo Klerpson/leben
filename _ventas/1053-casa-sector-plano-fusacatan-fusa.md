@@ -9,7 +9,7 @@ clase: casas
 img: 1053/casa-plano-fusacatan-fusa-11.webp
 alt: Casa en sector plano cerca al centro Comercial - Fusagasugá
 cta: Mira porque esta es una excelente oportunidad
-precio: "350.000.000"
+precio: 350000000
 propiedad: 1053
 intro: Descubre una casa espaciosa y cómoda en Fusagasugá, Cundinamarca, ideal para disfrutar de la vida en familia.
 area: 240 metros construidos 

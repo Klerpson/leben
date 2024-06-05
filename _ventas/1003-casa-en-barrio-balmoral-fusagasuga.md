@@ -10,7 +10,7 @@ clase: Casas
 img: casa-en-venta-balmoral-fusagasuga-023.jpg
 alt: Balcón de casa en venta en Fusagasugá
 cta: Compra tu casa en Fusagasugá
-precio: "520.000.000"
+precio: 520000000
 propiedad: 103
 intro: Casa moderna en sector plano de Fusagasugá
 area: Pendiente

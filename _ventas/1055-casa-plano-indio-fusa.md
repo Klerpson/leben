@@ -9,7 +9,7 @@ clase: casas
 img: 1055/casa-plano-indio-fusa-13.webp
 alt: Casa en el sector de Indio - Fusagasugá
 cta: Disfruta de la tranquilidad y seguridad en Fusa
-precio: "400.000.000"
+precio: 400000000
 propiedad: 1055
 intro: Descubre la casa perfecta en Fusagasugá:amplios espacios, comodidades modernas y una ubicación privilegiada te esperan.
 area: 60 metros construidos

@@ -9,7 +9,7 @@ clase: apartamentos
 img: 1034/apartamento-zona-sur-fernando-2.webp
 alt: Venta de Apartamento en Fusagasugá
 cta: Conoce tu apartamento ideal ahora mismo
-precio: "145.000.000"
+precio: 145000000
 propiedad: 1034
 intro: Vive la experiencia única de residir en San Fernando Fusagasugá
 area: 60 metros construidos

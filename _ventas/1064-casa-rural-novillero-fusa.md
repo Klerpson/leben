@@ -9,7 +9,7 @@ clase: casas
 img: 1064/casa-rural-novillero-fusa-20.webp
 alt: Casa en sector rural - Fusagasugá
 cta: ¡Haz clic para explorar tu futuro hogar en Fusagasugá ahora mismo!
-precio: "170.000.000"
+precio: 170000000
 propiedad: 1064
 intro: Tu próximo hogar en Fusagasugá te espera. Conoce una casa rural con encanto y tranquilidad. ¡Sigue leyendo para saber más!
 area: 180 metros construidos

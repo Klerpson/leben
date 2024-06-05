@@ -9,7 +9,7 @@ clase: fincas
 img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
 alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
 cta: Compra tu finca
-precio: "530.000.000"
+precio: 530000000
 propiedad: 144
 intro: Hermosa finca de producción en uno de los sectores de más alta
   valorización en San Bernardo

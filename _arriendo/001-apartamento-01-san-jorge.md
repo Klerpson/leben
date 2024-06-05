@@ -9,7 +9,7 @@ clase: apartamentos
 img: 001/apartamento-san-jorge-012.webp
 alt: Apartamento arriendo fusagasuga
 cta: ¿Buscas arrendar apartamento en Fusagasugá? Haz clic
-precio: "1.500.000"
+precio: 1500000
 propiedad: 001
 intro: Tu próximo hogar en San Jorge Fusagasugá te espera. 3 habitaciones, zona tranquila y servicios independientes
 area: 90 metros

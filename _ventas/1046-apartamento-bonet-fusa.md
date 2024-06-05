@@ -9,7 +9,7 @@ clase: apartamentos
 img: 1046/apartamento-bonet-fusa-11.webp
 alt: Casa en el sector del Bonet - Fusagasugá
 cta: Tu nuevo hogar en Fusagasugá hoy mismo
-precio: "200.000.000"
+precio: 200000000
 propiedad: 1046
 intro: ¡Bienvenido a tu futuro hogar en Fusagasugá! Esta es tu oportunidad en el deseado sector del Bonet
 area: 100 metros construidos

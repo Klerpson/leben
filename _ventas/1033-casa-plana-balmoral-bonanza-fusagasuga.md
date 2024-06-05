@@ -9,7 +9,7 @@ clase: casas
 img: 1033/casa-plana-balmoral-bonanza-22.webp
 alt: Venta de casa en Fusagasugá
 cta: ¡Haz clic y descubre tu nuevo hogar!
-precio: "520.000.000"
+precio: 520000000
 propiedad: 1033
 intro: Amplia Casa en Balmoral Abajo de La Bonanza - ¡Hazla Tuya Hoy!
 area: pendiente
