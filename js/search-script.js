@@ -61,7 +61,10 @@
 
   function searchInDataArray(array, query, searchStrategy, options) {
     return array.filter(function(item) {
-      return !isExcluded(item, options.exclude) && searchStrategy.matches(item, query);
+      if (isExcluded(item, options.exclude)) return false;
+      if (searchStrategy.matches(item.title, query)) return true;
+      if (!isNaN(query) && item.precio.toString().includes(query)) return true;
+      return false;
     });
   }
 

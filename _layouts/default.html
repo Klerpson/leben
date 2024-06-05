@@ -50,16 +50,21 @@ layout: compress
     filterButtons.forEach(button => button.addEventListener("click", filter));
     </script>
 
+<!-- Script pointing to search-script.js -->
 <script src="{{site.baseurl}}/js/search-script.js"></script>
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        SimpleJekyllSearch({
-          searchInput: document.getElementById('search-input'),
-          resultsContainer: document.getElementById('results-container'),
-          json: '{{site.baseurl}}/search.json'
-        });
-      });
-    </script>
+<!-- Buscador -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '{{site.baseurl}}/search.json',
+      searchResultTemplate: '<div><a href="{url}"><h3>{title}</h3></a><p>{tipoInmueble}</p><p>Precio: {precio}</p></div>',
+      noResultsText: "Sin resultados. Busca con otra palabra"
+    });
+  });
+</script>
+
   
 </body>
 
