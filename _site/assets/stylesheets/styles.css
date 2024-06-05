@@ -613,7 +613,7 @@ table th {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/about-section.svg);
+  background-image: url(../images/logo-mini.webp);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -628,7 +628,7 @@ table th {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/service-section.svg);
+  background-image: url(../images/logo-mini.webp);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -643,7 +643,7 @@ table th {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/faq-section.svg);
+  background-image: url(../images/logo-mini.webp);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -658,7 +658,7 @@ table th {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/team-section.svg);
+  background-image: url(../images/logo-mini.webp);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -673,7 +673,7 @@ table th {
   z-index: -1;
   display: block;
   transition: all 0.5s ease-in-out 0s;
-  background-image: url(../images/icons/review-section.svg);
+  background-image: url(../images/logo-mini.webp);
   background-size: contain;
   opacity: 9;
   background-repeat: no-repeat;
@@ -3175,16 +3175,16 @@ button.btn-get-started:hover {
 /* ESTILOS DEL BUSCADOR */
 
 #search-container {
+  background-color: var(--color-default);
+  box-shadow: 0 0 0 100vmax var(--color-default);
+  -webkit-clip-path: inset(0 -100vmax);
+  clip-path: inset(0 -100vmax);
+  padding: 4em 0;
+  color: white;
   position: relative;
-  margin-inline: auto;
-  width: min(100%, 800px);
   display: flex;
   flex-direction: column;
-}
-
-#search-container > h3{
-  color: var(--color-base);
-  text-align: center;
+  margin-bottom: 2em;
 }
 
 #search-container input {
@@ -3193,19 +3193,24 @@ button.btn-get-started:hover {
   border: none;
   border-bottom: 2px solid var(--color-primary);
   box-shadow: var(--shadow);
+  border-radius: 8px;
 }
 
 #results-container{
   padding: 1em;
   transition: all .4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-  border-bottom: 2px solid var(--color-default);
 }
 
-#results-container div a {
-  font-family: var(--fuenteTitulo);
-  color: var(--color-primary);
+#results-container div{
+  padding-bottom: 1em;
+  border-bottom: 2px solid var(--color-gris);
+  
 }
-#results-container div h3{
-  margin: 1.5rem 0;
-  font-size: 16px;
+
+#results-container div a h3{
+  padding: 1em 0;
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+  font-weight: 900;
+  font-size:clamp(1.4rem,1.233rem + 0.84vw,1.86rem)
 }

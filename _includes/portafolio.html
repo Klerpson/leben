@@ -2,26 +2,20 @@
 <section id="portfolio" class="portfolio">
   <div class="container">
     <div>
-      <h2>Arrienda, compra, vende o permuta tu casa o propiedades con LEBEN inmobiliaria en Fusagasugá</h2>
-      <p>Tú y tu familia están en busca de su hogar ideal en Fusagasugá, Colombia.</p> 
+      <h2>Arrienda, compra, vende o permuta tu casa con la inmobiliaria de Fusagasugá más confiable</h2>
       <p>Aquí la oferta de casas espaciosas y apartamentos económicos en barrios bien establecidos es amplia. También, las clásicas fincas encantadoras y tradicionales en entornos campestres.</p>
-      <h3>Somos LEBEN, la inmobiliaria de Fusagasugá que te ayudará a encontrar esas casa ideal</h3>
-      <p>Estos son ejemplos de <strong>casas, fincas, quintas, apartaestudios, y apartamentos que conseguimos para nuestros clientes en Fusagasugá.</strong> Escoge el que más te guste.</p>
     </div>
-  
+    
     {% include search.html %}
+    <h3>En la inmobiliaria de Fusagasugá LEBEN somos especialista en casas en venta y en arriendo</h3>
+    <p>Tú y tu familia están en busca de su casa en Fusagasugá o en otro municipio de Cundinamarca. Cuenta con nosotros.</p> 
+    <p>Estos son ejemplos de <strong>casas, fincas, quintas, apartaestudios, y apartamentos que conseguimos para nuestros clientes en Fusagasugá.</strong> Escoge el que más te guste.</p>
 
     <div class="blog-tags">
       <button data-name="all" class="active">Todos</button>
       <button data-name="ventas">Ventas</button>
       <button data-name="arriendos">Arriendos</button>
     </div>
-<!-- 
-    <div class="blog-tags">
-      <button data-name="all" class="active">Todos</button>
-      <button data-name="ventas">500.000 - 1.000.000</button>
-      <button data-name="arriendos">1.000.000-2.000.000</button>
-    </div> -->
 
     <div class="posts">
     {% for item in site.data.portafolio %}
@@ -31,6 +25,6 @@
           <h3>{{item.cta}}</h3>
         </a>
       </div>
-    {% endfor %}
+      {% endfor %}
     </div>
 </section><!-- End Portfolio Section -->
