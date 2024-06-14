@@ -12,35 +12,35 @@ foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
-Al [adquirir una propiedad raíz en Colombia]({{'ventas'|relative_url}}), ya sea nueva o usada, es fundamental conocer los gastos notariales que implica la transacción de venta o compra. Estos costos notariales en Colombia son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
+Al [comprar casa en Colombia]({{'ventas'|relative_url}}), ya sea nueva o usada, es fundamental conocer los gastos notariales que implica la transacción de venta o compra. Estos costos notariales en Colombia son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
 
 -----
 
-### En esta guía de gastos notariales para la compra o venta de casa encontrarás:
+### En esta guía de gastos notariales para la compra o venta de casa encontrarás
 
-* [Gastos que corresponden al comprador](#gastos-notariales-para-el-comprador-de-una-casa-en-colombia)
-* [Gastos que correpsonden al vendedor](#gastos-notariales-para-el-vendedor-de-una-casa-en-colombia)
-* [Estrategias para economizar en gastos notariales](#estrategias-para-reducir-los-gastos-de-los-impuestos-notariales)
+- [Gastos que corresponden al comprador de la casa](#gastos-notariales-al-comprar-casa-en-colombia)
+- [Gastos que corresponden al vendedor de la casa](#gastos-notariales-vender-casa-en-colombia)
+- [Estrategias para economizar en gastos notariales](#estrategias-para-reducir-los-gastos-de-los-impuestos-notariales)
 
 -----
 
-## Gastos notariales para el comprador de una casa en Colombia
+## Gastos notariales al comprar casa en Colombia
 
 Para los compradores, los principales gastos notariales en 2024 incluyen:
 
 - Gastos de escrituración (0.27% del valor del inmueble)
 - Impuestos de beneficencia y registro (1.67% a 2%)
-- Gastos de hipoteca si hay crédito (0.27% a 0.30%) 
+- Gastos de hipoteca si hay crédito (0.27% a 0.30%)
 - Honorarios notariales y copias
 - IVA
 
-## Gastos notariales para la venta de un inmueble en Colombia
+## Gastos notariales vender casa en Colombia
 
 Por su parte, los vendedores deben asumir:
 
 - Gastos de escrituración (0.27% del valor)
 - Retención en la fuente (1% para personas naturales con negocio menor a $685 millones, 2.5% si es mayor)
-- Honorarios notariales y copias 
+- Honorarios notariales y copias
 - IVA
 
 **Estos montos se rigen por la Ley 1395 de 2010** que establece los máximos a pagar. Es crucial presupuestarlos adecuadamente antes de la firma de la escritura pública que legaliza la compraventa.
