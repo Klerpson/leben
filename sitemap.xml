@@ -32,3 +32,149 @@ layout: null
        </url>
   {% endfor %}
 </urlset>
+
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  {% for page in site.pages %}
+    {% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.url contains '.css' or page.noindex %}
+    {% else %}
+      <url>
+        <loc>{{ page.url | absolute_url }}</loc>
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        {% if page.jpg %}
+          <image:image>
+            <image:loc>{{ page.jpg | absolute_url }}</image:loc>
+            <image:title>{{ page.title }}</image:title>
+            <image:caption>{{ page.alt }}</image:caption>
+          </image:image>
+        {% endif %}
+        {% if page.hero %}
+          <image:image>
+            <image:loc>{{ page.hero | absolute_url }}</image:loc>
+            <image:title>{{ page.title }}</image:title>
+            <image:caption>{{ page.alt }}</image:caption>
+          </image:image>
+        {% endif %}
+        {% if page.fotos %}
+          {% for fotos in page.fotos %}
+          {% for foto in fotos %}
+            <image:image>
+              <image:loc>{{ foto[1] | absolute_url }}</image:loc>
+              <image:title>{{ foto[0] }}</image:title>
+            </image:image>
+          {% endfor %}
+          {% endfor %}
+        {% endif %}
+        {% if page.videos %}
+          {% for video in page.videos %}
+            <video:video>
+              <video:content_loc>{{ video | absolute_url }}</video:content_loc>
+              <video:title>{{ page.title }}</video:title>
+            </video:video>
+          {% endfor %}
+        {% endif %}
+      </url>
+    {% endif %}
+  {% endfor %}
+  
+  {% for post in site.ventas %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      {% if post.jpg %}
+        <image:image>
+          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+      {% if post.hero %}
+        <image:image>
+          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+  
+  {% for post in site.arriendo %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      {% if post.jpg %}
+        <image:image>
+          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+      {% if post.hero %}
+        <image:image>
+          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+  
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ post.url | absolute_url }}</loc>
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      {% if post.jpg %}
+        <image:image>
+          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+      {% if post.hero %}
+        <image:image>
+          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:title>{{ post.title }}</image:title>
+          <image:caption>{{ post.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+  
+  {% for page in site.without-plugin %}
+    <url>
+      <loc>{{ page.url | absolute_url }}</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      {% if page.jpg %}
+        <image:image>
+          <image:loc>{{ page.jpg | absolute_url }}</image:loc>
+          <image:title>{{ page.title }}</image:title>
+          <image:caption>{{ page.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+      {% if page.hero %}
+        <image:image>
+          <image:loc>{{ page.hero | absolute_url }}</image:loc>
+          <image:title>{{ page.title }}</image:title>
+          <image:caption>{{ page.alt }}</image:caption>
+        </image:image>
+      {% endif %}
+    </url>
+  {% endfor %}
+</urlset>
