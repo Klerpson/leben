@@ -372,7 +372,7 @@ transform: scale(1.05);
   margin-right: 20px;
 }
 
-.blog .post-author h4 {
+.blog .post-author h3 {
   font-weight: 600;
   font-size: 22px;
   margin: 1em 0;
@@ -381,7 +381,7 @@ transform: scale(1.05);
 }
 
 .blog .post-author .social-links {
-  margin: 0 10px 10px 0;
+  margin: 12px 10px 10px 0;
 }
 
 .blog .post-author .social-links a {
@@ -390,8 +390,7 @@ transform: scale(1.05);
 }
 
 .blog .post-author p {
-  font-style: italic;
-  color: rgba(108, 117, 125, 0.8);
+  color: var(--color-base);
   margin-bottom: 1em;
 }
 
@@ -599,7 +598,6 @@ transform: scale(1.05);
   padding: 14px 28px;
   background: #ebebeb;
   border: 1px solid #ebebeb;
-  color: #2e2e2e;
   outline: none;
   position: relative;
   z-index: 10;
@@ -698,7 +696,6 @@ transform: scale(1.05);
 
 .blog .sidebar .categories ul a span {
   padding-left: 5px;
-  color: rgba(34, 34, 34, 0.4);
   font-size: 14px;
 }
 
