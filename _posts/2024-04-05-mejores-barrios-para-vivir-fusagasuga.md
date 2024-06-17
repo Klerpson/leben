@@ -34,6 +34,16 @@ El Barrio La Estación es conocido por **su proximidad a la estación de tren de
 
 La Estación **ofrece un entorno seguro y tranquilo, con una gran variedad de atracciones y servicios cercanos**, como parques, restaurantes y centros comerciales. Los residentes de este barrio destacan la comodidad de vivir cerca de la estación de tren y la tranquilidad que se respira en el área.
 
+### Barrio El Vergel - Fusagasugá
+
+El barrio Vergel barrio está situado en **la parte norte de la ciudad de Fusagasugá**. Es una zona principalmente residencial con [oportunidad de compra de casas]({{'ventas/casa-negocio-oportunidad-vergel-fusagasuga' | relative_url }} "Casa barrio Vergel") de estrato socioeconómico medio.
+
+En el sector hay **presencia de algunos pequeños negocios locales y tiendas de barrio** que atienden las necesidades básicas de la población residente. También cuenta con algunos espacios públicos como **parques y zonas verdes para la recreación y esparcimiento** de la comunidad.
+
+El barrio Vergel sí tiene acceso a servicios públicos como acueducto, alcantarillado y energía eléctrica, como en casi toda la ciudad. Y sus vías internas son principalmente de tipo residencial.
+
+Es un clásico barrio colombiano de vida familiar y de poco estrés.
+
 ### Barrio Santander - Fusagasugá, Cundinamarca
 
 El Barrio Santander se **destaca por la belleza de sus áreas verdes y su ubicación céntrica**. Para aquellos que buscan tiendas, restaurantes y actividades recreativas, este barrio es ideal.

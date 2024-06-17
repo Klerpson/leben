@@ -2,8 +2,8 @@
 layout: venta
 date: 2024-05-02
 permalink: ventas/casa-negocio-oportunidad-vergel-fusagasuga
-title: "Propiedad Multifuncional en Fusagasugá - 255m² de Oportunidad"
-description: Casa con potencial comercial en El Vergel. Espacio amplio, ubicación ideal. ¡Invierta hoy y vea su negocio crecer! Contacta con Leben Inmobiliaria
+title: "Casa en El Vergel en Fusagasugá - 255m² de Oportunidad"
+description: Casa con potencial comercial en El Vergel. Espacio amplio, ubicación ideal. ¡Invierta hoy y vea su inversión crecer! Más info con Leben Inmobiliaria
 h1: "Casa y Negocio en Uno: Oportunidad en El Vergel, Fusagasugá"
 clase: casas
 img: 1013/casa-venta-vergel-fusagasuga-9.webp
