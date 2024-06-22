@@ -1,357 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-      <url>
-        <loc>http://localhost:4000/arriendo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/contacto</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/nosotros</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/servicios</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/testimonios</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-      <url>
-        <loc>http://localhost:4000/blog/clima-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/cine-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/comprar-casa-para-arrendar</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/invertir-en-finca-raiz-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/mejores-barrios-para-vivir-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/sinfa-fusagasuga-paga-impuesto-predial</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/gastos-notariales-compra-venta-casa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/consejos-para-comprar-lote-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/requisito-legales-para-comprar-casa-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/impuesto-predial-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/blog/fusagasuga-cundinamarca-colombia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-      <url>
-        <loc>http://localhost:4000/ventas/finca-venta-chinauta-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-venta-fusagasuga-balmoral</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-en-la-palma-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-nueva-en-venta-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-bonet-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-negocio-oportunidad-vergel-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-campestre-venta-moniquira</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-quinta-yayata-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-zona-plana-vergel</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-plana-balmoral-bonanza</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-zona-sur-san-fernando-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-conjunto-sector-indio</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-cerca-centro-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-robles-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-bonet-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-fusacatan-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-indio-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-batallon-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-norte-centro-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-plano-fusacatan-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-indio-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-colonial-terminal-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-3-pisos-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-colonial-terminal-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-rural-novillero-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-plano-manila-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/finca-cultivo-tierra-castro</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-3-pisos-indio-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-batallon-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-batallon-480-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-batallon-580-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-tierragrata-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-seminueva-palmar-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/casa-sector-pekin-fusa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ventas/apartamento-cambulos-fusagasuga</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-</urlset>
-
----
-layout: null
----
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -364,7 +11,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -377,7 +24,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -390,7 +37,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -403,7 +50,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -419,7 +66,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -435,7 +82,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -451,7 +98,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -467,7 +114,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/testimonios</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -480,7 +127,7 @@ layout: null
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+        <lastmod>2024-06-22T06:24:39-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -557,7 +204,7 @@ layout: null
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-06-17T07:39:49-05:00</lastmod>
+      <lastmod>2024-06-22T06:24:39-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -933,7 +580,7 @@ layout: null
   
     <url>
       <loc>http://localhost:4000/blog/mejores-barrios-para-vivir-fusagasuga</loc>
-      <lastmod>2024-04-05T00:00:00-05:00</lastmod>
+      <lastmod>2024-04-19T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       

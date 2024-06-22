@@ -6,6 +6,7 @@ h1: "Los mejores barrios de Fusagasugá para vivir o comprar casa"
 hero: barrios-de-fusagasuga.webp
 alt: Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá
 category: Vivienda
+date: 2024-04-19
 excerpt: No te pierdas nuestra guía completa sobre el uso de SINFA para el impuesto predial en Fusagasugá. Aprende sobre plazos, descuentos, opciones de pago y más. ¡Cumple con tu deber ciudadano!
 autor: Sebastián Rincón
 foto: sebastian-rincon-leben.webp
