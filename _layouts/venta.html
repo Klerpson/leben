@@ -50,7 +50,6 @@ layout: compress
 <main class="venta-body">
   <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
   {% include image-gallery.html %} 
-  <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
   {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
   {{content}}
   
@@ -101,18 +100,18 @@ layout: compress
 
       {% include footer.html %}
   <!-- Vendor JS Files -->
-  <script src="/assets/javascripts/jquery.min.js"></script>
-  <script src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
-  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script src="/assets/vendor/aos/aos.js"></script>
-  <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-  <script src="/assets/javascripts/plugins.js"></script>
-  <script src="/assets/javascripts/validator.min.js"></script>
-  <script src="/assets/javascripts/contactform.js"></script>
+  <script defer src="/assets/javascripts/jquery.min.js"></script>
+  <script defer src="/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script defer src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script defer src="/assets/vendor/aos/aos.js"></script>
+  <script defer src="/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script defer src="/assets/javascripts/plugins.js"></script>
+  <script defer src="/assets/javascripts/validator.min.js"></script>
+  <script defer src="/assets/javascripts/contactform.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="/assets/javascripts/main.js"></script>
+  <script src="/assets/javascripts/main.js" defer></script>
+
 </body>
 
 </html>
