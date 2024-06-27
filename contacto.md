@@ -81,6 +81,6 @@ Déjanos todas tus inquietudes, pues no encanta asesorar lo mejor posible a nues
 * 🏢 **Dirección**: 👉 [Cl. 19 #5-40 Local 02, Fusagasugá, Cundinamarca]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 * 🕐 **Horarios de atención**: Lunes a viernes: 8:30 am. a 6:00 pm. - Sábado: 8:30 am. a 4:30 pm. - Domingo: Cerrado
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15950.696324449804!2d-76.0185633!3d1.8785257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257ba38eb5671d%3A0xabb8c090758c852!2sGurCoff%20-%20Helado%20suave%20y%20cafeter%C3%ADa!5e0!3m2!1ses-419!2sco!4v1719496511240!5m2!1ses-419!2sco" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15950.696324449804!2d-76.0185633!3d1.8785257!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e257ba38eb5671d%3A0xabb8c090758c852!2sGurCoff%20-%20Helado%20suave%20y%20cafeter%C3%ADa!5e0!3m2!1ses-419!2sco!4v1719496511240!5m2!1ses-419!2sco" width="100%" height="450" style="border:0; margin-top: 2em;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 {% include entradas.html %}

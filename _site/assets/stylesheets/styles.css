@@ -431,7 +431,7 @@ table th {
   transition: all 0.3s ease-in-out 0s;
 }
 
-.navbar hover:before,
+.navbar:hover:before,
 .navbar li:hover:before,
 .navbar .active:before {
   visibility: visible;
