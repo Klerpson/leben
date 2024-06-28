@@ -2921,17 +2921,6 @@ button.btn-get-started:hover {
   -webkit-clip-path: inset(0 -100vmax);
   clip-path: inset(0 -100vmax);
   display: grid;
-  gap: 1em;
-}
-
-.venta-body > h2 {
-  width: 100%;
-  background-color: var(--color-primary);
-  box-shadow: 0 0 0 100vmax var(--color-primary);
-  -webkit-clip-path: inset(0 -100vmax);
-  clip-path: inset(0 -100vmax);
-  color: white;
-  padding: 16px 0;
 }
 
 .image-gallery {
