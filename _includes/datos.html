@@ -31,7 +31,9 @@
               <li><i class="bi bi-link-45deg"></i> {{include.li5}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li6}}</li>
               <li><i class="bi bi-link-45deg"></i> {{include.li7}}</li>
+              {% if page.url == "/ventas" or page.url == "/arriendo" %}
               <li><a href="{{include.url|relative_url}}" class="boton-white">Conoce la propiedad</a></li>
+              {% endif %}
             </ul>
           </div>
         </div>
