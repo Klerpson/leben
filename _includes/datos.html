@@ -15,7 +15,7 @@
         </div>
         <div class="col-lg-5 col-md-12">
           <div class="counter-container flow" >
-            {% if page.url == "/ventas" or page.url == "/arriendo" %}
+            {% if page.url == "/ventas" or page.url == "/arriendo" or page.layout == "post" %}
             <div class="counter" data-target="{{include.data}}"></div>
             <span>millones</span>
             {% endif %}
