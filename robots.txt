@@ -1,5 +1,26 @@
 User-agent: *
 Allow: /
-User-Agent: AdsBot-Google-Mobile
-User-Agent: AdsBot-Google
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /search/
+Disallow: /*?q=*
+Disallow: /*.pdf$
+Disallow: /*.doc$
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://lebeninmobiliaria.com/sitemap.xml
