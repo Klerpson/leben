@@ -44,6 +44,8 @@ El barrio Vergel sí tiene acceso a servicios públicos como acueducto, alcantar
 
 Es un clásico barrio colombiano de vida familiar y de poco estrés.
 
+{% include relacionados.html title="Estas son las mejores opciones de casas en venta de estos barrios de Fusagasugá" %}
+
 ### Barrio Santander - Fusagasugá, Cundinamarca
 
 El Barrio Santander se **destaca por la belleza de sus áreas verdes y su ubicación céntrica**. Para aquellos que buscan tiendas, restaurantes y actividades recreativas, este barrio es ideal.
