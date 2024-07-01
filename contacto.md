@@ -1,6 +1,6 @@
 ---
 layout: page-basic
-title: Contacta con LEBEN y consigue tu próxima tu casa o apartamento
+title: Contacta con LEBEN y consigue tu próxima tu casa
 description: Déjanos tus datos y tu solicitud. En 24 horas o menos estaremos contactando contigo y comenzando la búsqueda de tus metas con tu propiedad. ¡Escríbenos!
 h1: Escríbenos y consigue tu próxima casa en Fusagasugá
 schema:
