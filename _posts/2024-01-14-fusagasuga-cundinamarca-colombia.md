@@ -41,6 +41,8 @@ La historia de Fusagasugá se remonta a tiempos precolombinos, siendo originalme
 
 A lo largo de los años, Fusagasugá ha crecido y se ha desarrollado, convirtiéndose en un importante centro urbano y cultural en la región.
 
+{% include relacionados.html title="En estas casas podrías vivir en Fusagasugá y salir del estrés" %}
+
 ## Cultura y Tradiciones en Fusagasugá
 
 Fusagasugá es un crisol de culturas, reflejado en sus festividades y eventos. Aquí, las tradiciones se viven con pasión, desde festivales de música y danza hasta ferias y celebraciones religiosas.

@@ -1,0 +1,15 @@
+<aside class="relacionados flow">
+  <h3>{{include.title}}</h3>
+  <div class="posts">
+    {% for item in site.data.portafolio limit: 4 %}
+    <div class="post" data-name="{{ item.clase }}">
+      <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}"
+          loading="lazy">
+        <h3>{{item.cta}}</h3>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+  <a href="{{'ventas' | relative_url}}" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
+</aside>
