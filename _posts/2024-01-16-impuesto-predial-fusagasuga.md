@@ -51,8 +51,6 @@ Los propietarios pueden iniciar sin problemas el proceso de pago de sus obligaci
 6. **Activar y Verificar la Cuenta**: Complete el proceso de verificación de cuenta según las instrucciones proporcionadas por el sitio web.
 7. **Acceder a Servicios en Línea**: Una vez creada y verificada la cuenta, utilice los servicios en línea para la tramitación de pagos y facturas.
 
-{% include cta.html %}
-
 ### Descarga de facturas del impuesto predial y de Reteica
 
 Como parte de los servicios en línea que ofrece el municipio de Fusagasugá, los propietarios tienen la comodidad de **descargar sus facturas del impuesto predial, de industria y comercio y de Reteica** a través del sitio web oficial.
@@ -114,7 +112,7 @@ En el banner principal, haz clic en: "Agilice sus trámites – Ingrese a su Por
 
 ¡Listo! Ahora tienes un tutorial completo y fácil de seguir para descargar y/o pagar tu Impuesto Predial en el Municipio de Fusagasugá.
 
------
+{% include cta.html %}
 
 ## Pago en la oficina de la alcaldía de Fusagasugá Impuesto Predial
 
