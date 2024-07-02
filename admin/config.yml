@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main # Cambia esto si tu rama principal es diferente
 
-media_folder: "assets/images/blog" # Carpeta donde se guardarán los archivos subidos
-public_folder: "/assets/images/blog"
+media_folder: "assets/images/uploads" # Carpeta donde se guardarán los archivos subidos
+public_folder: "/assets/images/uploads"
 
 collections:
   - name: "blog"
@@ -12,7 +12,82 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "text" }
+      - { label: "H1", name: "h1", widget: "string" }
+      - { label: "Hero Image", name: "hero", widget: "image" }
+      - { label: "Alt Text", name: "alt", widget: "string" }
+      - { label: "Category", name: "category", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Author", name: "autor", widget: "string" }
+      - { label: "Author Image", name: "foto", widget: "image" }
+      - { label: "Bio", name: "bio", widget: "text" }
+      - { label: "Instagram", name: "instagram", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "ventas"
+    label: "Ventas"
+    folder: "_ventas"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "venta" }
       - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "H1", name: "h1", widget: "string" }
+      - { label: "Class", name: "clase", widget: "string" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Alt Text", name: "alt", widget: "string" }
+      - { label: "Call to Action", name: "cta", widget: "string" }
+      - { label: "Price", name: "precio", widget: "number" }
+      - { label: "Property ID", name: "propiedad", widget: "number" }
+      - { label: "Intro", name: "intro", widget: "text" }
+      - { label: "Area", name: "area", widget: "string" }
+      - { label: "Bedrooms", name: "habitacion", widget: "string" }
+      - { label: "Living Room", name: "sala", widget: "string" }
+      - { label: "Dining Room", name: "comedor", widget: "string" }
+      - { label: "Kitchen", name: "cocina", widget: "string" }
+      - { label: "Bathrooms", name: "bano", widget: "string" }
+      - { label: "Garage", name: "garaje", widget: "string" }
+      - { label: "Services", name: "servicios", widget: "string" }
+      - { label: "Additional", name: "adicional", widget: "list", fields: [{label: "Item", name: "item", widget: "string"}] }
+      - { label: "Gallery Images", name: "galleryImages", widget: "list", fields: [{label: "Image", name: "image", widget: "image"}] }
+      - { label: "Advisor", name: "asesor", widget: "string" }
+      - { label: "Contact", name: "contacto", widget: "string" }
+      - { label: "Advisor Image", name: "foto-asesor", widget: "image" }
+
+  - name: "arriendo"
+    label: "Arriendo"
+    folder: "_arriendo"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "venta" }
+      - { label: "Permalink", name: "permalink", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "H1", name: "h1", widget: "string" }
+      - { label: "Class", name: "clase", widget: "string" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Alt Text", name: "alt", widget: "string" }
+      - { label: "Call to Action", name: "cta", widget: "string" }
+      - { label: "Price", name: "precio", widget: "number" }
+      - { label: "Property ID", name: "propiedad", widget: "number" }
+      - { label: "Intro", name: "intro", widget: "text" }
+      - { label: "Area", name: "area", widget: "string" }
+      - { label: "Bedrooms", name: "habitacion", widget: "string" }
+      - { label: "Living Room", name: "sala", widget: "string" }
+      - { label: "Dining Room", name: "comedor", widget: "string" }
+      - { label: "Kitchen", name: "cocina", widget: "string" }
+      - { label: "Bathrooms", name: "bano", widget: "string" }
+      - { label: "Garage", name: "garaje", widget: "string" }
+      - { label: "Services", name: "servicios", widget: "string" }
+      - { label: "Additional", name: "adicional", widget: "list", fields: [{label: "Item", name: "item", widget: "string"}] }
+      - { label: "Gallery Images", name: "galleryImages", widget: "list", fields: [{label: "Image", name: "image", widget: "image"}] }
+      - { label: "Advisor", name: "asesor", widget: "string" }
+      - { label: "Contact", name: "contacto", widget: "string" }
+      - { label: "Advisor Image", name: "foto-asesor", widget: "image" }
