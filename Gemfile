@@ -6,5 +6,7 @@ gem "webrick"
 
 group :jekyll_plugins do
   gem 'jekyll-admin'
-  gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+  # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 end
+
+ruby '3.0.0'
