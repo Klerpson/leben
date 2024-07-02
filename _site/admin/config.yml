@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main # Cambia esto si tu rama principal es diferente
 
-media_folder: "assets/images/" # Carpeta donde se guardarán los archivos subidos
+media_folder: "site/assets/images/" # Carpeta donde se guardarán los archivos subidos
 public_folder: "/assets/images/"
 
 collections:
