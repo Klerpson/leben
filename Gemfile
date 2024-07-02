@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 gem 'jekyll'
 gem 'github-pages'
 gem "webrick"
-gem "rack"
-gem "rackup"
 
 group :jekyll_plugins do
   gem 'jekyll-admin'
