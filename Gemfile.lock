@@ -37,9 +37,7 @@ GEM
       faraday-net_http (>= 2.0, < 3.2)
     faraday-net_http (3.1.0)
       net-http
-    ffi (1.17.0)
-    ffi (1.17.0-arm64-darwin)
-    ffi (1.17.0-x86_64-darwin)
+    ffi (1.17.0-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (4.1.0)
     github-pages (231)
@@ -224,11 +222,7 @@ GEM
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
-    nokogiri (1.16.6-arm64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.6-x86_64-darwin)
-      racc (~> 1.4)
-    nokogiri (1.16.6-x86_64-linux)
+    nokogiri (1.16.6-x64-mingw-ucrt)
       racc (~> 1.4)
     octokit (4.25.1)
       faraday (>= 1, < 3)
@@ -267,9 +261,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
-  arm64-darwin
-  x86_64-darwin
-  x86_64-linux
+  x64-mingw-ucrt
 
 DEPENDENCIES
   github-pages
@@ -278,7 +270,7 @@ DEPENDENCIES
   webrick
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.1.6p260
 
 BUNDLED WITH
-   2.5.14
+   2.3.27

@@ -6,4 +6,4 @@ group :jekyll_plugins do
   # gem 'wdm', '>= 0.1.0' if Gem.win_platform?
   gem 'rack'
 end
-ruby '3.0.0'
+ruby '3.1.6'
