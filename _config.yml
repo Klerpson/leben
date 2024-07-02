@@ -13,8 +13,6 @@ markdown: kramdown
 
 permalink: :slug
 
-keep_files: [/img]
-
 compress_html:
     clippings: []
     comments: []
