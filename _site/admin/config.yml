@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: main # Cambia esto si tu rama principal es diferente
 
-media_folder: "assets/images/uploads" # Carpeta donde se guardarán los archivos subidos
-public_folder: "/assets/images/uploads"
+media_folder: "assets/images/" # Carpeta donde se guardarán los archivos subidos
+public_folder: "/assets/images/"
 
 collections:
   - name: "blog"
@@ -20,10 +20,10 @@ collections:
       - { label: "Alt Text", name: "alt", widget: "string" }
       - { label: "Category", name: "category", widget: "string" }
       - { label: "Excerpt", name: "excerpt", widget: "text" }
-      - { label: "Author", name: "autor", widget: "string" }
-      - { label: "Author Image", name: "foto", widget: "image" }
-      - { label: "Bio", name: "bio", widget: "text" }
-      - { label: "Instagram", name: "instagram", widget: "string" }
+      - { label: "Author", name: "autor", widget: "hidden", default: "Sebastián Rincón" }
+      - { label: "Author Image", name: "foto", widget: "hidden", default: "sebastian-rincon-leben.webp" }
+      - { label: "Bio", name: "bio", widget: "hidden", default: "Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad." }
+      - { label: "Instagram", name: "instagram", "hidden", default: "https://instagram.com/sebastianrincon" }
       - { label: "Body", name: "body", widget: "markdown" }
 
   - name: "ventas"

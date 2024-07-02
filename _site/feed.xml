@@ -4,12 +4,12 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title></title>
+    <title>lebeninmobiliaria.com</title>
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Jul 2024 18:29:13 -0500</pubDate>
-    <lastBuildDate>Tue, 02 Jul 2024 18:29:13 -0500</lastBuildDate>
+    <pubDate>Tue, 02 Jul 2024 18:40:01 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Jul 2024 18:40:01 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v3.9.5</generator>
     
