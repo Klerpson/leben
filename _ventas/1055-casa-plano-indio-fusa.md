@@ -1,7 +1,7 @@
 ---
 layout: venta
 date: 2024-05-02
-permalink: ventas/casa-sector-indio-fusagasuga
+permalink: ventas/casa-5-habitaciones-fusa
 title: "Explora esta Casa de 5 Habitaciones en Fusagasugá"
 description: Encuentra la casa de tus sueños en Fusagasugá y comienza una nueva vida llena de comodidades y tranquilidad. ¡Agenda tu visita hoy mismo!
 h1: Vive con confort y estilo en esta casa en Fusagasugá
