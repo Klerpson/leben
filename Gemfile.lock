@@ -9,12 +9,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    faraday (2.9.2)
-      faraday-net_http (>= 2.0, < 3.2)
-    faraday-net_http (3.1.0)
-      net-http
-    faraday-retry (2.2.1)
-      faraday (~> 2.0)
     ffi (1.17.0-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -48,12 +42,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    net-http (0.4.1)
-      uri
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (6.0.0)
-    rack (3.1.6)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -67,22 +58,14 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
-    uri (0.13.0)
     webrick (1.8.1)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bundler (~> 2.0)
-  faraday-retry
   jekyll (~> 4.2.0)
-  listen (~> 3.9)
-  rack
-  webrick
-
-RUBY VERSION
-   ruby 3.1.6p260
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.27
