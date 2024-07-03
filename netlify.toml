@@ -18,4 +18,4 @@
   force = true
 
 [context.production.environment]
-  NETLIFY_IDENTITY_TOKEN = "YOUR_NETLIFY_IDENTITY_TOKEN"
+  NETLIFY_IDENTITY_TOKEN = "4b5f718c-33ad-46ee-bece-96ab8c395173"

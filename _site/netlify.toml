@@ -4,3 +4,18 @@
 
 [build.environment]
   RUBY_VERSION = "3.1.6"
+
+[[redirects]]
+  from = "/admin/*"
+  to = "/admin/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+  force = true
+
+[context.production.environment]
+  NETLIFY_IDENTITY_TOKEN = "4b5f718c-33ad-46ee-bece-96ab8c395173"
