@@ -4,6 +4,7 @@
 
 [build.environment]
   RUBY_VERSION = "3.1.6"
+  NODE_VERSION = "20"
 
 [[redirects]]
   from = "/admin/*"
@@ -17,5 +18,46 @@
   status = 200
   force = true
 
-[context.production.environment]
-  NETLIFY_IDENTITY_TOKEN = "4b5f718c-33ad-46ee-bece-96ab8c395173"
+[build.processing]
+  skip_processing = false
+[build.processing.css]
+  bundle = true
+  minify = true
+[build.processing.js]
+  bundle = true
+  minify = true
+[build.processing.html]
+  pretty_urls = true
+[build.processing.images]
+  compress = true
+
+[[plugins]]
+  package = "@netlify/plugin-sitemap"
+
+[[plugins]]
+  package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+  baseUrl = "https://tudominio.com"
+  sitemapPath = "/sitemap.xml"
+  providers = [
+    "google",
+    "bing",
+    "yandex"
+  ]
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Content-Security-Policy = "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com https://unpkg.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https://api.netlify.com;"
+
+[dev]
+  command = "bundle exec jekyll serve"
+  port = 8888
+  targetPort = 4000
+  publish = "_site"
+  autoLaunch = true
