@@ -1,9 +1,6 @@
 backend:
   name: git-gateway
   branch: main
-  identity_url: "https://lebeninmobiliaria.com/.netlify/identity"
-  gateway_url: "https://lebeninmobiliaria.com/.netlify/git"
-  squash_merges: true
 
 publish_mode: editorial_workflow
 media_folder: "site/assets/images" # Carpeta donde se guardarán los archivos subidos
