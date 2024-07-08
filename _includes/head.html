@@ -19,6 +19,12 @@
     <meta name="copyright" content="{% if page.copyright %}{{ page.copyright}}{% else %}{{site.author}}{% endif %}">
     <meta name="owner" content="{{site.name}}">
     <meta name="distribution" content="global">
+    {% if page.layout == 'post' %}
+    <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}">
+    {% if page.category %}<meta property="article:section" content="{{ page.category | first }}">{% endif %}
+    {% if page.tags %}<meta property="article:tag" content="{{ page.tags | join: ',' }}">{% endif %}
+    {% endif %}
     {% include schema.html %}
 
     <!-- FAVICON -->
