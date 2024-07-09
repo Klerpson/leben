@@ -3223,3 +3223,26 @@ color: white;
 padding: 40px 12px;
 text-align: center;
 }
+
+.portafolio_item{
+  display: flex;
+  gap: 12px;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.portafolio_item img{
+  width: min(100%, 200px);
+}
+
+.portafolio_item div{
+  display: grid;
+  place-content: center;
+  box-shadow: var(--shadow);
+  padding: 20px;
+}
+
+.portafolio_item div h3{
+  font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+  font-weight: 700;
+}

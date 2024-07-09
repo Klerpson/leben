@@ -12,7 +12,7 @@ cta: Conoce el apartamento
 precio: 420000000
 propiedad: 1006
 intro: Invierta en tu futuro con un apartamento en Fusagasugá.
-area: 114  metros construidos
+area: 114 metros construidos
 habitacion: 3 habitaciones amplias
 sala: Sala-comedor con balcón
 comedor: Sala-comedor con balcón
