@@ -434,6 +434,10 @@ table th {
   color: #ffffff;
 }
 
+.navbar a{
+  text-decoration:none;
+}
+
 .dropdown {
   position: relative;
   display: inline-block;
