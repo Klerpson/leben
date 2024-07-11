@@ -45,8 +45,10 @@ Al cerrar una venta, es importante entender **qué paga el vendedor de una casa*
 
 >En [Leben Inmobiliaria](/) te ahorramos esos gastos excesivos. [Escríbenos y consigue toda la información]({{'contacto' | relative_url}} "Contacta con Leben") que necesitas sobre las bajas comisiones que aplicamos a nuestros clientes. Así hemos conseguido más recomendaciones entre quienes están felices por la calidad y los costos de [nuestros servicios]({{'servicios' | relative_url}} "Servicios de Leben").
 
-En última instancia, "**¿cuándo se pagan gastos de inmobiliaria?**", es justo después de que se ha concretado la venta de la propiedad o inicio del contrato de arrendamiento.
+## En última instancia, ¿cuándo se pagan gastos de inmobiliaria?
 
-Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los números en la mesa_. Esto incluirá el "**cálculo de honorarios de inmobiliaria**" entre otros gastos asociados. Es esencial recordar que la claridad en estos temas puede marcar una gran diferencia en tu satisfacción al operar con una inmobiliaria.
+Es justo **después de que se ha concretado la venta** de la propiedad o inicio del contrato de arrendamiento.
 
-Espero que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Fusagasugá, Cundinamarca. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.
+Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los números en la mesa_. Esto incluirá el **cálculo de honorarios de inmobiliaria**, entre otros gastos asociados. Es esencial recordar que la claridad en estos temas puede marcar una gran diferencia en tu satisfacción al operar con una inmobiliaria.
+
+Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Fusagasugá, Cundinamarca. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.
