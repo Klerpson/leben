@@ -8,11 +8,46 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 11 Jul 2024 07:44:55 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Jul 2024 07:44:55 -0500</lastBuildDate>
+    <pubDate>Thu, 11 Jul 2024 07:49:23 -0500</pubDate>
+    <lastBuildDate>Thu, 11 Jul 2024 07:49:23 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
+    
+      
+      <item>
+        <title>¿Cuánto pagar a la inmobiliaria? - Guía definitiva | Fusagasugá Casas</title>
+        <description>
+          <![CDATA[
+            
+            Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
+          ]]>
+        </description>
+        <pubDate>Sun, 07 Jul 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/cu%C3%A1nto-se-debe-pagar-a-la-inmobiliaria</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/cu%C3%A1nto-se-debe-pagar-a-la-inmobiliaria</guid>
+        
+        <dc:creator>Sebastián Rincón</dc:creator>
+        
+        
+        <description>Nuestra inmobiliaria en Fusagasugá te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!</description>
+        
+        <content:encoded>
+          <![CDATA[
+            Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Fusagasugá, Cundinamarca?
+
+La pregunta “¿Cuánto se debe pagar a la inmobiliaria?” resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar “¿Cuánto cobra una inmobiliaria por rentar casa?”.
+
+En esta guía, daremos respuesta a dichas inquietudes, y más, para despejar cualquier dud...
+          ]]>
+        </content:encoded>
+        
+        
+        <category>Inmobiliaria</category>
+        
+        
+      </item>
+      
     
       
       <item>
@@ -49,41 +84,6 @@ Aquí te daremos todas las respuestas que necesitas para tus preguntas más frec
         
         
         <category>Vivienda</category>
-        
-        
-      </item>
-      
-    
-      
-      <item>
-        <title>¿Cuánto pagar a la inmobiliaria? - Guía definitiva | Fusagasugá Casas</title>
-        <description>
-          <![CDATA[
-            
-            Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
-          ]]>
-        </description>
-        <pubDate>Thu, 04 Jul 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/cu%C3%A1nto-se-debe-pagar-a-la-inmobiliaria</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/cu%C3%A1nto-se-debe-pagar-a-la-inmobiliaria</guid>
-        
-        <dc:creator>Sebastián Rincón</dc:creator>
-        
-        
-        <description>Nuestra inmobiliaria en Fusagasugá te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!</description>
-        
-        <content:encoded>
-          <![CDATA[
-            Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Fusagasugá, Cundinamarca?
-
-La pregunta “¿Cuánto se debe pagar a la inmobiliaria?” resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar “¿Cuánto cobra una inmobiliaria por rentar casa?”.
-
-En esta guía, daremos respuesta a dichas inquietudes, y más, para despejar cualquier dud...
-          ]]>
-        </content:encoded>
-        
-        
-        <category>Inmobiliaria</category>
         
         
       </item>

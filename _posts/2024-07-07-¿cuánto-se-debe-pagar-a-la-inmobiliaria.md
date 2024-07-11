@@ -5,9 +5,9 @@ category: Inmobiliaria
 description: Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
 excerpt: 'Nuestra inmobiliaria en Fusagasugá te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!'
 h1: 'Porcentaje de inmobiliaria ¿Cuánto y cuándo pagar? | Inmobiliaria Fusagasugá'
-hero: ''
-jpg: ''
-alt: ''
+hero: 'comision-venta-de-casa.webp'
+jpg: 'comision-venta-de-casa.jpg'
+alt: 'Imagen sobre comisión de venta para una inmobiliaria'
 foto: sebastian-rincon-leben.webp
 instagram: https://instagram.com/sebastianrincon
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado
