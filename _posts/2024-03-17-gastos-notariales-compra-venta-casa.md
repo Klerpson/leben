@@ -34,6 +34,8 @@ Para los compradores, los principales gastos notariales en 2024 incluyen:
 - Honorarios notariales y copias
 - IVA
 
+{% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
+
 ## Gastos notariales vender casa en Colombia
 
 Por su parte, los vendedores deben asumir:

@@ -35,9 +35,15 @@ Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del
 
 Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, impuestos y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
 
-A menudo, la pregunta es **¿quién paga gastos de escritura de compraventa**? En Colombia, la ley estipula que *ambos, comprador y vendedor*, deben asumir estos costos, los cuales incluyen la elaboración del contrato, la gestión de la notaría y los impuestos asociados a la transacción.
+{% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
 
-Al cerrar una venta, es importante entender "**¿qué paga el vendedor de una casa**?" Aparte del probable porcentaje a la inmobiliaria, el vendedor debe cubrir la comisión del "**agente inmobiliario por vender casa**", aunque a veces estos dos pagos están incluidos en el mismo desembolso.
+## Pero, ¿quién paga gastos de escritura de compraventa?
+
+En Colombia, la ley estipula que *ambos, comprador y vendedor*, deben asumir estos costos, los cuales incluyen la elaboración del contrato, la gestión de la notaría y los impuestos asociados a la transacción.
+
+Al cerrar una venta, es importante entender **qué paga el vendedor de una casa**. Aparte del probable porcentaje a la inmobiliaria, el vendedor debe cubrir la comisión del *agente inmobiliario por vender casa*, aunque generalmente estos dos pagos están incluidos en el mismo desembolso.
+
+>En [Leben Inmobiliaria](/) te ahorramos esos gastos excesivos. [Escríbenos y consigue toda la información]({{'contacto' | relative_url}} "Contacta con Leben") que necesitas sobre las bajas comisiones que aplicamos a nuestros clientes. Así hemos conseguido más recomendaciones entre quienes están felices por la calidad y los costos de [nuestros servicios]({{'servicios' | relative_url}} "Servicios de Leben").
 
 En última instancia, "**¿cuándo se pagan gastos de inmobiliaria?**", es justo después de que se ha concretado la venta de la propiedad o inicio del contrato de arrendamiento.
 
