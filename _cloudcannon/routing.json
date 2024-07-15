@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "from": "/arriendos",
+      "status": 301,
+      "to": "/arriendo"
+    }
+  ]
+}
