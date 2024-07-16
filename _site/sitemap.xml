@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -24,7 +24,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +37,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +50,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +66,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +82,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -96,12 +96,9 @@
     
   
     
-    
-  
-    
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -117,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/testimonios</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -130,7 +127,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+        <lastmod>2024-07-16T10:35:18-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -207,7 +204,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-07-15T17:09:02-05:00</lastmod>
+      <lastmod>2024-07-16T10:35:18-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -514,6 +511,27 @@
     </url>
   
   
+  
+    <url>
+      <loc>http://localhost:4000/blog/remates-de-casas-en-fusagasuga-por-bancos</loc>
+      <lastmod>2024-07-16T00:00:00-05:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>1.0</priority>
+      
+        <image:image>
+          <image:loc>http://localhost:4000/remates_casas_fusagasuga.webp</image:loc>
+          <image:title>Venta de apartamento en Fusagasugá ¡Aprovecha los remates!</image:title>
+          <image:caption>Imagen de una casa en venta en Fusagasugá, uno de los muchos remates de apartamentos en Fusagasugá por bancos</image:caption>
+        </image:image>
+      
+      
+        <image:image>
+          <image:loc>http://localhost:4000/remates_casas_fusagasuga.webp</image:loc>
+          <image:title>Venta de apartamento en Fusagasugá ¡Aprovecha los remates!</image:title>
+          <image:caption>Imagen de una casa en venta en Fusagasugá, uno de los muchos remates de apartamentos en Fusagasugá por bancos</image:caption>
+        </image:image>
+      
+    </url>
   
     <url>
       <loc>http://localhost:4000/blog/cuanto-se-debe-pagar-a-la-inmobiliaria</loc>
