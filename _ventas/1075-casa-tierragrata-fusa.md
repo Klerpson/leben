@@ -2,9 +2,9 @@
 layout: venta
 date: 2024-05-02
 permalink: ventas/casa-tierragrata-fusa
-title: "Exclusiva Residencia en Fusagasugá: Comodidad y Entretenimiento"
-description: Confort, seguridad y diversión te esperan en esta casa en Fusagasugá. ¡No pierdas la oportunidad de vivir en Tierragrata!
-h1: Encuentra tu Hogar Ideal en Fusagasugá | Residencia en Tierragrata
+title: "Casa en venta en conjunto Tierra Grata Fusagasugá"
+description: Confort, seguridad y diversión te esperan en esta casa de Fusagasugá. ¡No pierdas la oportunidad de vivir en el conjunto Tierra Grata!
+h1: Compra tu casa ideal en Fusagasugá | Conjunto Tierra Grata
 clase: casas
 img: 1075/casa-tierragrata-fusa-18.webp
 alt: Casa en conjunto TierraGrata - Fusagasugá

@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-12">
-        <div class="counter-container" data-aos="fade-left" data-aos-delay="50">
+        <div class="counter-container">
             {% if page.url == "/ventas" %}
             <h2 class="datos-h2">Aprovecha esta casa en venta en Fusagasugá</h2>
             {% endif %}
@@ -15,10 +15,6 @@
         </div>
         <div class="col-lg-5 col-md-12">
           <div class="counter-container flow" >
-            {% if page.url == "/ventas" or page.url == "/arriendo" or page.layout == "post" %}
-            <div class="counter" data-target="{{include.data}}"></div>
-            <span>millones</span>
-            {% endif %}
             {% if page.url == "/" %}
             <h4 class="datos-h2">Aprovecha para comprar tu casa Fusagasugá</h4>
             {% endif %}
