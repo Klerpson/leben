@@ -2821,6 +2821,7 @@ button.btn-get-started:hover {
     background-color: #2eda2e70;
     border: 3px solid white;
     padding: 8px;
+    text-decoration: none;
     border-radius: 8px;
   }
 }
