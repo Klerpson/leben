@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -24,7 +24,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +37,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +50,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +66,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +82,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -98,7 +98,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -114,7 +114,7 @@
     
       <url>
         <loc>http://localhost:4000/testimonios</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -127,7 +127,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+        <lastmod>2024-07-17T14:05:29-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -204,7 +204,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-07-17T13:10:59-05:00</lastmod>
+      <lastmod>2024-07-17T14:05:29-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
