@@ -8,8 +8,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 19 Jul 2024 13:46:55 -0500</pubDate>
-    <lastBuildDate>Fri, 19 Jul 2024 13:46:55 -0500</lastBuildDate>
+    <pubDate>Fri, 19 Jul 2024 15:04:07 -0500</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2024 15:04:07 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
@@ -401,11 +401,11 @@ Situada en el departamento de Cundinamarca en Colombia, Fusagasugá es una ciuda
     
       
       <item>
-        <title>Gastos Notariales en Colombia 2024: Todo lo que Debes Saber al Vender o Comprar</title>
+        <title>Gastos Notariales en Colombia 2024: Vender o Comprar Casa</title>
         <description>
           <![CDATA[
             
-            Antes de vender o comprar, conoce a fondo los gastos notariales en Colombia para 2024. Escrituración, registro, retención, impuestos ¡Todo explicado! Evita sorpresas.
+            Antes de vender o comprar, conoce los gastos notariales en Colombia para 2024. Simulador de gastos de escrituración, registro, retención, impuestos
           ]]>
         </description>
         <pubDate>Sun, 17 Mar 2024 00:00:00 -0500</pubDate>
@@ -415,7 +415,7 @@ Situada en el departamento de Cundinamarca en Colombia, Fusagasugá es una ciuda
         <dc:creator>Sebastián Rincón</dc:creator>
         
         
-        <description>¿Estás vendiendo o comprando? Calcula de manera precisa los gastos notariales de tu vivienda. Costos fijos, variables y tips para pagar menos.</description>
+        <description>¿Estás vendiendo o comprando? Calcula aproximadamente los gastos notariales de tu vivienda. Costos fijos, variables y tips para pagar menos.</description>
         
         <content:encoded>
           <![CDATA[

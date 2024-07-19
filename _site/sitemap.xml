@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -24,7 +24,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +37,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +50,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +66,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +82,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -98,7 +98,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -106,15 +106,12 @@
         
         
       </url>
-    
-  
-    
     
   
     
       <url>
-        <loc>http://localhost:4000/testimonios</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <loc>http://localhost:4000/simulador-gastos-notariales-colombia</loc>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -122,12 +119,15 @@
         
         
       </url>
+    
+  
+    
     
   
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+        <lastmod>2024-07-19T15:04:07-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -204,7 +204,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-07-19T13:46:55-05:00</lastmod>
+      <lastmod>2024-07-19T15:04:07-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -722,8 +722,8 @@
       
         <image:image>
           <image:loc>http://localhost:4000/impuestos-vender-casa-colombia.webp</image:loc>
-          <image:title>Gastos Notariales en Colombia 2024: Todo lo que Debes Saber al Vender o Comprar</image:title>
-          <image:caption>Foto de documentos con impuestos para vivienda</image:caption>
+          <image:title>Gastos Notariales en Colombia 2024: Vender o Comprar Casa</image:title>
+          <image:caption>Foto de documentos con gastos de impuestos para comprar vivienda en Colombia</image:caption>
         </image:image>
       
     </url>

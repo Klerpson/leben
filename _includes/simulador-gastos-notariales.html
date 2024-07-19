@@ -1,0 +1,23 @@
+<div class="container_simulador">
+  <h2>Simulador de Gastos Notariales en Colombia</h2>
+  <ol>
+    <li>Escribe el valor del inmueble que deseas comprar y vender.</li>
+    <li>Luego, para <strong>cacular el valor del gasto notarial</strong> solo debes hacer clic en el botón <i>"Calcular Gasto Notarial"</i>.</li>
+  </ol> 
+  <h3>Calcula aquí tus gastos notariales</h3>
+  <form id="notaryCalculator">
+    <label for="propertyValue">Valor del Inmueble (COP):</label>
+    <input type="number" id="propertyValue" name="propertyValue" required>
+    <button type="button" onclick="calculateExpenses()">Calcular Costos Notariales</button>
+  </form>
+  <div id="results" class="hidden">
+    <h3>Resultados:</h3>
+    <p>Gastos Notariales: <span id="notaryFees"></span> COP</p>
+    <p>Derechos de Registro: <span id="registryFees"></span> COP</p>
+    <p>Certificados: <span id="certificatesFees"></span> COP</p>
+    <p>Total: <span id="totalFees"></span> COP</p>
+    <h2>¡No pierdas tiempo o dinero por una mala diligencia! Contacta nuestro asesor experto.</h2>
+    <a href="https://wa.me/573102155237?text=Hola!%20Estaba%20en%20la%20p%C3%A1gina%20web%20de%20LEBEN.%20Por%20favor,%20env%C3%ADame%20m%C3%A1s%20info%20sobre%20el%20servicio%20de%20gastos%20notariales" class="btn-get-started">Recibe más información</a>
+
+  </div>
+</div>

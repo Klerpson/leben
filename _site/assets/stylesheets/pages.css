@@ -664,3 +664,58 @@ transform: scale(1.05);
   align-items: center;
   justify-content: center;
 }
+
+.container_simulador  {
+  margin: 3em auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container_simulador h2,
+.container_simulador div h3 {
+  color: #333;
+}
+
+.container_simulador form{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  align-items: center;
+  justify-content: center;
+  padding: 2em 0 1em;
+}
+
+.container_simulador form label {
+  display: block;
+  font-weight: 700;
+}
+
+.container_simulador form input {
+  width: min(100%, 240px);
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.container_simulador form button {
+  width: max-content;
+  padding: 8px 20px;
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.container_simulador form button:hover {
+  background-color: var(--color-default);
+}
+
+.container_simulador .hidden {
+  display: none;
+}
+
+.container_simulador #results p {
+  font-size: 1.2em;
+}

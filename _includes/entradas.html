@@ -6,29 +6,28 @@
         <h2>Conoce más sobre el mercado de casas en venta en Fusagasugá</h2>
         <p>En nuestro blog te ofrecemos más información sobre los servicios ofrecidos por nuestra agencia inmobiliaria, así como una lista de propiedades disponibles en Fusagasugá y las ventajas de asesorarte con nosotros.</p>
       </div>
-      <a href="{{'blog'|relative_url}}" class="btn-get-started">Mira el blog</a>
     </div>
     <div class="row gy-4">
 
-    <div class="col-lg-4">
-      {% assign post1 = site.posts[0] %}
-      <article class="entry">
-        <div class="post-img">
-          <img src="assets/images/blog/{{post1.hero}}" alt="{{post1.alt}}" class="img-fluid" loading="lazy">
-        </div>
-        <p class="post-category">{{post1.category}}</p>
-        <h2 class="title">
-          <a href="{{post1.url|relative_url}}">{{post1.h1}}</a>
-        </h2>
-        <div class="d-flex align-items-center">
-          <div class="post-meta">
-            <p class="post-date">
-              <time datetime="{{post1.date |  date: '%Y-%m-%d' }}">{{post1.date | date: "%Y-%m-%d" }}</time>
-            </p>
+      <div class="col-lg-4">
+        {% assign post1 = site.posts[0] %}
+        <article class="entry">
+          <div class="post-img">
+            <img src="assets/images/blog/{{post1.hero}}" alt="{{post1.alt}}" class="img-fluid" loading="lazy">
           </div>
-        </div>
-      </article>
-    </div><!-- End post list item -->
+          <p class="post-category">{{post1.category}}</p>
+          <h2 class="title">
+            <a href="{{post1.url|relative_url}}">{{post1.h1}}</a>
+          </h2>
+          <div class="d-flex align-items-center">
+            <div class="post-meta">
+              <p class="post-date">
+                <time datetime="{{post1.date |  date: '%Y-%m-%d' }}">{{post1.date | date: "%Y-%m-%d" }}</time>
+              </p>
+            </div>
+          </div>
+        </article>
+      </div>
 
       <div class="col-lg-4">
         {% assign post2 = site.posts[1] %}
@@ -48,8 +47,7 @@
             </div>
           </div>
         </article>
-      </div><!-- End post list item -->
-
+      </div>
 
       <div class="col-lg-4">
         {% assign post3 = site.posts[2] %}
@@ -69,7 +67,8 @@
             </div>
           </div>
         </article>
-      </div><!-- End post list item -->
+      </div>
     </div>
   </div>
+  <a href="{{'blog'|relative_url}}" class="btn-get-started" style="margin-top: 2em;">Mira el blog</a>
 </section><!-- End Recent Blog Posts Section -->

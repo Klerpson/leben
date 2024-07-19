@@ -3223,10 +3223,11 @@ button.btn-get-started:hover {
 
 .relacionados{
   background: rgb(48,43,39);
-background: linear-gradient(126deg, rgba(48,43,39,1) 7%, rgba(192,64,59,1) 44%, rgba(218,43,38,1) 63%, rgba(182,6,0,1) 90%, rgba(48,43,39,1) 99%);
-color: white;
-padding: 40px 12px;
-text-align: center;
+  background: linear-gradient(126deg, rgba(48,43,39,1) 7%, rgba(192,64,59,1) 44%, rgba(218,43,38,1) 63%, rgba(182,6,0,1) 90%, rgba(48,43,39,1) 99%);
+  color: white;
+  margin: 2em 0;
+  padding: 40px 16px;
+  text-align: center;
 }
 
 .portafolio_item{
