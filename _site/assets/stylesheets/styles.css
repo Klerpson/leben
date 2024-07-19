@@ -19,9 +19,13 @@ h2 {
   font-weight: 700;
 }
 
+h3{
+  font-weight: 700;
+}
+
 h4 {
   font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
-  font-weight: bolder;
+  font-weight: 700;
 }
 
 h5 {

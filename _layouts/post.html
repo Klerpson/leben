@@ -23,9 +23,7 @@ layout: default
 <section id="hero" class="page-hero">
   <div class="container position-relative">
     <div class="row gy-5">
-      <div
-        class="col-lg-12 order-lg-1 d-flex flex-column align-items-left justify-content-start text-left caption"
-      >
+      <div class="col-lg-12 order-lg-1 d-flex flex-column align-items-left justify-content-start text-left caption">
         <h1>{{page.h1}}</h1>
         <p>{{page.excerpt}}</p>
       </div>
@@ -41,14 +39,27 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
-          <img
-            src="{{site.baseurl}}/assets/images/blog/{{page.hero}}"
-            alt="{{page.alt}}"
-            style="width: 100%; margin-bottom: 2em"
-          />
+          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" style="width: 100%; margin-bottom: 2em" width="992" height="620">
 
           {% if page.url == "/blog/clima-fusagasuga" %} {% include clima.html %}
-          {% endif %} {{content}}
+          {% endif %}
+          {{content}}
+          {% if page.referencias %}
+          <div id="fuentes">
+            <h4>Créditos y referencias</h4>
+            <div>
+              {% for link_hash in page.referencias %}
+              {% for link in link_hash %}
+              <ul>
+                <li>
+                  <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+                </li>
+              </ul>
+              {% endfor %}
+              {% endfor %}
+            </div>
+          </div>
+          {% endif %}
         </div>
         <div class="col-lg-4">
           <div class="blog-sidbar">
