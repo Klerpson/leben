@@ -141,11 +141,16 @@ section {
   text-decoration: underline;
   text-decoration-thickness: 2px;
 }
+
+.page-hero{
+  padding-top: 5em;
+}
+
 .hero {
   width: 100%;
   position: relative;
   background-size: 128%;
-  min-height: 80dvh;
+  min-height: 60dvh;
   background: #fff;
   z-index: 0;
   padding: 200px 0 100px;
@@ -1778,30 +1783,6 @@ button:focus:not(:focus-visible) {
   border: 2px solid var(--color-secondary);
 }
 
-.btn-watch-video {
-  font-size: 16px;
-  transition: 0.5s;
-  margin-left: 25px;
-  color: #ffffff;
-  font-weight: 500;
-  padding: 0 20px;
-}
-
-.hero .btn-watch-video i {
-  color: #ffffff;
-  font-size: 32px;
-  transition: 0.3s;
-  line-height: 0;
-  margin-right: 8px;
-}
-
-.btn-watch-video:hover {
-  border-radius: 0;
-  color: #ffffff;
-  /* padding: 0 20px; */
-  background: var(--color-primary);
-}
-
 @media (max-width: 767px) {
   .hero-main-video {
     height: auto;
@@ -1881,9 +1862,6 @@ button:focus:not(:focus-visible) {
 }
 
 @media (min-width: 768px) {
-  .hero .btn-watch-video {
-    font-size: 14px;
-  }
 
   .icon-boxes .card-two {
     margin-top: -20px;
