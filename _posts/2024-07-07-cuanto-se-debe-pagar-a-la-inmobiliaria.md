@@ -29,6 +29,8 @@ Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la 
 
 Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemos tu casa") con un valor estimado en 200.000.000 de COP en Fusagasugá, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.
 
+{% include relacionados.html title="Estas son las mejores opciones de casas con el porcentajes bajos de comisión" %}
+
 ## "Y ¿cuánto cobra inmobiliaria por arrendar apartamento en Colombia?"
 
 Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendos' | relative_url}} "Arrendamos tu casa").
@@ -45,10 +47,16 @@ Al cerrar una venta, es importante entender **qué paga el vendedor de una casa*
 
 >En [Leben Inmobiliaria](/) te ahorramos esos gastos excesivos. [Escríbenos y consigue toda la información]({{'contacto' | relative_url}} "Contacta con Leben") que necesitas sobre las bajas comisiones que aplicamos a nuestros clientes. Así hemos conseguido más recomendaciones entre quienes están felices por la calidad y los costos de [nuestros servicios]({{'servicios' | relative_url}} "Servicios de Leben").
 
-## En última instancia, ¿cuándo se pagan gastos de inmobiliaria?
+## En última instancia, ¿cuánto es el porcentaje que cobra la inmobiliaria?
+
+Es entre el 1 y 3 por ciento. Eso en el mercado Colombiano.
+
+Y, ¿cuándo se paga?
 
 Es justo **después de que se ha concretado la venta** de la propiedad o inicio del contrato de arrendamiento.
 
-Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los números en la mesa_. Esto incluirá el **cálculo de honorarios de inmobiliaria**, entre otros gastos asociados. Es esencial recordar que la claridad en estos temas puede marcar una gran diferencia en tu satisfacción al operar con una inmobiliaria.
+Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los números en la mesa_. Esto incluirá el **cálculo de honorarios de inmobiliaria**, entre otros gastos asociados. Recuerda que la claridad en estos temas puede marcar una gran diferencia en tu satisfacción al operar con una inmobiliaria.
+
+Por eso, nos encanta ser honestos contigo en este tema.
 
 Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Fusagasugá, Cundinamarca. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.

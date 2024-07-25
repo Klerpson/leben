@@ -58,12 +58,12 @@ Con **tarifas accesibles y una selección de películas que abarca todos los gé
 
 Al visitar el Cine Los Ángeles en Fusagasugá, hay varias **cosas que deberías tener en cuenta para asegurarte de tener la mejor experiencia posible**, ¡te las mostramos!:
 
--  _**✓ Horarios de funciones:**_ Verifica los horarios de las funciones de las películas que deseas ver. Esto te ayudará a planificar tu visita y asegurarte de llegar a tiempo.
--  _**✓ Compra de entradas:**_ Considera comprar tus entradas con anticipación, especialmente si planeas ir en un horario concurrido o para una película popular. Esto te ahorrará tiempo y te garantizará un lugar.
--  _**✓ Promociones y descuentos:**_ Infórmate sobre las promociones y descuentos disponibles. Puedes encontrar ofertas especiales para estudiantes, personas mayores, familias, etc. Aprovechar estas promociones te ayudará a ahorrar dinero en tus entradas.
--  _**✓ Comida y bebida:**_ Verifica las políticas del cine con respecto a que lleves comida y bebida desde fuera esto y planifica en consecuencia o cotiza los precios de la compra de snacks en la taquilla.
--  _**✓ Estacionamiento:**_ Si planeas llegar en automóvil, asegúrate de conocer las opciones de estacionamiento disponibles cerca del cine. Así podrás planificar tu viaje y estar tranquilo mientras disfrutas de la película.
--  _**✓ Normas de comportamiento:**_ Respeta las normas de comportamiento del cine, como apagar tu teléfono celular, no hablar durante la película y desechar adecuadamente tus residuos.
+- _**✓ Horarios de funciones:**_ Verifica los horarios de las funciones de las películas que deseas ver. Esto te ayudará a planificar tu visita y asegurarte de llegar a tiempo.
+- _**✓ Compra de entradas:**_ Considera comprar tus entradas con anticipación, especialmente si planeas ir en un horario concurrido o para una película popular. Esto te ahorrará tiempo y te garantizará un lugar.
+- _**✓ Promociones y descuentos:**_ Infórmate sobre las promociones y descuentos disponibles. Puedes encontrar ofertas especiales para estudiantes, personas mayores, familias, etc. Aprovechar estas promociones te ayudará a ahorrar dinero en tus entradas.
+- _**✓ Comida y bebida:**_ Verifica las políticas del cine con respecto a que lleves comida y bebida desde fuera esto y planifica en consecuencia o cotiza los precios de la compra de snacks en la taquilla.
+- _**✓ Estacionamiento:**_ Si planeas llegar en automóvil, asegúrate de conocer las opciones de estacionamiento disponibles cerca del cine. Así podrás planificar tu viaje y estar tranquilo mientras disfrutas de la película.
+- _**✓ Normas de comportamiento:**_ Respeta las normas de comportamiento del cine, como apagar tu teléfono celular, no hablar durante la película y desechar adecuadamente tus residuos.
 
 ## ¡Decídete ahora! Planifica tu visita y disfruta del cine en Fusagasugá
 
