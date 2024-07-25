@@ -1,200 +1,158 @@
 {% if page.url == "/arriendo" %}
 <!-- SCHEMA JSON PARA LA PÁGINA DE PROPIEDADES EN ARRIENDO -->
 <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "mainEntityOfPage": {
     "@type": "WebPage",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{site.url}}/arriendo"
-    },
-    "headline": "{{page.title}}",
-    "description": "{{page.description}}",
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{site.name}}",
-      "url": "{{site.url}}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{site.url}}/logotipo.png"
-      }
-    },
-    "inLanguage": "es",
-    "itemListElement": [
-      {% for item in site.arriendo limit: 3 %}
-      {
-        "@type": "ListItem",
-        "position": {{forloop.index}},
-        "item": {
-          "@type": "RentalProperty",
-          "name": "{{item.title}}",
-          "url": "{{site.url}}{{item.url}}",
-          "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
-          "offers": {
-            "@type": "Offer",
-            "price": "{{item.precio}}",
-            "priceCurrency": "COP"
-          }
+    "@id": "{{site.url}}/arriendo"
+  },
+  "headline": "{{page.title}}",
+  "description": "{{page.description}}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{site.name}}",
+    "url": "{{site.url}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}/logotipo.png"
+    }
+  },
+  "inLanguage": "es",
+  "itemListElement": [
+    {% for item in site.arriendo limit: 3 %}
+    {
+      "@type": "ListItem",
+      "position": {{forloop.index}},
+      "item": {
+        "@type": "Apartment",
+        "name": "{{item.title}}",
+        "url": "{{site.url}}{{item.url}}",
+        "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
+        "offers": {
+          "@type": "Offer",
+          "price": "{{item.precio}}",
+          "priceCurrency": "COP"
         }
-      }{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    ]
-  }
+      }
+    }{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  ]
+}
 </script>
 {% endif %}
 
 {% if page.url == "/blog" %}
 <!-- SCHEMA JSON PARA LA PÁGINA PRINCIPAL DEL BLOG -->
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Blog",
-    "name": "Blog de LEBEN Inmobiliaria",
-    "description": "Blog sobre inversiones inmobiliarias en Fusagasugá. Aprende sobre compra, venta, alquiler y más.",
-    "url": "https://lebeninmobiliaria.com/blog",
-    "publisher": {
-      "@type": "Organization",
-      "name": "LEBEN Inmobiliaria",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{'assets/images/logotipo.webp'|relative_url}}"
-      }
-    },
-    "blogPost": [
-      {
-        "@type": "BlogPosting",
-        "headline": "Comprar casa para alquilar en Colombia ¿Será buena idea?",
-        "image": "https://lebeninmobiliaria.com/assets/images/blog/comprar-casa-alquilar.webp",
-        "author": {
-          "@type": "Person",
-          "name": "LEBEN Inmobiliaria"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "LEBEN Inmobiliaria",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "{{'assets/images/logotipo.webp'|relative_url}}"
-          }
-        },
-        "datePublished": "2024-04-26",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://lebeninmobiliaria.com/blog/comprar-casa-para-alquilar"
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Blog de LEBEN Inmobiliaria",
+  "description": "Blog sobre inversiones inmobiliarias en Fusagasugá. Aprende sobre compra, venta, alquiler y más.",
+  "url": "https://lebeninmobiliaria.com/blog",
+  "publisher": {
+    "@type": "Organization",
+    "name": "LEBEN Inmobiliaria",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}{{'assets/images/logotipo.webp'|relative_url}}"
+    }
+  },
+  "blogPost": [
+    {% for post in site.posts limit:3 %}
+    {
+      "@type": "BlogPosting",
+      "headline": "{{post.title}}",
+      "image": "{{site.url}}/assets/images/blog/{{post.hero}}",
+      "author": {
+        "@type": "Person",
+        "name": "{{post.autor | default: 'LEBEN Inmobiliaria'}}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "LEBEN Inmobiliaria",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{site.url}}{{'assets/images/logotipo.webp'|relative_url}}"
         }
       },
-      {
-        "@type": "BlogPosting",
-        "headline": "Es el mejor momento para invertir en finca raíz en Fusagasugá",
-        "image": "https://lebeninmobiliaria.com/assets/images/blog/finca-raiz-fusagasuga.webp",
-        "author": {
-          "@type": "Person",
-          "name": "LEBEN Inmobiliaria"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "LEBEN Inmobiliaria",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "{{'assets/images/logotipo.webp'|relative_url}}"
-          }
-        },
-        "datePublished": "2024-04-19",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://lebeninmobiliaria.com/blog/invertir-finca-raiz"
-        }
-      },
-      {
-        "@type": "BlogPosting",
-        "headline": "Los mejores barrios de Fusagasugá para vivir o comprar casa",
-        "image": "https://lebeninmobiliaria.com/assets/images/blog/barrios-de-fusagasuga.webp",
-        "author": {
-          "@type": "Person",
-          "name": "LEBEN Inmobiliaria"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "LEBEN Inmobiliaria",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "{{'assets/images/logotipo.webp'|relative_url}}"
-          }
-        },
-        "datePublished": "2024-04-05",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://lebeninmobiliaria.com/blog/mejores-barrios-fusagasuga"
-        }
+      "datePublished": "{{post.date | date: '%Y-%m-%d'}}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{site.url}}{{post.url}}"
       }
-    ]
-  }
-  </script>
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Inicio",
-        "item": "https://lebeninmobiliaria.com"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Blog",
-        "item": "https://lebeninmobiliaria.com/blog"
-      }
-    ]
-  }
-  </script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": "{{site.url}}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "{{site.url}}/blog"
+    }
+  ]
+}
+</script>
 {% endif %}
 
 {% if page.url == "/ventas" %}
 <!-- SCHEMA JSON PARA LA PÁGINA DE PROPIEDADES EN VENTA -->
 <script type="application/ld+json">
-    {
-    "@context": "https://schema.org",
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "mainEntityOfPage": {
     "@type": "WebPage",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{site.url}}/ventas"
-    },
-    "headline": "{{page.title}}",
-    "description": "{{page.description}}",
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{site.name}}",
-      "url": "{{site.url}}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{'assets/images/logotipo.webp'|relative_url}}"
-      }
-    },
-    "inLanguage": "es",
-    "itemListElement": [
-      {% for item in site.ventas limit: 3 %}
-      {
-        "@type": "ListItem",
-        "position": "{{forloop.index}}",
-        "item": {
-          "@type": "SingleFamilyResidence",
-          "name": "{{item.title}}",
-          "url": "{{site.url}}{{item.url}}",
-          "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
-          "offers": {
-            "@type": "Offer",
-            "price": "{{item.precio}}",
-            "priceCurrency": "COP"
-          }
+    "@id": "{{site.url}}/ventas"
+  },
+  "headline": "{{page.title}}",
+  "description": "{{page.description}}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{site.name}}",
+    "url": "{{site.url}}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}{{'assets/images/logotipo.webp'|relative_url}}"
+    }
+  },
+  "inLanguage": "es",
+  "itemListElement": [
+    {% for item in site.ventas limit: 3 %}
+    {
+      "@type": "ListItem",
+      "position": {{forloop.index}},
+      "item": {
+        "@type": "SingleFamilyResidence",
+        "name": "{{item.title}}",
+        "url": "{{site.url}}{{item.url}}",
+        "image": "{{site.url}}/assets/images/portfolio/{{item.img}}",
+        "offers": {
+          "@type": "Offer",
+          "price": "{{item.precio}}",
+          "priceCurrency": "COP"
         }
-      }{% unless forloop.last %}, {% endunless %}
-      {% endfor %}
-    ]
-  }
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
 </script>
 {% endif %}
 
@@ -203,198 +161,147 @@
 {% when "venta" %}
 <!-- SCHEMA POR CADA PROPIEDAD EN VENTA Y DESPUÉS DEL CÓDIGO %ELSE% PARA LAS PROPIEDADES EN ARRIENDO  -->
 <script type="application/ld+json">
-    {% if page.url contains "/ventas" and != "/ventas" %}
-    {
-      "@context": "https://schema.org/",
-      "@type": "SingleFamilyResidence",
-      "name": "{{page.title}}",
-      "description": "{{page.description}}",
-      "image": [
-      {% for imagen in page.galleryImages %}
-        "{{site.url}}{{imagen}}",
-      {% endfor %}
-        "{{site.url}}/assets/images/portfolio/{{page.img}}"
-      ],
-      "brand": {
-        "@type": "Brand",
-        "name": "{{site.author}}"
-      },
-      "numberOfRooms": "5",
-      "numberOfBedrooms": "{{page.habitacion | truncatewords: 1, ''}}",
-      "numberOfBathroomsTotal": "{{page.bano | truncatewords: 1, ''}}",
-      "floorSize": {
-        "@type": "QuantitativeValue",
-        "value": "{{page.area | truncatewords: 1, ''}}",
-        "unitText": "METRO CUADRADO"
-      },
-      "amenityFeature": [
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.sala}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.cocina}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.bano}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.garaje}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.servicios}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.comedor}}"
-      }
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "{{page.h1}}",
-        "addressLocality": "Fusagasugá",
-        "addressRegion": "Cundinamarca",
-        "postalCode": "253811",
-        "addressCountry": "Colombia"
-      }
-    },
-      "offers": {
-        "@type": "Offer",
-        "price": "{{page.precio}}",
-        "priceCurrency": "COP",
-        "availability": "https://schema.org/InStock"
-      },
-      "seller": {
-        "@type": "Organization",
-        "name": "{{site.name}}",
-        "telephone": "+57 {{page.contacto}}",
-        "email": "{{site.email}}"
-      }
-    }
-    {% else %}
-    {
-      "@context": "https://schema.org/",
-      "@type": "RentalProperty",
-    "name": "{{page.title}}",
-    "description": "{{page.description}}",
-    "image": [
+{% if page.url contains "/ventas" and page.url != "/ventas" %}
+{
+  "@context": "https://schema.org/",
+  "@type": "SingleFamilyResidence",
+  "name": "{{page.title}}",
+  "description": "{{page.description}}",
+  "image": [
     {% for imagen in page.galleryImages %}
-      "{{site.url}}{{imagen}}",
+    "{{site.url}}{{imagen}}"{% unless forloop.last %},{% endunless %}
     {% endfor %}
-      "{{site.url}}/assets/images/portfolio/{{page.img}}"
-    ],
-
-    "numberOfRooms": "{{page.habitacion | truncatewords: 1, ''}}",
-    "floorSize": {
-      "@type": "QuantitativeValue",
-      "value": "{{page.area | truncatewords: 1, ''}}",
-      "unitText": "METRO CUADRADO"
-    },
-    "amenityFeature": [
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.sala}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.cocina}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.bano}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.garaje}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.servicios}}"
-      },
-      {
-        "@type": "LocationFeatureSpecification",
-        "name": "{{page.comedor}}"
-      }
-    ],
-    "location": {
-      "@type": "Place",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "{{page.h1}}",
-        "addressLocality": "Fusagasugá",
-        "addressRegion": "Cundinamarca",
-        "postalCode": "253811",
-        "addressCountry": "Colombia"
-      }
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "{{page.precio}}",
-      "priceCurrency": "COP",
-      "validFrom": "{{page.date | date: '%Y-%m-%d'}}"
-    },
-    "landlord": {
-      "@type": "Organization",
-      "name": "Leben Inmobiliaria",
-      "telephone": "+57 {{page.contacto}}",
-      "email": "{{site.email}}"
-    },
-    "petsAllowed": true,
-    "smokingAllowed": false,
-    "leaseLength": {
-      "@type": "QuantitativeValue",
-      "value": "12",
-      "unitText": "MESES"
-    }
+  ],
+  "brand": {
+    "@type": "Brand",
+    "name": "{{site.author}}"
+  },
+  "numberOfRooms": "{{page.habitacion | default: '5'}}",
+  "numberOfBedrooms": "{{page.habitacion | truncatewords: 1, ''}}",
+  "numberOfBathroomsTotal": "{{page.bano | truncatewords: 1, ''}}",
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "value": "{{page.area | truncatewords: 1, ''}}",
+    "unitCode": "MTK"
+  },
+  "amenityFeature": [
+    {"@type": "LocationFeatureSpecification", "name": "{{page.sala}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.cocina}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.bano}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.garaje}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.servicios}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.comedor}}"}
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{page.h1}}",
+    "addressLocality": "Fusagasugá",
+    "addressRegion": "Cundinamarca",
+    "postalCode": "253811",
+    "addressCountry": "CO"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{{page.precio}}",
+    "priceCurrency": "COP",
+    "availability": "https://schema.org/InStock"
+  },
+  "seller": {
+    "@type": "Organization",
+    "name": "{{site.name}}",
+    "telephone": "+57{{page.contacto}}",
+    "email": "{{site.email}}"
   }
-  {% endif %}
+}
+{% else %}
+{
+  "@context": "https://schema.org/",
+  "@type": "Apartment",
+  "name": "{{page.title}}",
+  "description": "{{page.description}}",
+  "image": [
+    {% for imagen in page.galleryImages %}
+    "{{site.url}}{{imagen}}"{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "numberOfRooms": "{{page.habitacion | truncatewords: 1, ''}}",
+  "floorSize": {
+    "@type": "QuantitativeValue",
+    "value": "{{page.area | truncatewords: 1, ''}}",
+    "unitCode": "MTK"
+  },
+  "amenityFeature": [
+    {"@type": "LocationFeatureSpecification", "name": "{{page.sala}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.cocina}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.bano}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.garaje}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.servicios}}"},
+    {"@type": "LocationFeatureSpecification", "name": "{{page.comedor}}"}
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{page.h1}}",
+    "addressLocality": "Fusagasugá",
+    "addressRegion": "Cundinamarca",
+    "postalCode": "253811",
+    "addressCountry": "CO"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "{{page.precio}}",
+    "priceCurrency": "COP",
+    "validFrom": "{{page.date | date: '%Y-%m-%d'}}"
+  },
+  "landlord": {
+    "@type": "Organization",
+    "name": "Leben Inmobiliaria",
+    "telephone": "+57{{page.contacto}}",
+    "email": "{{site.email}}"
+  },
+  "petsAllowed": true,
+  "smokingAllowed": false,
+  "leaseLength": {
+    "@type": "QuantitativeValue",
+    "value": "12",
+    "unitCode": "MON"
+  }
+}
+{% endif %}
 </script>
 
 {% when "post" %}
 <!-- CÓDIGO SCHEMA PARA LOS ARTÍCULOS DEL BLOG -->
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "https://lebeninmobiliaria.com/blog/{{page.url}}"
-    },
-    "headline": "{{page.title}}",
-    "description": "{{page.description}}",
-    "image": [
-      "https://lebeninmobiliaria.com/assets/images/blog/{{page.hero}}"
-    ],
-    "author": {
-      "@type": "Person",
-      "name": "{{page.autor}}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "Blog de Leben Inmobiliaria",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://lebeninmobiliaria.com/assets/images/logo.webp"
-      }
-    },
-    "datePublished": "{{page.date | date: '%Y-%m-%d'}}",
-    "dateModified": "{{page.date | date: '%Y-%m-%d'}}",
-    "articleBody": "{{ page.content | strip_html }}",
-    "articleSection": "{{page.category}}",
-    "hasPart": [
-      {
-        "@type": "BlogPosting",
-        "headline": "{{page.h1}}",
-        "articleBody": "{{page.excerpt}}"
-      }
-    ]
-  }
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{site.url}}{{page.url}}"
+  },
+  "headline": "{{page.title}}",
+  "description": "{{page.description}}",
+  "image": [
+    "{{site.url}}/assets/images/blog/{{page.hero}}"
+  ],
+  "author": {
+    "@type": "Person",
+    "name": "{{page.autor}}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Blog de Leben Inmobiliaria",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{site.url}}/assets/images/logo.webp"
+    }
+  },
+  "datePublished": "{{page.date | date: '%Y-%m-%d'}}",
+  "dateModified": "{{page.last_modified_at | default: page.date | date: '%Y-%m-%d'}}",
+  "articleBody": "{{ page.content | strip_html | truncate: 5000 }}",
+  "keywords": "{{page.tags | join: ', '}}",
+  "articleSection": "{{page.category}}"
+}
 </script>
 {% else %}
 <!-- SCHEMA PARA EL RESTO DE LAS PÁGINAS DEL SITIO -->
