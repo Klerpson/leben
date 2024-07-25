@@ -72,7 +72,7 @@ strong {
   font-weight: 700;
 }
 section {
-  padding: 6em 0 90px;
+  padding: 8em 0 40px;
   overflow: hidden;
   position: relative;
   z-index: 90;
@@ -140,10 +140,6 @@ section {
 .faq .accordion-body a {
   text-decoration: underline;
   text-decoration-thickness: 2px;
-}
-
-.page-hero{
-  padding-top: 5em;
 }
 
 .hero {
