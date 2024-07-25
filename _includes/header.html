@@ -1,36 +1,35 @@
-<header id="header" class="header d-flex align-items-center">
-  <div class="container container-xl d-flex align-items-center justify-content-between">
-    <a href="{{site.baseurl}}/" class="logo d-flex align-items-center">
-      <span class="logo"><img src="{{site.baseurl}}/assets/images/logo-mini.webp" width="48" height="48" alt="Logo LEBEN inmobiliaria">LEBEN Inmobiliaria</span>
-    </a>
-    <nav id="navbar" class="navbar">
-      <ul>
-        <li class="dropdown">
-          <span>Ofertas ≚</span>
-          <div class="dropdown-content">
-            <a href="{{'ventas'|relative_url}}" title="Casas en ventas en Fusagasugá">Casas en venta</a>
-            <a href="{{'arriendo'|relative_url}}" title="Casas en arriendo en Fusagasugá">Casas en arriendo</a>
-            <a href="{{'consigna-tu-propiedad'|relative_url}}" title="Casas en consignación">Administramos tu propiedad</a>
-          </div>
+<header class="navegacion">
+  <div class="container_nav">
+    <a href="/" class="logo"><img src="{{'assets/images/logo-mini.webp'|relative_url}}" alt="Logo Agencia Inmobiliaria Leben" title="Logo Agencia de Fusagasugá Leben Inmobiliaria">LEBEN Inmobiliaria</a>
+    <nav class="nav_enlaces">
+      <ul class="nav-links">
+        <li class="nav_dropdown">
+          <span>Ofertas</span>
+          <ul class="dropdown-content">
+            <li><a href="/ventas">Casas en venta</a></li>
+            <li><a href="/arriendo">Casas en arriendo</a></li>
+            <li><a href="/consigna-tu-propiedad">Administramos tu propiedad</a></li>
+          </ul>
         </li>
-        <li class="dropdown">
-          <span>Servicios ≚</span>
-          <div class="dropdown-content">
-            <a href="{{'servicios'|relative_url}}" title="Diligencias legasles de compra y venta de casas">Diligencias legales</a>
-            <a href="{{'simulador-gastos-notariales-colombia'|relative_url}}" title="Calculadora gastos notariales">Simulador de gastos notariales</a>
-          </div>
+        <li class="nav_dropdown">
+          <span>Servicios</span>
+          <ul class="dropdown-content">
+            <li><a href="/servicios">Diligencias legales</a></li>
+            <li><a href="/simulador-gastos-notariales-colombia">Simulador de gastos notariales</a></li>
+          </ul>
         </li>
-        <li class="dropdown">
-          <span>Nosotros ≚</span>
-          <div class="dropdown-content">
-            <a href="{{'nosotros'|relative_url}}" title="About de Leben Inmobiliaria">Quienes somos</a>
-            <a href="{{'blog'|relative_url}}" title="Blog de la Inmobiliaria  Leben">Blog de Leben</a>
-            <a href="{{'contacto'|relative_url}}" title="Contacto con Leben Agencia Inmobiliaria">Contáctanos</a>
-          </div>
+        <li class="nav_dropdown">
+          <span>Nosotros</span>
+          <ul class="dropdown-content">
+            <li><a href="/nosotros">Quienes somos</a></li>
+            <li><a href="/blog">Blog de Leben</a></li>
+            <li><a href="/contacto">Contáctanos</a></li>
+          </ul>
         </li>
       </ul>
-    </nav><!-- .navbar -->
-    <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-    <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+    </nav>
+    <div class="mobile-nav-toggle">
+      <span class="burger-menu"></span>
+    </div>
   </div>
-</header><!-- End Header -->
+</header>

@@ -7,9 +7,7 @@ layout: compress
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KNQTBJNT"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  {% if page.url == "/" %}
-    <div id="preloader"></div>
-  {% endif %}
+ 
   {% include header.html %}
   {{content}}
   {% include footer.html %}
@@ -20,6 +18,46 @@ layout: compress
 
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+  const mobileNavToggle = document.querySelector('.mobile-nav-toggle');
+  const navLinks = document.querySelector('.nav-links');
+  const header = document.querySelector('.navegacion');
+  const dropdowns = document.querySelectorAll('.nav_dropdown');
+
+  mobileNavToggle.addEventListener('click', function() {
+    navLinks.classList.toggle('nav-links-mobile');
+    this.classList.toggle('active');
+    
+    if (this.classList.contains('active')) {
+      this.querySelector('.burger-menu').style.background = 'transparent';
+      this.querySelector('.burger-menu::before').style.transform = 'rotate(45deg) translate(5px, 5px)';
+      this.querySelector('.burger-menu::after').style.transform = 'rotate(-45deg) translate(7px, -6px)';
+    } else {
+      this.querySelector('.burger-menu').style.background = '#fff';
+      this.querySelector('.burger-menu::before').style.transform = 'none';
+      this.querySelector('.burger-menu::after').style.transform = 'none';
+    }
+  });
+
+  dropdowns.forEach(dropdown => {
+    dropdown.addEventListener('click', function() {
+      if (window.innerWidth <= 768) {
+        this.classList.toggle('active');
+      }
+    });
+  });
+
+  window.addEventListener('scroll', function() {
+    if (window.scrollY > 0) {
+      header.classList.add('header-scroll');
+    } else {
+      header.classList.remove('header-scroll');
+    }
+  });
+});
+  </script>    
 
   <!-- Vendor JS Files -->
   <script src="/assets/javascripts/jquery.min.js" defer></script>
@@ -27,7 +65,7 @@ layout: compress
   <script src="/assets/javascripts/plugins.js" defer></script>
 
   <!-- Template Main JS File -->
-  <script src="/assets/javascripts/main.js" defer></script>
+  <script src="{{'assets/javascripts/main.js' | relative_url}}" async></script>
 
   {% if post.layout != "post" %}
   <script async>
