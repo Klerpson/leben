@@ -1,0 +1,150 @@
+I"U0<div class="container_simulador">
+  <h2>Simulador de Gastos Notariales en Colombia</h2>
+  <ol>
+    <li>Escribe el valor del inmueble que deseas comprar y vender.</li>
+    <li>Luego, para <strong>cacular el valor del gasto notarial</strong> solo debes hacer clic en el botón <i>"Calcular Gasto Notarial"</i>.</li>
+  </ol> 
+  <h3>Calcula aquí tus gastos notariales</h3>
+  <form id="notaryCalculator">
+    <label for="propertyValue">Valor del Inmueble (COP):</label>
+    <input type="number" id="propertyValue" name="propertyValue" required="" />
+    <button type="button" onclick="calculateExpenses()">Calcular Costos Notariales</button>
+  </form>
+  <div id="results" class="hidden">
+    <h3>Resultados:</h3>
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="#302B27" class="icon" viewBox="0 0 1024 1024"><path d="M731.25 547.39v72.93H475.06v54.59c0 19.89 4.93 38.51 13.04 55.34h-38.49l-194.73-128c-28.84-18.98-65.64-20.57-96.07-4.18a93.73 93.73 0 0 0-49.29 82.57c0 32.05 16.09 61.54 43.04 78.88l238.79 153.77h339.9v36.57H914.1V547.39H731.25zm-318.4 292.75-220.7-142.12a20.6 20.6 0 0 1-9.48-17.38c0-11.12 7.59-16.43 10.86-18.2 3.29-1.73 11.88-5.18 21.18.91l213.02 140.04h230.7v-73.14h-.71v-.04h-54.2c-23.98 0-44.46-15.36-52.11-36.75h179.85v146.68H412.85zm428.11 36.57h-36.57V620.53h36.57v256.18zM232.17 501.66c-20.46-35.7-31.27-76.48-31.27-117.95C200.9 252.64 307.51 146 438.54 146 569.6 146 676.2 252.64 676.2 383.71c0 41.43-10.8 82.21-31.25 117.91l63.46 36.36c26.79-46.77 40.93-100.11 40.93-154.27 0-171.41-139.43-310.86-310.8-310.86S127.76 212.3 127.76 383.71c0 54.2 14.16 107.55 40.95 154.3l63.46-36.35z" /><path d="m336.22 350.91-48.78 54.48 136.73 122.47 170.36-195.97-55.22-48-121.64 139.97z" /></svg> 
+      → Gastos Notariales: <span id="notaryFees"></span> COP
+    </p>
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="icon line-color" data-name="Line Color" viewBox="0 0 24 24"><path d="M17 17h-7m3-4h4M9 6l-6 6M3.45 6.5h.1" style="fill:none;stroke:#c0403b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" /><path d="M8.45 11.5h.1" data-name="secondary-upstroke" style="fill:none;stroke:#c0403b;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" /><path d="M13 3h7a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-4" style="fill:none;stroke:#302b27;stroke-linecap:round;stroke-linejoin:round;stroke-width:2" /></svg> 
+      → Derechos de Registro: <span id="registryFees"></span> COP
+    </p>
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24" height="24" fill="#302B27" viewBox="0 0 25.143 25.143"><path d="M18.313 21.852c.188.03.38-.016.534-.129a.712.712 0 0 0 .286-.469l.169-1.123a.699.699 0 0 1 .379-.521l1.017-.508a.71.71 0 0 0 .314-.966l-.524-1.013a.7.7 0 0 1 0-.639l.524-1.012a.715.715 0 0 0-.314-.966l-1.017-.508a.699.699 0 0 1-.379-.521l-.169-1.123a.71.71 0 0 0-.286-.468.703.703 0 0 0-.534-.129l-1.125.188a.697.697 0 0 1-.609-.198l-.799-.812a.716.716 0 0 0-1.016 0l-.799.812a.693.693 0 0 1-.609.198l-1.123-.185a.707.707 0 0 0-.535.129.706.706 0 0 0-.286.468l-.168 1.123a.701.701 0 0 1-.379.521l-1.018.508a.717.717 0 0 0-.314.966l.524 1.012a.693.693 0 0 1 0 .639l-.524 1.013a.72.72 0 0 0 .314.966l1.018.508a.701.701 0 0 1 .379.521l.168 1.123a.713.713 0 0 0 .821.598l1.123-.185a.69.69 0 0 1 .609.197l.799.81a.71.71 0 0 0 1.016 0l.799-.81a.691.691 0 0 1 .609-.197l1.125.182zm-3.042-.82c-2.39 0-4.333-1.943-4.333-4.332s1.944-4.334 4.333-4.334c2.39 0 4.333 1.946 4.333 4.334s-1.942 4.332-4.333 4.332z" style="fill:#302b27" /><path d="M15.272 12.991c-2.041 0-3.703 1.66-3.703 3.702s1.663 3.702 3.703 3.702c2.043 0 3.703-1.66 3.703-3.702s-1.66-3.702-3.703-3.702zM21.725 22.663l-2.015-2.016-.102.68a1.2 1.2 0 0 1-.479.787 1.185 1.185 0 0 1-.892.213l-1.126-.184c-.093-.006-.149.02-.19.062l-.192.193 2.632 2.631a.385.385 0 0 0 .385.097.388.388 0 0 0 .264-.297l.237-1.277 1.281-.24a.383.383 0 0 0 .197-.649zM13.469 22.138l-1.16.189a1.199 1.199 0 0 1-1.373-1.003l-.102-.677-2.014 2.016c-.1.1-.137.248-.096.384a.388.388 0 0 0 .295.264l1.28.239.24 1.279a.383.383 0 0 0 .646.201l2.631-2.632-.192-.194a.217.217 0 0 0-.155-.066zM16.42 4.217H6.985a.615.615 0 1 0 0 1.231h9.435a.614.614 0 1 0 0-1.231zM16.42 7.371H6.985a.614.614 0 1 0 0 1.229h9.435a.615.615 0 1 0 0-1.229z" style="fill:#302b27" /><path d="m9.872 20.216-.465-.232a1.628 1.628 0 0 1-.327-.223H5.108a.494.494 0 0 1-.493-.492V1.804c0-.273.221-.494.493-.494h13.218c.271 0 .493.221.493.494v9.007c.22.052.43.148.614.285.36.257.609.668.676 1.116l.02-10.407A1.804 1.804 0 0 0 18.326 0H5.108c-.995 0-1.805.811-1.805 1.805v17.466c0 .996.811 1.806 1.805 1.806h3.905l.859-.861z" style="fill:#302b27" /></svg> 
+      → Certificados: <span id="certificatesFees"></span> COP
+    </p>
+    <p>
+      <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="24" height="24" fill="#c0403b" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd" viewBox="0 0 270.92 270.92"><path d="M175.79 16.42H90.16a7.93 7.93 0 0 0-7.93 7.93c0 4.39 3.55 7.95 7.93 7.95h85.63c10.91 0 19.77 8.86 19.77 19.76v166.8c0 10.9-8.86 19.76-19.77 19.76H95.14c-10.9 0-19.78-8.86-19.78-19.76V50.73c0-4.38-3.54-7.94-7.93-7.94s-7.93 3.56-7.93 7.94v168.13c0 19.65 15.98 35.64 35.64 35.64h80.65c19.66 0 35.64-15.99 35.64-35.64V52.06c0-19.65-15.98-35.64-35.64-35.64zm-40.33 101.6c4.82 0 8.72 3.92 8.72 8.72 0 4.4 3.56 7.94 7.93 7.94 4.39 0 7.94-3.54 7.94-7.94 0-10.77-7-19.84-16.66-23.16v-4.5c0-4.39-3.55-7.93-7.93-7.93s-7.93 3.54-7.93 7.93v4.5c-9.66 3.32-16.64 12.39-16.64 23.16 0 13.56 11 24.59 24.57 24.59 4.82 0 8.72 3.92 8.72 8.72 0 4.8-3.9 8.72-8.72 8.72-4.8 0-8.7-3.92-8.7-8.72 0-4.38-3.58-7.93-7.94-7.93a7.93 7.93 0 0 0-7.93 7.93c0 10.77 6.98 19.84 16.64 23.16v4.49c0 4.4 3.55 7.95 7.93 7.95s7.93-3.55 7.93-7.95v-4.49c9.66-3.32 16.66-12.39 16.66-23.16 0-13.56-11.02-24.59-24.59-24.59-4.8 0-8.7-3.91-8.7-8.72 0-4.8 3.9-8.72 8.7-8.72zm47.62-61.91a7.94 7.94 0 0 0-7.94-7.94H95.79a7.94 7.94 0 0 0-7.94 7.94c0 4.39 3.56 7.92 7.94 7.92h79.35c4.38 0 7.94-3.53 7.94-7.92z" style="fill:#000;fill-rule:nonzero" /></svg> 
+      → Total: <span id="totalFees"></span> COP
+    </p>
+    <h2>¡No pierdas tiempo o dinero por una mala diligencia! Contacta nuestro asesor experto.</h2>
+    <a href="https://wa.me/573102155237?text=Hola!%20Estaba%20en%20la%20p%C3%A1gina%20web%20de%20LEBEN.%20Por%20favor,%20env%C3%ADame%20m%C3%A1s%20info%20sobre%20el%20servicio%20de%20gastos%20notariales" class="btn-get-started">Recibe más información</a>
+
+  </div>
+</div>
+<aside class="relacionados flow">
+  <h2>Conoce las casas en venta de Leben Inmobiliaria</h2>
+  <div class="posts">
+    
+    <div class="post" data-name="fincas">
+      <a href="/ventas/finca-venta-chinauta-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg" class="img-fluid" alt="Venta de finca en Adolfo San Bernardo, Fusagasugá" loading="lazy" />
+        <h3>Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="Casas">
+      <a href="/ventas/casa-venta-fusagasuga-balmoral" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-023.jpg" class="img-fluid" alt="Balcón de casa en venta en Fusagasugá" loading="lazy" />
+        <h3>Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="apartamentos">
+      <a href="/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1006/apartamento-fusagasuga-moises-3.webp" class="img-fluid" alt="Venta apartamento conjunto de Fusagasugá" loading="lazy" />
+        <h3>Exclusivo Apartamento en Fusagasugá - Lujo y Plusvalía Garantizada</h3>
+      </a>
+    </div>
+    
+  </div>
+  <a href="/ventas" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
+</aside>
+
+<!-- Testimonials Section -->
+<section id="testimonials" class="testimonials sections-bg">
+  <div class="container">
+    <div class="intro">
+      <div>
+        <h2>Quienes ya compraron su casa con Leben Inmobiliaria nos recomiendan</h2>
+        <p>Al aprovechar nuestro conocimiento de la industria inmobiliaria, nos esforzamos por ayudar a nuestros clientes a tomar decisiones informadas y alcanzar sus metas en bienes raíces. Estas personas te cuentan cómo les fue al utilizar nuestros servicios.</p>
+      </div>
+    </div>
+
+    <div class="slides-3 swiper">
+      <div class="swiper-wrapper">
+        
+        <div class="swiper-slide">
+          <div class="testimonial-wrap">
+            <div class="testimonial-item">
+              <div class="d-flex align-items-center info-box">
+                <img src="/assets/images/testimonials/testimonial-1.jpg" class="testimonial-img flex-shrink-0" loading="lazy" alt="Cliente de LEBEN Inmobiliaria Fusagasugá" />
+                <div>
+                  <h3>Daisy y Mario</h3>
+                  <h4>Compra de apartamento</h4>
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+                </div>
+              </div>
+              <p>
+                <i class="bi bi-quote quote-icon-left"></i>
+                Nos gustó la asesoría que nos brindaron al momento de escoger nuestro apartamento. ¡Es la mejor de las inmobiliarias en Fusagasugá!
+                <i class="bi bi-quote quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+        </div><!-- End testimonial item -->
+        
+        <div class="swiper-slide">
+          <div class="testimonial-wrap">
+            <div class="testimonial-item">
+              <div class="d-flex align-items-center info-box">
+                <img src="/assets/images/testimonials/testimonial-2.jpg" class="testimonial-img flex-shrink-0" loading="lazy" alt="Cliente de LEBEN Inmobiliaria Fusagasugá" />
+                <div>
+                  <h3>Martha Arboleda</h3>
+                  <h4>Compra de apartamento</h4>
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+                </div>
+              </div>
+              <p>
+                <i class="bi bi-quote quote-icon-left"></i>
+                Mi nombre es Martha, compré un apartamento por medio de la inmobiliaria. La atención desde el primer momento fue maravillosa. Estuvieron presentes, mostrándome varios lugares hasta que me decidí por uno de ellos. Muy profesionales, confiables y responsables. Los recomiendo ampliamente.
+                <i class="bi bi-quote quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+        </div><!-- End testimonial item -->
+        
+        <div class="swiper-slide">
+          <div class="testimonial-wrap">
+            <div class="testimonial-item">
+              <div class="d-flex align-items-center info-box">
+                <img src="/assets/images/testimonials/testimonial-3.jpg" class="testimonial-img flex-shrink-0" loading="lazy" alt="Cliente de LEBEN Inmobiliaria Fusagasugá" />
+                <div>
+                  <h3>Emilio Castaño</h3>
+                  <h4>Compra de casa</h4>
+                  <div class="stars">
+                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
+                  </div>
+                </div>
+              </div>
+              <p>
+                <i class="bi bi-quote quote-icon-left"></i>
+                Me evitaron todo las diligencias legales. Eso lo agradezco un montón. Claro que los recomiendo.
+                <i class="bi bi-quote quote-icon-right"></i>
+              </p>
+            </div>
+          </div>
+        </div><!-- End testimonial item -->
+        
+
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Testimonials Section -->
+:ET
