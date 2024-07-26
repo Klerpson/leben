@@ -2,8 +2,8 @@
 layout: venta
 date: 2024-05-02
 permalink: ventas/casa-en-la-palma-fusagasuga
-title: "Casa en venta en La Palma Fusagasugá: Moderna y acogedora"
-description: Hermosa casa en el hermoso conjunto La Palma de Fusagasuga. Contacta con LEBEN Inmobiliaria y compra una de las mejores opciones de vivienda de la ciudad. ¡Escríbenos!
+title: "Casa en Venta en La Palma Fusagasugá: Moderna, Acogedora"
+description: Hermosa casa en el hermoso conjunto La Palma de Fusagasuga. Contacta con LEBEN Inmobiliaria y compra una de las mejores opciones.
 h1: "Exclusiva residencia en Fusagasugá: lujo, confort y privacidad"
 clase: casas
 img: 1007/casa-venta-palma-fusagasuga-27.webp
