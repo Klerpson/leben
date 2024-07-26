@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Fusagasugá: Guía Única para Comprar tu Apartamento - Requisitos Esenciales"
-description: ¿Sueñas con una casa en Fusagasugá? Conoce los requisitos legales y financieros de manera clara y sencilla. Haz realidad tu inversión con nuestra guía experta
+title: "Fusagasugá: requisitos legales para Comprar Apartamento"
+description: ¿Sueñas con una casa en Fusagasugá? Conoce los requisitos legales y financieros de forma clara y sencilla. Haz realidad tu sueño con nuestra guía experta
 h1: ¿Qué requisitos legales deben cumplirse para comprar un casa o apartamento en Fusagasugá?
 hero: blog-1.jpg
 alt: Foto de apartamento en Fusagasugá
