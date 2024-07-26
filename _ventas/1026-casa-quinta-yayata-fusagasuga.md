@@ -2,8 +2,8 @@
 layout: venta
 date: 2024-05-02
 permalink: ventas/casa-quinta-yayata-fusagasuga
-title: "Exclusiva Casa Quinta en Fusagasugá - A 10 minutos del pueblo"
-description: ¿Buscas una quinta en Fusagasugá? Nuestra exclusiva casa quinta en Yayatá te espera. ¡Vive la experiencia única de la vida en el campo! ¡Contáctanos y haz tu sueño realidad!
+title: "Quinta en Venta Fusagasugá - A 10 minutos del pueblo"
+description: ¿Buscas una quinta en Fusagasugá? Nuestra exclusiva casa quinta en Yayatá te espera ¡Contáctanos y haz tu sueño realidad de comprar tu Quinta!
 h1: "¡Consigue la casa quinta de ensueño en Fusagasugá!"
 clase: quintas
 img: 1026/casa-quinta-yayata-fusagasuga-2.webp
