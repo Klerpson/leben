@@ -28,25 +28,19 @@ adicional:
   - Parqueadero para visitantes
   - Salon de eventos
 galleryImages:
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-1.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-2.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-3.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-4.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-5.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-6.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-7.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-8.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-9.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-10.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-11.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-12.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-13.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-14.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-15.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-16.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-17.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-18.webp
-  - /assets/images/portfolio/1072/casa-sector-batallon-480-fusa-19.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-1.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-2.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-3.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-4.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-5.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-6.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-7.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-8.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-9.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-10.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-11.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-12.webp
+  - /assets/images/portfolio/1072/casa-sector-batallon-fusa-13.webp
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
