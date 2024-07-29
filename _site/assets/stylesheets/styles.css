@@ -1643,6 +1643,7 @@ button:focus:not(:focus-visible) {
 .recent-posts .title a {
   color: var(--color-primary);
   transition: 0.3s;
+  text-decoration-thickness: 2.8px;
 }
 
 .recent-posts .title a:hover {
