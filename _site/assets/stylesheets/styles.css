@@ -594,7 +594,7 @@ table th {
   white-space: nowrap;
 }
 
-.dropdown-content a:hover{
+.dropdown-content a:hover {
   background-color: var(--color-primary);
 }
 
@@ -622,7 +622,7 @@ table th {
 .burger-menu,
 .burger-menu::before,
 .burger-menu::after {
-  content: '';
+  content: "";
   display: block;
   height: 3px;
   width: 100%;
@@ -1858,7 +1858,6 @@ button:focus:not(:focus-visible) {
 }
 
 @media (min-width: 768px) {
-
   .icon-boxes .card-two {
     margin-top: -20px;
     margin-bottom: -20px;
