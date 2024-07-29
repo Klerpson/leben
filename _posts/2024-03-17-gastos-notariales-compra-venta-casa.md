@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gastos Notariales en Colombia 2024: Costos de escrituras"
-description: Antes de vender o comprar, conoce los gastos notariales en Colombia para 2024. Simulador de gastos de escrituración, registro, retención, impuestos
+description: Conoce los gastos notariales en Colombia para 2024 antes de vender o comprar casa. Simulador de gastos de escrituración, registro, retención, impuestos
 h1: "Gastos notariales al vender o comprar vivienda en Colombia"
 hero: impuestos-vender-casa-colombia.webp
 alt: Foto de documentos con gastos de impuestos para comprar vivienda en Colombia
