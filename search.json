@@ -3,7 +3,7 @@
 [
   {% for post in site.arriendo %}
   {
-    "title": "👉 {{ post.title | escape }}",
+    "title": "✓ {{ post.title | escape }}",
     "url": "{{ site.baseurl }}{{ post.url }}",
     "precio": {{ post.precio }},
     "tipoInmueble": "En Arriendo"
@@ -11,7 +11,7 @@
   {% endfor %},
   {% for post in site.ventas %}
   {
-    "title": "👉 {{ post.title | escape }}",
+    "title": "✓ {{ post.title | escape }}",
     "url": "{{ site.baseurl }}{{ post.url }}",
     "precio": {{ post.precio }},
     "tipoInmueble": "En Venta"
@@ -19,7 +19,7 @@
   {% endfor %},
   {% for post in site.posts %}
   {
-    "title": "👉 {{ post.title | escape }}",
+    "title": "✓ {{ post.title | escape }}",
     "url": "{{ site.baseurl }}{{ post.url }}",
     "precio": 0,
     "tipoInmueble": "Publicación"

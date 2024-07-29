@@ -18,7 +18,10 @@ layout: compress
     <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started">Recibe más información</a>
   </div>
   <div>
-    <span>{{page.precio}}{% if page.url contains "arriendo/" %} más servicios{% else %} negociables {% endif %}</span>
+    <span>
+      {{ page.precio | number_with_delimiter: '.' }}{% if page.url contains "arriendo/" %} más servicios{% else %} negociables {% endif %}
+    </span>
+    
     {% if page.url contains "/ventas/" %}
     <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="{{page.alt}}">
     {% endif %}

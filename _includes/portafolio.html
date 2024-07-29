@@ -3,11 +3,9 @@
     <h2>LEBEN Inmobiliaria de Fusagasugá te ayuda a conseguir casas en venta y en arriendo</h2>
     <p>Tú y tu familia están en busca de <strong>casas en venta en Fusagasugá</strong> o en otro municipio de
       Cundinamarca. Cuenta con nosotros.</p>
-    <p>Estos son ejemplos de <strong>casas, fincas, quintas, apartaestudios, y apartamentos que conseguimos para
-        nuestros clientes en Fusagasugá.</strong> Escoge el que más te guste.</p>
-
-    <div class="blog-tags">
-      <button data-name="all" class="active">Todos</button>
+      
+      <div class="blog-tags">
+        <button data-name="all" class="active">Todos</button>
       <button data-name="ventas">Ventas</button>
       <button data-name="arriendos">Arriendos</button>
     </div>
@@ -18,7 +16,7 @@
         <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy">
         <div>
           <h3>→ {{item.cta}}</h3>
-          <small>• Valor: ${{item.precio}}</small>
+          <small>• Valor: ${{item.precio | number_with_delimiter: '.' }}</small>
           <small>• Area: {{item.area}}</small>
           <small>• <b>Casa en {{item.clase | remove: "s" }}</b></small>
           <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">Más información</a>
@@ -28,8 +26,8 @@
     </div>
     <div>
       <h2>Arrienda, compra, vende o permuta tu casa con la inmobiliaria de Fusagasugá más confiable</h2>
-      <p>Aquí la oferta de casas espaciosas y apartamentos económicos en barrios bien establecidos es amplia. También,
-        las clásicas fincas encantadoras y tradicionales en entornos campestres.</p>
+      <p>Estos son ejemplos de <strong>casas, fincas, quintas, apartaestudios, y apartamentos que conseguimos para nuestros clientes en Fusagasugá.</strong> Escoge el que más te guste.</p>
+      <p>Aquí la oferta de casas espaciosas y apartamentos económicos en barrios bien establecidos es amplia. También, las clásicas fincas encantadoras y tradicionales en entornos campestres. Los proyectos inmobiliarios aparecen como ofertas de nuestra web en ocasiones.</p>
     </div>
     {% include search.html %}
 </section><!-- End Portfolio Section -->

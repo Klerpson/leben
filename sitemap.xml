@@ -17,14 +17,14 @@ layout: null
         <priority>1.0</priority>
         {% if page.jpg %}
           <image:image>
-            <image:loc>{{ page.jpg | absolute_url }}</image:loc>
+            <image:loc>{{site.url}}/assets/images/{{ page.jpg }}</image:loc>
             <image:title>{{ page.title }}</image:title>
             <image:caption>{{ page.alt }}</image:caption>
           </image:image>
         {% endif %}
         {% if page.hero %}
           <image:image>
-            <image:loc>{{ page.hero | absolute_url }}</image:loc>
+            <image:loc>{{site.url}}/assets/images/{{ page.hero }}</image:loc>
             <image:title>{{ page.title }}</image:title>
             <image:caption>{{ page.alt }}</image:caption>
           </image:image>
@@ -59,14 +59,14 @@ layout: null
       <priority>1.0</priority>
       {% if post.jpg %}
         <image:image>
-          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/portfolio/{{ post.jpg }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>
       {% endif %}
-      {% if post.hero %}
+      {% if post.img %}
         <image:image>
-          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/portfolio/{{ post.img }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>
@@ -82,14 +82,14 @@ layout: null
       <priority>1.0</priority>
       {% if post.jpg %}
         <image:image>
-          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/arriendo/{{ post.jpg }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>
       {% endif %}
-      {% if post.hero %}
+      {% if post.img %}
         <image:image>
-          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/arriendo/{{ post.img }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>
@@ -105,14 +105,14 @@ layout: null
       <priority>1.0</priority>
       {% if post.jpg %}
         <image:image>
-          <image:loc>{{ post.jpg | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/blog/{{ post.jpg }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>
       {% endif %}
       {% if post.hero %}
         <image:image>
-          <image:loc>{{ post.hero | absolute_url }}</image:loc>
+          <image:loc>{{site.url}}/assets/images/blog/{{ post.hero }}</image:loc>
           <image:title>{{ post.title }}</image:title>
           <image:caption>{{ post.alt }}</image:caption>
         </image:image>

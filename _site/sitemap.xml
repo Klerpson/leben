@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -24,7 +24,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +37,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +50,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +66,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +82,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -98,7 +98,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -111,7 +111,7 @@
     
       <url>
         <loc>http://localhost:4000/simulador-gastos-notariales-colombia</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -127,7 +127,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+        <lastmod>2024-07-29T08:21:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -146,6 +146,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg</image:loc>
+          <image:title>Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora</image:title>
+          <image:caption>Venta de finca en San Bernardo Chinauta, Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -154,6 +160,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-023.jpg</image:loc>
+          <image:title>Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria</image:title>
+          <image:caption>Balcón de casa en venta en Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -164,6 +176,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1006/apartamento-fusagasuga-moises-3.webp</image:loc>
+          <image:title>Exclusivo Apartamento en Fusagasugá - Lujo y Plusvalía Garantizada</image:title>
+          <image:caption>Venta apartamento conjunto de Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -172,6 +190,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1007/casa-venta-palma-fusagasuga-27.webp</image:loc>
+          <image:title>Casa en Venta en La Palma Fusagasugá: Moderna, Acogedora</image:title>
+          <image:caption>Venta de casa en conjunto de Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -182,6 +206,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-22.webp</image:loc>
+          <image:title>Casa en El Mirador de la Colina Fusagasugá ¡Visítela Hoy!</image:title>
+          <image:caption>Venta de casa en conjunto de Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -190,6 +220,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1009/casa-bonet-fusagasuga-1.webp</image:loc>
+          <image:title>Casa de Ensueño en Bonet, Fusagasugá - 220m² de Puro Lujo</image:title>
+          <image:caption>Venta de casa en Bonet Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -200,14 +236,26 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1013/casa-venta-vergel-fusagasuga-9.webp</image:loc>
+          <image:title>Casa en El Vergel en Fusagasugá - 255m² de Oportunidad</image:title>
+          <image:caption>Venta de casa en El Vergel Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-07-29T07:09:19-05:00</lastmod>
+      <lastmod>2024-07-29T08:21:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp</image:loc>
+          <image:title>Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad</image:title>
+          <image:caption>Casa de Lujo en Fusagasugá a la venta</image:caption>
+        </image:image>
       
     </url>
   
@@ -218,6 +266,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1022/casa-campestre-moniquira-10.webp</image:loc>
+          <image:title>Casa en venta en Moniquirá con Piscina y Apartamento</image:title>
+          <image:caption>Casa quinta en Moniquirá a la venta</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -226,6 +280,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1026/casa-quinta-yayata-fusagasuga-2.webp</image:loc>
+          <image:title>Quinta en Venta Fusagasugá - A 10 minutos del pueblo</image:title>
+          <image:caption>Venta de casa quinta en Yayatá Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -236,6 +296,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1028/casa-zona-plana-vergel-8.webp</image:loc>
+          <image:title>Compra casa en Fusagasugá: ¡Tu tranquilidad comienza aquí!</image:title>
+          <image:caption>Venta de casa en Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -244,6 +310,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1033/casa-plana-balmoral-bonanza-22.webp</image:loc>
+          <image:title>Encuentra Tu Hogar Ideal en Fusagasugá: Casa Espaciosa en Sector Tranquilo</image:title>
+          <image:caption>Venta de casa en Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -254,6 +326,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1034/apartamento-zona-sur-fernando-2.webp</image:loc>
+          <image:title>¡Tu apartamento de 3 habitaciones! En San Fernando Fusagasugá</image:title>
+          <image:caption>Venta de Apartamento en Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -262,6 +340,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1036/casa-conjunto-secto-indio-30.webp</image:loc>
+          <image:title>Casa con Lujo y Comodidad: Sector del Indio Fusagasugá</image:title>
+          <image:caption>Venta de Casa en Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -272,6 +356,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1039/apartamento-cerca-centro-fusagasuga-3.webp</image:loc>
+          <image:title>Comodidad y Conveniencia: Acogedor Apartamento en Fusagasugá</image:title>
+          <image:caption>Venta de Apartamento Centro Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -280,6 +370,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1041/casa-sector-robles-fusa-7.webp</image:loc>
+          <image:title>Casa en Oferta en Fusagasugá: Un Espacio Familiar Perfecto</image:title>
+          <image:caption>Casa en Barrio Robles - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -290,6 +386,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1046/apartamento-bonet-fusa-11.webp</image:loc>
+          <image:title>Acogedora Propiedad en Fusagasugá con Todas las Comodidades</image:title>
+          <image:caption>Casa en el sector del Bonet - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -298,6 +400,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1049/apartamento-fusacatan-fusa-1.webp</image:loc>
+          <image:title>Acogedor Apartamento de un piso en Fusagasugá</image:title>
+          <image:caption>Casa en el sector de Fusacatán - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -308,6 +416,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1050/casa-sector-indio-fusa-13.webp</image:loc>
+          <image:title>Lujo en Esta Espectacular Propiedad en Fusagasugá</image:title>
+          <image:caption>Casa en el sector de Indio - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -316,6 +430,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1051/casa-sector-batallon-fusa-1.webp</image:loc>
+          <image:title>Tropical Oasis: Encanto y Comodidad en Fusagasugá, Cundinamarca</image:title>
+          <image:caption>Casa en el sector del Batallón Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -326,6 +446,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1052/casa-norte-centro-fusa-14.webp</image:loc>
+          <image:title>Oportunidad de Comprar Casa Amplia en Fusagasugá</image:title>
+          <image:caption>Casa en el sector norte cerca al centro - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -334,6 +460,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1053/casa-plano-fusacatan-fusa-11.webp</image:loc>
+          <image:title>Casa de 5 habitaciones en Fusagasugá, Cundinamarca</image:title>
+          <image:caption>Casa en sector plano cerca al centro Comercial - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -344,6 +476,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1055/casa-plano-indio-fusa-13.webp</image:loc>
+          <image:title>Explora esta Casa de 5 Habitaciones en Fusagasugá</image:title>
+          <image:caption>Casa en el sector de Indio - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -352,6 +490,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1059/casa-colonial-terminal-fusa-13.webp</image:loc>
+          <image:title>Fusagasugá Colonial: Casa Tranquila y Conveniente en Venta</image:title>
+          <image:caption>Casa cerca del Terminal - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -362,6 +506,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1060/casa-bonet-3-pisos-fusa-3.webp</image:loc>
+          <image:title>Propiedad en el Bonet de Fusagasugá: ¡Tu Oportunidad Única!</image:title>
+          <image:caption>Casa en sector Bonet - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -370,6 +520,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1062/casa-centro-comercial-avenida-fusa-13.webp</image:loc>
+          <image:title>Casa con estilo en Fusagasugá: Ubicación cerca de La Avenida</image:title>
+          <image:caption>Casa cerca del Centro Comercial La Avenida - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -380,6 +536,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1064/casa-rural-novillero-fusa-20.webp</image:loc>
+          <image:title>Invierte en calidad de vida: Casa en Fusagasugá te espera</image:title>
+          <image:caption>Casa en sector rural - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -388,6 +550,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1065/casa-plano-manila-fusa-30.webp</image:loc>
+          <image:title>¡Vive en el Paraíso! Casa en Venta en Fusagasugá, Cundinamarca</image:title>
+          <image:caption>Casa en Manila - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -398,6 +566,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1066/finca-cultivo-tierra-castro-18.webp</image:loc>
+          <image:title>Compra tu casa campestre: Finca de cultivo en Fusagasugá</image:title>
+          <image:caption>Finca en vereda Tierra de Castro- Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -406,6 +580,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1067/casa-3-pisos-indio-fusa-25.webp</image:loc>
+          <image:title>Vivienda de Lujo en Fusagasugá | ¡Haz Realidad tu Sueño!</image:title>
+          <image:caption>Casa en el sector Indio - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -416,6 +596,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1072/casa-sector-batallon-fusa-13.webp</image:loc>
+          <image:title>Comodidad y Tranquilidad en Esta Hermosa Casa Fusagasugá</image:title>
+          <image:caption>Casa cerca al Batallon - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -424,6 +610,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1073/casa-sector-batallon-480-fusa-4.webp</image:loc>
+          <image:title>Compra esta encantadora casa en Fusagasugá: Sector Batallón</image:title>
+          <image:caption>Casa cerca al Batallón - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -434,6 +626,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1074/casa-sector-batallon-580-fusa-3.webp</image:loc>
+          <image:title>Hermosa Casa en Fusagasugá: Elegancia Sector del Batallón</image:title>
+          <image:caption>Casa cerca al Batallon - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -442,6 +640,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1075/casa-tierragrata-fusa-18.webp</image:loc>
+          <image:title>Casa en venta en conjunto Tierra Grata Fusagasugá</image:title>
+          <image:caption>Casa en conjunto TierraGrata - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -452,6 +656,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1076/casa-seminueva-palmar-fusa-13.webp</image:loc>
+          <image:title>Encantadora casa seminueva: tu próximo hogar en Fusagasugá</image:title>
+          <image:caption>Casa en Palmar de Manila - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -461,6 +671,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1077/casa-sector-pekin-21.webp</image:loc>
+          <image:title>Casa Seminueva en Fusagasugá: Encanto y Comodidad</image:title>
+          <image:caption>Casa en sector de Pekin - Fusagasugá</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -469,6 +685,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/portfolio/1081/apartamentos-cambulos-fusa-5.webp</image:loc>
+          <image:title>Un Hogar Espacioso con Amenidades de Primera</image:title>
+          <image:caption>Casa en sector de Cámbulos - Fusagasugá</image:caption>
+        </image:image>
       
     </url>
   
@@ -481,6 +703,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/arriendo/001/apartamento-san-jorge-012.webp</image:loc>
+          <image:title>Apartamento en arriendo Fusagasugá: conjunto cerrado San Jorge</image:title>
+          <image:caption>Apartamento arriendo fusagasuga</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -489,6 +717,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/arriendo/002/apartamento-02-san-jorge-01.webp</image:loc>
+          <image:title>Apartamento en arriendo en San Jorge Fusagasugá</image:title>
+          <image:caption>Apartamento alquiler Fusagasuga</image:caption>
+        </image:image>
       
     </url>
   
@@ -499,6 +733,12 @@
       <priority>1.0</priority>
       
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/arriendo/003/apartamento-03-san-jorge-04.webp</image:loc>
+          <image:title>Arrienda este apartamento de San Jorge en Fusagasugá</image:title>
+          <image:caption>Arriendo apartamento San Jorge Fusagasuga</image:caption>
+        </image:image>
+      
     </url>
   
     <url>
@@ -507,6 +747,12 @@
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+      
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/arriendo/1021/casa-venta-sector-el-indio-fusagasuga-10.webp</image:loc>
+          <image:title>3 pisos de Lujo para arrendar en Fusagasugá sector El Indio</image:title>
+          <image:caption>Casa de Lujo en Fusagasugá a la venta</image:caption>
+        </image:image>
       
     </url>
   
@@ -519,14 +765,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/conjunto-mirador-de-la-colina.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/conjunto-mirador-de-la-colina.webp</image:loc>
           <image:title>Apartamentos en Mirador de la Colina Fusagasugá ¿Compras?</image:title>
           <image:caption>Imagen de la belleza de Fusagasugá desde el Mirador de la Colina</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/conjunto-mirador-de-la-colina.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/conjunto-mirador-de-la-colina.webp</image:loc>
           <image:title>Apartamentos en Mirador de la Colina Fusagasugá ¿Compras?</image:title>
           <image:caption>Imagen de la belleza de Fusagasugá desde el Mirador de la Colina</image:caption>
         </image:image>
@@ -540,14 +786,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/remates_casas_fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/remates_casas_fusagasuga.webp</image:loc>
           <image:title>Venta de apartamento en Fusagasugá ¡Aprovecha los remates!</image:title>
           <image:caption>Imagen de una casa en venta en Fusagasugá, uno de los muchos remates de apartamentos en Fusagasugá por bancos</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/remates_casas_fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/remates_casas_fusagasuga.webp</image:loc>
           <image:title>Venta de apartamento en Fusagasugá ¡Aprovecha los remates!</image:title>
           <image:caption>Imagen de una casa en venta en Fusagasugá, uno de los muchos remates de apartamentos en Fusagasugá por bancos</image:caption>
         </image:image>
@@ -561,14 +807,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/comision-venta-de-casa.jpg</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/comision-venta-de-casa.jpg</image:loc>
           <image:title>¿Cuánto pagar a la inmobiliaria? - Guía definitiva | Fusagasugá Casas</image:title>
           <image:caption>Imagen sobre comisión de venta para una inmobiliaria</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/comision-venta-de-casa.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/comision-venta-de-casa.webp</image:loc>
           <image:title>¿Cuánto pagar a la inmobiliaria? - Guía definitiva | Fusagasugá Casas</image:title>
           <image:caption>Imagen sobre comisión de venta para una inmobiliaria</image:caption>
         </image:image>
@@ -582,14 +828,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/bogota-property-sale.jpg</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/bogota-property-sale.jpg</image:loc>
           <image:title>Venda Inmuebles en Bogotá Más Rápido: Inmobiliaria Leben</image:title>
           <image:caption>Guía para la venta eficiente de un inmueble en Bogotá.</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/bogota-property-sale.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/bogota-property-sale.webp</image:loc>
           <image:title>Venda Inmuebles en Bogotá Más Rápido: Inmobiliaria Leben</image:title>
           <image:caption>Guía para la venta eficiente de un inmueble en Bogotá.</image:caption>
         </image:image>
@@ -603,14 +849,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/aparatamentos-arriendo-fusa.jpg</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/aparatamentos-arriendo-fusa.jpg</image:loc>
           <image:title>Apartamentos en venta o arriendo en Fusagasugá | LEBEN</image:title>
           <image:caption>Foto aptos en arriendo en Fusagasugá</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/aparatamentos-arriendo-fusa.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/aparatamentos-arriendo-fusa.webp</image:loc>
           <image:title>Apartamentos en venta o arriendo en Fusagasugá | LEBEN</image:title>
           <image:caption>Foto aptos en arriendo en Fusagasugá</image:caption>
         </image:image>
@@ -624,14 +870,14 @@
       <priority>1.0</priority>
       
         <image:image>
-          <image:loc>http://localhost:4000/clima-fusagasuga.jpg</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/clima-fusagasuga.jpg</image:loc>
           <image:title>Clima en Fusagasugá: en tiempo real y sus beneficios</image:title>
           <image:caption>Foto del clima en Fusagasugá</image:caption>
         </image:image>
       
       
         <image:image>
-          <image:loc>http://localhost:4000/clima-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/clima-fusagasuga.webp</image:loc>
           <image:title>Clima en Fusagasugá: en tiempo real y sus beneficios</image:title>
           <image:caption>Foto del clima en Fusagasugá</image:caption>
         </image:image>
@@ -646,7 +892,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/cine-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/cine-fusagasuga.webp</image:loc>
           <image:title>Cine en Fusagasugá: alternativas de entretenimiento</image:title>
           <image:caption>Foto una sala de cine</image:caption>
         </image:image>
@@ -661,7 +907,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/comprar-casa-alquilar.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/comprar-casa-alquilar.webp</image:loc>
           <image:title>Comprar casa para alquilar ¿Es buen negocio? Léelo aquí</image:title>
           <image:caption>Foto una compra de casa</image:caption>
         </image:image>
@@ -676,7 +922,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/finca-raiz-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/finca-raiz-fusagasuga.webp</image:loc>
           <image:title>Finca Raíz Fusagasugá: Oportunidad de Inversión Rentable</image:title>
           <image:caption>Foto de la adquisición de una propiedad en Fusagasugá</image:caption>
         </image:image>
@@ -691,7 +937,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/barrios-de-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/barrios-de-fusagasuga.webp</image:loc>
           <image:title>¿Cuáles son los mejores barrios de Fusagasugá para vivir?</image:title>
           <image:caption>Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá</image:caption>
         </image:image>
@@ -706,7 +952,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/sinfa-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/sinfa-fusagasuga.webp</image:loc>
           <image:title>SINFA Fusagasugá. ¿Ya pagaste tu impuesto predial? Hazlo hoy</image:title>
           <image:caption>Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá</image:caption>
         </image:image>
@@ -721,7 +967,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/impuestos-vender-casa-colombia.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/impuestos-vender-casa-colombia.webp</image:loc>
           <image:title>Gastos Notariales en Colombia 2024: Vender o Comprar Casa</image:title>
           <image:caption>Foto de documentos con gastos de impuestos para comprar vivienda en Colombia</image:caption>
         </image:image>
@@ -736,7 +982,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/comprar-lote-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/comprar-lote-fusagasuga.webp</image:loc>
           <image:title>Lotes en Fusagasugá - Encuentra tu paraíso | Consejos de Expertos</image:title>
           <image:caption>Foto de lotes en Fusagasugá</image:caption>
         </image:image>
@@ -751,7 +997,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/blog-1.jpg</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/blog-1.jpg</image:loc>
           <image:title>Fusagasugá: requisitos legales para Comprar Apartamento</image:title>
           <image:caption>Foto de apartamento en Fusagasugá</image:caption>
         </image:image>
@@ -766,7 +1012,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/propiedades-fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/propiedades-fusagasuga.webp</image:loc>
           <image:title>Pago Impuesto Predial Fusagasugá 2024: descarga y paga en línea</image:title>
           <image:caption>Foto en Fusagasugá donde pagar el impuesto predial</image:caption>
         </image:image>
@@ -781,7 +1027,7 @@
       
       
         <image:image>
-          <image:loc>http://localhost:4000/fusagasuga.webp</image:loc>
+          <image:loc>http://localhost:4000/assets/images/blog/fusagasuga.webp</image:loc>
           <image:title>Fusagasugá: Descubre el Encanto de Cundinamarca en Colombia</image:title>
           <image:caption>Foto de Fusagasugá Cundinamarca</image:caption>
         </image:image>

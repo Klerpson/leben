@@ -3276,7 +3276,7 @@ button.btn-get-started:hover {
   box-shadow: 0 0 0 100vmax var(--color-default);
   -webkit-clip-path: inset(0 -100vmax);
   clip-path: inset(0 -100vmax);
-  padding: 4em 0;
+  padding: 2em 16px;
   color: white;
   position: relative;
   display: flex;
@@ -3285,7 +3285,7 @@ button.btn-get-started:hover {
 }
 
 #search-container input {
-  padding: 0.9rem;
+  padding: 1em;
   margin: 1em;
   border: none;
   border-bottom: 2px solid var(--color-primary);
