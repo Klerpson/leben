@@ -94,6 +94,28 @@ El Barrio Los Alpes es una zona exclusiva y tranquila de Fusagasugá. Con **herm
 
 Los residentes satisfechos con la vida en Los Alpes resaltan la tranquilidad y la comodidad que se encuentra en este barrio.
 
+## Las comunas y barrios de Fusagasugá
+
+Hay un total de 138 barrios en Fusagasugá. Aquí está el desglose por comuna:
+
+- **Comuna Centro**: 6 barrios
+- **Comuna Norte**: 28 barrios
+- **Comuna Occidental**: 21 barrios
+- **Comuna Oriental**: 14 barrios
+- **Comuna Sur Occidental**: 36 barrios
+- **Comuna Sur Oriental**: 33 barrios
+
+### Tabla de los barrios de Fusagasugá por comuna
+
+| Comuna | Barrios |
+|------|------|
+| **Centro** | Santander, Olaya, Centro, Emilio Sierra, Potosí, Luxemburgo |
+| **Norte** | El Progreso, José Antonio Galán, La Cabaña, Nueva Esperanza, La Esmeralda, Villa Armerita, San Antonio, Gaitán I, Gaitán II, La Independencia, El Edén, Villa Natalia, La Florida, Los Andes, Santa Librada, Mi Tesoro, Villa Rosalía, El Rosal, Villas de San Diego I, Villas de San Diego II, Monte Verde, Los Fundadores, La Palma, Carlos Lleras, Porvenir La Salle, El Lucero |
+| **Occidental** | San Mateo, Manila, Santa Anita, San Jorge, Marsella, Comboy, Mandalay, Nuevo Balmoral, El Caney, Fontanar, Antiguo Balmoral, Urbanización Villa Alix, Piedra Grande, Santa Ana Campestre, Villa Country, Quintas de Balmoral, El Manantial, Santa Clara, Siboney, Teresita I, Teresita II |
+| **Oriental** | Pekín, Cedritos, Coburgo, Bosque Bonnet, El Tejar, Los Robles, Bella Vista, Santa María de Los Ángeles, Antonio Nariño, Los Sauces, Urb. Altos de Pekín, Bonet, Villa de Los Sutagaos, Villa Aranzazu |
+| **Sur Occidental** | Llano Largo, La Pampa, La Venta, Cooviprof, Maíz Amarillo, Ciudad Eben-ezer, Gran Colombia, Caminos de Llano Largo, Llano Verde, Villa Celeste, Urb. Las Brisas, Leidy Di, Urb. Pedregal de San Luis, Urb. Parques de Occidente Etapas I y II, Urb. El Oasis, Urb. La Primavera, Llano Grande, Conj. Res. Asoveinte, Urb. San Diego La Venta, Conj. Res. Balcones de San José, Villas de La Pampa, Conj. Res. Villa Rosita, La Venta, Urb. Los Girasoles, Ciudad Jardín, Urb. Cádiz, Urb. Nueva Campiña, Urb. Ciudadela Comfenalco, San Francisco, Urb. Cambulos, Conj. Cerrado San Martín de Los Olivos |
+| **Sur Oriental** | Balmoral, Fusacatan, Obrero, Los Comuneros, La Macarena, El Vergel, San Fernando, Pedro Pablo Bello, Jaime Pardo Leal, Prados de Bethel, El Mirador, Las Delicias, Las Américas, Camino Real, Santa Bárbara, Villa Leidy, Prados de Alta Gracia, Urbanización Bosques del Oriente, Urbanización Aires de Quinini, Popular Obrero, Santa Rosa, Bethel Bajo, Urbanización La Alejandra, Sauces Bajo |
+
 ## Escoge el mejor barrio de Fusagasugá para vivir con tu familia
 
 En resumen, Fusagasugá cuenta con una variedad de barrios que ofrecen diferentes ventajas y comodidades.
