@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ¿Cuánto pagar a la inmobiliaria? - Guía definitiva | Fusagasugá Casas
+title: ¿Cuánto pagar a la inmobiliaria? Costos para Colombia
 category: Inmobiliaria
 description: Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
 excerpt: 'Nuestra inmobiliaria en Fusagasugá te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!'
-h1: 'Porcentaje de inmobiliaria ¿Cuánto y cuándo pagar? | Inmobiliaria Fusagasugá'
+h1: 'Porcentaje para una inmobiliaria ¿Cuánto y cuándo pagar?'
 hero: 'comision-venta-de-casa.webp'
 jpg: 'comision-venta-de-casa.jpg'
 alt: 'Imagen sobre comisión de venta para una inmobiliaria'
@@ -33,7 +33,7 @@ Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemo
 
 ## "Y ¿cuánto cobra inmobiliaria por arrendar apartamento en Colombia?"
 
-Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendos' | relative_url}} "Arrendamos tu casa").
+Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendo' | relative_url}} "Arrendamos tu casa").
 
 Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, impuestos y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
 
