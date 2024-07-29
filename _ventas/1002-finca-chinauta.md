@@ -3,16 +3,15 @@ layout: venta
 date: 2024-05-02
 permalink: ventas/finca-venta-chinauta-fusagasuga
 title: "Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora"
-description: Hermosa finca de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. ¡Escríbenos!
-h1: "Finca a la venta en San Bernardo, Fusagasugá Cundinamarca"
+description: ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
+h1: "Finca a la venta en San Bernardo, Fusagasugá"
 clase: fincas
 img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
 alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
 cta: Compra tu finca
 precio: 530000000
 propiedad: 144
-intro: Hermosa finca de producción en uno de los sectores de más alta
-  valorización en San Bernardo
+intro: Vendo hermosa finca de producción en uno de los sectores de más alta valorización en San Bernardo Fusagasugá
 area: 12192 metros de terreno
 habitacion: 5 habitaciones amplias
 sala: Sala espaciosa e iluminada
