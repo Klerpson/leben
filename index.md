@@ -1,113 +1,130 @@
 ---
 layout: default
 title: "LEBEN Inmobiliaria: Agencia en Fusagasugá Cundinamarca"
-description: "Agencia Inmobiliaria de Fusagasugá Leben: opciones de casas en venta, apartamento en alquiler, apartaestudios, fincas u otra propiedad. ¡Escríbenos!"
-parent: portafolio
-schema: '<script type="application/ld+json">
-  {
-   "@context": "https://schema.org",
-   "@type": "RealEstateAgent",
-   "name": "LEBEN Inmobiliaria",
-   "image": "https://lebeninmobiliaria.com/assets/images/logotipo.png",
-   "address": {
-     "@type": "PostalAddress",
-     "streetAddress": "CLL 19 #5-40, local 2 Mirador de la Colina",
-     "addressLocality": "Fusagasugá",
-     "addressRegion": "Cundinamarca",
-     "postalCode": "252211",
-     "addressCountry": "CO"
-   },
-   "contactPoint": {
-     "@type": "ContactPoint",
-     "telephone": "+57 3160520942",
-     "contactType": "Customer Service",
-     "areaServed": "CO",
-     "availableLanguage": "Spanish"
-   },
-   "sameAs": [
-     "https://www.facebook.com/lebeninmobiliaria",
-     "https://www.instagram.com/lebeninmobiliaria"
-   ],
-   "url": "https://lebeninmobiliaria.com",
-   "openingHours": "Mo-Fr 08:00-18:00",
-   "aggregateRating": {
-     "@type": "AggregateRating",
-     "ratingValue": "4.8",
-     "reviewCount": "50"
-   }
-  }
-  </script>
-  
+description: "LEBEN, Agencia Inmobiliaria de Fusagasugá. Opciones de casas en venta, apartamento en alquiler, apartaestudios, fincas u otra propiedad. ¡Escríbenos!"
+schema: |
   <script type="application/ld+json">
   {
-   "@context": "https://schema.org",
-   "@type": "BreadcrumbList",
-   "itemListElement": [
-     {
-       "@type": "ListItem",
-       "position": 1,
-       "name": "Inicio",
-       "item": "https://lebeninmobiliaria.com"
-     },
-     {
-       "@type": "ListItem",
-       "position": 2,
-       "name": "Ventas",
-       "item": "https://lebeninmobiliaria.com/ventas"
-     },
-     {
-       "@type": "ListItem",
-       "position": 3,
-       "name": "Arriendos",
-       "item": "https://lebeninmobiliaria.com/arriendo"
-     }
-   ]
+    "@context": "https://schema.org",
+    "@type": "RealEstateAgent",
+    "name": "{{ site.author }}",
+    "image": "{{ site.url }}/assets/images/logotipo.png",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "CLL 19 #5-40, local 2 Mirador de la Colina",
+      "addressLocality": "Fusagasugá",
+      "addressRegion": "Cundinamarca",
+      "postalCode": "252211",
+      "addressCountry": "CO"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "{{ site.tel1 }}",
+      "contactType": "Customer Service",
+      "areaServed": "CO",
+      "availableLanguage": "Spanish"
+    },
+    "sameAs": [
+      "{{ site.facebook_url }}",
+      "https://www.instagram.com/lebeninmobiliaria"
+    ],
+    "url": "{{ site.url }}",
+    "openingHours": "Mo-Fr 08:00-18:00",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.8",
+      "reviewCount": "68"
+    }
   }
   </script>
-  
   <script type="application/ld+json">
   {
-   "@context": "https://schema.org",
-   "@type": "Product",
-   "name": "Apartamento en Fusagasugá",
-   "description": "Encuentra tu apartamento ideal en la zona sur de Fusagasugá",
-   "image": "https://lebeninmobiliaria.com/assets/images/portfolio/1034/apartamento-zona-sur-fernando-2.webp",
-   "offers": {
-     "@type": "Offer",
-     "price": "145000000",
-     "priceCurrency": "COP",
-     "priceValidUntil": "2024-12-31",
-     "availability": "https://lebeninmobiliaria.com/ventas/apartamento-zona-sur-san-fernando-fusagasuga"
-   }
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Inicio",
+        "item": "{{ site.url }}"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Ventas",
+        "item": "{{ site.url }}/ventas"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Arriendos",
+        "item": "{{ site.url }}/arriendo"
+      }
+    ]
   }
   </script>
-  
   <script type="application/ld+json">
   {
-   "@context": "https://schema.org",
-   "@type": "BlogPosting",
-   "headline": "Es el mejor momento para invertir en finca raíz en Fusagasugá",
-   "image": "https://lebeninmobiliaria.com/assets/images/blog/finca-raiz-fusagasuga.webp",
-   "author": {
-     "@type": "Person",
-     "name": "LEBEN Inmobiliaria"
-   },
-   "publisher": {
-     "@type": "Organization",
-     "name": "LEBEN Inmobiliaria",
-     "logo": {
-       "@type": "ImageObject",
-       "url": "https://lebeninmobiliaria.com/assets/images/logotipo.png"
-     }
-   },
-   "datePublished": "2024-04-19",
-   "mainEntityOfPage": {
-     "@type": "WebPage",
-     "@id": "https://lebeninmobiliaria.com/blog/invertir-finca-raiz-fusagasuga"
-   }
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "{{ site.ventas.first.title | default: 'Casa en Venta en Fusagasugá' }}",
+    "description": "{{ site.ventas.first.description | default: 'Encuentra tu casa ideal en Fusagasugá' }}",
+    "image": "{{ site.url }}/assets/images/portfolio/{{ site.ventas.first.img | default: 'default-image.jpg' }}",
+    "offers": {
+      "@type": "Offer",
+      "price": "{{ site.ventas.first.precio | default: '165000000' }}",
+      "priceCurrency": "COP",
+      "priceValidUntil": "{{ site.ventas.first.date | date: '%Y' | plus: 1 }}-12-31",
+      "availability": "https://schema.org/InStock",
+      "url": "{{ site.url }}{{ site.ventas.first.url | default: '/ventas/casa-en-venta' }}"
+    },
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.5",
+      "reviewCount": "10"
+    },
+    "review": {
+      "@type": "Review",
+      "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": "5",
+        "bestRating": "5"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "Cliente Satisfecho"
+      },
+      "reviewBody": "Excelente propiedad, muy bien ubicada y con todas las comodidades."
+    }
   }
-  </script>'
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "{{ site.posts.first.title | default: 'Es el mejor momento para invertir en finca raíz en Fusagasugá' }}",
+    "image": "{{ site.url }}/assets/images/blog/{{ site.posts.first.hero | default: 'finca-raiz-fusagasuga.webp' }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.author }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}/assets/images/logotipo.png"
+      }
+    },
+    "datePublished": "{{ site.posts.first.date | date: '%Y-%m-%d' }}",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ site.posts.first.url | default: '/blog/mejor-momento-para-invertir' }}"
+    }
+  }
+  </script>
 ---
+
 <!-- Hero Section -->
 <section id="hero" class="hero d-flex">
     <div class="image-main-wrapper">
