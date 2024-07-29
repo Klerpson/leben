@@ -8,8 +8,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Jul 2024 08:21:12 -0500</pubDate>
-    <lastBuildDate>Mon, 29 Jul 2024 08:21:12 -0500</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2024 08:24:35 -0500</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2024 08:24:35 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
@@ -19,6 +19,8 @@
         <title>Apartamentos en Mirador de la Colina Fusagasugá ¿Compras?</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/conjunto-mirador-de-la-colina.webp" alt="Imagen de la belleza de Fusagasugá desde el Mirador de la Colina" />
             
             Encuentra tu hogar ideal en el Conjunto Residencial Mirador de la Colina. Apartamentos modernos con vistas impresionantes en Fusagasugá.
           ]]>
@@ -52,6 +54,8 @@ La importancia de contar con un mirador en la ciudad no puede ser subestimada. P
         <title>Venta de apartamento en Fusagasugá ¡Aprovecha los remates!</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/remates_casas_fusagasuga.webp" alt="Imagen de una casa en venta en Fusagasugá, uno de los muchos remates de apartamentos en Fusagasugá por bancos" />
             
             El remate de apartamentos de Fusagasugá es un mercado floreciente. Anímate y aprovecha para conseguir casas a precios de ganga. Leben Inmobiliaria.
           ]]>
@@ -90,6 +94,8 @@ Esta ciudad ofrece una amplia gama de apartamentos y oportunidades de inversión
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/comision-venta-de-casa.webp" alt="Imagen sobre comisión de venta para una inmobiliaria" />
+            
             Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
           ]]>
         </description>
@@ -124,6 +130,8 @@ En esta guía, daremos respuesta a dichas inquietudes, y más, para despejar cua
         <title>Venda Inmuebles en Bogotá Más Rápido: Inmobiliaria Leben</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/bogota-property-sale.webp" alt="Guía para la venta eficiente de un inmueble en Bogotá." />
             
             Averigua cuánto podría costarte la comisión por la venta de tu inmueble en Bogotá – ¡No pagues de más! Pero venda más rápido y seguro. Leben Inmobiliaria
           ]]>
@@ -165,6 +173,8 @@ Aquí te daremos todas las respuestas que necesitas para tus preguntas más frec
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/aparatamentos-arriendo-fusa.webp" alt="Foto aptos en arriendo en Fusagasugá" />
+            
             ¿Buscas apartamentos en arriendo en Fusagasugá?¿O necesitas apartamentos en venta? Contáctanos y consigamos el apartamento ideal.
           ]]>
         </description>
@@ -197,6 +207,8 @@ En cuanto a su economía, Fusagasugá se destaca por ser un importante centro ag
         <title>Clima en Fusagasugá: en tiempo real y sus beneficios</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/clima-fusagasuga.webp" alt="Foto del clima en Fusagasugá" />
             
             Mira el clima de hoy en Fusagasugá. También lee porque su clima es tan agradable y todas las ventajas que tiene para quienes buscan vivir aquí
           ]]>
@@ -231,6 +243,8 @@ En cuanto a su economía, Fusagasugá se destaca por ser un importante centro ag
         <title>Cine en Fusagasugá: alternativas de entretenimiento</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/cine-fusagasuga.webp" alt="Foto una sala de cine" />
             
             En Fusa encontrarás una variedad de salas de cine para disfrutar del séptimo arte con amigos, familia o esa persona especial
           ]]>
@@ -267,6 +281,8 @@ En este artículo te contaremos cuáles son los mejores cines de Fusagasugá, su
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/comprar-casa-alquilar.webp" alt="Foto una compra de casa" />
+            
             ¿Tienes un capital que quieres invertir en bienes raíces? 🏠 Es una buena idea. Pero ten presente: Debes saber hacerlo. Te explicamos cómo y qué tener en cuenta.
           ]]>
         </description>
@@ -301,6 +317,8 @@ Te explicaremos por qué es una opción rentable a largo plazo y cuáles son los
         <title>Finca Raíz Fusagasugá: Oportunidad de Inversión Rentable</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/finca-raiz-fusagasuga.webp" alt="Foto de la adquisición de una propiedad en Fusagasugá" />
             
             ¿Buscas oportunidades de inversión inmobiliaria rentables? Fusagasugá es el lugar ideal. Un paraíso en finca raíz para inversionistas.
           ]]>
@@ -343,6 +361,8 @@ Sobre la finca raíz en Fusagasugá te explicamos
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/barrios-de-fusagasuga.webp" alt="Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá" />
+            
             Realiza el pago del impuesto predial en Fusagasugá de manera sencilla y segura con SINFA. Sigue nuestro paso a paso. Aprovecha los beneficios
           ]]>
         </description>
@@ -378,6 +398,8 @@ Si estás buscando un lugar para...
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/sinfa-fusagasuga.webp" alt="Foto de un funcionario calculando el impuesto predial Sinfa Fusagasugá" />
+            
             Realiza el pago del impuesto predial en Fusagasugá de manera sencilla y segura con SINFA. Sigue nuestro paso a paso. Aprovecha los beneficios
           ]]>
         </description>
@@ -410,6 +432,8 @@ Situada en el departamento de Cundinamarca en Colombia, Fusagasugá es una ciuda
         <title>Gastos Notariales en Colombia 2024: Vender o Comprar Casa</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/impuestos-vender-casa-colombia.webp" alt="Foto de documentos con gastos de impuestos para comprar vivienda en Colombia" />
             
             Antes de vender o comprar, conoce los gastos notariales en Colombia para 2024. Simulador de gastos de escrituración, registro, retención, impuestos
           ]]>
@@ -448,6 +472,8 @@ En esta guía de gastos notariales para la compra o venta de casa encontrarás
         <title>Lotes en Fusagasugá - Encuentra tu paraíso | Consejos de Expertos</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/comprar-lote-fusagasuga.webp" alt="Foto de lotes en Fusagasugá" />
             
             Encuentra los mejores lotes en Fusagasugá con la ayuda de nuestros expertos agentes. ¡Invierte en tu propio paraíso hoy mismo!
           ]]>
@@ -494,6 +520,8 @@ Fusagasugá, ubicada en el encantador departamento de Cundinamarca en Colombia, 
         <description>
           <![CDATA[
             
+            <img src="http://localhost:4000/assets/images/blog/blog-1.jpg" alt="Foto de apartamento en Fusagasugá" />
+            
             ¿Sueñas con una casa en Fusagasugá? Conoce los requisitos legales y financieros de forma clara y sencilla. Haz realidad tu sueño con nuestra guía experta
           ]]>
         </description>
@@ -528,6 +556,8 @@ Recientemente ha atraído a varios compradores potenciales interesados en adquir
         <title>Pago Impuesto Predial Fusagasugá 2024: descarga y paga en línea</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/propiedades-fusagasuga.webp" alt="Foto en Fusagasugá donde pagar el impuesto predial" />
             
             Aprende a pagar el impuesto predial en Fusagasugá fácilmente. ¡Haz clic para una guía paso a paso y evita complicaciones!
           ]]>
@@ -568,6 +598,8 @@ Sobre el pago del impuesto predial en Fusagasugá te contamos lo siguiente
         <title>Fusagasugá: Descubre el Encanto de Cundinamarca en Colombia</title>
         <description>
           <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/fusagasuga.webp" alt="Foto de Fusagasugá Cundinamarca" />
             
             Atrévete a explorar Fusagasugá: un lugar donde la aventura y la tradición se encuentran. Haz clic para comenzar tu viaje a Cundinamarca.
           ]]>

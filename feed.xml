@@ -22,8 +22,8 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>
           <![CDATA[
-            {% if post.img %}
-            <img src="{{ site.url }}/assets/images/{{ post.img }}" alt="{{ post.alt | xml_escape }}" />
+            {% if post.hero %}
+            <img src="{{ site.url }}/assets/images/blog/{{ post.hero }}" alt="{{ post.alt | xml_escape }}" />
             {% endif %}
             {{ post.description | xml_escape }}
           ]]>
