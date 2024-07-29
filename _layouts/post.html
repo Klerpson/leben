@@ -24,26 +24,30 @@ layout: default
   <div class="container position-relative">
     <div class="row gy-5">
       <div class="col-lg-12 order-lg-1 d-flex flex-column align-items-left justify-content-start text-left caption">
-        <h1>{{page.h1}}</h1>
+        <h1 class="mb-1">{{page.h1}}</h1>
         <p>{{page.excerpt}}</p>
       </div>
     </div>
     <div id="breadcrumbs">
-      <p><a href="/">Inicio</a> / <a href="{{'blog' | relative_url }}" title="Blog de la Inmobiliaria de Fusagasugá">Blog</a> / {{page.title}}</p>
+      <small><a href="/">Inicio</a> / <a href="{{'blog' | relative_url }}" title="Blog de la Inmobiliaria de Fusagasugá">Blog</a> / {{page.title}}</small>
     </div>
   </div>
 </section>
 <!-- End Hero Section -->
-<main id="main" class="single-page">
-  <section class="blog">
+<main id="main">
+  <section class="articulo">
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
-          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" style="width: 100%; margin-bottom: 2em" width="992" height="620">
+          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" width="992" height="620">
 
-          {% if page.url == "/blog/clima-fusagasuga" %} {% include clima.html %}
+          {% if page.url == "/blog/clima-fusagasuga" %}
+            {% include clima.html %}
           {% endif %}
           {{content}}
+          <div class="share wrapper">
+            {% include share.html %}
+          </div>
           {% if page.referencias %}
           <div id="fuentes">
             <h4>Créditos y referencias</h4>
@@ -61,9 +65,9 @@ layout: default
           </div>
           {% endif %}
         </div>
-        <div class="col-lg-4">
-          <div class="blog-sidbar">
-            <div class="post-author d-grid flow">
+        <div class="articulo_sidebar col-lg-4">
+          <div>
+            <div class="d-grid flow">
               <h3>
                 ¿Has pensado en cambiar de casa o comprar una?
               </h3>
