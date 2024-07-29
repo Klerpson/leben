@@ -15,17 +15,21 @@ autor: Sebastián Rincón
 ---
 ## Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Fusagasugá, Cundinamarca?
 
-La pregunta "**¿Cuánto se debe pagar a la inmobiliaria?**" resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar "**¿Cuánto cobra una inmobiliaria por rentar casa?**".
+La pregunta "***¿Cuánto se debe pagar a la inmobiliaria?***", resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar **cuanto cobra una inmobiliaria por arrendar un apartamento**.
 
-En esta guía, daremos respuesta a dichas inquietudes, y más, para despejar cualquier duda que puedas tener al respecto en la región de Cundinamarca en Colombia.
+En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en la región de Cundinamarca en Colombia.
+
+>Nuestra clara intención es que cuando decidas [comprar tu casas con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
+
+## Los gastos de la comisión con una inmobiliaria
 
 Para comenzar, es relevante entender que los gastos de la inmobiliaria generalmente *se calculan como un porcentaje de la transacción que estás realizando*, y esto se conoce como **honorarios de inmobiliaria**.
+
+Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad**.
 
 ### ¿Quién paga la inmobiliaria en una compra?
 
 Dependiendo del acuerdo, puede ser el vendedor o el comprador, aunque *usualmente se asume que el vendedor es responsable* de estas costos.
-
-Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 6% del precio acordado en la compraventa de la propiedad**.
 
 Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemos tu casa") con un valor estimado en 200.000.000 de COP en Fusagasugá, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.
 

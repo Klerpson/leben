@@ -2,9 +2,9 @@
 layout: venta
 date: 2024-05-02
 permalink: ventas/casa-sector-norte-centro-fusagasuga
-title: Oportunidad de Comprar Casa Amplia en Fusagasugá
-description: ¿Estás comprando casa? Esta propiedad en Fusagasugá ofrece espacio, potencial y rentabilidad. ¡Compra la casa de tus próximas generaciones!
-h1: Amplia casa en Fusagasugá con 8 habitaciones y terreno para proyecto
+title: Oportunidad de Comprar Casa en El Centro Fusagasugá
+description: ¿Estás comprando casa? Esta propiedad en Fusagasugá ofrece espacio, potencial y rentabilidad. ¡Compra casa ubicada en el Centro de Fusagasugá!
+h1: Amplia casa en Fusagasugá con 8 habitaciones en el Norte - Centro
 clase: casas
 img: 1052/casa-norte-centro-fusa-14.webp
 alt: Casa en el sector norte cerca al centro - Fusagasugá
