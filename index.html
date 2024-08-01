@@ -8,7 +8,7 @@ schema: |
     "@context": "https://schema.org",
     "@type": "RealEstateAgent",
     "name": "{{ site.author }}",
-    "image": "{{ site.url }}/assets/images/logotipo.png",
+    "image": "{{ site.url | append: '/assets/images/logotipo.png' }}",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "CLL 19 #5-40, local 2 Mirador de la Colina",
@@ -34,7 +34,27 @@ schema: |
       "@type": "AggregateRating",
       "ratingValue": "4.8",
       "reviewCount": "68"
-    }
+    },
+    "makesOffer": [
+      {% for property in site.ventas limit:5 %}
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Product",
+          "name": "{{ property.title }}",
+          "description": "{{ property.excerpt | strip_html | truncatewords: 30 }}",
+          "image": "{{ site.url }}{% if property.image %}/assets/images/portfolio/{{ property.image }}{% else %}/assets/images/default-property.jpg{% endif %}",
+          "url": "{{ site.url }}{{ property.url }}",
+          "offers": {
+            "@type": "Offer",
+            "price": "{{ property.precio }}",
+            "priceCurrency": "COP",
+            "availability": "https://schema.org/InStock"
+          }
+        }
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
   }
   </script>
   <script type="application/ld+json">
@@ -52,76 +72,91 @@ schema: |
         "@type": "ListItem",
         "position": 2,
         "name": "Ventas",
-        "item": "{{ site.url }}/ventas"
+        "item": "{{ site.url | append: '/ventas' }}"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Arriendos",
-        "item": "{{ site.url }}/arriendo"
+        "item": "{{ site.url | append: '/arriendo' }}"
       }
     ]
   }
   </script>
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Product",
-    "name": "{{ site.ventas.first.title | default: 'Casa en Venta en Fusagasugá' }}",
-    "description": "{{ site.ventas.first.description | default: 'Encuentra tu casa ideal en Fusagasugá' }}",
-    "image": "{{ site.url }}/assets/images/portfolio/{{ site.ventas.first.img | default: 'default-image.jpg' }}",
-    "offers": {
-      "@type": "Offer",
-      "price": "{{ site.ventas.first.precio | default: '165000000' }}",
-      "priceCurrency": "COP",
-      "priceValidUntil": "{{ site.ventas.first.date | date: '%Y' | plus: 1 }}-12-31",
-      "availability": "https://schema.org/InStock",
-      "url": "{{ site.url }}{{ site.ventas.first.url | default: '/ventas/casa-en-venta' }}"
-    },
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.5",
-      "reviewCount": "10"
-    },
-    "review": {
-      "@type": "Review",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
+  [
+    {% for property in site.ventas limit:5 %}
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "{{ property.title }}",
+      "description": "{{ property.description | default: 'Encuentra tu casa ideal en Fusagasugá' }}",
+      "image": "{{ site.url }}{% if property.image %}/assets/images/portfolio/{{ property.image }}{% else %}/assets/images/default-property.jpg{% endif %}",
+      "offers": {
+        "@type": "Offer",
+        "price": "{{ property.precio | default: '165000000' }}",
+        "priceCurrency": "COP",
+        "priceValidUntil": "{% assign next_year = site.time | date: '%Y' | plus: 1 %}{{ next_year }}-12-31",
+        "availability": "https://schema.org/InStock",
+        "url": "{{ site.url }}{{ property.url }}",
+        "hasMerchantReturnPolicy": {
+          "@type": "MerchantReturnPolicy",
+          "applicableCountry": "CO",
+          "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+          "merchantReturnDays": "30",
+          "returnMethod": "https://schema.org/ReturnByMail"
+        }
       },
-      "author": {
-        "@type": "Person",
-        "name": "Cliente Satisfecho"
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.5",
+        "reviewCount": "10"
       },
-      "reviewBody": "Excelente propiedad, muy bien ubicada y con todas las comodidades."
-    }
-  }
+      "review": {
+        "@type": "Review",
+        "reviewRating": {
+          "@type": "Rating",
+          "ratingValue": "5",
+          "bestRating": "5"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "Cliente Satisfecho"
+        },
+        "reviewBody": "Excelente propiedad, muy bien ubicada y con todas las comodidades."
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
   </script>
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ site.posts.first.title | default: 'Es el mejor momento para invertir en finca raíz en Fusagasugá' }}",
-    "image": "{{ site.url }}/assets/images/blog/{{ site.posts.first.hero | default: 'finca-raiz-fusagasuga.webp' }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ site.author }}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{ site.author }}",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "{{ site.url }}/assets/images/logotipo.png"
+  [
+    {% for post in site.posts limit:5 %}
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ post.title }}",
+      "image": "{{ site.url }}{% if post.hero %}/assets/images/blog/{{ post.hero }}{% else %}/assets/images/blog/default-blog-image.webp{% endif %}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.author }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/logotipo.png"
+        }
+      },
+      "datePublished": "{{ post.date | date: '%Y-%m-%d' }}",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}{{ post.url }}"
       }
-    },
-    "datePublished": "{{ site.posts.first.date | date: '%Y-%m-%d' }}",
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ site.url }}{{ site.posts.first.url | default: '/blog/mejor-momento-para-invertir' }}"
-    }
-  }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
   </script>
 ---
 
