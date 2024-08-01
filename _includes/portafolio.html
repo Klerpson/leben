@@ -1,25 +1,22 @@
 <!--Portfolio Section -->
 <section id="portfolio" class="container">
     <h2>LEBEN Inmobiliaria de Fusagasugá te ayuda a conseguir casas en venta y en arriendo</h2>
-    <p>Tú y tu familia están en busca de <strong>casas en venta en Fusagasugá</strong> o en otro municipio de
-      Cundinamarca. Cuenta con nosotros.</p>
-      
-      <div class="blog-tags">
-        <button data-name="all" class="active">Todos</button>
+    <p>Tú y tu familia están en busca de <strong>casas en venta en Fusagasugá</strong> o en otro municipio de Cundinamarca. Cuenta con nosotros.</p>
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
       <button data-name="ventas">Ventas</button>
       <button data-name="arriendos">Arriendos</button>
     </div>
-    
     <div class="posts">
       {% for item in site.data.portafolio %}
       <article class="post portafolio_item" data-name="{{ item.clase }}">
-        <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy">
+        <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy" title="Agencia inmobiliaria Leben: {{item.title}}">
         <div>
           <h3>→ {{item.cta}}</h3>
           <small>• Valor: ${{item.precio | number_with_delimiter: '.' }}</small>
           <small>• Area: {{item.area}}</small>
           <small>• <b>Casa en {{item.clase | remove: "s" }}</b></small>
-          <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">Más información</a>
+          <a href="{{item.url|relative_url}}" title="Contacto Inmobiliaria LEBEN Fusagasugá">Más información</a>
         </div>
       </article>
       {% endfor %}
