@@ -13,6 +13,7 @@ layout: default
           href="https://bit.ly/leben-proyecto-bosques"
           rel="nofollow"
           target="_blank"
+          title="Página de contacto de Leben Inmobiliaria Fusagasuga"
           >Contáctanos ahora</a
         >
       </p>
@@ -29,7 +30,7 @@ layout: default
       </div>
     </div>
     <div id="breadcrumbs">
-      <small><a href="/">Inicio</a> / <a href="{{'blog' | relative_url }}" title="Blog de la Inmobiliaria de Fusagasugá">Blog</a> / {{page.title}}</small>
+      <small><a href="/" title="Página de inicio de la web de Leben Inmobiliaria Fusagasuga">Inicio</a> / <a href="{{'blog' | relative_url }}" title="Blog de la Inmobiliaria de Fusagasugá Leben">Blog</a> / {{page.title}}</small>
     </div>
   </div>
 </section>
@@ -39,7 +40,7 @@ layout: default
     <div class="container">
       <div class="row">
         <div class="col-lg-8">
-          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" width="992" height="620">
+          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" width="992" height="620" title="{{page.title}}">
 
           {% if page.url == "/blog/clima-fusagasuga" %}
             {% include clima.html %}
@@ -56,7 +57,7 @@ layout: default
               {% for link in link_hash %}
               <ul>
                 <li>
-                  <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank">{{ link[0] }}</a>
+                  <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank" title="Referencia de este post de Leben: {{ link[0] }}">{{ link[0] }}</a>
                 </li>
               </ul>
               {% endfor %}
@@ -73,7 +74,7 @@ layout: default
               </h3>
               <p>En Leben Inmobiliaria sí ofrecemos <strong>opciones al alcance de tu presupuesto y con las condiciones que te gustaría</strong> tener en tu nuevo hogar. ¡Escríbenos!</p>
               <div class="flow">
-                <a href="{{site.whatsapp}}" class="btn-get-started">Asesórate gratis</a>
+                <a href="{{site.whatsapp}}" class="btn-get-started" title="Escribe a la inmobiliaria de Fusagasuga Leben">Asesórate gratis</a>
 
                 <h4>{{page.autor}}</h4>
                 <div class="author-image">
@@ -81,6 +82,7 @@ layout: default
                     src="{{site.baseurl}}/assets/images/team/{{page.foto}}"
                     class="flex-shrink-0"
                     alt="Asesor de Leben {{page.autor}}"
+                    title="Foto de asesor de Leben Inmobiliaria Fusagasuga"
                   />
                 </div>
                 <div class="social-links">
@@ -89,9 +91,7 @@ layout: default
                   {% endif %} {% if page.facebook %}
                   <a href="{{page.facebook}}"><i class="bi bi-facebook"></i></a>
                   {% endif %} {% if page.instagram %}
-                  <a href="{{page.instagram}}"
-                    ><i class="biu bi-instagram"></i
-                  ></a>
+                  <a href="{{page.instagram}}"><i class="biu bi-instagram"></i></a>
                   {% endif %}
                 </div>
                 <p>{{page.bio}}</p>
@@ -108,9 +108,10 @@ layout: default
                     src="{{site.baseurl}}/assets/images/blog/{{post.hero}}"
                     alt="{{post.alt}}"
                     loading="lazy"
+                    title="{{post.title}}"
                   />
                   <div>
-                    <h4><a href="{{post.url}}">{{post.h1}}</a></h4>
+                    <h4><a href="{{post.url}}" title="{{post.title}}">{{post.h1}}</a></h4>
                   </div>
                 </div>
                 <!-- End recent post item-->
@@ -122,9 +123,7 @@ layout: default
                   Cundinamarca. Haz clic y conoce las nuevas oportunidades que
                   tiene para ti LEBEN Inmobiliaria
                 </p>
-                <a href="{{'ventas'|relative_url}}" class="btn-get-started"
-                  >Casas en venta</a
-                >
+                <a href="{{'ventas'|relative_url}}" class="btn-get-started" title="Compra casa con la inmobiliaria de Fusagasuga Leben">Casas en venta</a>
               </div>
             </div>
             <!-- End sidebar recent posts-->
