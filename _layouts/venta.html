@@ -19,7 +19,7 @@ layout: compress
     </div>
   <div>
     <span>
-      {{ page.precio | number_with_delimiter: '.' }}{% if page.url contains "arriendo/" %} más servicios{% else %} negociables {% endif %}
+      ${{page.precio | number_with_delimiter: '.' }}{% if page.url contains "arriendo/" %} más servicios{% else %} negociables {% endif %}
     </span>
     
     {% if page.url contains "/ventas/" %}
