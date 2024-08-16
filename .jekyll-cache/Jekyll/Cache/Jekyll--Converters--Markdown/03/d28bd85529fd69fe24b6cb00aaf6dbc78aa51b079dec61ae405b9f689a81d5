@@ -1,35 +1,4 @@
-I",<h2 id="déjanos-tus-datos-y-te-contactaremos-prontamente">Déjanos tus datos y te contactaremos prontamente</h2>
-
-<div class="seccion_formulario">
-  <div class="card">
-    <span class="title">Escribe tus datos y tu solicitud</span>
-    <form class="form">
-      <div class="group">
-        <input placeholder="‎" type="text" required="" />
-      <label for="name">Nombre</label>
-      </div>
-      <div class="group">
-        <input placeholder="‎" type="email" id="email" name="email" required="" />
-        <label for="email">Email</label>
-        </div>
-      <div class="group">
-        <textarea placeholder="‎" id="comment" name="comment" rows="5" required=""></textarea>
-        <label for="comment">Comentarios / teléfono</label>
-      </div>
-      <button type="submit">Enviar datos</button>
-    </form>
-  </div>
-  <ol>
-    <li>Escribe tu nombre</li>
-    <li>Escribe tu email</li>
-    <li>Escribe qué solicitud te gustaría que te ayudemos a resolver</li>
-    <li>Agrega tu teléfono</li>
-    <li>Tan pronto tengamos tu mensaje, te contactaremos de inmediato</li>
-    <li>También, nos puedes escribir directamente a <a href="https://wa.me/573224736189?text=Hola!%20Estaba%20en%20la%20p%C3%A1gina%20web%20de%20LEBEN.%20Por%20favor,%20env%C3%ADame%20m%C3%A1s%20info%20sobre..." title="WhatsApp de Leben Inmobiliaria">nuestro WhatsApp</a></li>
-  </ol>
-</div>
-
-<h2 id="con-leben-inmobiliaria-conseguir-la-casa-de-tus-sueños-es-más-fácil">Con LEBEN Inmobiliaria conseguir la casa de tus sueños es más fácil</h2>
+I"�<h2 id="con-leben-inmobiliaria-conseguir-la-casa-de-tus-sueños-es-más-fácil">Con LEBEN Inmobiliaria conseguir la casa de tus sueños es más fácil</h2>
 
 <p>Déjanos todas tus inquietudes, pues no encanta asesorar lo mejor posible a nuestros clientes. Entendemos muy bien que <strong>para comprar casa es necesario tener toda la información completa y las dudas resueltas</strong>. Por eso somos los mejores.</p>
 

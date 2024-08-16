@@ -1,6 +1,6 @@
 ---
 layout: ventas
-title: Casas, apartamentos y fincas en arriendo en Fusagasugá | LEBEN
+title: Casa, apartamento y finca en arriendo en Fusagasugá
 description: Encuentra casa, apartamento o finca en arriendo en Fusagasugá. Leben Inmobiliaria te facilita la búsqueda de un lugar perfecto, tranquilo y económico🤩
 h1: Consigue casas y apartamentos en arriendo en Fusagasugá con LEBEN inmobiliaria
 ---

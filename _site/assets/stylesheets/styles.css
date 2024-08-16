@@ -530,7 +530,7 @@ table th {
 
 .container_nav {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 12px 20px;
 }
@@ -547,6 +547,7 @@ table th {
   display: flex;
   align-items: center;
   gap: 1em;
+  margin-left: auto;
 }
 
 .nav-links {
@@ -562,7 +563,7 @@ table th {
 
 .nav-links li a,
 .nav-links span {
-  font-size: 18px;
+  font-size: 1.5rem;
 }
 
 .nav-links span {

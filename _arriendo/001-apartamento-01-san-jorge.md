@@ -2,7 +2,7 @@
 layout: venta
 permalink: arriendo/apartamento-san-jorge-fusagasuga
 date: 2024-05-02
-title: "Apartamento en arriendo Fusagasugá: conjunto cerrado San Jorge"
+title: "Arriendo en Fusagasugá: conjunto cerrado San Jorge"
 description: ¿Buscas arriendo en Fusagasugá? Este apartamento en San Jorge ofrece espacio, comodidad y todos los servicios. ¡Ve los detalles! | LEBEN Inmobiliaria
 h1: "Apartamento en Arriendo en conjunto cerrado San Jorge, Fusagasugá"
 clase: apartamentos

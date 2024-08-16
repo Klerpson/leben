@@ -2,7 +2,7 @@
 layout: venta
 permalink: arriendo/casa-arriendo-sector-indio-fusagasuga
 date: 2024-05-02
-title: "3 pisos de Lujo para arrendar en Fusagasugá sector El Indio"
+title: "Casa para arrendar en Fusagasugá. Sector El Indio"
 description: ¿Buscas casa en Fusagasugá para arrendar? Aprovecha esta propiedad de lujo con amenidades únicas. ¡Agenda tu visita hoy! Contacta con LEBEN inmobiliaria
 h1: "Vive en 3 pisos de lujo y confort en Fusagasugá: Arrienda tu Casa en el sector El Indio"
 clase: casas
