@@ -6,7 +6,7 @@ title: "Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora"
 description: ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
 h1: "Finca a la venta en San Bernardo, Fusagasugá"
 clase: fincas
-img: finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
+img: finca-en-adolfo-san-bernardo-fusagasugá-018.webp
 alt: Venta de finca en San Bernardo Chinauta, Fusagasugá
 cta: Compra tu finca
 precio: 530000000
@@ -25,36 +25,36 @@ adicional:
   - 435 matas de durazno
   - A 25 minutos de la zona urbana
 galleryImages:
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-01.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-02.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-03.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-04.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-05.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-06.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-07.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-08.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-09.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-010.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-011.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-012.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-013.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-014.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-015.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-016.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-017.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-018.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-019.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-020.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-021.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-022.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-023.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-024.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-025.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-026.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-027.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-028.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-029.jpg
-  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-030.jpg
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-01.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-02.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-03.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-04.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-05.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-06.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-07.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-08.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-09.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-010.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-011.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-012.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-013.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-014.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-015.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-016.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-017.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-018.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-019.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-020.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-021.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-022.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-023.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-024.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-025.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-026.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-027.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-028.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-029.webp
+  - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-030.webp
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
