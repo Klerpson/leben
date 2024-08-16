@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Pago Impuesto Predial Fusagasugá 2024: descarga y paga en línea"
-description: Aprende a pagar el impuesto predial en Fusagasugá fácilmente. ¡Haz clic para una guía paso a paso y evita complicaciones!
+title: "Pago Impuesto Predial Fusagasugá 2024: Paga en línea"
+description: Aprende a pagar el impuesto predial en Fusagasugá este 2024 fácilmente. ¡Te guiamos paso a paso! Hazlo fácil con la página de la alcaldía de Fusa
 h1: "Fusagasugá: Paga tu impuesto predial en línea o presencial"
 hero: propiedades-fusagasuga.webp
 alt: Foto en Fusagasugá donde pagar el impuesto predial

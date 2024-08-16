@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -24,7 +24,7 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +37,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +50,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +66,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +82,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -98,7 +98,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -111,7 +111,7 @@
     
       <url>
         <loc>http://localhost:4000/simulador-gastos-notariales-colombia</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -127,7 +127,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+        <lastmod>2024-08-16T06:36:19-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -163,7 +163,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-023.jpg</image:loc>
-          <image:title>Casa en venta en Fusagasugá, barrio Balmoral | Leben Inmobiliaria</image:title>
+          <image:title>Casa en venta en Fusagasugá, barrio Balmoral</image:title>
           <image:caption>Balcón de casa en venta en Fusagasugá</image:caption>
         </image:image>
       
@@ -246,7 +246,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-08-16T06:19:26-05:00</lastmod>
+      <lastmod>2024-08-16T06:36:19-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -313,7 +313,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/portfolio/1033/casa-plana-balmoral-bonanza-22.webp</image:loc>
-          <image:title>Encuentra Tu Hogar Ideal en Fusagasugá: Casa Espaciosa en Sector Tranquilo</image:title>
+          <image:title>Compra en Fusagasugá: Casa Espaciosa en Buen Sector</image:title>
           <image:caption>Venta de casa en Fusagasugá</image:caption>
         </image:image>
       
@@ -328,7 +328,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/portfolio/1034/apartamento-zona-sur-fernando-2.webp</image:loc>
-          <image:title>¡Tu apartamento de 3 habitaciones! En San Fernando Fusagasugá</image:title>
+          <image:title>Compra apartamento en San Fernando Fusagasugá</image:title>
           <image:caption>Venta de Apartamento en Fusagasugá</image:caption>
         </image:image>
       
@@ -433,7 +433,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/portfolio/1051/casa-sector-batallon-fusa-1.webp</image:loc>
-          <image:title>Tropical Oasis: Encanto y Comodidad en Fusagasugá, Cundinamarca</image:title>
+          <image:title>Encanto y Comodidad en Fusagasugá: Casa en venta</image:title>
           <image:caption>Casa en el sector del Batallón Fusagasugá</image:caption>
         </image:image>
       
@@ -553,7 +553,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/portfolio/1065/casa-plano-manila-fusa-30.webp</image:loc>
-          <image:title>¡Vive en el Paraíso! Casa en Venta en Fusagasugá, Cundinamarca</image:title>
+          <image:title>¡Vive en el Paraíso! Casa en Venta en Fusagasugá</image:title>
           <image:caption>Casa en Manila - Fusagasugá</image:caption>
         </image:image>
       
@@ -983,7 +983,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/blog/comprar-lote-fusagasuga.webp</image:loc>
-          <image:title>Lotes en Fusagasugá - Encuentra tu paraíso | Consejos de Expertos</image:title>
+          <image:title>Lotes en Fusagasugá: Compra con Expertos | Leben</image:title>
           <image:caption>Foto de lotes en Fusagasugá</image:caption>
         </image:image>
       
@@ -1013,7 +1013,7 @@
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/blog/propiedades-fusagasuga.webp</image:loc>
-          <image:title>Pago Impuesto Predial Fusagasugá 2024: descarga y paga en línea</image:title>
+          <image:title>Pago Impuesto Predial Fusagasugá 2024: Paga en línea</image:title>
           <image:caption>Foto en Fusagasugá donde pagar el impuesto predial</image:caption>
         </image:image>
       
