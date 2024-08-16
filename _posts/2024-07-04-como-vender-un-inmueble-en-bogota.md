@@ -37,7 +37,7 @@ También es útil trabajar con una agencia inmobiliaria experimentada que tenga 
 
 ## ¿Qué costos puede tener vender un inmueble en Colombia?
 
-[La venta de un inmueble implica varios costos]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos al vender casas en Colombia"), incluyendo el **impuesto por vender una casa en Colombia**, que típicamente es de 1% del valor del inmueble.
+[La venta de un inmueble implica varios costos]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos al vender casas en Colombia"), incluyendo el **[impuesto predial por vender una casa]({% post_url 2024-01-16-impuesto-predial-fusagasuga %} "Pago del impuesto predial") en Colombia**, que típicamente es de 1% del valor del inmueble.
 
 >Debes tener en cuenta los costos de las escrituras y los honorarios notariales, que varían dependiendo del valor del inmueble.
 

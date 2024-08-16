@@ -136,10 +136,11 @@ Para maximizar las ganancias de tu propiedad de alquiler, sigue estas estrategia
 
 Antes de comenzar tu inversión en bienes raíces, es crucial que conozcas los siguientes aspectos:
 
-* [Las leyes y regulaciones]({% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %}) que afectan a los propietarios de propiedades de alquiler.
+* [Las leyes y regulaciones]({% post_url 2024-01-20-requisito-legales-para-comprar-casa-fusagasuga %} "Requisitos para comprar casa en Fusagasugá") que afectan a los propietarios de propiedades de alquiler.
 * Las implicaciones fiscales de la inversión en bienes raíces.
+* Los montos del [impuesto predial]({% post_url 2024-01-16-impuesto-predial-fusagasuga %} "Impuesto predial Fusagasugá") exigido en el sector de tu inversión.
 
-Consulta a un contador o asesor fiscal para comprender mejor estas implicaciones y aprovechar al máximo los beneficios fiscales disponibles.
+Consulta a un contador o [asesor fiscal]({{'contacto'|relative_url}} "Contacta con Leben Inmobiliaria") para comprender mejor estas implicaciones y aprovechar al máximo los beneficios fiscales disponibles.
 
 ## Comprar una casa para arrendar te puede cambiar la vida
 

@@ -39,7 +39,7 @@ Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemo
 
 Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendo' | relative_url}} "Arrendamos tu casa").
 
-Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, impuestos y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
+Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, [impuestos prediales]({% post_url 2024-01-16-impuesto-predial-fusagasuga %} "Impuesto predial Fusa") y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
 
 {% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
 
