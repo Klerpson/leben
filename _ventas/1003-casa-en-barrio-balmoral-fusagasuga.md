@@ -24,25 +24,25 @@ adicional:
   - Zona de lavado
   - Sector residencial con transporte, colegios, comercio y parques cerca
 galleryImages:
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-01.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-03.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-04.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-05.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-06.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-07.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-08.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-010.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-011.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-012.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-013.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-014.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-017.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-018.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-019.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-020.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-021.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.jpg
-  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.jpg
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-01.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-03.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-04.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-05.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-06.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-07.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-08.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-010.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-011.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-012.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-013.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-014.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-017.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-018.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-019.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-020.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-021.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-022.webp
+  - /assets/images/portfolio/casa-en-venta-balmoral-fusagasuga-025.webp
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp
