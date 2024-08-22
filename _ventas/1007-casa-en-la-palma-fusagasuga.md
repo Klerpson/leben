@@ -1,15 +1,17 @@
 ---
 layout: venta
-date: 2024-05-02
+date: 2024-05-02 00:00:00
 permalink: ventas/casa-en-la-palma-fusagasuga
-title: "Casa en Venta en La Palma Fusagasugá: Moderna, Acogedora"
-description: Hermosa casa en el hermoso conjunto La Palma de Fusagasuga. Contacta con LEBEN Inmobiliaria y compra una de las mejores opciones.
-h1: "Exclusiva residencia en Fusagasugá: lujo, confort y privacidad"
+title: 'Apartamento en Venta en La Palma Fusagasugá: Moderna, Acogedora'
+description: >-
+  Hermosa casa en el hermoso conjunto La Palma de Fusagasuga. Contacta con LEBEN
+  Inmobiliaria y compra una de las mejores opciones.
+h1: 'Exclusiva residencia en Fusagasugá: lujo, confort y privacidad'
 clase: casas
 img: 1007/casa-venta-palma-fusagasuga-27.webp
 alt: Venta de casa en conjunto de Fusagasugá
 cta: Mira la casa en venta
-precio: 165000000
+precio: 510000000
 propiedad: 1007
 intro: Hermosa casa en uno de los conjuntos más completos de Fusagasugá
 area: 110 metros construidos
@@ -75,7 +77,7 @@ Ubicada en el prestigioso sector de Pekin, esta residencia se encuentra en un pu
 
 ### Características Generales de la Residencia
 
-Esta propiedad, valorada en 💵$ 165.000.000, se destaca por su diseño moderno y espacios amplios. Con **110 metros construidos**, la casa ofrece un ambiente perfecto para la vida familiar o el entretenimiento.
+Esta propiedad, valorada en 💵$ 510´000.000, se destaca por su diseño moderno y espacios amplios. Con **110 metros construidos**, la casa ofrece un ambiente perfecto para la vida familiar o el entretenimiento.
 
 ## Detalles del Interior
 
@@ -135,7 +137,7 @@ El **salón de eventos** es un espacio versátil, perfecto para celebraciones y 
 
 ### Clima y Entorno Natural
 
-[Fusagasugá es conocida por su clima agradable y su entorno natural]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), ofreciendo una calidad de vida excepcional.
+\[Fusagasugá es conocida por su clima agradable y su entorno natural\]({% post_url 2024-01-14-fusagasuga-cundinamarca-colombia %}), ofreciendo una calidad de vida excepcional.
 
 ### Acceso a Servicios y Comodidades
 
