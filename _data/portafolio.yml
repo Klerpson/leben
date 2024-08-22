@@ -19,13 +19,6 @@
   area: 114 metros construidos
   clase: ventas
   precio: 420000000
-- img: apartamento-san-jorge-012.webp
-  alt: Alquilar apartamento en fusagasuga
-  url: arriendo/apartamento-san-jorge-fusagasuga
-  cta: Arrienda un apartamento en conjunto cerrado de Fusagasugá
-  area: 90 metros
-  clase: arriendos
-  precio: 1500000
 - img: 1007/casa-venta-palma-fusagasuga-27.webp
   alt: Cocina de Casa en venta en Fusagasugá
   url: ventas/casa-en-la-palma-fusagasuga
