@@ -1,17 +1,21 @@
 ---
 layout: venta
-date: 2024-05-02
+date: 2024-05-02 00:00:00
 permalink: ventas/finca-venta-chinauta-fusagasuga
-title: "Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora"
-description: ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
-h1: "Finca a la venta en San Bernardo, Fusagasugá"
+title: Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora
+description: >-
+  ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San
+  Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
+h1: Finca a la venta en San Bernardo, Fusagasugá
 clase: fincas
-img: finca-en-adolfo-san-bernardo-fusagasugá-018.webp
+img: finca-en-adolfo-san-bernardo-fusagasugá-01.webp
 alt: Venta de finca en San Bernardo Chinauta, Fusagasugá
 cta: Compra tu finca
 precio: 530000000
 propiedad: 144
-intro: Vendo hermosa finca de producción en uno de los sectores de más alta valorización en San Bernardo Fusagasugá
+intro: >-
+  Vendo hermosa finca de producción en uno de los sectores de más alta
+  valorización en San Bernardo Fusagasugá
 area: 12192 metros de terreno
 habitacion: 5 habitaciones amplias
 sala: Sala espaciosa e iluminada
@@ -81,7 +85,7 @@ foto-asesor: sebastian-rincon-leben.webp
 
 Esta finca no es solo una propiedad, es un estilo de vida. Un lugar donde puedes desconectar del bullicio de la ciudad y reconectar con la naturaleza. Pero recuerda, **oportunidades como esta en San Bernardo, cerca de Fusagasugá, son raras y muy buscadas**.
 
-⏰ **¡No Esperes Más!** Esta joya de la naturaleza está esperando por ti. [Contáctanos hoy](https://wa.me/57{{page.contacto}}) y empieza a vivir el sueño de tener tu propia finca.
+⏰ **¡No Esperes Más!** Esta joya de la naturaleza está esperando por ti. [Contáctanos hoy](https://wa.me/57<span%20data-cms-snippet-type=&quot;inline&quot;%20data-cms-snippet-id=&quot;be7d4a66-6f23-475e-91ac-1aab8316d7cb&quot;%20data-cms-snippet-data=&quot;eyJ0cmltX2xlZnQiOmZhbHNlLCJ0ZW1wbGF0ZSI6InBhZ2UuY29udGFjdG8iLCJ0cmltX3JpZ2h0IjpmYWxzZSwiX2hpZGRlbiI6dHJ1ZSwiX3NuaXBwZXRfdHlwZSI6Il9jY19qZWt5bGxfdGVtcGxhdGUiLCJfbWV0YSI6eyJ0cmltX2xlZnQiOnt9LCJ0ZW1wbGF0ZSI6eyJvcmlnaW5hbERhdGEiOlt7Il90eXBlIjoidGV4dCIsInRleHQiOiJwYWdlLmNvbnRhY3RvIn1dfSwidHJpbV9yaWdodCI6e319fQ==&quot;></span>) y empieza a vivir el sueño de tener tu propia finca.
 
 ---
 
