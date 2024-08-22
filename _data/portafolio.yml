@@ -33,13 +33,6 @@
   area: 150 metros construidos
   clase: ventas
   precio: 280000000
-- img: apartamento-02-san-jorge-15.webp
-  alt: Apartamento en arriendo en fusagasuga
-  url: arriendo/segundo-apartamento-san-jorge-fusagasuga
-  cta: Alquila apartamento en Fusagasugá
-  area: 90 metros
-  clase: arriendos
-  precio: 1500000
 - img: 1009/casa-bonet-fusagasuga-1.webp
   alt: Casa en venta Bonet Fusagasuga
   url: ventas/casa-bonet-fusagasuga
@@ -54,13 +47,6 @@
   area: 255 metros construidos
   clase: ventas
   precio: 600000000
-- img: apartamento-03-san-jorge-01.webp
-  alt: Apartamento arriendo fusagasuga
-  url: arriendo/arrienda-apartamento-san-jorge-fusagasuga
-  cta: Apartamento Fusagasugá en arriendo en San Jorge
-  area: 90 metros
-  clase: arriendos
-  precio: 1500000
 - img: 1022/casa-campestre-moniquira-10.webp
   alt: Casa quinta en Moniquirá a la venta
   url: ventas/casa-campestre-venta-moniquira
