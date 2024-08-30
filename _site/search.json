@@ -1,27 +1,6 @@
 [
   
   {
-    "title": "✓ Arriendo en Fusagasugá: conjunto cerrado San Jorge",
-    "url": "/arriendo/apartamento-san-jorge-fusagasuga",
-    "precio": 1500000,
-    "tipoInmueble": "En Arriendo"
-  } ,
-  
-  {
-    "title": "✓ Apartamento en arriendo en San Jorge Fusagasugá",
-    "url": "/arriendo/segundo-apartamento-san-jorge-fusagasuga",
-    "precio": 1500000,
-    "tipoInmueble": "En Arriendo"
-  } ,
-  
-  {
-    "title": "✓ Arrienda este apartamento de San Jorge en Fusagasugá",
-    "url": "/arriendo/arrienda-apartamento-san-jorge-fusagasuga",
-    "precio": 1500000,
-    "tipoInmueble": "En Arriendo"
-  } ,
-  
-  {
     "title": "✓ Casa para arrendar en Fusagasugá. Sector El Indio",
     "url": "/arriendo/casa-arriendo-sector-indio-fusagasuga",
     "precio": 3500000,
@@ -37,6 +16,13 @@
   } ,
   
   {
+    "title": "✓ Apartamento en Venta en La Palma Fusagasugá: Moderna, Acogedora",
+    "url": "/ventas/casa-en-la-palma-fusagasuga",
+    "precio": 510000000,
+    "tipoInmueble": "En Venta"
+  } ,
+  
+  {
     "title": "✓ Casa en venta en Fusagasugá, barrio Balmoral",
     "url": "/ventas/casa-venta-fusagasuga-balmoral",
     "precio": 520000000,
@@ -47,13 +33,6 @@
     "title": "✓ Compra Apartamento en Fusagasugá: Lujo y Comodidad",
     "url": "/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga",
     "precio": 420000000,
-    "tipoInmueble": "En Venta"
-  } ,
-  
-  {
-    "title": "✓ Casa en Venta en La Palma Fusagasugá: Moderna, Acogedora",
-    "url": "/ventas/casa-en-la-palma-fusagasuga",
-    "precio": 165000000,
     "tipoInmueble": "En Venta"
   } ,
   
@@ -271,13 +250,6 @@
     "title": "✓ Encantadora casa seminueva: tu próximo hogar en Fusagasugá",
     "url": "/ventas/casa-seminueva-palmar-fusa",
     "precio": 500000000,
-    "tipoInmueble": "En Venta"
-  } ,
-  
-  {
-    "title": "✓ Casa Seminueva en Fusagasugá: Encanto y Comodidad",
-    "url": "/ventas/casa-sector-pekin-fusa",
-    "precio": 240000000,
     "tipoInmueble": "En Venta"
   } ,
   
