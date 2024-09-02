@@ -1,10 +1,12 @@
 ---
 layout: venta
-date: 2024-05-02
+date: 2024-05-02 00:00:00
 permalink: ventas/apartamento-en-venta-cerca-medsalud-fusagasuga
-title: "Compra Apartamento en Fusagasugá: Lujo y Comodidad"
-description: Encuentre lujo y comodidad en Fusagasugá. Apartamentos con diseño moderno y excelente ubicación. !Comienza tu proceso para conseguirlo con LEBEN!
-h1: "Viva en Fusagasugá: Apartamento de Ensueño en Zona Premium"
+title: 'Compra Apartamento en Fusagasugá: Lujo y Comodidad'
+description: >-
+  Encuentre lujo y comodidad en Fusagasugá. Apartamentos con diseño moderno y
+  excelente ubicación. !Comienza tu proceso para conseguirlo con LEBEN!
+h1: 'Viva en Fusagasugá: Apartamento de Ensueño en Zona Premium'
 clase: apartamentos
 img: 1006/apartamento-fusagasuga-moises-3.webp
 alt: Venta apartamento conjunto de Fusagasugá
@@ -103,6 +105,6 @@ Con un precio de **$420.000.000**, este apartamento es una inversión inteligent
 
 Te guiaremos en cada paso del proceso de compra, asegurando una experiencia sin complicaciones.
 
-Este [apartamento en venta en Fusagasugá]({{'ventas'|relative_url}} "Venta casas Fusa") es una oportunidad única para vivir en un lugar de ensueño o realizar una inversión inteligente.
+Este \[apartamento en venta en Fusagasugá\]({{'ventas'|relative_url}} “Venta casas Fusa”) es una oportunidad única para vivir en un lugar de ensueño o realizar una inversión inteligente.
 
 [Contáctanos para conocer más](#asesor) y dar el primer paso hacia tu nuevo hogar.
