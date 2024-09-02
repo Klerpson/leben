@@ -8,7 +8,7 @@ description: >-
   y aprovecha esta oferta.
 h1: Casa-Lote en Fusagasugá
 clase: Casas
-img: taller-2.jpg
+img: taller/taller-2.jpg
 alt: Venta de Casa-Lote, Fusagasugá
 cta: Aprovecha esta Oportunidad
 precio: 530000000
