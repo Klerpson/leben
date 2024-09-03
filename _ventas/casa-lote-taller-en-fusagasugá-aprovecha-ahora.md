@@ -48,4 +48,4 @@ Este lote cuenta con un espacio de 24 m2 de frente por 20 m2 de ancho. Ubicado s
 
 El precio de $1.600.000.000 representa una inversión inteligente en un mercado con gran proyección. Este lote ofrece la oportunidad de construir teniendo valioso potencial económico enfocado en propiedades de múltiples apartamentos.
 
-La extensión del terreno brinda múltiples opciones para expandir o diversificar tus actividades , maximizando así el rendimiento de tu inversión.
+La extensión del terreno brinda múltiples opciones para expandir o diversificar tus actividades, maximizando así el rendimiento de tu inversión.
