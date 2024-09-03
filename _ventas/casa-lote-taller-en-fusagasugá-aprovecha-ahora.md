@@ -24,8 +24,6 @@ garaje: 'Zona de alta valorización '
 servicios: Agua, Luz, Gas
 adicional:
   -
-  -
-  -
 galleryImages:
   - /assets/images/portfolio/taller/taller-1.jpg
   - /assets/images/portfolio/taller/taller-2.jpg
