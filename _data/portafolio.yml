@@ -12,6 +12,13 @@
   area: 12192 metros de terreno
   clase: ventas
   precio: 530000000
+- img: taller/taller-2.jpg
+  alt: 'Lote-Taller en Fusagasugá '
+  url: /ventas/lote-taller-fusagasuga
+  cta: 'Lote-Taller; Oportunidad de negocio '
+  area: 442 m2
+  clase: ventas
+  precio: 1600000000
 - img: 1006/apartamento-fusagasuga-moises-3.webp
   alt: Apartamento venta Fusagasugá
   url: ventas/apartamento-en-venta-cerca-medsalud-fusagasuga
@@ -61,10 +68,3 @@
   area: 130 metros construidos
   clase: ventas
   precio: 335000000
-- img: taller/taller-2.jpg
-  alt: 'Lote-Taller en Fusagasugá '
-  url: /ventas/lote-taller-fusagasuga
-  cta: 'Lote-Taller; Oportunidad de negocio '
-  area: 442 m2
-  clase: ventas
-  precio: 1600000000
