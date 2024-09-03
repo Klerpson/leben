@@ -1,6 +1,6 @@
 ---
 layout: venta
-date: 2024-05-02 00:00:00
+date: 2024-09-02 00:00:00
 permalink: ventas/lote-taller-fusagasuga
 title: Casa-Lote Taller en Fusagasugá Aprovecha ahora
 description: >-
