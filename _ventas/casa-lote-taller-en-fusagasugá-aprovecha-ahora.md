@@ -11,21 +11,21 @@ clase: Casas
 img: taller/taller-2.jpg
 alt: Venta de Casa-Lote, Fusagasugá
 cta: Aprovecha esta Oportunidad
-precio: 530000000
+precio: 1600000000
 propiedad: 145
 intro: Vendo lote-Taller amplio en uno de los sectores más productivos de Fusagasugá
 area: 442 metros cuadrados
-habitacion: 5 habitaciones amplias
-sala: Sala espaciosa e iluminada
-comedor: Comedor en espacio abierto a la sala
-cocina: Cocina iluminada con 1 mesón
-bano: 3 baños amplios
-garaje:
-servicios: Agua, luz y gas
+habitacion: 'Opciones negociables '
+sala: Zona Construida
+comedor: Uso comercial C2
+cocina: 2 escrituras
+bano: 'Papeles al día '
+garaje: 'Zona de alta valorización '
+servicios: Agua, Luz, Gas
 adicional:
-  - Uso comercial C2
-  - 2 escrituras
-  - 'Papeles al día '
+  -
+  -
+  -
 galleryImages:
   - /assets/images/portfolio/taller/taller-1.jpg
   - /assets/images/portfolio/taller/taller-2.jpg
@@ -45,4 +45,9 @@ Bienvenido a la oportunidad única de invertir en una excelente propiedad con al
 
 Este lote cuenta con un espacio de 24 m2 de frente por 20 m2 de ancho. Ubicado sobre una de las calles principales del sector , con alta acreditación y reconocimiento en el sector producto de los años de operación y usado como punto de referencia en la zona .
 
-### Espacios comunes del apartamento en Fusagasugá
+## **Una Inversión con Visión de Futuro**
+{: id="una-inversión-con-visión-de-futuro"}
+
+El precio de $1.600.000.000 representa una inversión inteligente en un mercado con gran proyección. Este lote ofrece la oportunidad de construir teniendo valioso potencial económico enfocado en propiedades de múltiples apartamentos.
+
+La extensión del terreno brinda múltiples opciones para expandir o diversificar tus actividades , maximizando así el rendimiento de tu inversión.
