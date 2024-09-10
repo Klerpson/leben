@@ -64,8 +64,8 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
-  webrick (~> 1.8)
+  jekyll
+  webrick
 
 BUNDLED WITH
    2.5.16

@@ -2,14 +2,12 @@
 layout: venta
 date: 2024-09-02 00:00:00
 permalink: ventas/lote-taller-fusagasuga
-title: Casa-Lote Taller en Fusagasugá Aprovecha ahora
-description: >-
-  ¡Se vende excelente Casa-Lote en Fusagasugá! . Contacta con LEBEN Inmobiliaria
-  y aprovecha esta oferta.
-h1: Casa-Lote en Fusagasugá
+title: Casa-Lote Taller en Fusagasugá. ¡Compra ahora!
+description: ¡Se vende excelente Casa-Lote en Fusagasugá! Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. Invierte en una propiedad con proyección.
+h1: Casa-Lote en venta en Fusagasugá
 clase: Casas
-img: taller/taller-2.jpg
-alt: Venta de Casa-Lote, Fusagasugá
+img: taller/casa-lote-fusagasuga-4.webp
+alt: Foto de la Casa-Lote en venta en Fusagasugá
 cta: Aprovecha esta Oportunidad
 precio: 1600000000
 propiedad: 145
@@ -25,10 +23,10 @@ servicios: Agua, Luz, Gas
 adicional:
   -
 galleryImages:
-  - /assets/images/portfolio/taller/taller-1.jpg
-  - /assets/images/portfolio/taller/taller-2.jpg
-  - /assets/images/portfolio/taller/taller-3.jpg
-  - /assets/images/portfolio/taller/taller-4.jpg
+  - /assets/images/portfolio/taller/casa-lote-fusagasuga-1.webp
+  - /assets/images/portfolio/taller/casa-lote-fusagasuga-2.webp
+  - /assets/images/portfolio/taller/casa-lote-fusagasuga-3.webp
+  - /assets/images/portfolio/taller/casa-lote-fusagasuga-4.webp
 asesor: Sebastián Rincón
 contacto: 3102155237
 foto-asesor: sebastian-rincon-leben.webp

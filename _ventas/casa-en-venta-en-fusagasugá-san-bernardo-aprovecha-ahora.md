@@ -1,12 +1,9 @@
 ---
 layout: venta
 date: 2024-05-02 00:00:00
-permalink: ventas/san-jorge-venta
+permalink: ventas/san-jorge-fusagasuga-casa-venta
 title: Casa en venta en Fusagasugá San Bernardo - Aprovecha ahora
-description: >-
-  ¡Vendo Hermosa casa en uno de los sectores de más alta valorización en
-  Fusagasuga.; Ubicada en el sector del terminal. Contacta con LEBEN
-  Inmobiliaria y aprovecha esta oferta.
+description: ¡Vendo Hermosa casa en uno de los sectores de más alta valorización en Fusagasugá! Ubicada en el sector del terminal. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
 h1: Casa a la venta en San Jorge, Fusagasugá
 clase: Casas
 img: IMG-20230728-WA0019
@@ -14,9 +11,7 @@ alt: Casa en venta en Fusagasugá
 cta: Compra tu casa en Fusagasugá
 precio: 950000000
 propiedad: 144
-intro: >-
-  Vendo hermosa casa en uno de los sectores de más alta valorización en San
-  jorge Fusagasugá
+intro: Hermosa casa en venta en uno de los sectores de más alta valorización en San Jorge, Fusagasugá
 area: 294 metros construidos
 habitacion: 8 habitaciones amplias
 sala: Sala espaciosa e iluminada
@@ -28,7 +23,6 @@ servicios: Agua, luz y gas
 adicional:
   - Zona de lavado
   - A 25 minutos de la zona urbana
-  -
 galleryImages:
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-01.webp
   - /assets/images/portfolio/finca-en-adolfo-san-bernardo-fusagasugá-02.webp

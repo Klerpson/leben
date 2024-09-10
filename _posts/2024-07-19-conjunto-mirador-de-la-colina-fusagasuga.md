@@ -31,7 +31,7 @@ Ahora piensa en los balcones de este conjunto cerrado.
 
 >## Compra esta casa del sector del Conjunto Mirador las Colinas de Fusagasugá  
 >
->![Apartamento en las Colinas de Fusagasugá]({{'/assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-6.webp'}})  
+>![Apartamento en las Colinas de Fusagasugá]({{'assets/images/portfolio/1008/casa-luis-tejar-fusagasuga-6.webp' | relative_url}} "Apartamentos en las Colinas Fusagasuga"){:loading="lazy"}  
 >
 >Es tu oportunidad de tener un apartamento en uno de los mejores lugares de Fusagasugá. Haz clic y entérate más sobre lo que ofrece este gran lugar.
 >
@@ -63,7 +63,7 @@ En cuanto al estacionamiento, el mirador dispone de un área adecuada para que l
 
 ## Comodidades cerca al Mirador de la Colina Fusagasugá
 
-![Entrada del conjunto Mirador las Colinas de Fusagasugá]({{'/assets/images/blog/conjunto-mirador-colina-fusagasuga.webp'}} "Comercio a las afueras del conjunto Mirador de las Colinas")
+![Entrada del conjunto Mirador las Colinas de Fusagasugá]({{'assets/images/blog/conjunto-mirador-colina-fusagasuga.webp' | relative_url }} "Comercio a las afueras del conjunto Mirador de las Colinas"){:loading="lazy"}
 
 Cerca al conjunto del Mirador de la Colina hay muchos lugares de esparcimiento cerca.
 
