@@ -8,11 +8,51 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Aug 2024 15:19:34 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2024 15:19:34 -0500</lastBuildDate>
+    <pubDate>Wed, 11 Sep 2024 16:29:58 -0500</pubDate>
+    <lastBuildDate>Wed, 11 Sep 2024 16:29:58 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
+    
+      
+      <item>
+        <title>Comisiones de arriendo: Lo que debes saber antes de alquilar</title>
+        <description>
+          <![CDATA[
+            
+            <img src="http://localhost:4000/assets/images/blog/comision-inmobiliaria.webp" alt="imagen de el porcentaje de comisiones de arriendo" />
+            
+            ¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta.
+          ]]>
+        </description>
+        <pubDate>Wed, 11 Sep 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/comisiones-arriendo-inmobiliaria</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/comisiones-arriendo-inmobiliaria</guid>
+        
+        <dc:creator>Sebastián Rincón</dc:creator>
+        
+        
+        <description>&lt;p&gt;¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?&lt;/p&gt;
+</description>
+        
+        <content:encoded>
+          <![CDATA[
+            ¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?
+
+En este artículo, te guiaremos a través de todo lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
+
+Así que, directo al punto…
+
+¿Cuánto cobran las inmobiliarias de comisión por alquiler?
+
+La respuesta puede variar ...
+          ]]>
+        </content:encoded>
+        
+        
+        
+      </item>
+      
     
       
       <item>
@@ -633,8 +673,6 @@ Prepárate para descubrir porqué este fascinante municipio es una de las mejore
         
         
       </item>
-      
-    
       
     
       

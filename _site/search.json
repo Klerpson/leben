@@ -16,6 +16,13 @@
   } ,
   
   {
+    "title": "✓ Compra Apartamento en Fusagasugá: Lujo y Comodidad",
+    "url": "/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga",
+    "precio": 420000000,
+    "tipoInmueble": "En Venta"
+  } ,
+  
+  {
     "title": "✓ Apartamento en Venta en La Palma Fusagasugá: Moderna, Acogedora",
     "url": "/ventas/casa-en-la-palma-fusagasuga",
     "precio": 510000000,
@@ -26,13 +33,6 @@
     "title": "✓ Casa en venta en Fusagasugá, barrio Balmoral",
     "url": "/ventas/casa-venta-fusagasuga-balmoral",
     "precio": 520000000,
-    "tipoInmueble": "En Venta"
-  } ,
-  
-  {
-    "title": "✓ Compra Apartamento en Fusagasugá: Lujo y Comodidad",
-    "url": "/ventas/apartamento-en-venta-cerca-medsalud-fusagasuga",
-    "precio": 420000000,
     "tipoInmueble": "En Venta"
   } ,
   
@@ -61,6 +61,13 @@
     "title": "✓ Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad",
     "url": "/ventas/casa-venta-sector-indio-fusagasuga",
     "precio": 690000000,
+    "tipoInmueble": "En Venta"
+  } ,
+  
+  {
+    "title": "✓ Casa en venta en Fusagasugá San Bernardo - Aprovecha ahora",
+    "url": "/ventas/san-jorge-venta",
+    "precio": 950000000,
     "tipoInmueble": "En Venta"
   } ,
   
@@ -258,8 +265,22 @@
     "url": "/ventas/apartamento-cambulos-fusagasuga",
     "precio": 330000000,
     "tipoInmueble": "En Venta"
+  } ,
+  
+  {
+    "title": "✓ Casa-Lote Taller en Fusagasugá Aprovecha ahora",
+    "url": "/ventas/lote-taller-fusagasuga",
+    "precio": 1600000000,
+    "tipoInmueble": "En Venta"
   } 
   ,
+  
+  {
+    "title": "✓ Comisiones de arriendo: Lo que debes saber antes de alquilar",
+    "url": "/blog/comisiones-arriendo-inmobiliaria",
+    "precio": 0,
+    "tipoInmueble": "Publicación"
+  } ,
   
   {
     "title": "✓ Apartamentos en Mirador de la Colina Fusagasugá ¿Compras?",
