@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Comisiones de arriendo: Lo que debes saber antes de alquilar"
+title: "Comisiones de arriendo inmobiliarias: ¿Cuánto pagar?"
 category: Inmobiliaria
 description: "¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta."
-h1: "Comisiones inmobiliarias en Colombia: Lo que necesitas saber antes de arrendar tu propiedad"
+h1: " para inmobiliarias en Colombia por venta de casa"
 hero: comisión_inmobiliaria.webp
 jpg: comisión_inmobiliaria.jpg
-alt: Imagen representativa de las tasas de comisión por alquiler
+alt: Imagen representativa de las tasas de comisión arriendo inmobiliaria
 excerpt: Averigua lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley.
 autor: Sebastián Rincón
 foto: sebastian-rincon-leben.webp
@@ -14,6 +14,11 @@ bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el
 instagram: https://instagram.com/sebastianrincon
 published: no
 ---
+comision arriendo inmobiliaria	
+cuanto cobra una inmobiliaria por arrendar un apartamento
+cuanto cobra una inmobiliaria por arrendar
+que porcentaje cobra una inmobiliaria por arrendar en colombia
+cuanto cobra una inmobiliaria por arrendar en colombia
 ¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?
 
 En este artículo, te guiaremos a través de todo lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
