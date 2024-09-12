@@ -1,0 +1,23 @@
+<section class="calculator-section" aria-labelledby="calculator-title">
+    <h2 id="calculator-title">Calculadora de Comisión Inmobiliaria</h2>
+    <p>
+      Ingresa el valor de la propiedad y el porcentaje de comisión para saber cuánto deberás pagar a la inmobiliaria.
+    </p>
+  
+    <form class="calculator-form" aria-labelledby="calculator-form-title">
+      <div class="form-group">
+        <label for="propertyValue">Valor de la propiedad (COP):</label>
+        <input type="number" id="propertyValue" name="propertyValue" placeholder="Ej. 200000000" aria-required="true" required>
+      </div>
+  
+      <div class="form-group">
+        <label for="commissionRate">Porcentaje de comisión (%):</label>
+        <input type="number" id="commissionRate" name="commissionRate" placeholder="Ej. 3" min="1" max="7" step="0.1" aria-required="true" required>
+      </div>
+  
+      <button type="button" id="calculateBtn" class="btn-get-started">Calcular</button>
+  
+      <p id="result" class="result" aria-live="polite"></p>
+    </form>
+  </section>
+  

@@ -102,7 +102,11 @@ layout: compress
     });
   </script>
     {% endif %}
+    {% if page.url contains "cuanto-se-debe-pagar-a-la-inmobiliaria" %}
+    <script src="{{'/assets/javascripts/calculadora.js' | relative_url }}"> </script>
+    {% endif %}
     
+
 </body>
 
 </html>

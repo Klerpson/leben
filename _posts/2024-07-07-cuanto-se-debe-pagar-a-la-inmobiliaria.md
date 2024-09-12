@@ -2,8 +2,8 @@
 layout: post
 title: ¿Cuánto pagar a la inmobiliaria? Costos para Colombia
 category: Inmobiliaria
-description: Conoce los costos de venta de viviendas en Fusagasugá. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
-excerpt: 'Nuestra inmobiliaria en Fusagasugá te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!'
+description: Conoce los costos de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
+excerpt: 'Nuestra inmobiliaria en Colombia te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!'
 h1: 'Porcentaje para una inmobiliaria ¿Cuánto y cuándo pagar?'
 hero: 'comision-venta-de-casa.webp'
 jpg: 'comision-venta-de-casa.jpg'
@@ -13,11 +13,11 @@ instagram: https://instagram.com/sebastianrincon
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado
 autor: Sebastián Rincón
 ---
-## Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Fusagasugá, Cundinamarca?
+## Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia?
 
 La pregunta "***¿Cuánto se debe pagar a la inmobiliaria?***", resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar **cuanto cobra una inmobiliaria por arrendar un apartamento**.
 
-En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en la región de Cundinamarca en Colombia.
+En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en Colombia.
 
 >Nuestra clara intención es que cuando decidas [comprar tu casas con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
 
@@ -27,11 +27,15 @@ Para comenzar, es relevante entender que los gastos de la inmobiliaria generalme
 
 Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad**.
 
+### Utiliza nuestra calculadora de comisiones de venta con la inmobiliaria
+
+{% include calculadora-comision-inmobiliaria.html %}
+
 ### ¿Quién paga la inmobiliaria en una compra?
 
 Dependiendo del acuerdo, puede ser el vendedor o el comprador, aunque *usualmente se asume que el vendedor es responsable* de estas costos.
 
-Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemos tu casa") con un valor estimado en 200.000.000 de COP en Fusagasugá, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.
+Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemos tu casa") con un valor estimado en 200.000.000 de COP en Colombia, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.
 
 {% include relacionados.html title="Estas son las mejores opciones de casas con el porcentajes bajos de comisión" %}
 
@@ -63,4 +67,4 @@ Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los n
 
 Por eso, nos encanta ser honestos contigo en este tema.
 
-Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Fusagasugá, Cundinamarca. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.
+Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Colombia. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.
