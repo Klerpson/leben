@@ -112,7 +112,7 @@ Estos recursos te brindarán información adicional y te ayudarán a tomar decis
 
 ## Contacta hoy mismo con la mejor agencia inmobiliaria de Fusagasugá
 
-Si deseas obtener más información sobre la búsqueda de propiedades en Fusagasugá o tienes alguna pregunta adicional, no dudes en [ponerte en contacto con nuestro equipo]({{site.whatsapp}}).
+Si deseas obtener más información sobre la búsqueda de propiedades en Fusagasugá o tienes alguna pregunta adicional, no dudes en [ponerte en contacto con nuestro equipo]({{'contacto'|relative_url}}).
 
 Estamos aquí para ayudarte y brindarte el mejor servicio posible.
 
