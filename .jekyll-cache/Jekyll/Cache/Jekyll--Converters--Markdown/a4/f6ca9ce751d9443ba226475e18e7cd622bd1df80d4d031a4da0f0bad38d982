@@ -1,8 +1,8 @@
-I"�&<h2 id="desentrañando-el-costo-cuánto-se-debe-pagar-a-la-inmobiliaria-en-fusagasugá-cundinamarca">Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Fusagasugá, Cundinamarca?</h2>
+I"�&<h2 id="desentrañando-el-costo-cuánto-se-debe-pagar-a-la-inmobiliaria-en-colombia">Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia?</h2>
 
 <p>La pregunta “<strong><em>¿Cuánto se debe pagar a la inmobiliaria?</em></strong>”, resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar <strong>cuanto cobra una inmobiliaria por arrendar un apartamento</strong>.</p>
 
-<p>En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en la región de Cundinamarca en Colombia.</p>
+<p>En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en Colombia.</p>
 
 <blockquote>
   <p>Nuestra clara intención es que cuando decidas <a href="/ventas">comprar tu casas con nuestra inmobiliaria</a> lo puedas hacer con total confianza.</p>
@@ -33,7 +33,7 @@
         <input type="number" id="commissionRate" name="commissionRate" placeholder="Ej. 3" min="1" max="7" step="0.1" aria-required="true" required="" />
       </div>
   
-      <button type="button" id="calculateBtn" class="btn">Calcular</button>
+      <button type="button" id="calculateBtn" class="btn-get-started">Calcular</button>
   
       <p id="result" class="result" aria-live="polite"></p>
     </form>
@@ -43,7 +43,7 @@
 
 <p>Dependiendo del acuerdo, puede ser el vendedor o el comprador, aunque <em>usualmente se asume que el vendedor es responsable</em> de estas costos.</p>
 
-<p>Así, para <a href="/consigna-tu-propiedad" title="Vendemos tu casa">vender una casa</a> con un valor estimado en 200.000.000 de COP en Fusagasugá, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.</p>
+<p>Así, para <a href="/consigna-tu-propiedad" title="Vendemos tu casa">vender una casa</a> con un valor estimado en 200.000.000 de COP en Colombia, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.</p>
 
 <aside class="relacionados flow">
   <h3>Estas son las mejores opciones de casas con el porcentajes bajos de comisión</h3>
@@ -81,7 +81,7 @@
   <a href="/ventas" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
 </aside>
 
-<h2 id="y-cuánto-cobra-inmobiliaria-por-arrendar-apartamento-en-colombia">“Y ¿cuánto cobra inmobiliaria por arrendar apartamento en Colombia?”</h2>
+<h2 id="y-cuánto-cobra-inmobiliaria-por-vender-apartamento-en-colombia">Y ¿cuánto cobra inmobiliaria por vender apartamento en Colombia?</h2>
 
 <p>Generalmente, <strong>esta comisión se estipula entre el 10% y el 20%</strong> del valor del <a href="/arriendo" title="Arrendamos tu casa">arrendamiento</a>.</p>
 
@@ -123,7 +123,7 @@
   <a href="/ventas" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
 </aside>
 
-<h2 id="pero-quién-paga-gastos-de-escritura-de-compraventa">Pero, ¿quién paga gastos de escritura de compraventa?</h2>
+<h3 id="pero-quién-paga-gastos-de-escritura-de-compraventa-por-la-casa-vendida">Pero, ¿quién paga gastos de escritura de compraventa por la casa vendida?</h3>
 
 <p>En Colombia, la ley estipula que <em>ambos, comprador y vendedor</em>, deben asumir estos costos, los cuales incluyen la elaboración del contrato, la gestión de la notaría y los impuestos asociados a la transacción.</p>
 
@@ -135,7 +135,7 @@
 
 <h2 id="en-última-instancia-cuánto-es-el-porcentaje-que-cobra-la-inmobiliaria">En última instancia, ¿cuánto es el porcentaje que cobra la inmobiliaria?</h2>
 
-<p>Es entre el 1 y 3 por ciento. Eso en el mercado Colombiano.</p>
+<p>Es <strong><em>entre el 1 y 3 por ciento</em></strong>. Eso en el mercado Colombiano.</p>
 
 <p>Y, ¿cuándo se paga?</p>
 
@@ -145,5 +145,5 @@
 
 <p>Por eso, nos encanta ser honestos contigo en este tema.</p>
 
-<p>Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Fusagasugá, Cundinamarca. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.</p>
+<p>Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Colombia. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.</p>
 :ET

@@ -76,7 +76,7 @@ Déjanos todas tus inquietudes, pues no encanta asesorar lo mejor posible a nues
 
 ### Déjanos ayudarte en este importante proceso de comprar o vender tu casa
 
-* 🤳 **Líneas de WhatsApp**: 👉 [(+57) 3224736189]({{site.whatsapp}}){:rel="nofollow noopener noreferrer" target="_blank"}
+* 🤳 **Líneas de WhatsApp**: 👉 [(+57) 3224736189](#){:rel="nofollow noopener noreferrer" target="_blank"}
 * 📲 **Líneas de celular**: 👉 [(+57) 3224736189](tel:{{site.tel2}}){:rel="nofollow noopener noreferrer" target="_blank"} - 👉 [(+57) 3160520942](tel:{{site.tel1}}){:rel="nofollow noopener noreferrer" target="_blank"}
 * 🏢 **Dirección**: 👉 [Cl. 19 #5-40 Local 02, Fusagasugá, Cundinamarca]({{site.maps}}){:rel="nofollow noopener noreferrer" target="_blank"}
 * 🕐 **Horarios de atención**: Lunes a viernes: 8:30 am. a 6:00 pm. - Sábado: 8:30 am. a 4:30 pm. - Domingo: Cerrado

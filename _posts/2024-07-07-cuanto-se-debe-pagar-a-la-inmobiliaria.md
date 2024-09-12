@@ -39,7 +39,7 @@ Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemo
 
 {% include relacionados.html title="Estas son las mejores opciones de casas con el porcentajes bajos de comisión" %}
 
-## "Y ¿cuánto cobra inmobiliaria por arrendar apartamento en Colombia?"
+## Y ¿cuánto cobra inmobiliaria por vender apartamento en Colombia?
 
 Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendo' | relative_url}} "Arrendamos tu casa").
 
@@ -47,7 +47,7 @@ Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos
 
 {% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
 
-## Pero, ¿quién paga gastos de escritura de compraventa?
+### Pero, ¿quién paga gastos de escritura de compraventa por la casa vendida?
 
 En Colombia, la ley estipula que *ambos, comprador y vendedor*, deben asumir estos costos, los cuales incluyen la elaboración del contrato, la gestión de la notaría y los impuestos asociados a la transacción.
 
@@ -57,7 +57,7 @@ Al cerrar una venta, es importante entender **qué paga el vendedor de una casa*
 
 ## En última instancia, ¿cuánto es el porcentaje que cobra la inmobiliaria?
 
-Es entre el 1 y 3 por ciento. Eso en el mercado Colombiano.
+Es ***entre el 1 y 3 por ciento***. Eso en el mercado Colombiano.
 
 Y, ¿cuándo se paga?
 
