@@ -13,11 +13,11 @@ instagram: https://instagram.com/sebastianrincon
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado
 autor: Sebastián Rincón
 ---
-## Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia?
+## Conoce el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia por vender tu casa?
+
+Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad**.
 
 La pregunta "***¿Cuánto se debe pagar a la inmobiliaria?***", resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar **cuanto cobra una inmobiliaria por arrendar un apartamento**.
-
-En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en Colombia.
 
 >Nuestra clara intención es que cuando decidas [comprar tu casas con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
 
@@ -25,7 +25,7 @@ En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con tot
 
 Para comenzar, es relevante entender que los gastos de la inmobiliaria generalmente *se calculan como un porcentaje de la transacción que estás realizando*, y esto se conoce como **honorarios de inmobiliaria**.
 
-Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad**.
+En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en Colombia.
 
 ### Utiliza nuestra calculadora de comisiones de venta con la inmobiliaria
 
