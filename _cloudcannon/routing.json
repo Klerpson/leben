@@ -10,5 +10,10 @@
       "status": 301,
       "to": "/blog/comisiones-inmobiliarias-arriendo-colombia"
     }
+    {
+      "from": "/blog/cuanto-se-debe-pagar-a-la-inmobiliaria",
+      "status": 301,
+      "to": "/blog/cuanto-pagar-a-inmobiliaria-por-vender"
+    }
   ]
 }

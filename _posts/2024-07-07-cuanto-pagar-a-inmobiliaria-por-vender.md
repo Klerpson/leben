@@ -1,8 +1,8 @@
 ---
 layout: post
-title: ¿Cuánto pagar a la inmobiliaria? Costos para Colombia
+title: ¿Cuánto pagar a la inmobiliaria de comisión por vender?
 category: Inmobiliaria
-description: Conoce los costos de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
+description: Conoce la comisión de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
 excerpt: 'Nuestra inmobiliaria en Colombia te asiste con los gastos de compraventa. ¡Aprende cuánto cobra una inmobiliaria y ahorra hoy mismo!'
 h1: 'Porcentaje para una inmobiliaria ¿Cuánto y cuándo pagar?'
 hero: 'comision-venta-de-casa.webp'
