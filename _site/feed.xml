@@ -8,8 +8,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Sep 2024 18:45:16 -0500</pubDate>
-    <lastBuildDate>Fri, 13 Sep 2024 18:45:16 -0500</lastBuildDate>
+    <pubDate>Fri, 13 Sep 2024 18:45:59 -0500</pubDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:45:59 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
@@ -137,7 +137,7 @@ Esta ciudad ofrece una amplia gama de apartamentos y oportunidades de inversión
             
             <img src="http://localhost:4000/assets/images/blog/comision-venta-de-casa.webp" alt="Imagen sobre comisión de venta para una inmobiliaria" />
             
-            Conoce los costos de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
+            Conoce la comisión de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
           ]]>
         </description>
         <pubDate>Sun, 07 Jul 2024 00:00:00 -0500</pubDate>
