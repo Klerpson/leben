@@ -19,7 +19,7 @@ Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la 
 
 La pregunta "***¿Cuánto se debe pagar a la inmobiliaria?***", resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar **cuanto cobra una inmobiliaria por arrendar un apartamento**.
 
->Nuestra clara intención es que cuando decidas [comprar tu casas con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
+>Nuestra clara intención es que cuando decidas [comprar o vender tu casa con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
 
 ## Los gastos de la comisión con una inmobiliaria
 
@@ -41,7 +41,7 @@ Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemo
 
 ## Y ¿cuánto cobra inmobiliaria por vender apartamento en Colombia?
 
-Generalmente, **esta comisión se estipula entre el 10% y el 20%** del valor del [arrendamiento]({{'arriendo' | relative_url}} "Arrendamos tu casa").
+Normalmente, al menos en [Leben Inmobiliaria](/), solemos cobrar el mismo porcentaje que ya te mencionamos por [vender o conseguir tu apartamento con mayor prontitud]({% post_url 2024-06-28-apartamentos-en-fusagasuga %} "Apartamentos fusagasuga").
 
 Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, [impuestos prediales]({% post_url 2024-01-16-impuesto-predial-fusagasuga %} "Impuesto predial Fusa") y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
 
@@ -57,7 +57,7 @@ Al cerrar una venta, es importante entender **qué paga el vendedor de una casa*
 
 ## En última instancia, ¿cuánto es el porcentaje que cobra la inmobiliaria?
 
-Es ***entre el 1 y 3 por ciento***. Eso en el mercado Colombiano.
+Es ***entre el 3 y 7 por ciento***. Eso en el mercado Colombiano.
 
 Y, ¿cuándo se paga?
 
