@@ -67,4 +67,6 @@ Finalmente, antes de iniciar cualquier acuerdo, _asegúrate de tener todos los n
 
 Por eso, nos encanta ser honestos contigo en este tema.
 
+>En el artículo de [comisiones por arriendo]({% post_url 2024-08-04-comisiones-inmobiliarias-arriendo-colombia %}) te explicamos los porcentajes por [administrar tu casa en consignación]({{'consigna-tu-propiedad' | relative_url }}).
+
 Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Colombia. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.
