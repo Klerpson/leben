@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Comisiones de arriendo: Lo que debes saber antes de alquilar"
-description: "¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta."
+title: "Comisiones de arriendo: ¿Cuánto pagar a la inmobiliaria?"
+description: "¿Buscas arrendar? Conoce las comisiones de nuestra inmobiliaria en Colombia, los porcentajes y servicios incluidos. Maximiza tus ganancias con nosotros"
+category: Arriendo
 h1: "Comisiones inmobiliarias en Colombia: Lo que necesitas saber antes de arrendar tu propiedad"
 hero: 'comision-inmobiliaria.webp'
-alt: imagen de el porcentaje de comisiones de arriendo 
-# excerpt: No te pierdas nuestra guía completa sobre el uso de SINFA para el impuesto predial en Fusagasugá. Aprende sobre plazos, descuentos, opciones de pago y más. ¡Cumple con tu deber ciudadano!
+jpg: 'comision-inmobiliaria.jpg'
+alt: Imagen que representa monedas con porcentaje de comisiones
+excerpt: Te gustaría dejar tu casa o apartamento en consignación, pero no sabes qué comisión pagar a una inmobiliaria por arrendar tu casa. Pues te contamos cómo lo hacemos en Leben.
 autor: Sebastián Rincón
 foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
-
 ¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?
 
 En este artículo, te guiaremos a través de todo lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
@@ -46,7 +47,7 @@ Según esta ley, las inmobiliarias deben:
 2. Proporcionar un contrato claro que especifique las responsabilidades de todas las partes involucradas.  
 3. Respetar los derechos tanto del arrendador como del arrendatario.
 
-💡 Aunque no hay un límite legal para las comisiones, todas las inmobiliarias suelen mantener sus tarifas dentro de rangos razonables.
+>💡 Aunque no hay un límite legal para las comisiones, todas las inmobiliarias suelen mantener sus tarifas dentro de rangos razonables.
 
 ## ¿Qué factores influyen en el costo de rentar una propiedad a través de una inmobiliaria?
 
@@ -58,7 +59,7 @@ Si se incluyen **servicios** como seguridad, mantenimiento, áreas comunes, esta
 
 Un contrato de alquiler a largo plazo puede tener condiciones y costos diferentes en comparación con contratos de corto plazo, lo que hace que la **duración del contrato** sea un factor a tener en cuenta.
 
-## ¿Quién paga la comisión?
+## ¿Quién paga la comisión a la inmobiliaria en Colombia?
 
 En Colombia, **generalmente es el propietario** quien paga la comisión de la inmobiliaria por el alquiler. Aunque, en algunos casos, el costo puede ser compartido entre el propietario y el inquilino.
 
@@ -97,7 +98,7 @@ Estos son algunos:
 5. **Gestión de mantenimiento y reparaciones menores:** Coordinar y gestionar servicios de mantenimiento o reparaciones en la propiedad durante el periodo de alquiler, asegurando que la propiedad se mantenga en buen estado.  
 6. **Mediación entre tú y el inquilino:** Actuar como intermediario en caso de conflictos o problemas entre el propietario y el inquilino, buscando soluciones y asegurando una relación fluida entre ambas partes.
 
-💡 Es importante preguntar detalladamente qué servicios están incluidos en la comisión antes de firmar un acuerdo con una inmobiliaria.
+>💡 Es importante preguntar detalladamente qué servicios están incluidos en la comisión antes de firmar un acuerdo con una inmobiliaria.
 
 ## Beneficios de pagar las comisiones de arriendo a la inmobiliaria
 
@@ -124,7 +125,7 @@ Aquí te dejamos algunos consejos:
 4. Considera ofrecer exclusividad a cambio de una comisión más baja.  
 5. Si tienes varias propiedades, negocia una tarifa por volumen.
 
-💡 Recuerda que una buena negociación debe resultar en un acuerdo beneficioso tanto para ti como para la inmobiliaria.
+>💡 Recuerda que una buena negociación debe resultar en un acuerdo beneficioso tanto para ti como para la inmobiliaria.
 
 ## En conclusión: ¿Vale la pena pagar las comisiones inmobiliarias?
 
