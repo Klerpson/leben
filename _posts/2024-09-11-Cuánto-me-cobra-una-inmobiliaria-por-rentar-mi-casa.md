@@ -32,6 +32,9 @@ El costo del corretaje inmobiliario para apartamentos suele ser similar al de la
 
 En algunas ciudades donde el mercado de apartamentos es más competitivo, las comisiones pueden ser ligeramente más bajas y rondar **entre el 7% y 9% del valor del arrendamiento**.
 
+[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="btn-get-started" target="_blank"}
+
+
 ## ¿Qué dice la ley Colombiana sobre las comisiones inmobiliarias?
 
 En Colombia, **no existe una ley específica** que regule el monto de las comisiones inmobiliarias.
@@ -142,4 +145,4 @@ Recuerda siempre leer cuidadosamente los contratos, entender todos los costos in
 
 Ya sea que decidas utilizar los servicios de **la mejor inmobiliaria** o manejar el alquiler por tu cuenta, esperamos que esta guía te haya proporcionado la información necesaria para que tomes la mejor decisión para ti y tu hogar.
 
-📢 ¿Quieres saber cómo funcionan las comisiones en LEBEN? **Contacta ahora con nuestros profesionales** y haz todas tus preguntas.
+📢 ¿Quieres saber cómo funcionan las comisiones en LEBEN? [**Contacta ahora con nuestros profesionales**]({{ 'contacto' | relative_url }}){:title="Contacto Leben Inmobiliaria" target="_blank"} y haz todas tus preguntas.
