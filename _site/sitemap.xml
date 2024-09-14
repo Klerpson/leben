@@ -24,7 +24,11 @@
     
       <url>
         <loc>http://localhost:4000/blog</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -37,7 +41,11 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -50,7 +58,11 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -66,7 +78,11 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -82,7 +98,11 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -98,7 +118,11 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -111,7 +135,11 @@
     
       <url>
         <loc>http://localhost:4000/simulador-gastos-notariales-colombia</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -127,7 +155,11 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
+<<<<<<< HEAD
         <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+        <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -246,7 +278,11 @@
   
     <url>
       <loc>http://localhost:4000/ventas/casa-venta-sector-indio-fusagasuga</loc>
+<<<<<<< HEAD
       <lastmod>2024-09-14T10:10:35-05:00</lastmod>
+=======
+      <lastmod>2024-09-13T18:53:40-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -729,16 +765,27 @@
   
   
     <url>
+<<<<<<< HEAD
       <loc>http://localhost:4000/blog/cu%C3%A1nto-me-cobra-una-inmobiliaria-por-rentar-mi-casa</loc>
       <lastmod>2024-09-11T00:00:00-05:00</lastmod>
+=======
+      <loc>http://localhost:4000/blog/comisiones-inmobiliarias-arriendo-colombia</loc>
+      <lastmod>2024-08-04T00:00:00-05:00</lastmod>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
+        <image:image>
+          <image:loc>http://localhost:4000/assets/images/blog/comision_inmobiliaria.jpg</image:loc>
+          <image:title>Comisiones de arriendo inmobiliarias: ¿Cuánto pagar?</image:title>
+          <image:caption>Imagen representativa de las tasas de comision arriendo inmobiliaria</image:caption>
+        </image:image>
+      
       
         <image:image>
-          <image:loc>http://localhost:4000/assets/images/blog/comision-inmobiliaria.webp</image:loc>
-          <image:title>Comisiones de arriendo: Lo que debes saber antes de alquilar</image:title>
-          <image:caption>imagen de el porcentaje de comisiones de arriendo</image:caption>
+          <image:loc>http://localhost:4000/assets/images/blog/comision_inmobiliaria.webp</image:loc>
+          <image:title>Comisiones de arriendo inmobiliarias: ¿Cuánto pagar?</image:title>
+          <image:caption>Imagen representativa de las tasas de comision arriendo inmobiliaria</image:caption>
         </image:image>
       
     </url>
@@ -786,21 +833,21 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/blog/cuanto-se-debe-pagar-a-la-inmobiliaria</loc>
+      <loc>http://localhost:4000/blog/cuanto-pagar-a-inmobiliaria-por-vender</loc>
       <lastmod>2024-07-07T00:00:00-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/blog/comision-venta-de-casa.jpg</image:loc>
-          <image:title>¿Cuánto pagar a la inmobiliaria? Costos para Colombia</image:title>
+          <image:title>¿Cuánto pagar a la inmobiliaria de comisión por vender?</image:title>
           <image:caption>Imagen sobre comisión de venta para una inmobiliaria</image:caption>
         </image:image>
       
       
         <image:image>
           <image:loc>http://localhost:4000/assets/images/blog/comision-venta-de-casa.webp</image:loc>
-          <image:title>¿Cuánto pagar a la inmobiliaria? Costos para Colombia</image:title>
+          <image:title>¿Cuánto pagar a la inmobiliaria de comisión por vender?</image:title>
           <image:caption>Imagen sobre comisión de venta para una inmobiliaria</image:caption>
         </image:image>
       

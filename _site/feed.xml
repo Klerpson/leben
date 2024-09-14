@@ -16,39 +16,46 @@
     
       
       <item>
-        <title>Comisiones de arriendo: Lo que debes saber antes de alquilar</title>
+        <title>Comisiones de arriendo inmobiliarias: ¿Cuánto pagar?</title>
         <description>
           <![CDATA[
             
-            <img src="http://localhost:4000/assets/images/blog/comision-inmobiliaria.webp" alt="imagen de el porcentaje de comisiones de arriendo" />
+            <img src="http://localhost:4000/assets/images/blog/comision_inmobiliaria.webp" alt="Imagen representativa de las tasas de comision arriendo inmobiliaria" />
             
             ¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta.
           ]]>
         </description>
+<<<<<<< HEAD
         <pubDate>Wed, 11 Sep 2024 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/blog/cu%C3%A1nto-me-cobra-una-inmobiliaria-por-rentar-mi-casa</link>
         <guid isPermaLink="true">http://localhost:4000/blog/cu%C3%A1nto-me-cobra-una-inmobiliaria-por-rentar-mi-casa</guid>
+=======
+        <pubDate>Sun, 04 Aug 2024 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/comisiones-inmobiliarias-arriendo-colombia</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/comisiones-inmobiliarias-arriendo-colombia</guid>
+>>>>>>> fb107b5b85d4286b77f49911c89eac610f148d14
         
         <dc:creator>Sebastián Rincón</dc:creator>
         
         
-        <description>&lt;p&gt;¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?&lt;/p&gt;
-</description>
+        <description>Averigua lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley.</description>
         
         <content:encoded>
           <![CDATA[
             ¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?
 
-En este artículo, te guiaremos a través de todo lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
+En este artículo, te explicamos el porcentaje que cobra una inmobiliaria por arrendar en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
 
 Así que, directo al punto…
 
-¿Cuánto cobran las inmobiliarias de comisión por alquiler?
+¿Cuánto cobra de comisión por arriendo la inmobiliaria?
 
-La respuesta puede variar ...
+La respuesta puede variar dependiendo de varios...
           ]]>
         </content:encoded>
         
+        
+        <category>Inmobiliaria</category>
         
         
       </item>
@@ -130,18 +137,18 @@ Esta ciudad ofrece una amplia gama de apartamentos y oportunidades de inversión
     
       
       <item>
-        <title>¿Cuánto pagar a la inmobiliaria? Costos para Colombia</title>
+        <title>¿Cuánto pagar a la inmobiliaria de comisión por vender?</title>
         <description>
           <![CDATA[
             
             <img src="http://localhost:4000/assets/images/blog/comision-venta-de-casa.webp" alt="Imagen sobre comisión de venta para una inmobiliaria" />
             
-            Conoce los costos de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
+            Conoce la comisión de venta de viviendas en Colombia. Explicamos cómo se calculan los honorarios inmobiliarios y ayudamos a suavizar el proceso.
           ]]>
         </description>
         <pubDate>Sun, 07 Jul 2024 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/cuanto-se-debe-pagar-a-la-inmobiliaria</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/cuanto-se-debe-pagar-a-la-inmobiliaria</guid>
+        <link>http://localhost:4000/blog/cuanto-pagar-a-inmobiliaria-por-vender</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/cuanto-pagar-a-inmobiliaria-por-vender</guid>
         
         <dc:creator>Sebastián Rincón</dc:creator>
         
@@ -150,11 +157,11 @@ Esta ciudad ofrece una amplia gama de apartamentos y oportunidades de inversión
         
         <content:encoded>
           <![CDATA[
-            Desentrañando el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia?
+            Conoce el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia por vender tu casa?
 
-La pregunta “¿Cuánto se debe pagar a la inmobiliaria?”, resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar cuanto cobra una inmobiliaria por arrendar un apartamento.
+Este costo suele variar, pero para tener una idea, el porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad.
 
-En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y...
+La pregunta “¿Cuánto se debe pagar a la inmobiliaria?”, resuena frecuentemente en los interesados en comprar, vender o arrendar un...
           ]]>
         </content:encoded>
         
