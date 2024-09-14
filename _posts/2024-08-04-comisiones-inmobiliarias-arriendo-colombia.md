@@ -113,6 +113,8 @@ Piensa en esto:
 
 ¿Verdad que estos beneficios superan por un 1.000% al costo de la comisión?
 
+[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="btn-get-started" target="_blank"}
+
 ## Consejos para negociar comisiones inmobiliarias
 
 Si bien las comisiones inmobiliarias en Colombia tienen rangos estándar, siempre hay espacio para la negociación.
