@@ -8,21 +8,21 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Sep 2024 10:48:34 -0500</pubDate>
-    <lastBuildDate>Sat, 14 Sep 2024 10:48:34 -0500</lastBuildDate>
+    <pubDate>Sat, 14 Sep 2024 12:15:33 -0500</pubDate>
+    <lastBuildDate>Sat, 14 Sep 2024 12:15:33 -0500</lastBuildDate>
     <language>es-CO</language>
     <generator>Jekyll v4.2.2</generator>
     
     
       
       <item>
-        <title>Comisiones de arriendo: Lo que debes saber antes de alquilar</title>
+        <title>Comisiones de arriendo: ¿Cuánto pagar a la inmobiliaria?</title>
         <description>
           <![CDATA[
             
-            <img src="http://localhost:4000/assets/images/blog/comision-inmobiliaria.webp" alt="imagen de el porcentaje de comisiones de arriendo" />
+            <img src="http://localhost:4000/assets/images/blog/comision-inmobiliaria.webp" alt="Imagen que representa monedas con porcentaje de comisiones" />
             
-            ¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta.
+            ¿Buscas arrendar? Conoce las comisiones de nuestra inmobiliaria en Colombia, los porcentajes y servicios incluidos. Maximiza tus ganancias con nosotros
           ]]>
         </description>
         <pubDate>Sun, 04 Aug 2024 00:00:00 -0500</pubDate>
@@ -32,8 +32,7 @@
         <dc:creator>Sebastián Rincón</dc:creator>
         
         
-        <description>&lt;p&gt;¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?&lt;/p&gt;
-</description>
+        <description>Te gustaría dejar tu casa o apartamento en consignación, pero no sabes qué comisión pagar a una inmobiliaria por arrendar tu casa. Pues te contamos cómo lo hacemos en Leben.</description>
         
         <content:encoded>
           <![CDATA[
@@ -49,6 +48,8 @@ La respuesta puede variar ...
           ]]>
         </content:encoded>
         
+        
+        <category>Arriendo</category>
         
         
       </item>
