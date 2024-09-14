@@ -1,37 +1,38 @@
 ---
 layout: post
-title: "Comisiones de arriendo inmobiliarias: ¿Cuánto pagar?"
-category: Inmobiliaria
+title: "Comisiones de arriendo: Lo que debes saber antes de alquilar"
 description: "¿Buscas arrendar? Conoce las comisiones inmobiliarias en Colombia, desde porcentajes hasta servicios incluidos. Maximiza tus ganancias con nuestra guía experta."
-h1: "¿Cuánto cobra una inmobiliaria por arrendar? Te lo contamos todo!"
-hero: comision_inmobiliaria.webp
-jpg: comision_inmobiliaria.jpg
-alt: Imagen representativa de las tasas de comision arriendo inmobiliaria
-excerpt: Averigua lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley.
+h1: "Comisiones inmobiliarias en Colombia: Lo que necesitas saber antes de arrendar tu propiedad"
+hero: 'comision-inmobiliaria.webp'
+alt: imagen de el porcentaje de comisiones de arriendo 
+# excerpt: No te pierdas nuestra guía completa sobre el uso de SINFA para el impuesto predial en Fusagasugá. Aprende sobre plazos, descuentos, opciones de pago y más. ¡Cumple con tu deber ciudadano!
 autor: Sebastián Rincón
 foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
+
 ¿Estás pensando en arrendar tu casa o apartamento con ayuda de una inmobiliaria?
 
-En este artículo, te explicamos el porcentaje que cobra una inmobiliaria por arrendar en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
+En este artículo, te guiaremos a través de todo lo que necesitas saber sobre las comisiones de arriendo en Colombia para 2024, desde cuánto cobran las inmobiliarias hasta qué dice la ley al respecto.
 
 Así que, directo al punto…
 
-## ¿Cuánto cobra de comisión por arriendo la inmobiliaria?
+## ¿Cuánto cobran las inmobiliarias de comisión por alquiler?
 
 La respuesta puede variar dependiendo de varios factores, pero generalmente, **las comisiones inmobiliarias en Colombia oscilan entre el 8% y el 10% del canon de arrendamiento mensual**.
 
-Por ejemplo, [si tu propiedad se alquila en Fusagasugá]({{'arriendo' | relative_url }} "Propiedades en arriendo en Fusagasugá"){:target="_blank"} por 1,000,000 de pesos colombianos (COP) al mes, la comisión de la inmobiliaria podría ser de 80,000 a 100,000 COP mensuales.
+Por ejemplo, si tu propiedad se alquila por 1,000,000 de pesos colombianos (COP) al mes, la comisión de la inmobiliaria podría ser de 80,000 a 100,000 COP mensuales.
 
 Es importante tener en cuenta que **este porcentaje puede variar** según la ciudad, el tipo de propiedad y los servicios ofrecidos por la inmobiliaria.
 
-## ¿Cuánto cobra una inmobiliaria por arrendar un apartamento en Colombia?
+### ¿Cuánto cobra una inmobiliaria por arrendar un apartamento en Colombia?
 
 El costo del corretaje inmobiliario para apartamentos suele ser similar al de las casas.
 
 En algunas ciudades donde el mercado de apartamentos es más competitivo, las comisiones pueden ser ligeramente más bajas y rondar **entre el 7% y 9% del valor del arrendamiento**.
+
+[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="btn-get-started" target="_blank"}
 
 ## ¿Qué dice la ley Colombiana sobre las comisiones inmobiliarias?
 
@@ -45,11 +46,11 @@ Según esta ley, las inmobiliarias deben:
 2. Proporcionar un contrato claro que especifique las responsabilidades de todas las partes involucradas.  
 3. Respetar los derechos tanto del arrendador como del arrendatario.
 
->💡 Aunque no hay un límite legal para las comisiones, todas las inmobiliarias suelen mantener sus tarifas dentro de rangos razonables.
+💡 Aunque no hay un límite legal para las comisiones, todas las inmobiliarias suelen mantener sus tarifas dentro de rangos razonables.
 
 ## ¿Qué factores influyen en el costo de rentar una propiedad a través de una inmobiliaria?
 
-La **ubicación** de la propiedad es uno de los factores más importantes. Las áreas céntricas, bien comunicadas y con acceso a servicios u otras comodidades, en [buenos barrios de la ciudad]({% post_url 2024-04-05-mejores-barrios-para-vivir-fusagasuga %} "Mejores barrios para vivir en Fusagasugá"), suelen tener rentas más altas.
+La **ubicación** de la propiedad es uno de los factores más importantes. Las áreas céntricas, bien comunicadas y con acceso a servicios u otras comodidades, suelen tener rentas más altas.
 
 El **tamaño y tipo de propiedad** también afecta el costo: número de habitaciones, baños, metros cuadrados, si es una casa o un departamento, etc.
 
@@ -96,7 +97,7 @@ Estos son algunos:
 5. **Gestión de mantenimiento y reparaciones menores:** Coordinar y gestionar servicios de mantenimiento o reparaciones en la propiedad durante el periodo de alquiler, asegurando que la propiedad se mantenga en buen estado.  
 6. **Mediación entre tú y el inquilino:** Actuar como intermediario en caso de conflictos o problemas entre el propietario y el inquilino, buscando soluciones y asegurando una relación fluida entre ambas partes.
 
->💡 Es importante preguntar detalladamente qué servicios están incluidos en la comisión antes de firmar un acuerdo con una inmobiliaria.
+💡 Es importante preguntar detalladamente qué servicios están incluidos en la comisión antes de firmar un acuerdo con una inmobiliaria.
 
 ## Beneficios de pagar las comisiones de arriendo a la inmobiliaria
 
@@ -106,7 +107,7 @@ Piensa en esto:
 
 * **Ahorras tiempo:** La inmobiliaria no solo dispone de los recursos y plataformas para publicar tu propiedad efectivamente, también, tiene una red extensa de clientes e inversionistas. Lo que le permite encontrar los mejores inquilinos rápidamente.  
 * **No te preocupas por la parte legal:** Una inmobiliaria (al menos una buena) se asegura de que todo el proceso de arrendamiento cumpla con las leyes y regulaciones pertinentes para evitar sanciones y está al tanto de cambios en la legislación, informándote sobre cualquier modificación que necesites hacer.  
-* **¡Se acaban las peleas con inquilinos!**: En caso de que sufras un conflicto, la inmobiliaria actúa como intermediario entre tú y el inquilino. Si se presenta cualquier violación al contrato de arrendamiento, la inmobiliaria se hace cargo legalmente y se asegura de que se impongan las medidas necesarias.  
+* **¡Se acaban las peleas con inquilinos\!**: En caso de que sufras un conflicto, la inmobiliaria actúa como intermediario entre tú y el inquilino. Si se presenta cualquier violación al contrato de arrendamiento, la inmobiliaria se hace cargo legalmente y se asegura de que se impongan las medidas necesarias.  
 * **El dinero te llega puntal, sin excusas:** La experiencia y los recursos de la inmobiliaria te protegen contra imprevistos y te garantizan el pago mensual de la renta. Podrás centrarte en otras actividades, sabiendo que tu propiedad está en manos de profesionales.
 
 ¿Verdad que estos beneficios superan por un 1.000% al costo de la comisión?
@@ -123,7 +124,7 @@ Aquí te dejamos algunos consejos:
 4. Considera ofrecer exclusividad a cambio de una comisión más baja.  
 5. Si tienes varias propiedades, negocia una tarifa por volumen.
 
->💡 Recuerda que una buena negociación debe resultar en un acuerdo beneficioso tanto para ti como para la inmobiliaria.
+💡 Recuerda que una buena negociación debe resultar en un acuerdo beneficioso tanto para ti como para la inmobiliaria.
 
 ## En conclusión: ¿Vale la pena pagar las comisiones inmobiliarias?
 
@@ -143,4 +144,4 @@ Recuerda siempre leer cuidadosamente los contratos, entender todos los costos in
 
 Ya sea que decidas utilizar los servicios de **la mejor inmobiliaria** o manejar el alquiler por tu cuenta, esperamos que esta guía te haya proporcionado la información necesaria para que tomes la mejor decisión para ti y tu hogar.
 
-📢 ¿Quieres saber cómo funcionan las comisiones en LEBEN? **Contacta ahora con nuestros profesionales** y haz todas tus preguntas.
+📢 ¿Quieres saber cómo funcionan las comisiones en LEBEN? [**Contacta ahora con nuestros profesionales**]({{ 'contacto' | relative_url }}){:title="Contacto Leben Inmobiliaria" target="_blank"} y haz todas tus preguntas.
