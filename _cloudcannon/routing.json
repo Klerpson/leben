@@ -3,13 +3,13 @@
     {
       "from": "/arriendos",
       "status": 301,
-      "to": "/arriendo"
-    }
+      "to": "/arriendo-casas-y-apartamentos"
+    },
     {
       "from": "/blog/comisiones-inmobiliarias-en-colombia",
       "status": 301,
       "to": "/blog/comisiones-inmobiliarias-arriendo-colombia"
-    }
+    },
     {
       "from": "/blog/cuanto-se-debe-pagar-a-la-inmobiliaria",
       "status": 301,
