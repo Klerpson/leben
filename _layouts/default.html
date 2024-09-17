@@ -71,7 +71,6 @@ layout: compress
   <script async>
     const filterButtons = document.querySelectorAll(".blog-tags button");
     const filterPosts = document.querySelectorAll(".posts .post");
-  
     const filter = e => {
       filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
   
@@ -79,7 +78,6 @@ layout: compress
         post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
       });
     };
-  
     filterButtons.forEach(button => button.addEventListener("click", filter));
     </script>
 {% endif %}
