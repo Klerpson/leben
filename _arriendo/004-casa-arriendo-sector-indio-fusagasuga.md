@@ -1,6 +1,5 @@
 ---
 layout: venta
-permalink: arriendo/casa-arriendo-sector-indio-fusagasuga
 date: 2024-05-02
 title: "Casa para arrendar en Fusagasugá. Sector El Indio"
 description: ¿Buscas casa en Fusagasugá para arrendar? Aprovecha esta propiedad de lujo con amenidades únicas. ¡Agenda tu visita hoy! Contacta con LEBEN inmobiliaria

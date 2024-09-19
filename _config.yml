@@ -26,10 +26,10 @@ compress_html:
 collections:
   ventas:
     output: true
-    permalink: /ventas/:path
+    permalink: /ventas-casas-y-apartamentos/:path
   arriendo:
     output: true
-    permalink: /arriendo/:path
+    permalink: /arriendo-casas-y-apartamentos/:path
   posts:
     output: true
     permalink: /blog/:slug
