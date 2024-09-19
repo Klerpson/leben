@@ -1,7 +1,6 @@
 ---
 layout: venta
 date: 2024-09-02 00:00:00
-permalink: ventas/lote-taller-fusagasuga
 title: Casa-Lote Taller en Fusagasugá. ¡Compra ahora!
 description: ¡Se vende excelente Casa-Lote en Fusagasugá! Contacta con LEBEN Inmobiliaria y aprovecha esta oferta. Invierte en una propiedad con proyección.
 h1: Casa-Lote en venta en Fusagasugá
