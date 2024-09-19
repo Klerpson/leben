@@ -7,13 +7,13 @@ layout: default
 <section id="portfolio" class="portfolio">
   <div class="container">
     <div>
-      {% if page.url == "/ventas" %}
+      {% if page.url == "/ventas-casas-y-apartamentos" %}
       <div>
         <h2>Casas, apartamentos y fincas en venta en Fusagasugá</h2>
         <p class="propiedades">Estas son las ofertas de <strong>casas, fincas y apartamentos que están en venta en Fusagasugá</strong>. Haz clic en el que más te guste:</p>
       </div>
       {% endif %}
-      {% if page.url == "/arriendo" %}
+      {% if page.url == "/arriendo-casas-y-apartamentos" %}
       <div>
         <h2>Casas, apartamentos y fincas en arriendo en Fusagasugá</h2>
         <p class="propiedades">Estas son las ofertas de <strong>casas, apartamentos o fincas que están en arriendo en la ciudad de Fusagasugá</strong>. Haz clic en el que más te guste:</p>
@@ -29,7 +29,7 @@ layout: default
       <button data-name="quintas">Quintas</button>
     </div>
     <div class="posts">
-      {% if page.url == "/ventas" %}
+      {% if page.url == "/ventas-casas-y-apartamentos" %}
       {% for item in site.ventas %}
       <article class="post portafolio_item" data-name="{{ item.clase }}">
         <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy" title="Inmobiliaria Fusagasuga: {{item.title}}">
@@ -43,7 +43,7 @@ layout: default
       </article>
       {% endfor %}
       {% endif %}
-      {% if page.url == "/arriendo" %}
+      {% if page.url == "/arriendo-casas-y-apartamentos" %}
       {% for item in site.arriendo %}
       <article class="post portafolio_item" data-name="{{ item.clase }}">
         <img src="{{site.baseurl}}/assets/images/arriendo/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy" title="Inmobiliaria Fusagasuga: {{item.title}}">
