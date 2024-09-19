@@ -22,10 +22,10 @@ layout: compress
       ${{page.precio | number_with_delimiter: '.' }}{% if page.url contains "arriendo/" %} más servicios{% else %} negociables {% endif %}
     </span>
     
-    {% if page.url contains "/ventas/" %}
+    {% if page.url contains "/ventas-casas-y-apartamentos/" %}
     <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="{{page.alt}}" title="{{page.title}}">
     {% endif %}
-    {% if page.url contains "/arriendo/" %}
+    {% if page.url contains "/arriendo-casas-y-apartamentos/" %}
     <img src="{{site.baseurl}}/assets/images/arriendo/{{page.img}}" alt="{{page.alt}}" title="{{page.title}}">
     {% endif %}
   </div>
