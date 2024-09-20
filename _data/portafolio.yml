@@ -5,23 +5,23 @@
   area: 250 metros construidos
   clase: arriendos
   precio: 3500000
-- img: finca-en-adolfo-san-bernardo-fusagasugá-01.webp
-  alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
-  url: ventas-casas-y-apartamentos/finca-venta-chinauta-fusagasuga
-  cta: Hermosa finca productora en Fusagasugá
-  area: 12192 metros de terreno
-  clase: ventas
-  precio: 530000000
 - img: taller/casa-lote-fusagasuga-4.webp
   alt: 'Lote-Taller en venta en Fusagasugá'
-  url: /ventas-casas-y-apartamentos/lote-taller-fusagasuga
+  url: /ventas-casas-y-apartamentos/casa-lote-taller-en-fusagasuga
   cta: 'Lote-Taller: Oportunidad de negocio'
   area: 442 m2
   clase: ventas
   precio: 1600000000
+- img: finca-en-adolfo-san-bernardo-fusagasugá-01.webp
+  alt: Venta de finca en Adolfo San Bernardo, Fusagasugá
+  url: ventas-casas-y-apartamentos/finca-chinauta-fusagasuga
+  cta: Hermosa finca productora en Fusagasugá
+  area: 12192 metros de terreno
+  clase: ventas
+  precio: 530000000
 - img: 1006/apartamento-fusagasuga-moises-3.webp
   alt: Apartamento venta Fusagasugá
-  url: ventas-casas-y-apartamentos/apartamento-en-venta-cerca-medsalud-fusagasuga
+  url: ventas-casas-y-apartamentos/apartamento-en-fusagasuga
   cta: Invierta en tu futuro - apartamento en Fusagasugá
   area: 114 metros construidos
   clase: ventas
@@ -35,7 +35,7 @@
   precio: 165000000
 - img: 1008/casa-luis-tejar-fusagasuga-22.webp
   alt: Frente casa nueva en venta Fusagasuga
-  url: ventas-casas-y-apartamentos/casa-nueva-en-venta-fusagasuga
+  url: ventas-casas-y-apartamentos/casa-nueva-en-fusagasuga
   cta: Casa para estrenar en Fusagasugá
   area: 150 metros construidos
   clase: ventas
@@ -56,7 +56,7 @@
   precio: 600000000
 - img: 1022/casa-campestre-moniquira-10.webp
   alt: Casa quinta en Moniquirá a la venta
-  url: ventas-casas-y-apartamentos/casa-campestre-venta-moniquira
+  url: ventas-casas-y-apartamentos/casa-campestre-moniquira
   cta: 'Oportunidad Única: Casa Moniquirá con Piscina'
   area: 130 metros cuadrados
   clase: ventas
