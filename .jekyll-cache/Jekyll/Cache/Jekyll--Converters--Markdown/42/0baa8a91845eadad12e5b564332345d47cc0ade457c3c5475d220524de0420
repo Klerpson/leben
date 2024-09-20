@@ -1,0 +1,153 @@
+I"(<h2 id="conoce-el-costo-cuánto-se-debe-pagar-a-la-inmobiliaria-en-colombia-por-vender-tu-casa">Conoce el costo: ¿Cuánto se debe pagar a la inmobiliaria en Colombia por vender tu casa?</h2>
+
+<p>Este costo suele variar, pero para tener una idea, el <strong>porcentaje que cobra la inmobiliaria oscila alrededor del 3% al 7% del precio acordado en la compraventa de la propiedad</strong>.</p>
+
+<p>La pregunta “<strong><em>¿Cuánto se debe pagar a la inmobiliaria?</em></strong>”, resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar <strong>cuanto cobra una inmobiliaria por arrendar un apartamento</strong>.</p>
+
+<blockquote>
+  <p>Nuestra clara intención es que cuando decidas <a href="/ventas">comprar o vender tu casa con nuestra inmobiliaria</a> lo puedas hacer con total confianza.</p>
+</blockquote>
+
+<h2 id="los-gastos-de-la-comisión-con-una-inmobiliaria">Los gastos de la comisión con una inmobiliaria</h2>
+
+<p>Para comenzar, es relevante entender que los gastos de la inmobiliaria generalmente <em>se calculan como un porcentaje de la transacción que estás realizando</em>, y esto se conoce como <strong>honorarios de inmobiliaria</strong>.</p>
+
+<p>En Leben Inmobiliaria queremos darte una respuesta a dichas inquietudes, con total honestidad y claridad. Así podemos despejar cualquier duda que puedas tener al respecto en Colombia.</p>
+
+<h3 id="utiliza-nuestra-calculadora-de-comisiones-de-venta-con-la-inmobiliaria">Utiliza nuestra calculadora de comisiones de venta con la inmobiliaria</h3>
+
+<section class="calculator-section" aria-labelledby="calculator-title">
+    <h2 id="calculator-title">Calculadora de Comisión Inmobiliaria</h2>
+    <p>
+      Ingresa el valor de la propiedad y el porcentaje de comisión para saber cuánto deberás pagar a la inmobiliaria.
+    </p>
+  
+    <form class="calculator-form" aria-labelledby="calculator-form-title">
+      <div class="form-group">
+        <label for="propertyValue">Valor de la propiedad (COP):</label>
+        <input type="number" id="propertyValue" name="propertyValue" placeholder="Ej. 200000000" aria-required="true" required="" />
+      </div>
+  
+      <div class="form-group">
+        <label for="commissionRate">Porcentaje de comisión (%):</label>
+        <input type="number" id="commissionRate" name="commissionRate" placeholder="Ej. 3" min="1" max="7" step="0.1" aria-required="true" required="" />
+      </div>
+  
+      <button type="button" id="calculateBtn" class="btn-get-started">Calcular</button>
+  
+      <p id="result" class="result" aria-live="polite"></p>
+    </form>
+  </section>
+
+<h3 id="quién-paga-la-inmobiliaria-en-una-compra">¿Quién paga la inmobiliaria en una compra?</h3>
+
+<p>Dependiendo del acuerdo, puede ser el vendedor o el comprador, aunque <em>usualmente se asume que el vendedor es responsable</em> de estas costos.</p>
+
+<p>Así, para <a href="/consigna-tu-propiedad" title="Vendemos tu casa">vender una casa</a> con un valor estimado en 200.000.000 de COP en Colombia, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.</p>
+
+<aside class="relacionados flow">
+  <h3>Estas son las mejores opciones de casas con porcentajes bajos de comisión</h3>
+  <div class="posts">
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-bonet-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1009/casa-bonet-fusagasuga-1.webp" class="img-fluid" alt="Venta de casa en Bonet Fusagasugá" loading="lazy" />
+        <h3>Casa de Ensueño en Bonet, Fusagasugá - 220m² de Puro Lujo</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-negocio-oportunidad-vergel-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1013/casa-venta-vergel-fusagasuga-9.webp" class="img-fluid" alt="Venta de casa en El Vergel Fusagasugá" loading="lazy" />
+        <h3>Casa en El Vergel en Fusagasugá - 255m² de Oportunidad</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-venta-sector-indio-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" class="img-fluid" alt="Casa de Lujo en Fusagasugá a la venta" loading="lazy" />
+        <h3>Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="apartamentos">
+      <a href="/ventas-casas-y-apartamentos/apartamento-bonet-fusa" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1046/apartamento-bonet-fusa-11.webp" class="img-fluid" alt="Casa en el sector del Bonet - Fusagasugá" loading="lazy" />
+        <h3>Acogedora Propiedad en Fusagasugá con Todas las Comodidades</h3>
+      </a>
+    </div>
+    
+  </div>
+  <a href="/ventas" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
+</aside>
+
+<h2 id="y-cuánto-cobra-inmobiliaria-por-vender-apartamento-en-colombia">Y ¿cuánto cobra inmobiliaria por vender apartamento en Colombia?</h2>
+
+<p>Normalmente, al menos en <a href="/">Leben Inmobiliaria</a>, solemos cobrar el mismo porcentaje que ya te mencionamos por <a href="/blog/apartamentos-en-fusagasuga" title="Apartamentos fusagasuga">vender o conseguir tu apartamento con mayor prontitud</a>.</p>
+
+<p>Aunque al pensar en <a href="/blog/gastos-notariales-compra-venta-casa" title="Gastos de venta de tu casa">gastos de compra de vivienda</a>, consideramos gastos notariales, <a href="/blog/impuesto-predial-fusagasuga" title="Impuesto predial Fusa">impuestos prediales</a> y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.</p>
+
+<aside class="relacionados flow">
+  <h3>¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener</h3>
+  <div class="posts">
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-bonet-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1009/casa-bonet-fusagasuga-1.webp" class="img-fluid" alt="Venta de casa en Bonet Fusagasugá" loading="lazy" />
+        <h3>Casa de Ensueño en Bonet, Fusagasugá - 220m² de Puro Lujo</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-negocio-oportunidad-vergel-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1013/casa-venta-vergel-fusagasuga-9.webp" class="img-fluid" alt="Venta de casa en El Vergel Fusagasugá" loading="lazy" />
+        <h3>Casa en El Vergel en Fusagasugá - 255m² de Oportunidad</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="casas">
+      <a href="/ventas/casa-venta-sector-indio-fusagasuga" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" class="img-fluid" alt="Casa de Lujo en Fusagasugá a la venta" loading="lazy" />
+        <h3>Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad</h3>
+      </a>
+    </div>
+    
+    <div class="post" data-name="apartamentos">
+      <a href="/ventas-casas-y-apartamentos/apartamento-bonet-fusa" title="Inmobiliaria LEBEN Fusagasugá">
+        <img src="/assets/images/portfolio/1046/apartamento-bonet-fusa-11.webp" class="img-fluid" alt="Casa en el sector del Bonet - Fusagasugá" loading="lazy" />
+        <h3>Acogedora Propiedad en Fusagasugá con Todas las Comodidades</h3>
+      </a>
+    </div>
+    
+  </div>
+  <a href="/ventas" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
+</aside>
+
+<h3 id="pero-quién-paga-gastos-de-escritura-de-compraventa-por-la-casa-vendida">Pero, ¿quién paga gastos de escritura de compraventa por la casa vendida?</h3>
+
+<p>En Colombia, la ley estipula que <em>ambos, comprador y vendedor</em>, deben asumir estos costos, los cuales incluyen la elaboración del contrato, la gestión de la notaría y los impuestos asociados a la transacción.</p>
+
+<p>Al cerrar una venta, es importante entender <strong>qué paga el vendedor de una casa</strong>. Aparte del probable porcentaje a la inmobiliaria, el vendedor debe cubrir la comisión del <em>agente inmobiliario por vender casa</em>, aunque generalmente estos dos pagos están incluidos en el mismo desembolso.</p>
+
+<blockquote>
+  <p>En <a href="/">Leben Inmobiliaria</a> te ahorramos esos gastos excesivos. <a href="/contacto" title="Contacta con Leben">Escríbenos y consigue toda la información</a> que necesitas sobre las bajas comisiones que aplicamos a nuestros clientes. Así hemos conseguido más recomendaciones entre quienes están felices por la calidad y los costos de <a href="/servicios" title="Servicios de Leben">nuestros servicios</a>.</p>
+</blockquote>
+
+<h2 id="en-última-instancia-cuánto-es-el-porcentaje-que-cobra-la-inmobiliaria">En última instancia, ¿cuánto es el porcentaje que cobra la inmobiliaria?</h2>
+
+<p>Es <strong><em>entre el 3 y 7 por ciento</em></strong>. Eso en el mercado Colombiano.</p>
+
+<p>Y, ¿cuándo se paga?</p>
+
+<p>Es justo <strong>después de que se ha concretado la venta</strong> de la propiedad o inicio del contrato de arrendamiento.</p>
+
+<p>Finalmente, antes de iniciar cualquier acuerdo, <em>asegúrate de tener todos los números en la mesa</em>. Esto incluirá el <strong>cálculo de honorarios de inmobiliaria</strong>, entre otros gastos asociados. Recuerda que la claridad en estos temas puede marcar una gran diferencia en tu satisfacción al operar con una inmobiliaria.</p>
+
+<p>Por eso, nos encanta ser honestos contigo en este tema.</p>
+
+<blockquote>
+  <p>En el artículo de <a href="/blog/comisiones-inmobiliarias-arriendo-colombia">comisiones por arriendo</a> te explicamos los porcentajes por <a href="/consigna-tu-propiedad">administrar tu casa en consignación</a>.</p>
+</blockquote>
+
+<p>Esperamos que este artículo te brinde un panorama claro de los costos y gastos derivados de comprar, vender o arrendar una casa en Colombia. No olvides que los porcentajes pueden variar dependiendo de la inmobiliaria y las condiciones de tu acuerdo.</p>
+:ET
