@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Compra esta encantadora casa en Fusagasugá: Sector Batallón"
 description: ¿Quieres comprar casa en Fusagasugá? Esta casa en venta es tu oportunidad. Con todas las comodidades y amenidades que necesitas. Sector Batallón.
 h1: Conoce esta propiedad a la venta cerca al Batallón de Fusagasugá

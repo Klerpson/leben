@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa en Oferta en Fusagasugá: Un Espacio Familiar Perfecto"
 description: ¿Listo para mudarte a Fusagasugá? Esta casa te espera en el sector de Robles. ¡Haz clic y descubre tu nuevo hogar!
 h1: Explora esta encantadora casa en Fusagasugá ¡Conócela ahora!

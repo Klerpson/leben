@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Hermosa Casa en Fusagasugá: Elegancia Sector del Batallón"
 description: Enamórate de esta casa en Fusagasugá y haz realidad tu sueño de hogar. Espacios luminosos, servicios exclusivos y ubicación privilegiada te esperan.
 h1: "Elegancia y Comodidad: Tu Casa de Ensueño en Fusagasugá te Espera"

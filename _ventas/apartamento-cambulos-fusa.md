@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Compra Un Hogar Espacioso de Primera en Fusagasugá
 description: ¡Compra este amplio apartamento en Fusagasugá! Vive la tranquilidad tropical que siempre has deseado. Haz clic y aprovecha ahora.
 h1: Descubre una oportunidad única de vivienda con este apartamento en Fusagasugá

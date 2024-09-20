@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Comodidad y Conveniencia: Acogedor Apartamento en Fusagasugá"
 description: ¿Buscas un apartamento en Fusagasugá? Este te ofrece todo lo que necesitas. ¡No pierdas la oportunidad de vivir en el lugar perfecto para ti!
 h1: "Apartamento en Fusagasugá: Un Espacio para Vivir Plenamente"

@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Compra en Fusagasugá: Casa Espaciosa en Buen Sector"
 description: Tu próximo hogar te espera en Fusagasugá. Compra casa de 3 habitaciones disponible ahora. ¡No esperes más para vivir la vida que deseas! Escríbenos
 h1: "Compra tu casa espaciosa en sector tranquilo de Fusagasugá"

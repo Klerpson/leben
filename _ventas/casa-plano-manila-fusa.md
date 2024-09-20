@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: ¡Vive en el Paraíso! Casa en Venta en Fusagasugá
 description: Vive rodeado de comodidades en Fusagasugá. Esta casa en venta en el sector de Manila es ideal para ti y tu familia. ¡Empieza una nueva vida!
 h1: "Compra tu casa de ensueño en Manila, Fusagasugá: ¡Tu nuevo hogar te espera!"

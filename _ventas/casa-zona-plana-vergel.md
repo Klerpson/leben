@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Compra casa en Fusagasugá: ¡Tu tranquilidad comienza aquí!"
 description: ¿Quieres vivir en Fusagasugá? Esta casa te ofrece todo lo que necesitas. ¡Haz clic para conocer más detalles y dar el primer paso hacia tu nuevo hogar!
 h1: "¡Descubre tu Casa de Ensueño en El Vergel Fusagasugá!"

@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Encanto y Comodidad en Fusagasugá: Casa en venta"
 description: Compra esta casa de lujo en Fusagasugá, con amplios espacios, zonas verdes y piscina. ¡Haz de este hogar tu refugio de tranquilidad hoy mismo!
 h1: Compra tu hogar perfecto en Fusagasugá, cerca al batallón

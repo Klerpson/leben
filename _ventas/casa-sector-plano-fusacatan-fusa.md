@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa de 5 habitaciones en Fusagasugá, Cundinamarca"
 description: ¡No te pierdas esta oportunidad única! Amplia casa en Fusacatán con todos los servicios y comodidades cercanas. ¡Programa tu visita ahora!
 h1: Haz de esta casa en Fusagasugá tu nuevo hogar

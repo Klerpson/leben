@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Acogedora Propiedad en Fusagasugá con Todas las Comodidades
 description: Vive la vida que mereces en este hermoso apartamento en Fusagasugá. ¡Haz clic y agenda una visita ahora mismo!
 h1: Experimenta el confort sin igual en este apartamento de Fusagasugá

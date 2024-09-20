@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Quinta en Venta Fusagasugá - A 10 minutos del pueblo"
 description: ¿Buscas una quinta en Fusagasugá? Nuestra exclusiva casa quinta en Yayatá te espera ¡Contáctanos y haz tu sueño realidad de comprar tu Quinta!
 h1: "¡Consigue la casa quinta de ensueño en Fusagasugá!"

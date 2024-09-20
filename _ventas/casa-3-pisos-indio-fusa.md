@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Vivienda de Lujo en Fusagasugá | ¡Haz Realidad tu Sueño!
 description: Vive la experiencia del lujo en Fusagasugá con esta propiedad única. ¡No pierdas la oportunidad de invertir en tu futuro! ¡Haz clic para más detalles!
 h1: "Hogar de Ensueño en Fusagasugá: Confort en el sector del Indio"

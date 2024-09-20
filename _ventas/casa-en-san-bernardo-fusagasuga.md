@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Casa en venta en Fusagasugá San Bernardo - Aprovecha ahora
 description: ¡Vendo Hermosa casa en uno de los sectores de más alta valorización en Fusagasugá! Ubicada en el sector del terminal. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
 h1: Casa a la venta en San Jorge, Fusagasugá

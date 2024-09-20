@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Acogedor Apartamento de un piso en Fusagasugá"
 description: ¿Buscando un lugar acogedor en Fusagasugá? Haz realidad tu sueño de vivir en este encantador lugar en el sector Fusacatán. ¡Contáctanos hoy mismo!
 h1: "Encantador apartamento de 1 piso en Fusagasugá: Espacio, comodidad y cercanía"

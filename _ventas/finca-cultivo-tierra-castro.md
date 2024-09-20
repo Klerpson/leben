@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Compra tu casa campestre: Finca de cultivo en Fusagasugá"
 description: Invierte en serenidad en el campo de Fusagasugá. Finca en venta con oportunidades agrícolas únicas. ¡Conócela y crea tu paraíso!
 h1: "Haz una inversión inteligente: Finca en Tierra de Castro, Fusagasugá"

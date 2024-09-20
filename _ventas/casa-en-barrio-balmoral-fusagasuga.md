@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Casa en venta en Fusagasugá, barrio Balmoral
 description: Hermosa casa en venta en Fusagasugá, en el barrio Balmoral. Contacta con LEBEN Inmobiliaria y aprovecha esta ganga. ¡Escríbenos!
 h1: Casa en venta en Fusagasugá, barrio Balmoral

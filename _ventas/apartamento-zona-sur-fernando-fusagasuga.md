@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Compra apartamento en San Fernando Fusagasugá"
 description: Descubre la vida tranquila y conveniente que te espera en Fusagasugá con este apartamento en San Fernando. Disponible ahora. ¡Ven a conocerlo!
 h1: "Compra tu apartamento ideal en la zona sur de Fusagasugá"

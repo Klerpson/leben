@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Explora esta Casa de 5 Habitaciones en Fusagasugá"
 description: Encuentra la casa de tus sueños en Fusagasugá y comienza una nueva vida llena de comodidades y tranquilidad. ¡Agenda tu visita hoy mismo!
 h1: Vive con confort y estilo en esta casa en Fusagasugá

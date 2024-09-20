@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Fusagasugá Colonial: Casa Tranquila y Conveniente en Venta"
 description: Explora la comodidad y encanto colonial en Fusagasugá. Casa cerca del terminal, ideal para tu familia. ¡Haz clic y descubre tu próximo hogar!
 h1: Asegura tu inversión en Fusagasugá con esta casa colonial. ¡Un sueño de tradición y comodidad!

@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa en El Mirador de la Colina Fusagasugá ¡Visítela Hoy!"
 description: Explore esta lujosa casa en El Mirador de la Colina en Fusagasugá. Diseño moderno, comodidades excepcionales. ¡Haga clic para más detalles!
 h1: "Estrene Elegante Residencia en El Mirador de la Colina Fusagasugá"

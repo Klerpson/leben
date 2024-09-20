@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa en venta en conjunto Tierra Grata Fusagasugá"
 description: Confort, seguridad y diversión te esperan en esta casa de Fusagasugá. ¡No pierdas la oportunidad de vivir en el conjunto Tierra Grata!
 h1: Compra tu casa ideal en Fusagasugá | Conjunto Tierra Grata

@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Oportunidad de Comprar Casa en El Centro Fusagasugá
 description: ¿Estás comprando casa? Esta propiedad en Fusagasugá ofrece espacio, potencial y rentabilidad. ¡Compra casa ubicada en el Centro de Fusagasugá!
 h1: Amplia casa en Fusagasugá con 8 habitaciones en el Norte - Centro

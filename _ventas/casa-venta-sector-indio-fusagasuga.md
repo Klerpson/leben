@@ -1,5 +1,4 @@
 ---
-noindex: true
 layout: venta
 title: "Tu Hogar Ideal en Fusagasugá: Casa de lujo y exclusividad"
 description: ¿Buscas casa en Fusagasugá? Descubre esta propiedad de lujo con amenidades únicas. ¡Agenda tu visita hoy! Contacta con LEBEN inmobiliaria para comprarla

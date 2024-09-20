@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Propiedad en el Bonet de Fusagasugá: ¡Tu Oportunidad Única!"
 description: Encantadora casa en el barrio Bonet de Fusagasugá, perfecta para disfrutar de tranquilidad y comodidad. ¡Haz clic para conocer más!
 h1: Confort y tranquilidad te esperan en esta hermosa casa en Fusagasugá

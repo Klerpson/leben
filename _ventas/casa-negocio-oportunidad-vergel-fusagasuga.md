@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa en El Vergel en Fusagasugá - 255m² de Oportunidad"
 description: Casa con potencial comercial en El Vergel. Espacio amplio, ubicación ideal. ¡Invierta hoy y vea su inversión crecer! Más info con Leben Inmobiliaria
 h1: "Casa y Negocio en Uno: Oportunidad en El Vergel, Fusagasugá"

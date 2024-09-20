@@ -1,6 +1,4 @@
 ---
-noindex: true
-home: true
 layout: venta
 date: 2024-05-02
 title: "Casa para arrendar en Fusagasugá. Sector El Indio"

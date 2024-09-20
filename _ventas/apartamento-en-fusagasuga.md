@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: 'Compra Apartamento en Fusagasugá: Lujo y Comodidad'
 description: Encuentre lujo y comodidad en Fusagasugá. Apartamentos con diseño moderno y excelente ubicación. !Comienza tu proceso para conseguirlo con LEBEN!
 h1: 'Viva en Fusagasugá: Apartamento de Ensueño en Zona Premium'

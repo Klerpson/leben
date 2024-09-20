@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: 'Apartamento en Venta en La Palma Fusagasugá: Moderna, Acogedora'
 description: Hermosa casa en el hermoso conjunto La Palma de Fusagasuga. Contacta con LEBEN Inmobiliaria y compra una de las mejores opciones.
 h1: 'Exclusiva residencia en Fusagasugá: lujo, confort y privacidad'

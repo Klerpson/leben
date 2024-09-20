@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: "Casa en venta en Moniquirá con Piscina y Apartamento"
 description: ¿Buscas casa en Moniquirá? Este hogar con piscina y vistas naturales ofrece el estilo de vida que deseas. ¡Agenda tu visita hoy!
 h1: "Compra casa en Moniquirá con Piscina y Apartamento Independiente"
