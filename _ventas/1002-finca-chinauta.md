@@ -1,7 +1,6 @@
 ---
 layout: venta
 date: 2024-05-02 00:00:00
-permalink: ventas/finca-venta-chinauta-fusagasuga
 title: Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora
 description: >-
   ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San
