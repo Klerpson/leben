@@ -104,8 +104,6 @@ Al elegir una casa para alquilar, debes considerar varios factores clave:
 1. Realiza inspecciones y evaluaciones antes de la compra para identificar cualquier problema estructural o de mantenimiento.
 2. Si es necesario, realiza mejoras que aumenten el valor de la propiedad y atraigan a inquilinos potenciales.
 
-{% include relacionados.html title="Estas son las mejores opciones de casas en venta para alquilar después en Fusagasugá" %}
-
 ## Administración de una casa para alquilar
 
 Una vez que hayas adquirido la propiedad, deberás decidir cómo administrarla. Tienes dos opciones principales:

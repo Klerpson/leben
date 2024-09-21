@@ -49,8 +49,6 @@ Hemos preparado una **calculadora de gastos notariales basada en las normas de e
 
 [Utiliza la calculadora de gastos notariales]({{'simulador-gastos-notariales-colombia' | relative_url}} "Simulador gastos notariales"){:class="btn-get-started" target="_blank"}
 
-{% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
-
 **Estos montos se rigen por la Ley 1395 de 2010** que establece los máximos a pagar. Es crucial presupuestarlos adecuadamente antes de la firma de la escritura pública que legaliza la compraventa.
 
 ### Otros trámites notariales para la compra o venta de una casa

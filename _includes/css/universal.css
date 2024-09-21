@@ -1,0 +1,212 @@
+:root {
+  --fuenteTexto: "Lato", sans-serif;
+  --fuenteTitulos: "Josefin Sans", sans-serif;
+  --radius: 0;
+  --shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  --principal: #302b27;
+  --secundario: #da2b26;
+  --accion: #b60600;
+  --complemento: #c0403b;
+  --gris: #dddddd;
+  --blanco: #fdfdfd;
+}
+
+html {
+  scroll-behavior: smooth;
+  line-height: 1.6;
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 6em;
+}
+body {
+  font-family: var(--fuenteTexto);
+  color: var(--principal);
+}
+a {
+  color: var(--secundario);
+  font-weight: 700;
+}
+a:hover {
+  color: var(--accion);
+  text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--fuenteTitulos);
+  text-transform: initial;
+  max-width: 732px;
+  font-weight: 700;
+  letter-spacing: .4px;
+  line-height: 1.12;
+}
+h1 {
+  font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+}
+h2 {
+  font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
+}
+h3 {
+  font-size: clamp(1.4rem, 1.233rem + 0.84vw, 1.86rem);
+}
+h4 {
+  font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+}
+h5 {
+  font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
+}
+p,
+li {
+  word-wrap: break-word;
+  font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
+}
+ul {
+  padding: 0;
+  margin: 0;
+}
+ul li {
+  margin-left: 1em;
+  margin-top: 1em;
+  list-style: square;
+}
+
+pre {
+  font-family: monospace, monospace;
+}
+
+dl {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+ol {
+  padding-left: 2em;
+  margin-top: 1em;
+}
+
+ol li {
+  list-style: decimal;
+}
+
+table {
+  width: 100%;
+  margin: 2em 0 4em;
+}
+
+table tr {
+  border-bottom: 2px solid var(--principal);
+  display: flex;
+  padding: 1.2em 0;
+  flex-wrap: wrap;
+  gap: 1em;
+  width: 100%;
+}
+
+table th {
+  font-weight: 900;
+}
+
+table td,
+table th {
+  flex: 1 0 200px;
+}
+
+small{
+  font-weight: 700;
+  color: #7c7a77;
+}
+
+blockquote {
+  border-left: 4px solid var(--accion);
+  padding-left: 1rem;
+  font-style: italic;
+  margin: 1rem 0;
+}
+
+.wrapper {
+  width: min(calc(100% - 20px), 1336px);
+  margin-inline: auto;
+  padding: 6em 0 4em;
+}
+
+.content {
+  width: min(calc(100% - 20px), 1336px);
+  margin-inline: auto;
+}
+
+.seccion{
+  background-color: var(--gris);
+  box-shadow: 0 0 0 100vmax var(--gris);
+  clip-path: inset(0 -100vmax);
+  padding: 6em 0 4em;
+}
+
+.flow > * + * {
+  margin-bottom: 1em;
+}
+
+.scroll-top {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 99999;
+  background: var(--principal);
+  width: 44px;
+  height: 44px;
+  border-radius: 0;
+  font-size: 16px;
+  color: #fff;
+  display: grid;
+  place-items: center;
+}
+
+.boton-whatsapp {
+  position: fixed;
+  bottom: 8rem;
+  right: 12px;
+  z-index: 100;
+  text-decoration: none;
+  -webkit-animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) 0.5s 6 alternate-reverse both;
+  animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) 0.5s 6 alternate-reverse both;
+  transition: all 0.2s ease-in-out;
+  }
+  
+  .boton-whatsapp:hover {
+    -webkit-filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, 0.7));
+    filter: drop-shadow(5px 5px 5px rgba(190, 190, 190, 0.7));
+  }
+  
+  @media screen and (width >=800px) {
+    .boton-whatsapp::before {
+      content: "Escríbenos";
+      font-size: 14px;
+      color: white;
+      background-color: #2eda2e70;
+      border: 3px solid white;
+      padding: 8px;
+      text-decoration: none;
+      border-radius: 8px;
+    }
+  }
+  
+  @keyframes scale-up-center {
+    0% {
+      transform: scale(0.5);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  @-webkit-keyframes scale-up-center {
+  0% {
+    transform: scale(0.5);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.hidden {
+  display: none;
+}

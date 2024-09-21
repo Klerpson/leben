@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var currentURL = window.location.href;
     
     // Obtener todos los enlaces de WhatsApp en la página
-    var whatsappLinks = document.querySelectorAll("a.btn-get-started, a.boton-whatsapp");
+    var whatsappLinks = document.querySelectorAll("a.btn-get-started, a.boton-whatsapp, a#lead_whatsapp");
 
     // Recorrer los enlaces y cambiar el href según el dispositivo
     whatsappLinks.forEach(function(link) {

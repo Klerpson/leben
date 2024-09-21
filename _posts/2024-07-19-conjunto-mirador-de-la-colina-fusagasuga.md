@@ -74,5 +74,3 @@ Por su excelente ubicación, tiene muy cerca una gran variedad de oferta de rest
 En conclusión, el Mirador de la Colina Fusagasugá es una opción de vivienda imperdible en la ciudad de Fusagasugá. Ofrece vistas panorámicas espectaculares, una experiencia única y una oportunidad de conexión con la ciudad.
 
 Nuestra [agencia inmobiliaria Leben](/){:target="_blank"} recomienda especialmente este hermoso sector de la ciudad. **La belleza natural, las vistas impresionantes y la tranquilidad que se puede experimentar allí** hacen que vivir allí valga la pena.
-
-{% include relacionados.html title="¿Te gustaría comprar casa en Fusagasugá? Conoce estas opciones" %}

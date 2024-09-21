@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="carousel_container">
   <div class="carousel">
     <article class="carousel_texto">
@@ -9,140 +8,85 @@ layout: default
         🗞️ ¡Comenzó el proyecto de viviendas
         <strong>Bosque de Palo Verde</strong>! No te quedes sin tu próxima
         oportunidad de vivienda.
-        <a
-          href="https://bit.ly/leben-proyecto-bosques"
-          rel="nofollow"
-          target="_blank"
-          title="Página de contacto de Leben Inmobiliaria Fusagasuga"
-          >Contáctanos ahora</a
-        >
+        <a href="https://bit.ly/leben-proyecto-bosques" rel="nofollow" target="_blank"
+          title="Página de contacto de Leben Inmobiliaria Fusagasuga">Contáctanos ahora</a>
       </p>
     </article>
   </div>
 </div>
-<!-- - - - - - - - -  Hero Section - - - - - - - -  -->
-<section id="hero" class="page-hero">
-  <div class="container position-relative">
-    <div class="row gy-5">
-      <div class="col-lg-12 order-lg-1 d-flex flex-column align-items-left justify-content-start text-left caption">
-        <h1 class="mb-1">{{page.h1}}</h1>
-        <p>{{page.excerpt}}</p>
-      </div>
-    </div>
-    <div id="breadcrumbs">
-      <small><a href="/" title="Página de inicio de la web de Leben Inmobiliaria Fusagasuga">Inicio</a> / <a href="{{'blog' | relative_url }}" title="Blog de la Inmobiliaria de Fusagasugá Leben">Blog</a> / {{page.title}}</small>
-    </div>
-  </div>
-</section>
-<!-- End Hero Section -->
-<main id="main">
-  <section class="articulo">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8">
-          <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" width="992" height="620" title="{{page.title}}">
 
-          {% if page.url == "/blog/clima-fusagasuga" %}
-            {% include clima.html %}
-          {% endif %}
-          {{content}}
-          <div class="share wrapper">
-            {% include share.html %}
-          </div>
-          {% if page.referencias %}
-          <div id="fuentes">
-            <h4>Créditos y referencias</h4>
-            <div>
-              {% for link_hash in page.referencias %}
+{% include header.html %}
+<hr>
+<main id="main" class="content">
+  <div class="article-layout">
+    <article class="article-content">
+      <img src="{{site.baseurl}}/assets/images/blog/{{page.hero}}" alt="{{page.alt}}" class="article-image" loading="lazy">
+      
+      {% if page.url == "/blog/clima-fusagasuga" %}
+        {% include clima.html %}
+      {% endif %}
+      
+      {{content}}
+      
+      <div class="share">
+        {% include share.html %}
+      </div>
+      
+      {% if page.referencias %}
+        <div id="fuentes">
+          <h4>Créditos y referencias</h4>
+          <ul>
+            {% for link_hash in page.referencias %}
               {% for link in link_hash %}
-              <ul>
                 <li>
                   <a href="{{ link[1] }}" rel="nofollow noopener noreferrer" target="_blank" title="Referencia de este post de Leben: {{ link[0] }}">{{ link[0] }}</a>
                 </li>
-              </ul>
               {% endfor %}
-              {% endfor %}
-            </div>
-          </div>
+            {% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+    </article>
+    
+    <aside class="sidebar">
+      <div class="flow">
+        <h2>¿Has pensado en cambiar de casa o comprar una?</h2>
+        <p>En Leben Inmobiliaria sí ofrecemos <strong>opciones al alcance de tu presupuesto y con las condiciones que te gustaría</strong> tener en tu nuevo hogar. ¡Escríbenos!</p>
+        {% include boton_whatsapp.html %}
+        <hr>
+        <img src="{{site.baseurl}}/assets/images/team/{{page.foto}}" alt="Asesor de Leben {{page.autor}}" title="Foto de asesor de Leben Inmobiliaria Fusagasuga" />
+        <h3>{{page.autor}}</h3>
+        <p>{{page.bio}}</p>
+        <div class="social-links">
+          {% if page.twitter %}
+            <a href="{{page.twitter}}"><i class="bi bi-twitter"></i></a>
+          {% endif %}
+          {% if page.facebook %}
+            <a href="{{page.facebook}}"><i class="bi bi-facebook"></i></a>
+          {% endif %}
+          {% if page.instagram %}
+            <a href="{{page.instagram}}" class="boton boton2" rel="nofollow noopener noreferrer" target="_blank" title="Instagram {{page.autor}}">Instagram</a>
           {% endif %}
         </div>
-        <div class="articulo_sidebar col-lg-4">
-          <div>
-            <div class="d-grid flow">
-              <h3>
-                ¿Has pensado en cambiar de casa o comprar una?
-              </h3>
-              <p>En Leben Inmobiliaria sí ofrecemos <strong>opciones al alcance de tu presupuesto y con las condiciones que te gustaría</strong> tener en tu nuevo hogar. ¡Escríbenos!</p>
-              <div class="flow">
-                <a href="{{site.whatsapp}}%20{{page.h1}}" class="btn-get-started" title="Escribe a la inmobiliaria de Fusagasuga Leben">Asesórate gratis</a>
-
-                <h4>{{page.autor}}</h4>
-                <div class="author-image">
-                  <img
-                    src="{{site.baseurl}}/assets/images/team/{{page.foto}}"
-                    class="flex-shrink-0"
-                    alt="Asesor de Leben {{page.autor}}"
-                    title="Foto de asesor de Leben Inmobiliaria Fusagasuga"
-                  />
-                </div>
-                <div class="social-links">
-                  {% if page.twitter %}
-                  <a href="{{page.twitter}}"><i class="bi bi-twitter"></i></a>
-                  {% endif %} {% if page.facebook %}
-                  <a href="{{page.facebook}}"><i class="bi bi-facebook"></i></a>
-                  {% endif %} {% if page.instagram %}
-                  <a href="{{page.instagram}}"><i class="biu bi-instagram"></i></a>
-                  {% endif %}
-                </div>
-                <p>{{page.bio}}</p>
-              </div>
-            </div>
-            <!-- End author -->
-            <div class="sidebar-item recent-posts">
-              <h3 class="sidebar-title">Recent Posts</h3>
-              <div class="mt-3">
-                {% for post in site.posts limit:5 %}
-                <hr />
-                <div class="post-item mt-3">
-                  <img
-                    src="{{site.baseurl}}/assets/images/blog/{{post.hero}}"
-                    alt="{{post.alt}}"
-                    loading="lazy"
-                    title="{{post.title}}"
-                  />
-                  <div>
-                    <h4><a href="{{post.url}}" title="{{post.title}}">{{post.h1}}</a></h4>
-                  </div>
-                </div>
-                <!-- End recent post item-->
-                {% endfor %}
-                <hr />
-                <h4>¿Te gustaría ver nuestras casas en venta?</h4>
-                <p>
-                  Fusagasugá es el nuevo centro de la inversión inmobiliaria de
-                  Cundinamarca. Haz clic y conoce las nuevas oportunidades que
-                  tiene para ti LEBEN Inmobiliaria
-                </p>
-                <a href="{{'ventas'|relative_url}}" class="btn-get-started" title="Compra casa con la inmobiliaria de Fusagasuga Leben">Casas en venta</a>
-              </div>
-            </div>
-            <!-- End sidebar recent posts-->
-          </div>
-        </div>
       </div>
-    </div>
-  </section>
+      <hr>
+      <div class="aside-recent-posts">
+        <h3>Artículos recientes</h3>
+        {% for post in site.posts limit:5 %}
+          <div class="post-item">
+            <img src="{{site.baseurl}}/assets/images/blog/{{post.hero}}" alt="{{post.alt}}" loading="lazy" title="{{post.title}}">
+            <h4><a href="{{post.url}}" title="{{post.title}}">{{post.h1}}</a></h4>
+          </div>
+        {% endfor %}
+      </div>
+      <hr>
+      <div class="cta-sidebar">
+        <h4>¿Te gustaría ver nuestras casas en venta?</h4>
+        <p>Fusagasugá es el nuevo centro de la inversión inmobiliaria de Cundinamarca. Haz clic y conoce las nuevas oportunidades que tiene para ti LEBEN Inmobiliaria</p>
+        <a href="{{'ventas'|relative_url}}" class="boton boton2" title="Compra casa con Leben">Mira las casas en venta</a>
+      </div>
+    </aside>
+  </div>
 </main>
-<!-- End #main -->
 
-{% include datos.html data="690"
-img="portfolio/1021/casa-venta-sector-el-indio-fusagasuga-10.webp" h2="Vive el
-Lujo y Confort en Fusagasugá: Tu Próximo Hogar con Amenidades Exclusivas"
-li1="Valor $ 690'000.000" li2="Sala como muy pocas hoy en día y con luz natural"
-li3="5 baños con amplios, amplios y con lujos y mueblería" li4="Cocina grande,
-con muebles y mesón auxiliar" li5="5 modernas habitaciones de lujo y para meter
-lo que desees" li6="Transporte público y colegios cerca. Todo a la mano"
-li7="Uno de los mejores vecindarios de Fusagasugá"
-url="ventas/casa-venta-sector-indio-fusagasuga" %}
-
-
+{% include relacionados.html %}

@@ -1,101 +1,55 @@
-<!-- Footer -->
 <footer id="footer" class="footer-section">
-  <div class="container">
-    <div class="footer-content">
-      <div class="row">
-        <div class="col-xl-3 col-lg-3 mb-50">
-          <div class="footer-widget">
-            <div class="footer-logo">
-              <h3>LEBEN Agencia Inmobiliaria de Fusagasugá</h3>
-            </div>
-            <div class="footer-text">
-              <p>
-                Contamos con un amplio portafolio de propiedades que se ajustan
-                a tus necesidades. Ya sea que busques un acogedor apartamento o
-                una casa amplia para tu familia, estamos aquí para convertir tus
-                deseos en realidad
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-lg-3 col-md-6 mb-50">
-          <div class="footer-widget">
-            <div class="footer-widget-heading">
-              <div class="contact-info">
-                <h3>Ven a LEBEN Inmobiliaria</h3>
-                <p>
-                  <a
-                  href="https://maps.app.goo.gl/BDbfSjbfELzcr8wY9"
-                  target="_blank"
-                  >
-                  CLL 19 #5-40, local 2 Mirador de la Colina Fusagasugá, Cun
-                  </a>
-                </p>
-                <p>
-                  <a href="#" class="btn-get-started" style="text-decoration: none;">WhatsApp: 3224736189</a>
-                </p>
-                <p>
-                  <a href="tel:3224736189">Llámanos: 3224736189</a>
-                </p>
-                <p>
-                  <a href="tel:3160520942">Llámanos: 3160520942</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-lg-3 col-md-6 mb-50">
-          <div class="footer-widget">
-            <div class="footer-widget-heading">
-              <h3>Accesos rápidos</h3>
-            </div>
-            <div class="contact-info">
-              <p><a href="{{site.baseurl}}/ventas">Ventas de casas Fusagasugá</a></p>
-              <p><a href="{{site.baseurl}}/arriendo">Arriendo casas Fusagasugá</a></p>
-              <p><a href="{{site.baseurl}}/servicios">Servicios</a></p>
-              <p><a href="{{site.baseurl}}/nosotros">Nosotros</a></p>
-              <p><a href="{{site.baseurl}}/blog">Blog</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="col-xl-3 col-lg-3 col-md-6 mb-50">
-          <div class="footer-widget">
-            <div class="footer-widget-heading">
-              <h3>Escríbenos o síguenos</h3>
-            </div>
-            <div class="contact-info">
-              <p>
-                <a href="mailto:contactolebeninmobiliaria@gmail.com">contactolebeninmobiliaria@gmail.com</a>
-              </p>
-            </div>
-            <div class="footer-social-icon">
-              <a href="{{site.facebook_url}}"><i class="fa fa-facebook facebook-bg"></i></a>
-              <a href="#"><i class="fa fa-twitter twitter-bg"></i></a>
-              <a href="{{site.maps}}"><i class="fa fa-google google-bg"></i></a>
-            </div>
-          </div>
-        </div>
+  <div class="footer-content wrapper">
+    <div class="footer-info">
+      <h3>LEBEN Agencia Inmobiliaria de Fusagasugá</h3>
+      <p>Contamos con un amplio portafolio de propiedades que se ajustan a tus necesidades. Ya sea que busques un acogedor apartamento o una casa amplia para tu familia, estamos aquí para convertir tus deseos en realidad.</p>
+    </div>
+    <div class="footer-contact">
+      <h3>Ven a LEBEN Inmobiliaria</h3>
+      <p><a href="https://maps.app.goo.gl/BDbfSjbfELzcr8wY9" target="_blank">CLL 19 #5-40, local 2 Mirador de la Colina Fusagasugá, Cun</a></p>
+      <p><a href="#" class="btn-whatsapp" id="lead_whatsapp" rel="nofollow noreferrer noopener" target="_blank">WhatsApp: 3224736189</a></p>
+      <p><a href="tel:3224736189" rel="nofollow noreferrer noopener" target="_blank">Llámanos: 3224736189</a></p>
+      <p><a href="tel:3160520942" rel="nofollow noreferrer noopener" target="_blank">Llámanos: 3160520942</a></p>
+    </div>
+    <div class="footer-links">
+      <h3>Accesos rápidos</h3>
+      <ul>
+        <li><a href="{{'ventas-casas-y-apartamentos' | relative_url }}">Ventas de casas Fusagasugá</a></li>
+        <li><a href="{{'arriendo-casas-y-apartamentos' | relative_url }}">Arriendo casas Fusagasugá</a></li>
+        <li><a href="{{'servicios' | relative_url }}">Servicios</a></li>
+        <li><a href="{{'nosotros' | relative_url }}">Nosotros</a></li>
+        <li><a href="{{'blog' | relative_url }}">Blog</a></li>
+      </ul>
+    </div>
+    <div class="footer-social">
+      <h3>Escríbenos o síguenos</h3>
+      <p><a href="mailto:contactolebeninmobiliaria@gmail.com">contactolebeninmobiliaria@gmail.com</a></p>
+      <div class="social-icons">
+        <a href="{{site.facebook_url}}" aria-label="Facebook">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+          </svg>
+        </a>
+        <a href="#" aria-label="Twitter">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+            <path d="M23.953 4.57a10 10 0 01-2.825.775 4.958 4.958 0 002.163-2.723c-.951.555-2.005.959-3.127 1.184a4.92 4.92 0 00-8.384 4.482C7.69 8.095 4.067 6.13 1.64 3.162a4.822 4.822 0 00-.666 2.475c0 1.71.87 3.213 2.188 4.096a4.904 4.904 0 01-2.228-.616v.06a4.923 4.923 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.936 4.936 0 004.604 3.417 9.867 9.867 0 01-6.102 2.105c-.39 0-.779-.023-1.17-.067a13.995 13.995 0 007.557 2.209c9.053 0 13.998-7.496 13.998-13.985 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.59z"/>
+          </svg>
+        </a>
+        <a href="{{site.maps}}" aria-label="Google Maps">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+            <path d="M12 0C7.802 0 4 3.403 4 7.602 4 11.8 7.469 16.812 12 24c4.531-7.188 8-12.2 8-16.398C20 3.403 16.199 0 12 0zm0 11a3 3 0 110-6 3 3 0 010 6z"/>
+          </svg>
+        </a>
       </div>
     </div>
   </div>
   <div class="copyright-area">
-    <div class="container">
-      <div class="row">
-        <div class="col-xl-6 col-lg-6 text-left text-lg-left">
-          <div class="copyright-text">
-            <p>©&nbsp; <b>lebeninmobiliaria.com</b> {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
-          </div>
-        </div>
-        <div class="col-xl-6 col-lg-6 d-none d-lg-block">
-          <div class="footer-menu text-right">
-            <ul>
-              <li><a href="{{'legal'|relative_url}}">Condiciones y términos legales</a></li>
-              <li><a href="{{'contacto'|relative_url}}">Contáctanos</a></li>
-            </ul>
-          </div>
-        </div>
-      </div>
+    <div class="wrapper">
+      <p>© <b>lebeninmobiliaria.com</b> {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
+      <ul>
+        <li><a href="{{'legal'|relative_url}}">Condiciones y términos legales</a></li>
+        <li><a href="{{'contacto'|relative_url}}">Contáctanos</a></li>
+      </ul>
     </div>
   </div>
 </footer>
-<!-- End Footer -->

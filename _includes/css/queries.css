@@ -1,0 +1,12 @@
+@media screen and (width <= 991px){
+  .dropdown-content {
+    top: 40px;
+    left: -80px;
+  }
+  
+}
+@media (min-width: 768px) {
+  .article-layout {
+    grid-template-columns: 2fr 1fr;
+  }
+}

@@ -1,19 +1,19 @@
 <!-- Counter Section Start -->
 <section id="counter" class="counter-area section-padding fadeInLeft wow" data-wow-delay=".5s">
-  <div class="container">
+  <div class="wrapper">
     <div class="row">
       <div class="col-lg-6 col-md-12">
         <div class="counter-container">
-            {% if page.url == "/ventas" %}
+            {% if page.url == "/ventas-casas-y-apartamentos" %}
             <h2 class="datos-h2">Aprovecha esta casa en venta en Fusagasugá</h2>
             {% endif %}
-            {% if page.url == "/arriendo" %}
+            {% if page.url == "/arriendo-casas-y-apartamentos" %}
             <h2 class="datos-h2">Aprovecha esta casa en arriendo en Fusagasugá</h2>
             {% endif %}
-            <div class="icon"><img src="{{site.baseurl}}/assets/images/{{include.img}}" alt="Casas Fusagasugá Colombia" loading="lazy"></div>
+            <img src="{{site.baseurl}}/assets/images/{{include.img}}" alt="Casas Fusagasugá Colombia" loading="lazy">
           </div>
         </div>
-        <div class="col-lg-5 col-md-12">
+        <div class="col-lg-6 col-md-12">
           <div class="counter-container flow" >
             {% if page.url == "/" %}
             <h4 class="datos-h2">Aprovecha para comprar tu casa Fusagasugá</h4>

@@ -1,15 +1,16 @@
-<aside class="relacionados flow">
+<aside class="wrapper flow seccion">
   <h3>{{include.title}}</h3>
-  <div class="posts">
+  <div class="posts-container">
     {% for item in site.ventas limit: 4 %}
-    <div class="post" data-name="{{ item.clase }}">
-      <a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">
-        <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}"
-          loading="lazy">
-        <h3>{{item.title}}</h3>
-      </a>
+    <div class="post-card" data-name="{{ item.clase }}">
+      <div class="post-img">
+        <img src="{{site.baseurl}}/assets/images/portfolio/{{item.img}}" class="img-fluid" alt="{{item.alt}}" loading="lazy">
+      </div>
+      <div class="post-content">
+        <h3 class="post-title"><a href="{{item.url|relative_url}}" title="Inmobiliaria LEBEN Fusagasugá">{{item.title}}</a></h3>
+      </div>
     </div>
     {% endfor %}
   </div>
-  <a href="{{'ventas' | relative_url}}" class="cta-btn" title="Más casas en venta en Fusagasugá">Ver más</a>
+  <a href="{{'ventas' | relative_url}}" class="boton boton2" title="Más casas en venta en Fusagasugá" style="margin: 3em auto 1em;">Ver más</a>
 </aside>

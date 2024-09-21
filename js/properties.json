@@ -1,0 +1,17 @@
+---
+layout: null
+---
+[
+  {% assign all_properties = site.ventas | concat: site.arriendo %}
+  {% for property in all_properties %}
+  {
+    "title": {{ property.title | jsonify }},
+    "description": {{ property.description | jsonify }},
+    "clase": {{ property.clase | jsonify }},
+    "precio": {{ property.precio | jsonify }},
+    "area": {{ property.area | jsonify }},
+    "layout": {{ property.layout | jsonify }},
+    "url": "{{ property.url | relative_url }}"
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

@@ -1,41 +1,25 @@
 <!-- Testimonials Section -->
-<section id="testimonials" class="testimonials sections-bg">
-  <div class="container">
-    <div class="intro">
-      <div>
-        <h2>Quienes ya compraron su casa con Leben Inmobiliaria nos recomiendan</h2>
-        <p>Al aprovechar nuestro conocimiento de la industria inmobiliaria, nos esforzamos por ayudar a nuestros clientes a tomar decisiones informadas y alcanzar sus metas en bienes raíces. Estas personas te cuentan cómo les fue al utilizar nuestros servicios.</p>
-      </div>
+<section id="testimonials" class="testimonials">
+  <div class="wrapper">
+    <div class="flow">
+      <small>Testimonios de Leben Inmobiliaria</small>
+      <h2>Quienes ya encontraron su casa con Leben Inmobiliaria nos recomiendan</h2>
     </div>
-
-    <div class="slides-3 swiper">
-      <div class="swiper-wrapper">
-        {% for testimonio in site.data.testimonios %}
-        <div class="swiper-slide">
-          <div class="testimonial-wrap">
-            <div class="testimonial-item">
-              <div class="d-flex align-items-center info-box">
-                <img src="{{site.baseurl}}/assets/images/testimonials/{{testimonio.img}}" class="testimonial-img flex-shrink-0" loading="lazy" alt="Cliente de LEBEN Inmobiliaria Fusagasugá">
-                <div>
-                  <h3>{{testimonio.nombre}}</h3>
-                  <h4>{{testimonio.negocio}}</h4>
-                  <div class="stars">
-                    <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i
-                      class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i>
-                  </div>
-                </div>
-              </div>
-              <p>
-                <i class="bi bi-quote quote-icon-left"></i>
-                {{testimonio.palabras}}
-                <i class="bi bi-quote quote-icon-right"></i>
-              </p>
-            </div>
-          </div>
-        </div><!-- End testimonial item -->
-        {% endfor %}
-
-      </div>
+    <div class="posts">
+      {% for testimonio in site.data.testimonios %}
+      <article class="post portafolio_item">
+        <img src="{{site.baseurl}}/assets/images/testimonials/{{testimonio.img}}" class="img-fluid" alt="Foto de cliente de Leben Inmobiliaria" loading="lazy" title="Testimonio de Leben Leben: {{item.nombre}}">
+        <div class="flow">
+          <h3>→ {{item.nombre}}</h3>
+          <small>{{testimonio.negocio}}</small>
+          <small class="stars"><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></small>
+          <hr>
+          <small><i class="bi bi-quote quote-icon-left"></i>
+            {{testimonio.palabras}}
+            <i class="bi bi-quote quote-icon-right"></i></small>
+        </div>
+      </article>
+      {% endfor %}
     </div>
   </div>
 </section><!-- End Testimonials Section -->

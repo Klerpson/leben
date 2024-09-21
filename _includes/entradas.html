@@ -1,74 +1,26 @@
 <!-- Recent Blog Posts Section -->
-<section id="recent-posts" class="recent-posts">
-  <div class="container">
-    <div class="section-header">
-      <div>
-        <h2>Conoce más sobre el mercado de casas en venta en Fusagasugá</h2>
-        <p>En nuestro blog te ofrecemos más información sobre los servicios ofrecidos por nuestra agencia inmobiliaria, así como una lista de propiedades disponibles en Fusagasugá y las ventajas de asesorarte con nosotros.</p>
-      </div>
-    </div>
-    <div class="row gy-4">
-
-      <div class="col-lg-4">
-        {% assign post1 = site.posts[0] %}
-        <article class="entry">
-          <div class="post-img">
-            <img src="assets/images/blog/{{post1.hero}}" alt="{{post1.alt}}" class="img-fluid" loading="lazy">
-          </div>
-          <p class="post-category">{{post1.category}}</p>
-          <h2 class="title">
-            <a href="{{post1.url|relative_url}}">{{post1.h1}}</a>
-          </h2>
-          <div class="d-flex align-items-center">
-            <div class="post-meta">
-              <p class="post-date">
-                <time datetime="{{post1.date |  date: '%Y-%m-%d' }}">{{post1.date | date: "%Y-%m-%d" }}</time>
-              </p>
-            </div>
-          </div>
-        </article>
-      </div>
-
-      <div class="col-lg-4">
-        {% assign post2 = site.posts[1] %}
-        <article class="entry">
-          <div class="post-img">
-            <img src="assets/images/blog/{{post2.hero}}" alt="{{post2.alt}}" class="img-fluid" loading="lazy">
-          </div>
-          <p class="post-category">{{post2.category}}</p>
-          <h2 class="title">
-            <a href="{{post2.url|relative_url}}">{{post2.h1}}</a>
-          </h2>
-          <div class="d-flex align-items-center">
-            <div class="post-meta">
-              <p class="post-date">
-                <time datetime="{{post2.date |  date: '%Y-%m-%d' }}">{{post2.date | date: "%Y-%m-%d" }}</time>
-              </p>
-            </div>
-          </div>
-        </article>
-      </div>
-
-      <div class="col-lg-4">
-        {% assign post3 = site.posts[2] %}
-        <article class="entry">
-          <div class="post-img">
-            <img src="assets/images/blog/{{post3.hero}}" alt="{{post3.alt}}" class="img-fluid" loading="lazy">
-          </div>
-          <p class="post-category">{{post3.category}}</p>
-          <h2 class="title">
-            <a href="{{post3.url|relative_url}}">{{post3.h1}}</a>
-          </h2>
-          <div class="d-flex align-items-center">
-            <div class="post-meta">
-              <p class="post-date">
-                <time datetime="{{post3.date |  date: '%Y-%m-%d' }}">{{post3.date | date: "%Y-%m-%d" }}</time>
-              </p>
-            </div>
-          </div>
-        </article>
-      </div>
-    </div>
+<section id="recent-posts" class="recent-posts wrapper">
+  <div class="recent-posts-header flow">
+    <h2>Conoce más sobre el mercado de casas en venta en Fusagasugá</h2>
+    <p>En nuestro blog te ofrecemos más información sobre los servicios ofrecidos por nuestra agencia inmobiliaria, así como una lista de propiedades disponibles en Fusagasugá y las ventajas de asesorarte con nosotros.</p>
+    <a href="{{'blog'|relative_url}}" class="boton boton2">Encuentra más artículos</a>
   </div>
-  <a href="{{'blog'|relative_url}}" class="btn-get-started" style="margin-top: 2em;">Mira el blog</a>
-</section><!-- End Recent Blog Posts Section -->
+  <div class="posts-container">
+    {% for post in site.posts limit:3 %}
+    <article class="post-card">
+      <div class="post-img">
+        <img src="/assets/images/blog/{{post.hero}}" alt="{{post.alt}}" loading="lazy">
+      </div>
+      <div class="post-content">
+        <p class="post-category">{{post.category}}</p>
+        <h3 class="post-title">
+          <a href="{{post.url|relative_url}}">{{post.h1}}</a>
+        </h3>
+        <p class="post-date">
+          <time datetime="{{post.date | date: '%Y-%m-%d' }}">{{post.date | date: "%d %b %Y" }}</time>
+        </p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
+</section>

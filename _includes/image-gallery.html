@@ -1,14 +1,20 @@
-<section class="gallery" id="portafolio">
-  <div class="contenedor">
-    <div class="contenedor-galeria">
+<section class="gallery" id="galeria-propiedades" aria-label="Galería de imágenes de propiedades">
+  <div class="gallery__container">
+    <ul class="gallery__list">
       {% for imagen in page.galleryImages %}
-      <img src="{{imagen}}" alt="Fotografías de casa en venta en Fusagasugá" class="img-galeria" loading="lazy">
+      <li class="gallery__item">
+        <img src="{{imagen}}" alt="Imagen de propiedad en venta en Fusagasugá" class="gallery__image" loading="lazy" onclick="openLightbox(this.src)">
+      </li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
 </section>
 
-<section class="imagen-light">
-  <i class="close"></i>
-  <img src="{{imagen}}" alt="Fotografías de casa en venta en Fusagasugá" class="agregar-imagen" loading="lazy">
-</section>
+<div id="lightbox" class="lightbox" aria-hidden="true">
+  <button class="lightbox__close" onclick="closeLightbox()" aria-label="Cerrar imagen">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
+      <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/>
+    </svg>
+  </button>
+  <img id="lightbox-image" class="lightbox__image" src="" alt="Imagen ampliada de propiedad en venta">
+</div>

@@ -1,6 +1,5 @@
 ---
 layout: venta
-noindex: true
 title: Finca en venta en Fusagasugá San Bernardo - Aprovecha ahora
 description: ¡Vendo finca en Fusagasugá! de producción en zona de alta valorización en San Bernardo. Contacta con LEBEN Inmobiliaria y aprovecha esta oferta.
 h1: Finca a la venta en San Bernardo, Fusagasugá

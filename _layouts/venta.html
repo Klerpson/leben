@@ -1,115 +1,82 @@
 ---
-layout: compress
+layout: default
 ---
-{% include head.html %}
-<body style="background-color: var(--color-default);">
-  <!-- Google Tag Manager -->
-  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KNQTBJNT');</script>
-  <!-- End Google Tag Manager -->
   {% include header.html %}
-  <div class="hero-venta sections-bg">
-    <div>
-      <h1>{{page.h1}}</h1>
+  {% include image-gallery.html %}
+
+  <section class="hero-venta wrapper seccion">
+    <div class="flow">
+      <h2>{{page.title}}</h2>
       <p>{{page.description}}</p>
-      <a href="{{site.baseurl}}{{page.url}}#asesor" class="btn-get-started" title="Escriba a Leben Inmobiliaria">Recibe más información</a>
+      {% include boton_whatsapp.html %}
     </div>
-  <div>
-    <span>
-      ${{page.precio | number_with_delimiter: '.' }}{% if page.url contains "/arriendo-casas-y-apartamentos" %} más servicios{% else %} negociables {% endif %}
-    </span>
-    
-    {% if page.url contains "/ventas-casas-y-apartamentos" %}
-    <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="{{page.alt}}" title="{{page.title}}">
-    {% endif %}
-    {% if page.url contains "/arriendo-casas-y-apartamentos" %}
-    <img src="{{site.baseurl}}/assets/images/arriendo/{{page.img}}" alt="{{page.alt}}" title="{{page.title}}">
-    {% endif %}
-  </div>
-
-</div>
-
-<!-- About Us Section -->
-<section class="venta-caracteristicas">
-  <h2>{{page.intro}}</h2>
-  <ul>
-    <li><img src="{{site.baseurl}}/assets/images/icons/area.svg" alt="Logo del área de una casa en venta en Fusagasugá" loading="lazy" title="Área de la casa en venta con la inmobiliaria Leben"> {{page.area}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/habitacion.svg" alt="Logo de habitaciones de una casa en venta en Fusagasugá" loading="lazy" title="Habitaciones de la casa en venta con la inmobiliaria Leben"> {{page.habitacion}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/sala.svg" alt="Logo de una sala de una casa en venta en Fusagasugá" loading="lazy" title="Sala de la casa en venta con la inmobiliaria Leben"> {{page.sala}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/comedor.svg" alt="Logo de un comedor de una casa en venta en Fusagasugá" loading="lazy" title="Comedor de la casa en venta con la inmobiliaria Leben"> {{page.comedor}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/cocina.svg" alt="Logo de una cocina de una casa en venta en Fusagasugá" loading="lazy" title="Cocina de la casa en venta con la inmobiliaria Leben"> {{page.cocina}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/bano.svg" alt="Logo de un baño de una casa en venta en Fusagasugá" loading="lazy" title="Baño de la casa en venta con la inmobiliaria Leben"> {{page.bano}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/garaje.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy" title="Garaje de la casa en venta con la inmobiliaria Leben"> {{page.garaje}}</li>
-    <li><img src="{{site.baseurl}}/assets/images/icons/servicios.svg" alt="Logo de servicios públicos de una casa en venta en Fusagasugá" loading="lazy" title="Servicios de la casa en venta con la inmobiliaria Leben"> {{page.servicios}}</li>
+    <div class="venta_precio">
+      <span>${{page.precio | number_with_delimiter: '.' }} negociables</span>
+      <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="{{page.alt}}" title="{{page.title}}">
+    </div>
+  </section><!-- End About Us Section -->
+  <ul class="venta_caracteristicas content">
+    <li><img src="{{site.baseurl}}/assets/images/icons/area.svg" alt="Logo del área de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Área de la casa en venta con la inmobiliaria Leben"> {{page.area}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/habitacion.svg" alt="Logo de habitaciones de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Habitaciones de la casa en venta con la inmobiliaria Leben"> {{page.habitacion}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/sala.svg" alt="Logo de una sala de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Sala de la casa en venta con la inmobiliaria Leben"> {{page.sala}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/comedor.svg" alt="Logo de un comedor de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Comedor de la casa en venta con la inmobiliaria Leben"> {{page.comedor}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/cocina.svg" alt="Logo de una cocina de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Cocina de la casa en venta con la inmobiliaria Leben"> {{page.cocina}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/bano.svg" alt="Logo de un baño de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Baño de la casa en venta con la inmobiliaria Leben"> {{page.bano}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/garaje.svg" alt="Logo de un garaje de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Garaje de la casa en venta con la inmobiliaria Leben"> {{page.garaje}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/servicios.svg" alt="Logo de servicios públicos de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Servicios de la casa en venta con la inmobiliaria Leben"> {{page.servicios}}</li>
     {% for item in page.adicional %}
-    <li><img src="{{site.baseurl}}/assets/images/icons/property.svg" alt="Logo de las llaves de una casa en venta en Fusagasugá" loading="lazy" title="Casa en venta con Leben inmobiliaria"> {{item}}</li>
+    <li><img src="{{site.baseurl}}/assets/images/icons/property.svg" alt="Logo de las llaves de una casa en venta en Fusagasugá" loading="lazy" width="32" height="32" title="Casa en venta con Leben inmobiliaria"> {{item}}</li>
     {% endfor %}
   </ul>
-</section><!-- End About Us Section -->
-
-<main class="venta-body">
-  <h2>Conoce la propiedad de Fusagasugá que tanto te gustó en estas fotos</h2>
-  {% include image-gallery.html %} 
-  {% include asesor.html nombre=page.asesor foto=page.foto-asesor contacto=page.contacto %}
-  {{content}}
-  
   {% include testimonios.html %}
-</main>
+  {% include relacionados.html title="Mira más casas que la Inmobiliaria Leben tiene para ti" %}
+
+
+  <!-- Our Team Section -->
 <section id="counter" class="counter-area section-padding">
-  <div class="container">
+  <div class="wrapper">
     <div class="row">
       <div class="col-lg-6 col-md-12">
         <div class="counter-container">
-          {% if page.url contains "/ventas-casas-y-apartamentos" %}
-          <div class="icon"><img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="Casas y fincas en venta Fusagasugá Colombia" loading="lazy" title="{{page.title}}"></div>
-          {% endif %}
-          {% if page.url contains "/arriendo-casas-y-apartamentos" %}
-          <div class="icon"><img src="{{site.baseurl}}/assets/images/arriendo/{{page.img}}" alt="Casas y fincas en venta Fusagasugá Colombia" loading="lazy" title="{{page.title}}"></div>
-          {% endif %}
-          <h2 class="datos-h2">Aprovecha la oferta de esta propiedad en Fusagasugá</h2>
+          <div class="icon">
+            <img src="{{site.baseurl}}/assets/images/portfolio/{{page.img}}" alt="Casas y fincas en venta Fusagasugá Colombia" loading="lazy" title="{{page.title}}">
+          </div>
+          <h2 class="datos-h2">Aprovecha y compra esta propiedad en Fusagasugá</h2>
+          {% include boton_whatsapp.html %}
         </div>
       </div>
       <div class="col-lg-6 col-md-12">
-            <div class="counter-container">
-              <h3>{{page.title}} ¿Qué esperas?</h3>
-              <ul>
-                <li>✓ {{page.habitacion}}</li>
-                <li>✓ {{page.sala}}</li>
-                <li>✓ {{page.comedor}}</li>
-                <li>✓ {{page.cocina}}</li>
-                <li>✓ {{page.bano}}</li>
-                <li>✓ {{page.garaje}}</li>
-                <li>✓ {{page.servicios}}</li>
-                {% for item in page.adicional %}
-                <li>✓ {{item}}</li>
-                {% endfor %}
-                <li><a href="#asesor" class="boton-white" title="Escribe a leben inmobiliaria">Consigue más información</a></li>
-              </ul>
-            </div>
-          </div>
+        <div class="counter-container">
+          <ul>
+            <li>✓ {{page.habitacion}}</li>
+            <li>✓ {{page.sala}}</li>
+            <li>✓ {{page.comedor}}</li>
+            <li>✓ {{page.cocina}}</li>
+            <li>✓ {{page.bano}}</li>
+            <li>✓ {{page.garaje}}</li>
+            <li>✓ {{page.servicios}}</li>
+            {% for item in page.adicional %}
+            <li>✓ {{item}}</li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
+    </div>
   </div>
 </section>
-
-  <a href="#" class="boton-whatsapp">
-    <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp" title="WhatsApp de Leben Inmobiliaria Fusagasugá">
-  </a>
-
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center" title="Top page de la web de Leben Inmobiliaria"><i
-      class="bi bi-arrow-up-short"></i></a>
-
-      {% include footer.html %}
-  <!-- Vendor JS Files -->
-  <script defer src="/assets/javascripts/jquery.min.js"></script>
-  <script defer src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-  <script defer src="/assets/javascripts/plugins.js"></script>
-
-  <!-- Template Main JS File -->
-  <script src="/assets/javascripts/main.js" defer></script>
-  <script defer src="{{ '/js/whatsapp.js' | relative_url }}"></script>
-</body>
-
-</html>
+<section id="team" class="team">
+  <div class="wrapper">
+    <h2>Estos son los profesionales que te ayudarán a conseguir tu casa</h2>
+    <hr>
+    <div class="member">
+      {% for person in site.data.team %}
+      <article>
+        <img src="{{site.url}}/assets/images/team/{{person.img}}" class="img-fluid" loading="lazy" alt="{{person.alt}}" title="{{person.nombre}} - {{person.trabajo}}">
+        <h3>{{person.nombre}}</h3>
+        <span>{{person.trabajo}}</span>
+      </article>
+      {% endfor %}
+    </div>
+    <hr>
+  </div>
+</section>

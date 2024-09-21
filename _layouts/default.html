@@ -8,7 +8,7 @@ layout: compress
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
  
-  {% include header.html %}
+  {% include nav.html %}
   {{content}}
   {% include footer.html %}
 
@@ -16,56 +16,51 @@ layout: compress
     <img src="{{'assets/images/whatsapp-logo.webp'|relative_url}}" alt="Logo de WhatsApp" title="WhatsApp de Leben Inmobiliaria Fusagasugá">
   </a>
 
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center" title="Top page de la web de Leben Inmobiliaria"><i
-      class="bi bi-arrow-up-short"></i></a>
-  <script src="{{'/js/whatsapp.js' | relative_url}}" defer></script>
+  <a href="#" class="scroll-top" title="Leben Inmobiliaria">↥</a>
+  
+  <script defer src="{{'/js/whatsapp.js' | relative_url}}"></script>
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-  const mobileNavToggle = document.querySelector('.mobile-nav-toggle');
-  const navLinks = document.querySelector('.nav-links');
-  const header = document.querySelector('.navegacion');
-  const dropdowns = document.querySelectorAll('.nav_dropdown');
+    const mobileNavToggle = document.querySelector('.mobile-nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    const header = document.querySelector('.navegacion');
+    const dropdowns = document.querySelectorAll('.nav_dropdown');
 
-  mobileNavToggle.addEventListener('click', function() {
-    navLinks.classList.toggle('nav-links-mobile');
-    this.classList.toggle('active');
-    
-    if (this.classList.contains('active')) {
-      this.querySelector('.burger-menu').style.background = 'transparent';
-      this.querySelector('.burger-menu::before').style.transform = 'rotate(45deg) translate(5px, 5px)';
-      this.querySelector('.burger-menu::after').style.transform = 'rotate(-45deg) translate(7px, -6px)';
-    } else {
-      this.querySelector('.burger-menu').style.background = '#fff';
-      this.querySelector('.burger-menu::before').style.transform = 'none';
-      this.querySelector('.burger-menu::after').style.transform = 'none';
-    }
-  });
+    mobileNavToggle.addEventListener('click', function() {
+      navLinks.classList.toggle('nav-links-mobile');
+      this.classList.toggle('active');
+      
+      if (this.classList.contains('active')) {
+        this.querySelector('.burger-menu').style.background = 'transparent';
+        this.querySelector('.burger-menu::before').style.transform = 'rotate(45deg) translate(5px, 5px)';
+        this.querySelector('.burger-menu::after').style.transform = 'rotate(-45deg) translate(7px, -6px)';
+      } else {
+        this.querySelector('.burger-menu').style.background = '#fff';
+        this.querySelector('.burger-menu::before').style.transform = 'none';
+        this.querySelector('.burger-menu::after').style.transform = 'none';
+      }
+    });
 
-  dropdowns.forEach(dropdown => {
-    dropdown.addEventListener('click', function() {
-      if (window.innerWidth <= 768) {
-        this.classList.toggle('active');
+    dropdowns.forEach(dropdown => {
+      dropdown.addEventListener('click', function() {
+        if (window.innerWidth <= 768) {
+          this.classList.toggle('active');
+        }
+      });
+    });
+
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 0) {
+        header.classList.add('header-scroll');
+      } else {
+        header.classList.remove('header-scroll');
       }
     });
   });
-
-  window.addEventListener('scroll', function() {
-    if (window.scrollY > 0) {
-      header.classList.add('header-scroll');
-    } else {
-      header.classList.remove('header-scroll');
-    }
-  });
-});
   </script>    
 
   <!-- Vendor JS Files -->
   <script src="/assets/javascripts/jquery.min.js" defer></script>
-  <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js" defer></script>
-  <script src="/assets/javascripts/plugins.js" defer></script>
-
-  <!-- Template Main JS File -->
-  <script src="{{'assets/javascripts/main.js' | relative_url}}" async></script>
 
   {% if post.layout != "post" %}
   <script async>
@@ -102,6 +97,41 @@ layout: compress
     <script src="{{'/assets/javascripts/calculadora.js' | relative_url }}"> </script>
     {% endif %}
     
+    {% if page.layout == "venta" or page.layout == "arriendo" %}
+      <!-- Vendor JS Files -->
+      <script>
+        function openLightbox(src) {
+          const lightbox = document.getElementById('lightbox');
+          const lightboxImage = document.getElementById('lightbox-image');
+          lightboxImage.src = src;
+          lightbox.style.display = 'flex';
+          lightbox.setAttribute('aria-hidden', 'false');
+          document.body.style.overflow = 'hidden';
+        }
+
+        function closeLightbox() {
+          const lightbox = document.getElementById('lightbox');
+          lightbox.style.display = 'none';
+          lightbox.setAttribute('aria-hidden', 'true');
+          document.body.style.overflow = 'auto';
+        }
+
+        // Cerrar lightbox al hacer clic fuera de la imagen
+        document.getElementById('lightbox').addEventListener('click', function (e) {
+          if (e.target.id === 'lightbox') {
+            closeLightbox();
+          }
+        });
+
+        // Navegación con teclado
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape') {
+            closeLightbox();
+          }
+        });
+      </script>
+
+    {% endif %}
 
 </body>
 

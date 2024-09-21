@@ -1,35 +1,52 @@
-<header class="navegacion">
-  <div class="container_nav">
-    <a href="/" class="logo"><img src="{{'assets/images/logo-mini.webp'|relative_url}}" alt="Logo Agencia Inmobiliaria Leben" title="Logo Agencia Leben Inmobiliaria">LEBEN Inmobiliaria</a>
-    <nav class="nav_enlaces">
-      <ul class="nav-links">
-        <li class="nav_dropdown">
-          <span>Ofertas</span>
-          <ul class="dropdown-content">
-            <li><a href="/ventas-casas-y-apartamentos" title="Casas Fusagasugá">Casas en venta</a></li>
-            <li><a href="/arriendo-casas-y-apartamentos" title="Casas en arriendo Fusagasugá">Casas en arriendo</a></li>
-            <li><a href="/consigna-tu-propiedad" title="Casas en consignación">Administramos tu propiedad</a></li>
-          </ul>
-        </li>
-        <li class="nav_dropdown">
-          <span>Servicios</span>
-          <ul class="dropdown-content">
-            <li><a href="/servicios" title="Servicio Inmobiliaria Leben">Diligencias legales</a></li>
-            <li><a href="/simulador-gastos-notariales-colombia" title="Simulador gastos notariales">Simulador de gastos notariales</a></li>
-          </ul>
-        </li>
-        <li class="nav_dropdown">
-          <span>Nosotros</span>
-          <ul class="dropdown-content">
-            <li class="nav-contacto"><a href="/contacto" class="btn-get-started" title="Contacto Leben Inmobiliaria Fusagasugá">Contáctanos</a></li>
-            <li><a href="/blog" title="Blog Inmobiliaria Leben">Blog de Leben</a></li>
-            <li><a href="/nosotros" title="Página About Inmobiliaria Leben">Quienes somos</a></li>
-          </ul>
-        </li>
-      </ul>
-    </nav>
-    <div class="mobile-nav-toggle">
-      <span class="burger-menu"></span>
+{% assign layout = page.layout %}
+{% case layout %}
+  {% when "default" %}
+  <header class="header_home">
+    <div class="wrapper">
+      <div class="header_home_texto flow">
+        <h1>{{page.h1}}</h1>
+        <p>Compra y vende casas, fincas o apartamentos. Leben Inmobiliaria protege tu inversión</p>
+        <div class="cta-buttons">
+          {% include boton_whatsapp.html %}
+          <a href="{{'nosotros' | relative_url }}" title="Conoce Inmobiliaria Leben" class="boton boton2">🏫 Conoce la inmobiliaria</a>
+        </div>
+      </div>
+      <img src="{{page.hero|relative_url}}" alt="{{page.alt}}" title="{{page.title}}">
     </div>
-  </div>
-</header>
+  </header>
+  {% when "post" %}
+  <header class="article-header">
+    <div class="wrapper article-header-content">
+      <h1 class="article-title">{{page.h1}}</h1>
+      <div class="article-meta">
+        <time datetime="{{page.date | date: '%Y-%m-%d'}}">{{page.date | date: "%d-%m-%Y"}}</time>
+        <span>Por {{page.autor}}</span>
+      </div>
+      <small class="breadcrumbs"><a href="/" title="Inicio de lebeninmobiliaria.com">Inicio</a> / <a href="{{'blog'|relative_url}}" title="Blog Leben">Blog</a> / {{page.title}}
+      </small>
+    </div>
+  </header>
+  {% when "venta" or "arriendo" %}
+  <header class="header_transaccional">
+    <div class="wrapper">
+      <h1>{{page.h1}}</h1>
+      {% if page.intro %}
+      <p>{{page.intro}}</p>
+      {% endif %}
+      {% include boton_whatsapp.html %}
+    </div>
+  </header>
+  {% else %}
+  <header class="header_informacional">
+    <div class="wrapper flow">
+      <h1>{{page.h1}}</h1>
+      <div class="cta-buttons">
+        {% include boton_whatsapp.html %}
+        <a href="{{'nosotros' | relative_url }}" title="Conoce Inmobiliaria Leben" class="boton boton2">🏫 Conoce Leben</a>
+      </div>
+      {% if page.intro %}
+      <p>{{page.intro}}</p>
+      {% endif %}
+    </div>
+  </header>
+{% endcase %}

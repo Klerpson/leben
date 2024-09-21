@@ -1,0 +1,149 @@
+/****** HEADER LANDING ******/
+.header_landing > div{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1em;
+}
+
+.header_landing .header_landing_texto{
+  display: grid;
+  align-content: center;
+  gap: 1em;
+  flex: 1 0 400px;
+  max-width: 100%;
+  padding: 2em 0;
+
+  h1{
+    text-align: left;
+  }
+}
+
+.header_landing .header_landing_texto li{
+  list-style: none;
+}
+
+.header_landing li span{
+  color: var(--color-third);
+  font-size: 1.3em;
+  font-weight: 900;
+}
+
+.header_landing img{
+  width: min(100%, 600px);
+  filter: drop-shadow(-2px 2px 15px rgba(0, 0, 0, 0.7));
+}
+
+@media screen and (min-width: 1200px) {
+  
+  .header_landing img{
+    width: min(100%, 720px);
+  }
+  
+}
+
+/****** HEADER HOME ******/
+header{
+  background: rgb(253,253,253);
+  background: linear-gradient(8deg, rgba(253,253,253,1) 35%, rgba(221,221,221,1) 75%);
+  overflow: hidden;
+}
+
+.header_home {
+  padding-top: 120px;
+  min-height: 70dvh;
+}
+
+.header_home > div{
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.header_home_texto{
+  display: grid;
+  place-content: center;
+  width: min(100%, 600px);
+
+  h1{
+    font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
+    font-weight: 400;
+  }
+
+  p{
+    font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+    font-weight: 700;
+    letter-spacing: .4px;
+    line-height: 1.12;
+  }
+}
+
+.header_home img{
+  flex: 1 0 400px;
+  width: min(100%, 600px);
+}
+
+@-webkit-keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes zoom {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.header_informacional{
+  position: relative;
+  min-height: 50dvh;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  gap: 1em;
+
+  img{
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    width: min(100%, 1280px);
+  }
+  
+  & h1{
+    color: var(--principal);
+  }
+
+  div{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    .boton{
+      margin: 0;
+    }
+  }
+}
+
+.header_transaccional{
+  background: rgb(253,253,253);
+  background: linear-gradient(8deg, rgba(253,253,253,1) 41%, rgba(192,64,59,1) 75%, rgba(48,43,39,1) 98%);
+  div h1{
+        color: var(--principal);
+        text-align: left;
+    }
+}

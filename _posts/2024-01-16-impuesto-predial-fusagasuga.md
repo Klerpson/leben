@@ -112,8 +112,6 @@ En el banner principal, haz clic en: "Agilice sus trámites – Ingrese a su Por
 
 ¡Listo! Ahora tienes un tutorial completo y fácil de seguir para descargar y/o pagar tu Impuesto Predial en el Municipio de Fusagasugá.
 
-{% include cta.html %}
-
 ## Pago en la oficina de la alcaldía de Fusagasugá Impuesto Predial
 
 Los propietarios de inmuebles en Fusagasugá también tienen la oportunidad de visitar el Municipio en persona para realizar el pago del impuesto predial.

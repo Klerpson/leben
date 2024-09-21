@@ -37,15 +37,11 @@ Dependiendo del acuerdo, puede ser el vendedor o el comprador, aunque *usualment
 
 Así, para [vender una casa]({{'consigna-tu-propiedad' | relative_url}} "Vendemos tu casa") con un valor estimado en 200.000.000 de COP en Colombia, se debería considerar un pago a la inmobiliaria que va desde los 6.000.000 hasta los 12.000.000 de COP.
 
-{% include relacionados.html title="Estas son las mejores opciones de casas con porcentajes bajos de comisión" %}
-
 ## Y ¿cuánto cobra inmobiliaria por vender apartamento en Colombia?
 
 Normalmente, al menos en [Leben Inmobiliaria](/), solemos cobrar el mismo porcentaje que ya te mencionamos por [vender o conseguir tu apartamento con mayor prontitud]({% post_url 2024-06-28-apartamentos-en-fusagasuga %} "Apartamentos fusagasuga").
 
 Aunque al pensar en [gastos de compra de vivienda]({% post_url 2024-03-17-gastos-notariales-compra-venta-casa %} "Gastos de venta de tu casa"), consideramos gastos notariales, [impuestos prediales]({% post_url 2024-01-16-impuesto-predial-fusagasuga %} "Impuesto predial Fusa") y el pago al agente inmobiliario, existen costos adicionales en la escritura de compraventa.
-
-{% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
 
 ### Pero, ¿quién paga gastos de escritura de compraventa por la casa vendida?
 

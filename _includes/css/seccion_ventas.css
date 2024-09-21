@@ -1,0 +1,258 @@
+/* Hero Section */
+.hero-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: var(--principal);
+}
+
+.hero-subtitle {
+  max-width: 600px;
+}
+
+/* City Overview */
+.city-overview,
+.leben-advantages {
+  padding: 4em 0;
+
+  h2{
+    text-align: left;
+  }
+}
+
+.city-features {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.feature-card {
+  flex: 1;
+  background-color: var(--blanco);
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+}
+
+.icon {
+  font-size: 2rem;
+  color: var(--secundario);
+  margin-bottom: 1rem;
+}
+
+/* Advantages Section */
+.advantages-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+}
+
+.advantage-item {
+  text-align: center;
+  padding: 1rem;
+  background-color: var(--blanco);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Property Types */
+.property-types-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 2rem;
+}
+
+.property-type-card {
+  background-color: var(--blanco);
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.3s ease;
+}
+
+.property-type-card:hover {
+  transform: translateY(-5px);
+}
+
+.property-img {
+  width: 100%;
+  height: 200px;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+.property-type-card h3,
+.property-type-card p {
+  padding: 0 1rem;
+}
+
+/* Leben Advantages */
+.leben-advantages-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem;
+}
+
+.leben-advantage-card {
+  text-align: center;
+  padding: 2rem;
+  background-color: var(--blanco);
+  box-shadow: var(--shadow);
+}
+
+/* Buying Tips */
+.tips-carousel {
+  display: flex;
+  overflow-x: auto;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+  gap: 2rem;
+  padding: 1rem 0;
+}
+
+.tip-slide {
+  flex: 0 0 300px;
+  scroll-snap-align: start;
+  background-color: var(--blanco);
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+}
+
+/* Market Perspective */
+.market-info {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.market-graph,
+.market-text {
+  flex: 1;
+}
+
+.feature-card,
+.advantage-item,
+.property-type-card,
+.leben-advantage-card,
+.tip-slide {
+  -webkit-animation: fadeIn 0.5s ease-out forwards;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Accessibility and Responsiveness */
+@media (max-width: 768px) {
+  .city-features,
+  .market-info {
+    flex-direction: column;
+  }
+
+  .property-types-grid,
+  .leben-advantages-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-section h1 {
+    font-size: 2rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.2rem;
+  }
+
+  .content-wrapper {
+    padding: 1rem;
+  }
+}
+
+.buying-tips {
+  padding: 4em 0;
+}
+
+.cta-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .feature-card,
+  .advantage-item,
+  .property-type-card,
+  .leben-advantage-card,
+  .tip-slide {
+    -webkit-animation: none;
+    animation: none;
+  }
+}
+
+/***** PAGINA DE PROPIEDAD *****/
+.hero-venta {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 496px), 1fr));
+  place-items: center;
+  overflow: hidden;
+
+  & .venta_precio {
+    position: relative;
+
+    img {
+      -o-object-fit: cover;
+      object-fit: cover;
+      max-width: 100%;
+    }
+    span {
+      position: absolute;
+      bottom: 10dvh;
+      right: 0;
+      z-index: 10;
+      background: rgba(19, 4, 4, 0.4);
+      padding: 12px;
+      font-weight: 700;
+      text-transform: capitalize;
+      font-size: 2em;
+      text-align: right;
+      max-width: 240px;
+      color: white;
+    }
+  }
+}
+
+.venta_caracteristicas {
+  padding: 2em 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1em;
+
+  li {
+    flex: 1 0 332px;
+    max-width: 100%;
+    padding: 16px 24px;
+    display: grid;
+    gap: 8px;
+    border: 2px solid var(--gris);
+    margin: 0;
+
+    img {
+      width: 32px;
+    }
+  }
+}
+
+.venta-body {
+  display: grid;
+
+  img{
+    max-width: 100%;
+  }
+}

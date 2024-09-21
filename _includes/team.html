@@ -1,0 +1,18 @@
+<!-- Our Team Section -->
+<section id="team" class="team">
+  <div class="wrapper flow">
+    <h2>Conoce el equipo de expertos de la inmobiliaria de Fusagasugá LEBEN</h2>
+    <p>Estas son las personas que nos ayudan a ser <strong>los mejores entre las inmobiliarias de Fusagasugá</strong>. Invierte en Fusagasugá con el respaldo de estos profesionales.</p>
+    <hr>
+    <div class="member">
+      {% for person in site.data.team %}
+      <article>
+        <img src="{{site.url}}/assets/images/team/{{person.img}}" class="img-fluid" loading="lazy" alt="{{person.alt}}" title="{{person.nombre}} - {{person.trabajo}}">
+        <h3>{{person.nombre}}</h3>
+        <span>{{person.trabajo}}</span>
+      </article>
+      {% endfor %}
+    </div>
+    <hr>
+  </div>
+</section>

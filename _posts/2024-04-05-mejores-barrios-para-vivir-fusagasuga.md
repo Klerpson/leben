@@ -158,8 +158,6 @@ Hay un total de 138 barrios en Fusagasugá. Aquí está el desglose por comuna:
 - **Comuna Sur Occidental**: 36 barrios
 - **Comuna Sur Oriental**: 33 barrios
 
-{% include relacionados.html title="Estas son las mejores opciones de casas en venta de estos barrios de Fusagasugá" %}
-
 ### Tabla de los barrios de Fusagasugá por comuna
 
 | Comuna | Barrios |

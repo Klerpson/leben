@@ -140,5 +140,3 @@ El futuro de la inversión en finca raíz en Fusagasugá se presenta prometedor.
 Con el crecimiento continuo de la ciudad y los proyectos de desarrollo en marcha, **se espera que el mercado inmobiliario siga creciendo en los próximos años**.
 
 Esto brinda oportunidades para los inversionistas que desean capitalizar en el potencial de la ciudad y obtener ganancias a largo plazo.
-
-{% include relacionados.html title="Invierte en finca raíz con estas opciones de Fusagasugá" %}

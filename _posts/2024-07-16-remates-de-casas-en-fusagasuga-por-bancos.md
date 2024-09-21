@@ -43,8 +43,6 @@ Para aquellos que requieren asistencia profesional, hay una sólida **agencia in
 
 Nuestra experiencia en la comercialización y compraventa de propiedades asegura una transacción suave y rentable.
 
-{% include relacionados.html title="¿Tienes los fondos suficientes? Compra la casa de Fusagasugá que te gustaría tener" %}
-
 ## Descubriendo las Gangas de Casas en Fusagasugá y Cundinamarca
 
 Los **remates de casas en Fusagasugá por bancos** no son la única opción de inversión rentable.

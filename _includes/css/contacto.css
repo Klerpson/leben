@@ -1,0 +1,49 @@
+.contact-info {
+  background-color: var(--gris);
+  padding: 2rem;
+  border-radius: var(--radius);
+  margin-bottom: 2rem;
+}
+.contact-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+.contact-info li {
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+}
+.contact-info li::before {
+  content: '👉';
+  margin-right: 0.5rem;
+}
+.map-container {
+  margin-top: 2rem;
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+.cta-section {
+  background-color: var(--principal);
+  color: var(--blanco);
+  padding: 2rem;
+  border-radius: var(--radius);
+  margin-top: 2rem;
+}
+.cta-section h2 {
+  color: var(--blanco);
+}
+.cta-list {
+  list-style-type: none;
+  padding: 0;
+}
+.cta-list li {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+  position: relative;
+}
+.cta-list li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: var(--accion);
+}

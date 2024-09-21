@@ -1,0 +1,39 @@
+---
+layout: default
+title: Buscador de Propiedades
+permalink: /buscador/
+noindex: true
+---
+<main class="wrapper">
+
+  <h1>Buscador de Propiedades</h1>
+  
+<form id="property-search-form">
+  <label for="min-price">Precio mínimo:</label>
+  <input type="number" id="min-price" name="min-price">
+
+  <label for="max-price">Precio máximo:</label>
+  <input type="number" id="max-price" name="max-price">
+
+  <label for="property-type">Tipo de propiedad:</label>
+  <select id="property-type" name="property-type">
+    <option value="">Todos</option>
+    <option value="casas">Casa</option>
+    <option value="apartamentos">Apartamento</option>
+    <option value="fincas">Finca</option>
+  </select>
+
+  <label for="listing-type">Tipo de listado:</label>
+  <select id="listing-type" name="listing-type">
+    <option value="">Todos</option>
+    <option value="venta">Venta</option>
+    <option value="arriendo">Arriendo</option>
+  </select>
+
+  <button type="submit">Buscar</button>
+</form>
+
+<div id="search-results"></div>
+
+<script src="{{ '/js/property-search.js' | relative_url }}"></script>
+</main>
