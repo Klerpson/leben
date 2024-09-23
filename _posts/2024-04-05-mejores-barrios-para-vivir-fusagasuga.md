@@ -67,7 +67,7 @@ Como el nombre lo indica, está ubicado estratégicamente cerca de todos los lug
 
 Cuenta con un ambiente comercial, lo que lo convierte en **una excelente opción para aquellos que buscan una buena calidad de vida en Fusagasugá**.
 
-[Mira esta casa en El Centro]({{'ventas/casa-sector-norte-centro-fusagasuga' | relative_url}} "Casa en el barrio El Centro Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en El Centro]({{'ventas-casas-y-apartamentos/casa-sector-norte-centro-fusagasuga' | relative_url}} "Casa en el barrio El Centro Fusagasugá"){:class="boton boton1" target="_blank"}
 
 El Centro Fusagasugá ofrece una gran variedad de opciones de vivienda, desde apartamentos hasta casas grandes multifamiliares.
 
@@ -87,7 +87,7 @@ El barrio Vergel sí tiene acceso a servicios públicos como acueducto, alcantar
 
 Es un clásico barrio colombiano de vida familiar y de poco estrés.
 
-[Mira esta casa en El Vergel]({{'ventas/casa-negocio-oportunidad-vergel-fusagasuga' | relative_url}} "Casa en el barrio El Vergel Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en El Vergel]({{'ventas-casas-y-apartamentos/casa-negocio-oportunidad-vergel-fusagasuga' | relative_url}} "Casa en el barrio El Vergel Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ### Barrio Santander - Fusagasugá, Cundinamarca
 
@@ -101,7 +101,7 @@ El barrio Balmoral se caracteriza por su tranquilidad y accesibilidad. Cuenta co
 
 Este barrio es ideal para aquellos que buscan un ambiente tranquilo y seguro para establecer su hogar. Los residentes destacan **la calidad de vida en Balmoral y resaltan la importancia de la tranquilidad** que se encuentra en este barrio.
 
-[Mira esta casa en Balmoral]({{'ventas/casa-venta-fusagasuga-balmoral' | relative_url}} "Casa en el barrio Balmoral Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en Balmoral]({{'ventas-casas-y-apartamentos/casa-venta-fusagasuga-balmoral' | relative_url}} "Casa en el barrio Balmoral Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ### Barrio La Palma Fusagasugá, Cundinamarca
 
@@ -109,7 +109,7 @@ El Barrio La Palma se destaca por la belleza de sus casas y su oferta comercial 
 
 Los residentes felices con su elección de vivir en La Palma resaltan **la belleza de las casas y la oferta comercial y de entretenimiento** que se encuentra en este barrio.
 
-[Mira esta casa en La Palma]({{'ventas/casa-en-la-palma-fusagasuga' | relative_url}} "Casa en el barrio La Palma Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en La Palma]({{'ventas-casas-y-apartamentos/casa-en-la-palma-fusagasuga' | relative_url}} "Casa en el barrio La Palma Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ### Barrio Bonet - Fusagasugá, Cundinamarca
 
@@ -117,7 +117,7 @@ El barrio Bonet es una zona residencial **alejada del ruido de la ciudad**. Con 
 
 Los residentes satisfechos con la tranquilidad y la comodidad de Bonet destacan **la belleza del entorno y la calidad de vida** que se encuentra en este barrio.
 
-[Mira esta casa en Bonet]({{'ventas/casa-3-pisos-fusa' | relative_url}} "Casa en el barrio Bonet Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en Bonet]({{'ventas-casas-y-apartamentos/casa-3-pisos-fusa' | relative_url}} "Casa en el barrio Bonet Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ### Barrio Nueva Esperanza - Fusagasugá, Cundinamarca
 
@@ -137,7 +137,7 @@ El Barrio Los Robles se caracteriza por su ubicación estratégica y su oferta c
 
 Los residentes satisfechos con su elección de vivir en Los Robles valoran **la comodidad y la belleza de este barrio**.
 
-[Mira esta casa en Los Robles]({{'ventas/casa-3-pisos-fusa' | relative_url}} "Casa en el barrio el barrio Los Robles Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en Los Robles]({{'ventas-casas-y-apartamentos/casa-3-pisos-fusa' | relative_url}} "Casa en el barrio el barrio Los Robles Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ### Barrio Pekín - Fusagasugá, Cundinamarca
 
@@ -145,7 +145,7 @@ El Barrio Pekín es una zona exclusiva y tranquila de Fusagasugá. Con **hermosa
 
 Los residentes satisfechos con la vida en Pekín resaltan la tranquilidad y la comodidad que se encuentra en este barrio.
 
-[Mira esta casa en Pekín]({{'ventas/casa-sector-pekin-fusa' | relative_url}} "Casa en el barrio el barrio Pekín Fusagasugá"){:class="btn-get-started" target="_blank"}
+[Mira esta casa en Pekín]({{'ventas-casas-y-apartamentos/casa-sector-pekin-fusa' | relative_url}} "Casa en el barrio el barrio Pekín Fusagasugá"){:class="boton boton1" target="_blank"}
 
 ## Las comunas y barrios de Fusagasugá
 
@@ -175,4 +175,4 @@ En resumen, Fusagasugá cuenta con una variedad de barrios que ofrecen diferente
 
 La elección del barrio adecuado *depende de las necesidades y preferencias de cada individuo*. **Los 10 mejores barrios de Fusagasugá mencionados anteriormente ofrecen características únicas** que pueden brindar una excelente calidad de vida a sus residentes.
 
-Recuerda tomar en consideración aspectos como la ubicación, los servicios cercanos, la seguridad y el ambiente antes de tomar una decisión al escoger la mejor zona de Fusagasugá para vivir con tu familia. ¡Buena suerte en [tu búsqueda del lugar perfecto para vivir en Fusagasugá]({{'ventas'|relative_url}})!
+Recuerda tomar en consideración aspectos como la ubicación, los servicios cercanos, la seguridad y el ambiente antes de tomar una decisión al escoger la mejor zona de Fusagasugá para vivir con tu familia. ¡Buena suerte en [tu búsqueda del lugar perfecto para vivir en Fusagasugá]({{'ventas-casas-y-apartamentos'|relative_url}})!

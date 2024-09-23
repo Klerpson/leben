@@ -39,7 +39,7 @@ En Fusagasugá, esta estabilidad se traduce en un [ambiente propicio en cada uno
 
 La demanda de vivienda en **Fusagasugá ha experimentado un crecimiento significativo** en los últimos años.
 
-Ha habido un aumento en la población y un desarrollo urbano acelerado. Además, [la oferta de viviendas]({{'ventas'|relative_url}}) no ha logrado satisfacer completamente esta demanda, lo que ha llevado a un aumento en los precios de las propiedades.
+Ha habido un aumento en la población y un desarrollo urbano acelerado. Además, [la oferta de viviendas]({{'ventas-casas-y-apartamentos'|relative_url}}) no ha logrado satisfacer completamente esta demanda, lo que ha llevado a un aumento en los precios de las propiedades.
 
 >**La alta demanda de vivienda**  es una oportunidad para los inversionistas que buscan capitalizar en un mercado en constante crecimiento.
 
@@ -103,7 +103,7 @@ Obtén información sobre **los precios promedio de las propiedades en diferente
 
 Contar con el apoyo de una agencia inmobiliaria puede ser de gran ayuda al invertir en finca raíz en Fusagasugá.
 
-**Nuestra agencia inmobiliaria Leben tiene un conocimiento profundo del mercado local y puede brindarte asesoramiento experto**. Además, podemos ayudarte en todo el proceso de compra o [alquiler]({{'arriendo'|relative_url}} "Propiedades en arriendo"), desde la búsqueda de propiedades hasta la negociación y los trámites legales.
+**Nuestra agencia inmobiliaria Leben tiene un conocimiento profundo del mercado local y puede brindarte asesoramiento experto**. Además, podemos ayudarte en todo el proceso de compra o [alquiler]({{'arriendo-casas-y-apartamentos'|relative_url}} "Propiedades en arriendo"), desde la búsqueda de propiedades hasta la negociación y los trámites legales.
 
 > [En LEBEN tenemos profesionales inmobiliarios]({{'contacto'|relative_url}})  listos para ayudarte a cumplir tu sueño de tu propia casa en Fusagasugá
 

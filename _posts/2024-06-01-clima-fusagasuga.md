@@ -23,7 +23,7 @@ Esta historia deja una importante lección, y es que **el clima es un factor fun
 
 Por esa razón, en este artículo, te contaremos sobre **el clima de Fusagasugá**, desde su panorama general hasta las previsiones para este fin de semana, para que puedas planificar tus aventuras con total confianza.
 
-Puede que estés de visita. También, que estés pensando en [comprar casa en Fusagasugá]({{'ventas'|relative_url}}). O si ya vives aquí. El caso es que podrás estar informado sobre las condiciones climáticas de la ciudad y así disfrutar plenamente de todas las actividades que esta te ofrece.
+Puede que estés de visita. También, que estés pensando en [comprar casa en Fusagasugá]({{'ventas-casas-y-apartamentos'|relative_url}}). O si ya vives aquí. El caso es que podrás estar informado sobre las condiciones climáticas de la ciudad y así disfrutar plenamente de todas las actividades que esta te ofrece.
 
 ## Clima de Fusagasugá: Una mirada General
 
@@ -44,7 +44,7 @@ Esta diversidad estacional permite disfrutar de diferentes actividades y paisaje
 
 ## Ventajas de vivir en Fusagasugá: Más allá del Clima
 
-Vivir en Fusagasugá no solo significa disfrutar de su clima excepcional, sino también de una serie de ventajas que hacen que esta ciudad sea un lugar ideal para comprar o [arrendar casa en Fusagasugá]({{'arriendo'|relative_url}}). Aquí te van algunas:
+Vivir en Fusagasugá no solo significa disfrutar de su clima excepcional, sino también de una serie de ventajas que hacen que esta ciudad sea un lugar ideal para comprar o [arrendar casa en Fusagasugá]({{'arriendo-casas-y-apartamentos'|relative_url}}). Aquí te van algunas:
 
 - **Proximidad a Bogotá** Está ubicada a una distancia razonable de la capital, Bogotá, lo que permite acceder fácilmente a las oportunidades laborales, culturales y de entretenimiento que ofrece una gran ciudad, mientras se disfruta de un estilo de vida más relajado en Fusagasugá.
 - **Calidad de vida** Fusagasugá ofrece una calidad de vida relativamente alta, con servicios básicos bien establecidos, como educación, salud, transporte y recreación. Además, su tamaño moderado permite una vida tranquila y familiar, pero con acceso a comodidades urbanas.
@@ -60,4 +60,4 @@ Ya sea que estés planeando una escapada de fin de semana o considerando un camb
 
 ¡Ven y descubre todo lo que esta ciudad tiene para ofrecer bajo su cálido sol!
 
-> ¿Quieres construir tu futuro en Fusagasugá? Te ayudamos a cumplir tus sueños... Conoce los servicios que tenemos para ti [Escríbenos desde nuetra página de contacto]({{'contacto'|relative_url}})
+> ¿Quieres construir tu futuro en Fusagasugá? Te ayudamos a cumplir tus sueños... Conoce los servicios que tenemos para ti [Escríbenos desde nuestra página de contacto]({{'contacto'|relative_url}})

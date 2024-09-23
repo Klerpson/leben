@@ -16,7 +16,7 @@ Fusagasugá, un municipio vibrante y lleno de vida, se erige como un destino imp
 
 Este artículo te llevará a través de sus calles, su historia, cultura, y te mostrará por qué Fusagasugá es un lugar que debes visitar y explorar.
 
-Prepárate para descubrir porqué este fascinante municipio es una de las mejores opciones de Colombia para [comprar tu casa]({{'ventas'|relative_url}} "Compra casa Fusagasuga") y vivir aquí.
+Prepárate para descubrir porqué este fascinante municipio es una de las mejores opciones de Colombia para [comprar tu casa]({{'ventas-casas-y-apartamentos'|relative_url}} "Compra casa Fusagasuga") y vivir aquí.
 
 -----
 
@@ -71,7 +71,7 @@ Para los amantes de la aventura, Fusagasugá ofrece actividades como senderismo,
 
 ## El Estilo de Vida en Fusagasugá
 
-Fusagasugá no solo atrae a turistas, sino también a [aquellos que buscan un lugar para vivir]({{'arriendo'|relative_url}} "Arriendo en Fusagasugá"). Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.
+Fusagasugá no solo atrae a turistas, sino también a [aquellos que buscan un lugar para vivir]({{'arriendo-casas-y-apartamentos'|relative_url}} "Arriendo en Fusagasugá"). Con una creciente economía y una calidad de vida en ascenso, es un lugar ideal para residir.
 
 ### Educación y Servicios
 

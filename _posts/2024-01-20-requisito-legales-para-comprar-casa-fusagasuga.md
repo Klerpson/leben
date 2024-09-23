@@ -20,7 +20,7 @@ Recientemente ha atraído a varios compradores potenciales interesados en adquir
 
 ## Documentos previos a la compra de una casa en Fusagasugá
 
-Antes de [comprar una vivienda en Fusagasugá]({{'ventas'|relative_url}}), debes tener listada la documentación adecuada. Esto incluye:
+Antes de [comprar una vivienda en Fusagasugá]({{'ventas-casas-y-apartamentos'|relative_url}}), debes tener listada la documentación adecuada. Esto incluye:
 
 * Documento nacional de identidad o **cédula**
 * **Comprobante de residencia** y un certificado de solvencia, que emite una entidad financiera

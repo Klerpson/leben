@@ -33,7 +33,7 @@ El costo del corretaje inmobiliario para apartamentos suele ser similar al de la
 
 En algunas ciudades donde el mercado de apartamentos es más competitivo, las comisiones pueden ser ligeramente más bajas y rondar **entre el 7% y 9% del valor del arrendamiento**.
 
-[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="btn-get-started" target="_blank"}
+[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="boton boton1" target="_blank"}
 
 ## ¿Qué dice la ley Colombiana sobre las comisiones inmobiliarias?
 
@@ -108,12 +108,12 @@ Piensa en esto:
 
 * **Ahorras tiempo:** La inmobiliaria no solo dispone de los recursos y plataformas para publicar tu propiedad efectivamente, también, tiene una red extensa de clientes e inversionistas. Lo que le permite encontrar los mejores inquilinos rápidamente.  
 * **No te preocupas por la parte legal:** Una inmobiliaria (al menos una buena) se asegura de que todo el proceso de arrendamiento cumpla con las leyes y regulaciones pertinentes para evitar sanciones y está al tanto de cambios en la legislación, informándote sobre cualquier modificación que necesites hacer.  
-* **¡Se acaban las peleas con inquilinos\!**: En caso de que sufras un conflicto, la inmobiliaria actúa como intermediario entre tú y el inquilino. Si se presenta cualquier violación al contrato de arrendamiento, la inmobiliaria se hace cargo legalmente y se asegura de que se impongan las medidas necesarias.  
+* **¡Se acaban las peleas con inquilinos!**: En caso de que sufras un conflicto, la inmobiliaria actúa como intermediario entre tú y el inquilino. Si se presenta cualquier violación al contrato de arrendamiento, la inmobiliaria se hace cargo legalmente y se asegura de que se impongan las medidas necesarias.  
 * **El dinero te llega puntal, sin excusas:** La experiencia y los recursos de la inmobiliaria te protegen contra imprevistos y te garantizan el pago mensual de la renta. Podrás centrarte en otras actividades, sabiendo que tu propiedad está en manos de profesionales.
 
 ¿Verdad que estos beneficios superan por un 1.000% al costo de la comisión?
 
-[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="btn-get-started" target="_blank"}
+[Consigna tu casa en Leben]({{ 'consigna-tu-propiedad' | relative_url }}){:class="boton boton1" target="_blank"}
 
 ## Consejos para negociar comisiones inmobiliarias
 

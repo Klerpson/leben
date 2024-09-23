@@ -33,7 +33,7 @@ Para vender una casa rápidamente, es crucial **destacar las mejores caracterís
 
 También es útil trabajar con una agencia inmobiliaria experimentada que tenga una amplia red de posibles compradores. En este punto, queremos recordarte cómo [nuestra Inmobiliaria Leben](/) lleva años destacando en el mercado inmobiliario de Fusagasugá, Bogotá, Moniquirá, y todos sus alrededores.
 
-[Asesórate Gratis con Leben]({{'contacto' | relative_url}} "Vender casas Bogota"){:class="btn-get-started"}
+[Asesórate Gratis con Leben]({{'contacto' | relative_url}} "Vender casas Bogota"){:class="boton boton1"}
 
 ## ¿Qué costos puede tener vender un inmueble en Colombia?
 
@@ -66,6 +66,6 @@ Para vender un inmueble en Colombia, [necesitarás recopilar varios documentos](
 
 Si estás teniendo dificultades para vender un inmueble, considera hacer mejoras en la propiedad para aumentar su atractivo. También puede ser útil ofrecer financiamiento atractivo o **flexibilidad en los términos de venta**.
 
->Pregunta a [nuestro asesor profesional](#asesor) por el método de publicidad directa mediante anuncios que utilizamos en leben para vender más rápido tu casa.
+>Pregunta a [nuestro asesor profesional]({{'contacto'|relative_url}} "Aseores inmobiliaria Leben") por el método de publicidad directa mediante anuncios que utilizamos en leben para vender más rápido tu casa.
 
 Vender un inmueble no tiene por qué ser un proceso abrumador. Con la preparación adecuada, información actualizada y apoyo experto, puedes llevar a cabo la venta de tu propiedad de manera eficaz y rentable en el mercado colombiano.

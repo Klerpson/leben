@@ -17,7 +17,7 @@ Desde el punto de vista geográfico, [Fusagasugá está rodeada de hermosos pais
 
 En cuanto a su economía, Fusagasugá se destaca por ser un importante centro agrícola y ganadero, con la producción de alimentos como la papa, el tomate y la leche. Además, la ciudad cuenta con una creciente industria turística, impulsada por su belleza escénica y su rica tradición cultural.
 
-[Mira apartamentos aquí]({{'ventas' | relative_url}} "Comprar casa Fusagasugá"){:class="btn-get-started"}
+[Mira apartamentos aquí]({{'ventas-casas-y-apartamentos' | relative_url}} "Comprar casa Fusagasugá"){:class="boton boton1"}
 
 ## ¿Por qué buscar un apartamento para comprar o arrendar en Fusagasugá?
 
@@ -32,7 +32,7 @@ Existen numerosos beneficios de considerar Fusagasugá como tu lugar de residenc
 
 ### La variedad de apartamentos en Fusagasugá
 
-Fusagasugá, como en cualquier ciudad, encuentras **apartamentos pequeños, apartaestudios, amplios apartamentos de varias habitaciones**, etc. Hay opciones para todos los gustos.
+Fusagasugá, como en cualquier ciudad, encuentras **apartamentos pequeños, aparta-estudios, amplios apartamentos de varias habitaciones**, etc. Hay opciones para todos los gustos.
 
 Además, tendrás la opción de elegir entre **apartamentos amoblados y sin amoblar**, dependiendo de tus necesidades y presupuesto.
 
@@ -57,7 +57,7 @@ Encontrar el apartamento ideal en Fusagasugá puede ser un proceso emocionante y
 3. **Solicitar visitas y hacer preguntas:**  Contacta a los propietarios o agentes inmobiliarios para solicitar visitas a los apartamentos que te interesan y hacerles preguntas sobre las condiciones y características de cada uno.
 4. **Considerar servicios y transporte público:**  Ten en cuenta la cercanía a servicios como supermercados, colegios o centros de salud, así como la disponibilidad de transporte público en la zona.
 
-[Mira apartamentos aquí]({{'ventas' | relative_url}} "Comprar casa Fusagasugá"){:class="btn-get-started"}
+[Mira apartamentos aquí]({{'ventas-casas-y-apartamentos' | relative_url}} "Comprar casa Fusagasugá"){:class="boton boton1"}
 
 ## Seguridad garantizada en los apartamentos de Fusagasugá
 
@@ -73,4 +73,4 @@ La seguridad es una preocupación importante al buscar un nuevo apartamento. En 
 
 No te arrepentirás de la belleza y tranquilidad que esta ciudad tiene para ofrecer. ¡No pierdas la oportunidad de encontrar el apartamento ideal en Fusagasugá y comenzar una nueva etapa en tu vida!
 
-[Mira apartamentos aquí]({{'ventas' | relative_url}} "Comprar casa Fusagasugá"){:class="btn-get-started"}
+[Mira apartamentos aquí]({{'ventas-casas-y-apartamentos' | relative_url}} "Comprar casa Fusagasugá"){:class="boton boton1"}

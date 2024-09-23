@@ -19,7 +19,7 @@ Este costo suele variar, pero para tener una idea, el **porcentaje que cobra la 
 
 La pregunta "***¿Cuánto se debe pagar a la inmobiliaria?***", resuena frecuentemente en los interesados en comprar, vender o arrendar una propiedad. Al igual que aclarar **cuanto cobra una inmobiliaria por arrendar un apartamento**.
 
->Nuestra clara intención es que cuando decidas [comprar o vender tu casa con nuestra inmobiliaria]({{'ventas'|relative_url}}) lo puedas hacer con total confianza.
+>Nuestra clara intención es que cuando decidas [comprar o vender tu casa con nuestra inmobiliaria]({{'ventas-casas-y-apartamentos'|relative_url}}) lo puedas hacer con total confianza.
 
 ## Los gastos de la comisión con una inmobiliaria
 

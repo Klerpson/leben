@@ -14,7 +14,7 @@ instagram: https://instagram.com/sebastianrincon
 ---
 ¿Tienes un dinero que quieres aprovechar de la mejor manera? **Y puede que estés pensando en comprar casa para arrendar**, ya sea en Fusagasugá o en cualquier lugar del país.
 
-Aquí te daremos herramientas necesarias para que puedas tomar la decisión de [invertir en bienes raíces y comprar una casa]({{'ventas' | relative_url}} "Comprar casa Fusagasugá") para alquilar.
+Aquí te daremos herramientas necesarias para que puedas tomar la decisión de [invertir en bienes raíces y comprar una casa]({{'ventas-casas-y-apartamentos' | relative_url }} "Comprar casa Fusagasugá") para alquilar.
 
 Te explicaremos por qué es una opción *rentable a largo plazo* y cuáles son los beneficios fiscales y financieros que puedes obtener.
 
@@ -34,7 +34,7 @@ La inversión en bienes raíces es una opción con múltiples beneficios.
 
 A diferencia de otras inversiones, como las acciones o bonos, la inversión en propiedades te brinda la ventaja de **generar ingresos pasivos a través de alquileres**. Esto significa que puedes obtener un flujo constante de dinero sin realizar grandes esfuerzos.
 
-[Administramos tu casa]({{'consigna-tu-propiedad' | relative_url}} "Casa en administración"){:class="btn-get-started"}
+[Administramos tu casa]({{'consigna-tu-propiedad' | relative_url}} "Casa en administración"){:class="boton boton1"}
 
 A largo plazo, las propiedades tienden a aumentar su valor, lo que te permite obtener ganancias al momento de vender.
 
@@ -113,7 +113,7 @@ Una vez que hayas adquirido la propiedad, deberás decidir cómo administrarla. 
 * **Gestionarla directamente:** Esta opción implica más responsabilidades, pero te da control total sobre la propiedad.
 * **Contratar un administrador de propiedades:** Esta opción te ahorra tiempo y esfuerzo, pero conlleva un costo adicional.
 
-[Administramos tu casa]({{'consigna-tu-propiedad' | relative_url}} "Casa en administración"){:class="btn-get-started"}
+[Administramos tu casa]({{'consigna-tu-propiedad' | relative_url}} "Casa en administración"){:class="boton boton1"}
 
 Si dejas tu casa en consignación con nuestra [inmobiliaria Leben](/) puedes tener algunos beneficios adicionales:
 

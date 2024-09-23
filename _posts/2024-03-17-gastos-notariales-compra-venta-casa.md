@@ -12,7 +12,7 @@ foto: sebastian-rincon-leben.webp
 bio: Co-director de LEBEN Inmobiliaria, con más de 5 años de experiencia en el mercado de propiedades de Fusagasugá. Disfruta compartiendo lo que lo enamora de vivir en esta floreciente ciudad.
 instagram: https://instagram.com/sebastianrincon
 ---
-Al [comprar casa en Colombia]({{'ventas'|relative_url}}), ya sea nueva o usada, **es fundamental conocer los gastos notariales que implica la transacción de venta o compra**. Estos costos notariales en Colombia son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
+Al [comprar casa en Colombia]({{'ventas-casas-y-apartamentos'|relative_url}}), ya sea nueva o usada, **es fundamental conocer los gastos notariales que implica la transacción de venta o compra**. Estos costos notariales en Colombia son obligatorios y pueden representar entre el 2% y 4% del valor total del inmueble, variando si eres el comprador o vendedor.
 
 -----
 
@@ -47,7 +47,7 @@ Por su parte, los vendedores deben asumir:
 
 Hemos preparado una **calculadora de gastos notariales basada en las normas de este año**. Así podrás averiguar el gasto aproximada de la transacción de tu propiedad. Haz clic en él y luego puedes continuar con la información:
 
-[Utiliza la calculadora de gastos notariales]({{'simulador-gastos-notariales-colombia' | relative_url}} "Simulador gastos notariales"){:class="btn-get-started" target="_blank"}
+[Utiliza la calculadora de gastos notariales]({{'simulador-gastos-notariales-colombia' | relative_url}} "Simulador gastos notariales"){:class="boton boton1" target="_blank"}
 
 **Estos montos se rigen por la Ley 1395 de 2010** que establece los máximos a pagar. Es crucial presupuestarlos adecuadamente antes de la firma de la escritura pública que legaliza la compraventa.
 

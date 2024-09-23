@@ -35,7 +35,7 @@ Ahora piensa en los balcones de este conjunto cerrado.
 >
 >Es tu oportunidad de tener un apartamento en uno de los mejores lugares de Fusagasugá. Haz clic y entérate más sobre lo que ofrece este gran lugar.
 >
->[Casa Mirador de la Colina]({{'ventas/casa-nueva-en-venta-fusagasuga'|relative_url}} "Casa en venta Mirador de la Colina"){:target="_blank" class="btn-get-started"}
+>[Casa Mirador de la Colina]({{'ventas-casas-y-apartamentos/casa-nueva-en-venta-fusagasuga'|relative_url}} "Casa en venta Mirador de la Colina"){:target="_blank" class="boton boton1"}
 
 La vista panorámica que ofrece el Mirador de la Colina Fusagasugá es simplemente espectacular. Desde lo alto, se pueden contemplar las montañas que rodean la ciudad, los valles verdes y hasta el imponente cerro Pan de Azúcar. Sin duda, es un lugar ideal para tomar fotografías y capturar recuerdos inolvidables.
 
@@ -57,7 +57,7 @@ Existen diferentes opciones de transporte para llegar al Mirador de la Colina Fu
 
 Las coordenadas GPS para llegar al mirador son:  **4.3305042° N, 74.3663051° W.**  También se puede utilizar el siguiente punto de referencia:  **cruce de la calle 18A con carrera 4A, Fusagasugá, Cundinamarca, Colombia.**
 
-[Ubicación en Google Map](https://maps.app.goo.gl/QafqEKL7TkncZM27A "Cojunto Mirador de las Colinas en Google Maps"){:rel="nofollow noopener noreferrer" target="_blank" class="btn-get-started"}
+[Ubicación en Google Map](https://maps.app.goo.gl/QafqEKL7TkncZM27A "Conjunto Mirador de las Colinas en Google Maps"){:rel="nofollow noopener noreferrer" target="_blank" class="boton boton1"}
 
 En cuanto al estacionamiento, el mirador dispone de un área adecuada para que los visitantes puedan estacionar sus vehículos. Además, cuenta con acceso peatonal para facilitar el acceso a pie al lugar.
 

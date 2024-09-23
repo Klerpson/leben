@@ -73,4 +73,4 @@ Si prefieres la **modernidad de Cine Colombia Fusagasugá** o el **encanto tradi
 
 Así que reúne a tus amigos, elige tu película favorita y déjate llevar por la magia del cine en Fusagasugá.
 
->📢 ¡No desaproveches las **emocionantes oportunidades que Fusagasugá tiene para ti**! [Consigue tu propiedad en Fusagasugá]({{'ventas' | relative_url}} "Comprar casa Fusa")
+>📢 ¡No desaproveches las **emocionantes oportunidades que Fusagasugá tiene para ti**! [Consigue tu propiedad en Fusagasugá]({{'ventas-casas-y-apartamentos' | relative_url}} "Comprar casa Fusa")

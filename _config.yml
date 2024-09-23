@@ -34,5 +34,30 @@ collections:
     output: true
     permalink: /blog/:slug
 
+# Asegúrate de que tienes esta línea para habilitar los plugins en GitHub Pages
 plugins:
   - jekyll-redirect-from
+
+# Configuración opcional para personalizar el comportamiento del plugin
+redirect_from:
+  # Habilita la generación de redirecciones alternativas (no es necesario en la mayoría de los casos)
+  # enabled: true
+
+  # Ignora las redirecciones especificadas (útil si tienes conflictos)
+  # ignore:
+  #   - /ignorar-esta-redireccion
+
+whitelist:
+  - jekyll-redirect-from
+
+github: [metadata]
+
+# Excluir archivos y carpetas
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -14,7 +14,7 @@ instagram: https://instagram.com/sebastianrincon
 ---
 Pagar el impuesto predial de [casas en Fusagasugá](/), Cundinamarca, Colombia, puede hacerse fácilmente a través de métodos en línea o en persona.
 
-Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas'|relative_url}} "Venta de Casas Fusa") debes seguir estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
+Por eso, cuando vas a [comprar casa en Fusagasugá]({{'ventas-casas-y-apartamentos'|relative_url}} "Venta de Casas Fusa") debes seguir estos sencillos pasos para garantizar el pago puntual de este importante impuesto para su propiedad.
 
 -----
 
