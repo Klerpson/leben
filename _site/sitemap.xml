@@ -11,7 +11,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo-casas-y-apartamentos</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -27,7 +27,7 @@
     
       <url>
         <loc>http://localhost:4000/consigna-tu-propiedad</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -40,7 +40,7 @@
     
       <url>
         <loc>http://localhost:4000/contacto</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -56,7 +56,7 @@
     
       <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -78,7 +78,7 @@
     
       <url>
         <loc>http://localhost:4000/nosotros</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -91,7 +91,7 @@
     
       <url>
         <loc>http://localhost:4000/preguntas-frecuentes</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -113,7 +113,7 @@
     
       <url>
         <loc>http://localhost:4000/servicios</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -126,7 +126,7 @@
     
       <url>
         <loc>http://localhost:4000/simulador-gastos-notariales-colombia</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -145,7 +145,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas-casas-y-apartamentos</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -161,7 +161,7 @@
     
       <url>
         <loc>http://localhost:4000/template</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -174,7 +174,7 @@
     
       <url>
         <loc>http://localhost:4000/arriendo</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -187,7 +187,7 @@
     
       <url>
         <loc>http://localhost:4000/ventas</loc>
-        <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+        <lastmod>2024-09-23T15:16:12-05:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
         
@@ -204,7 +204,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-bonet-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -219,7 +219,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-cambulos-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -234,7 +234,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-cerca-centro-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -249,7 +249,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-en-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -264,7 +264,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-fusacatan-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -279,7 +279,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/apartamento-zona-sur-fernando-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -294,7 +294,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-3-pisos-indio-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -309,7 +309,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-balmoral-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -324,7 +324,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-bonet-3-pisos-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -339,7 +339,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-bonet-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -354,7 +354,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-campestre-moniquira</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -369,7 +369,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-centro-comercial-avenida-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -384,7 +384,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-colonial-terminal-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -399,7 +399,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-conjunto-sector-indio-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -414,7 +414,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-en-barrio-balmoral-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -429,7 +429,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-en-la-palma-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -444,7 +444,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-lote-taller-en-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -459,7 +459,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-negocio-oportunidad-vergel-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -474,7 +474,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-norte-centro-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -489,7 +489,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-nueva-en-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -504,7 +504,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-plano-indio-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -519,7 +519,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-plano-manila-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -534,7 +534,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-quinta-yayata-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -549,7 +549,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-rural-novillero-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -564,7 +564,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-batallon-480-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -579,7 +579,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-batallon-580</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -594,7 +594,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-batallon-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -609,7 +609,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-batallon</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -624,7 +624,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-indio-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -639,7 +639,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-plano-fusacatan-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -654,7 +654,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-sector-robles-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -669,7 +669,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-seminueva-palmar-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -684,7 +684,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-tierragrata-fusa</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -699,7 +699,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-venta-sector-indio-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -714,7 +714,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/casa-zona-plana-vergel</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -729,7 +729,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/finca-chinauta-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -744,7 +744,7 @@
   
     <url>
       <loc>http://localhost:4000/ventas-casas-y-apartamentos/finca-cultivo-tierra-castro</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
@@ -761,7 +761,7 @@
   
     <url>
       <loc>http://localhost:4000/arriendo-casas-y-apartamentos/casa-sector-indio-fusagasuga</loc>
-      <lastmod>2024-09-23T15:13:16-05:00</lastmod>
+      <lastmod>2024-09-23T15:16:12-05:00</lastmod>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
       
